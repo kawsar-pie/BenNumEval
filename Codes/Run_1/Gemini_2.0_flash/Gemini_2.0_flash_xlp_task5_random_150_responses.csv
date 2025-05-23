@@ -1,0 +1,2026 @@
+Q No.,Premise,Hypothesis,Answer,Model Response
+418,"ভিক্টরের আছে ১৫ কাপ যদি ময়দা, ১৬ কাপ চিনি এবং ৮ কাপ দুধ","ভিক্টরের আছে ৭৫ কাপ যদি ময়দা, ১৬ কাপ চিনি এবং ৮ কাপ দুধ",contradiction,"Here's my analysis of the QNLI problem:
+
+1.  **Translation:**
+    *   **Premise (Bengali):** ভিক্টরের আছে ১৫ কাপ যদি ময়দা, ১৬ কাপ চিনি এবং ৮ কাপ দুধ
+    *   **Premise (English):** Victor has 15 cups of flour, 16 cups of sugar, and 8 cups of milk.
+    *   **Hypothesis (Bengali):** ভিক্টরের আছে ৭৫ কাপ যদি ময়দা, ১৬ কাপ চিনি এবং ৮ কাপ দুধ
+    *   **Hypothesis (English):** Victor has 75 cups of flour, 16 cups of sugar, and 8 cups of milk.
+
+2.  **Analysis:**
+
+The hypothesis states that Victor has 75 cups of flour, while the premise states that he has 15 cups of flour. The amounts of sugar and milk remain the same in both statements. Since the quantity of flour is different in premise and hypothesis, the hypothesis cannot be directly inferred from the premise. Furthermore, they cannot be both true. Thus, they contradict each other.
+
+**Answer: Contradiction**"
+76,"শ্রীনিবাস সপ্তাহের প্রথম দিনে ৪-এর বেশি একটি কয়েন, সপ্তাহের দ্বিতীয় দিনে ৫-এর তিনটি কয়েন সংরক্ষণ করেন। তৃতীয় দিনে ৫ এর পাঁচটি মুদ্রা ইত্যাদি","শ্রীনিবাস প্রথম দিনে ৫ টাকার একটি কয়েন সংরক্ষণ করেন
+সপ্তাহ, সপ্তাহের দ্বিতীয় দিনে ৫ এর তিনটি কয়েন।
+তৃতীয় দিনে ৫ এর পাঁচটি মুদ্রা ইত্যাদি",neutral,"**Translation:**
+
+*   **Premise (Bengali):** শ্রীনিবাস সপ্তাহের প্রথম দিনে ৪-এর বেশি একটি কয়েন, সপ্তাহের দ্বিতীয় দিনে ৫-এর তিনটি কয়েন সংরক্ষণ করেন। তৃতীয় দিনে ৫ এর পাঁচটি মুদ্রা ইত্যাদি
+*   **Premise (English):** Srinivas saves more than 4 coins on the first day of the week, three 5 coins on the second day of the week, five 5 coins on the third day, and so on.
+*   **Hypothesis (Bengali):** শ্রীনিবাস প্রথম দিনে ৫ টাকার একটি কয়েন সংরক্ষণ করেন, সপ্তাহের দ্বিতীয় দিনে ৫ এর তিনটি কয়েন। তৃতীয় দিনে ৫ এর পাঁচটি মুদ্রা ইত্যাদি
+*   **Hypothesis (English):** Srinivas saves one 5 Taka coin on the first day, three 5 Taka coins on the second day of the week, five 5 Taka coins on the third day, and so on.
+
+**Analysis:**
+
+The premise states that Srinivas saves *more than 4 coins* on the first day. The hypothesis states that Srinivas saves *one 5 Taka coin* (implying that the coins are of 5 Taka, which is irrelevant to the natural language inference). The hypothesis being that Srinivas saves ONE coin, directly contradicts the premise's ""more than 4"".
+
+**Answer: Contradiction**"
+177,অ্যালবার্ট ব্রায়ান এবং চার্লির কাছ থেকে মোট $৬০০০ ধার করেছিলেন,অ্যালবার্ট ব্রায়ান এবং চার্লির কাছ থেকে মোট $৮০০০ ধার করেছিলেন,contradiction,"1. **Translation:**
+   *   Premise (Bengali): অ্যালবার্ট ব্রায়ান এবং চার্লির কাছ থেকে মোট $৬০০০ ধার করেছিলেন
+   *   Premise (English): Albert borrowed a total of $6000 from Brian and Charlie.
+   *   Hypothesis (Bengali): অ্যালবার্ট ব্রায়ান এবং চার্লির কাছ থেকে মোট $৮০০০ ধার করেছিলেন
+   *   Hypothesis (English): Albert borrowed a total of $8000 from Brian and Charlie.
+
+2.  **Reasoning:**
+    The premise states that Albert borrowed $6000 from Brian and Charlie. The Hypothesis states that Albert borrowed $8000 from Brian and Charlie. These statements contradict each other because the amounts are different.
+
+**Answer: Contradiction**"
+31,লিটল টেক্সাস ড্রিলিং কোম্পানির ১০০ ব্যারেল তেল উৎপাদন করতে কত ঘন্টা সময় লাগে?,৭০০ ব্যারেল তেল উৎপাদন করতে লিটল টেক্সাস ড্রিলিং কোম্পানির কত ঘন্টা সময় লাগে?,contradiction,"Here's the breakdown of the problem and the solution:
+
+1. **Translation:**
+   * **Premise (Bengali):** লিটল টেক্সাস ড্রিলিং কোম্পানির ১০০ ব্যারেল তেল উৎপাদন করতে কত ঘন্টা সময় লাগে?
+   * **Premise (English):** How many hours does it take Little Texas Drilling Company to produce 100 barrels of oil?
+   * **Hypothesis (Bengali):** ৭০০ ব্যারেল তেল উৎপাদন করতে লিটল টেক্সাস ড্রিলিং কোম্পানির কত ঘন্টা সময় লাগে?
+   * **Hypothesis (English):** How many hours does it take Little Texas Drilling Company to produce 700 barrels of oil?
+
+2. **Analysis:**
+
+The premise asks about the time it takes to produce 100 barrels of oil, while the hypothesis asks about the time it takes to produce 700 barrels of oil.  Without additional information (like the rate of production), we cannot definitively say the hypothesis is entailed or contradicted by the premise. The time required to produce 700 barrels could be related to the time to produce 100 barrels (e.g., 7 times as long if the rate is constant), or it completely unrelated.
+
+3. **Conclusion:**
+
+Answer: Neutral"
+358,"জেক, পল এবং হরি একসাথে ৮ দিনে কূপ খনন করে","জেক, পল এবং হরি একসাথে ৭ দিনেরও বেশি সময় ধরে কূপটি খনন করে",Entailment,"Here's the breakdown of the problem and the solution:
+
+1.  **Translation:**
+    *   Premise (Bengali): জেক, পল এবং হরি একসাথে ৮ দিনে কূপ খনন করে
+    *   Premise (English): Jake, Paul, and Harry dig a well together in 8 days.
+    *   Hypothesis (Bengali): জেক, পল এবং হরি একসাথে ৭ দিনেরও বেশি সময় ধরে কূপটি খনন করে
+    *   Hypothesis (English): Jake, Paul, and Harry dig the well together for more than 7 days.
+
+2.  **Analysis:**
+
+The premise states that it takes them exactly 8 days. The hypothesis states that it took them more than 7 days. Since 8 is more than 7, the hypothesis is logically entailed by the premise.
+
+**Answer: Entailment**"
+348,রিতা ৬ দিনেরও কম সময়ে একজোড়া মোজা বুনতে পারে,রিতা ৩ দিনে এক জোড়া মোজা বুনতে পারে,neutral,"1. **Translation:**
+*   Premise (Bengali): রিতা ৬ দিনেরও কম সময়ে একজোড়া মোজা বুনতে পারে
+*   Premise (English): Rita can knit a pair of socks in less than 6 days.
+*   Hypothesis (Bengali): রিতা ৩ দিনে এক জোড়া মোজা বুনতে পারে
+*   Hypothesis (English): Rita can knit a pair of socks in 3 days.
+
+2. **Relation:**
+If Rita can knit a pair of socks in less than 6 days, it is possible she can knit them in 3 days.
+
+Answer: Entailment"
+155,"তৃতীয় স্থানে থাকা ভ্যালেন্সিয়া স্পোর্টিং গিজনের সাথে ১-১ গোলে ড্র করার পর মাঠ হারিয়েছে, দ্বিতীয়ার্ধে জুয়ান মাতার কাছ থেকে একটি সমতা প্রয়োজন।",তৃতীয় স্থানে থাকা ভ্যালেন্সিয়া স্পোর্টিং গিজনের কাছে ১-১ গোলে ড্র করার পর মাঠ হারিয়েছে,Entailment,"Here's my analysis:
+
+1.  **Translation:**
+
+    *   **Premise (Bengali):** তৃতীয় স্থানে থাকা ভ্যালেন্সিয়া স্পোর্টিং গিজনের সাথে ১-১ গোলে ড্র করার পর মাঠ হারিয়েছে, দ্বিতীয়ার্ধে জুয়ান মাতার কাছ থেকে একটি সমতা প্রয়োজন।
+    *   **Premise (English):** Valencia, in third place, lost ground after drawing 1-1 with Sporting Gijon, needing an equalizer from Juan Mata in the second half.
+    *   **Hypothesis (Bengali):** তৃতীয় স্থানে থাকা ভ্যালেন্সিয়া স্পোর্টিং গিজনের কাছে ১-১ গোলে ড্র করার পর মাঠ হারিয়েছে
+    *   **Hypothesis (English):** Valencia, in third place, lost ground after drawing 1-1 with Sporting Gijon.
+
+2.  **Analysis:**
+
+The hypothesis is directly supported by information present in premise: Valencia lost ground after drawing 1-1 with sporting Gijon.
+
+Answer: Entailment"
+154,স্যালির ব্যাঙ্কে ৭৬০.০ কোয়ার্টার ছিল এবং সে তার কোয়ার্টারগুলির ৪১৮.০ খরচ করেছে,তার এখন ৩৪২.০ কোয়ার্টার আছে,Entailment,"Here's the breakdown of the QNLI problem:
+
+1.  **Translation:**
+
+*   **Premise (Bengali):** স্যালির ব্যাঙ্কে ৭৬০.০ কোয়ার্টার ছিল এবং সে তার কোয়ার্টারগুলির ৪১৮.০ খরচ করেছে
+*   **Premise (English):** Sally had 760.0 quarters in the bank and she spent 418.0 of her quarters.
+*   **Hypothesis (Bengali):** তার এখন ৩৪২.০ কোয়ার্টার আছে
+*   **Hypothesis (English):** She now has 342.0 quarters.
+
+2.  **Reasoning:**
+
+To determine the relationship, we need to verify if the hypothesis logically follows from the premise. We can do this by performing the subtraction: 760.0 - 418.0 = 342.0.
+
+Since the calculation matches the hypothesis, the premise entails the hypothesis.
+
+**Answer: Entailment**"
+415,কিশোর তার মাসিক বেতনের ১০% সঞ্চয় করেছিল,কিশোর তার মাসিক বেতনের ১০% এর বেশি সঞ্চয় করেছিল,contradiction,"Here's the breakdown:
+
+1.  **Translation:**
+    *   Premise (Bengali): কিশোর তার মাসিক বেতনের ১০% সঞ্চয় করেছিল
+    *   Premise (English): Kishore saved 10% of his monthly salary.
+    *   Hypothesis (Bengali): কিশোর তার মাসিক বেতনের ১০% এর বেশি সঞ্চয় করেছিল
+    *   Hypothesis (English): Kishore saved more than 10% of his monthly salary.
+
+2.  **Analysis:**
+
+The premise clearly states that Kishore saved exactly 10% of his salary. The hypothesis claims he saved *more* than 10%. These statements cannot both be true.
+
+**Answer: Contradiction**"
+158,তিনি এটিতে ২০ দিন কাজ করেন এবং তারপর রাজেশ ৩০ দিনের মধ্যে এটি শেষ করেন,তিনি এটিতে ২০ দিনেরও বেশি সময় ধরে কাজ করেন এবং তারপর রাজেশ ৩০ দিনের মধ্যে এটি শেষ করেন,contradiction,"1. **Translation:**
+    *   **Premise (English):** He works on it for 20 days, and then Rajesh finishes it in 30 days.
+    *   **Hypothesis (English):** He works on it for more than 20 days, and then Rajesh finishes it in 30 days.
+
+2. **Conclusion:**
+
+The premise states ""He works on it for 20 days"". The hypothesis claims ""He works on it for *more than* 20 days."" Since ""more than 20"" contradicts the premise of precisely ""20,"" the relationship is not Entailment or Neutral.
+
+Answer: Contradiction"
+408,এটি মোহনের পুরানো মার্সিডিজের চেয়ে ১ গুণ বেশি গতিতে যেতে পারে,এটি মোহনের পুরানো মার্সিডিজের চেয়ে ৪ গুণ গতিতে যেতে পারে,neutral,"1. **Translation:**
+   *   **Premise (Bengali):** এটি মোহনের পুরানো মার্সিডিজের চেয়ে ১ গুণ বেশি গতিতে যেতে পারে
+   *   **Premise (English):** It can go 1 times faster than Mohan's old Mercedes.
+   *   **Hypothesis (Bengali):** এটি মোহনের পুরানো মার্সিডিজের চেয়ে ৪ গুণ গতিতে যেতে পারে
+   *   **Hypothesis (English):** It can go 4 times faster than Mohan's old Mercedes.
+
+2.  **Explanation:**
+The premise states it can go 1 times faster, while the hypothesis states it can go 4 times faster. The 4 times faster claim (hypothesis) is not directly supported by the premise (1 times faster), and it's also not directly contradictory. It's plausible that the hypothesis is true, but the premise doesn't explicitly confirm or deny it.
+
+**Answer: Neutral**"
+71,স্যালির ৯.০টি কমলা বেলুন এবং ৪.০টি নীল বেলুন রয়েছে এবং তিনি আরও ২.০টি কমলা বেলুন খুঁজে পেয়েছেন,স্যালি এখন ১৩.০ কমলা বেলুন আছে,contradiction,"Here's the breakdown:
+
+1. **Translation:**
+
+*   **Premise (Bengali):** স্যালির ৯.০টি কমলা বেলুন এবং ৪.০টি নীল বেলুন রয়েছে এবং তিনি আরও ২.০টি কমলা বেলুন খুঁজে পেয়েছেন
+*   **Premise (English):** Sally has 9.0 orange balloons and 4.0 blue balloons, and she found 2.0 more orange balloons.
+*   **Hypothesis (Bengali):** স্যালি এখন ১৩.০ কমলা বেলুন আছে
+*   **Hypothesis (English):** Sally now has 13.0 orange balloons.
+
+2.  **Reasoning:**
+
+Sally initially had 9.0 orange balloons and found 2.0 more. Therefore, she would have 9.0 + 2.0 = 11.0 orange balloons. The hypothesis states she has 13.0 orange balloons, which contradicts the information given in the premise after processing the provided numbers.
+
+Sally actually has 11 orange balloons, not 13.
+
+**Answer: Contradiction**"
+196,"হেলসিঙ্কির কাছে একটি ব্যস্ত শপিং সেন্টারে বিস্ফোরণে নিহত সাতজনের মধ্যে একজন এই হামলা চালিয়েছে বলে সন্দেহ করা হচ্ছে, পুলিশ জানিয়েছে।",একটি বিস্ফোরণের পিছনে কিশোর বোমা হামলাকারী সাতজন নিহতদের একজন ছিল।,neutral,"Here's the breakdown:
+
+1.  **Translation:**
+
+    *   **Premise (Bengali):** হেলসিঙ্কির কাছে একটি ব্যস্ত শপিং সেন্টারে বিস্ফোরণে নিহত সাতজনের মধ্যে একজন এই হামলা চালিয়েছে বলে সন্দেহ করা হচ্ছে, পুলিশ জানিয়েছে।
+    *   **Premise (English):** Police say one of the seven people killed in the blast at a busy shopping center near Helsinki is suspected of carrying out the attack.
+    *   **Hypothesis (Bengali):** একটি বিস্ফোরণের পিছনে কিশোর বোমা হামলাকারী সাতজন নিহতদের একজন ছিল।
+    *   **Hypothesis (English):** A teenage bomber behind an explosion was one of the seven dead.
+
+2.  **Analysis:**
+
+    The premise states that police suspect one of the seven people killed in the explosion carried out the attack. The hypothesis claims that a teenage bomber (who was one of the seven killed) was behind the explosion. The hypothesis somewhat specifies the suspect as a 'teenage bomber', which is not specifically stated in the premise, However the link between the ""one of the seven people killed "" in the premise and ""one of the seven dead"" makes the hypothesis consistent with, and follows from, the premise.
+
+**Answer: Entailment**"
+330,"চিঠিটি -- সেনেটের সংখ্যাগরিষ্ঠ নেতা হ্যারি রিড, ডি-নেভাদাকে উদ্দেশ্য করে; সংখ্যালঘু নেতা মিচ ম্যাককনেল, আর-কেনটাকি; বিচার বিভাগীয় কমিটির চেয়ারম্যান প্যাট্রিক লেহি, ডি-ভারমন্ট; এবং আলাবামা সেন জেফ সেশনস, সেনেট জুডিশিয়ারি কমিটিতে র‌্যাঙ্কিং রিপাবলিকান -- তার ৪৯ জন প্রাক্তন আইন ক্লার্কের মধ্যে ৪৫ জন স্বাক্ষর করেছিলেন।",সুপ্রিম কোর্টের মনোনীত ৪৯ জন প্রাক্তন আইন ক্লার্কের মধ্যে ৪৫ জন দ্বারা স্বাক্ষরিত অনুমোদন৷,neutral,"Here's the breakdown of the QNLI problem:
+
+1.  **Translation:**
+
+*   **Premise (Bengali):** চিঠিটি -- সেনেটের সংখ্যাগরিষ্ঠ নেতা হ্যারি রিড, ডি-নেভাদাকে উদ্দেশ্য করে; সংখ্যালঘু নেতা মিচ ম্যাককনেল, আর-কেনটাকি; বিচার বিভাগীয় কমিটির চেয়ারম্যান প্যাট্রিক লেহি, ডি-ভারমন্ট; এবং আলাবামা সেন জেফ সেশনস, সেনেট জুডিশিয়ারি কমিটিতে র‌্যাঙ্কিং রিপাবলিকান -- তার ৪৯ জন প্রাক্তন আইন ক্লার্কের মধ্যে ৪৫ জন স্বাক্ষর করেছিলেন।
+*   **Premise (English):** The letter -- addressed to Senate Majority Leader Harry Reid, D-Nevada; Minority Leader Mitch McConnell, R-Kentucky; Judiciary Committee Chairman Patrick Leahy, D-Vermont; and Alabama Sen. Jeff Sessions, ranking Republican on the Senate Judiciary Committee -- was signed by 45 of his 49 former law clerks.
+*   **Hypothesis (Bengali):** সুপ্রিম কোর্টের মনোনীত ৪৯ জন প্রাক্তন আইন ক্লার্কের মধ্যে ৪৫ জন দ্বারা স্বাক্ষরিত অনুমোদন৷
+*   **Hypothesis (English):** An endorsement signed by 45 of 49 former law clerks of the Supreme Court nominee.
+
+2.  **Analysis:**
+
+The premise states that a letter was signed by 45 of 49 former law clerks. The hypothesis suggests an endorsement signed by 45 of 49 former law clerks **of the Supreme Court nominee.** The premise does not explicitly state this letter is about a Supreme Court nominee. However, The premise tells us who the letter addressed to and by whom, the premise allows us to infer that the letter is in fact related to them. The letter signed by 45 of 49 former law clerks related to the senate leaders is the endorsement described. Therefore the hypothesis follows from the context of the premise.
+
+**Answer: Entailment**"
+40,একটি জুতার দোকানে অ্যাডিডাসের জুতা প্রতিটি $৬০ এবং পুমা জুতা $৫০ প্রতিটিতে বিক্রি করে,একটি জুতার দোকানে অ্যাডিডাস জুতা প্রতিটি $১০ এবং পুমা জুতা $৫০ প্রতিটিতে বিক্রি করে,contradiction,"Here's the breakdown:
+
+1. **Translation:**
+
+*   **Premise (Bengali):** একটি জুতার দোকানে অ্যাডিডাসের জুতা প্রতিটি $৬০ এবং পুমা জুতা $৫০ প্রতিটিতে বিক্রি করে
+*   **Premise (English):** A shoe store sells Adidas shoes for $60 each and Puma shoes for $50 each.
+
+*   **Hypothesis (Bengali):** একটি জুতার দোকানে অ্যাডিডাস জুতা প্রতিটি $১০ এবং পুমা জুতা $৫০ প্রতিটিতে বিক্রি করে
+*   **Hypothesis (English):** A shoe store sells Adidas shoes for $10 each and Puma shoes for $50 each.
+
+2. **Reasoning:**
+
+The premise states Adidas shoes are $60 and Puma $50. The hypothesis states Adidas shoes are $10 and Puma $50. The price of Adidas shoes is different in both statements. Therefore, they are contradicting each other.
+
+**Answer: Contradiction**"
+142,"বিবৃতিতে বলা হয়েছে, এক্সপ্লোরার অফ দ্য সিজের ৩,০৫০ জন যাত্রীর মধ্যে ২৮১ জন এবং ১,১৬৫ জন ক্রু সদস্যের মধ্যে ২২ জন বমি ও ডায়রিয়ায় আক্রান্ত হয়েছেন।",এক্সপ্লোরার অফ সিস-এ ২৮১ যাত্রী এবং ২২ জন ক্রু গ্যাস্ট্রোইনটেস্টাইনাল সমস্যার রিপোর্ট করেন,Entailment,"Here's my analysis:
+
+1.  **Translation:**
+
+    *   **Premise (Bengali):** বিবৃতিতে বলা হয়েছে, এক্সপ্লোরার অফ দ্য সিজের ৩,০৫০ জন যাত্রীর মধ্যে ২৮১ জন এবং ১,১৬৫ জন ক্রু সদস্যের মধ্যে ২২ জন বমি ও ডায়রিয়ায় আক্রান্ত হয়েছেন।
+    *   **Premise (English):** The statement says that out of the 3,050 passengers on Explorer of the Seas, 281 and out of the 1,165 crew members, 22 were affected by vomiting and diarrhea.
+    *   **Hypothesis (Bengali):** এক্সপ্লোরার অফ সিস-এ ২৮১ যাত্রী এবং ২২ জন ক্রু গ্যাস্ট্রোইনটেস্টাইনাল সমস্যার রিপোর্ট করেন
+    *   **Hypothesis (English):** 281 passengers and 22 crew members on Explorer of Seas reported gastrointestinal problems.
+
+2.  **Analysis:**
+
+    The premise states that 281 passengers and 22 crew members suffered from vomiting and diarrhea. Vomiting and diarrhea are symptoms of gastrointestinal problems. The hypothesis states that these same numbers of passengers and crew reported gastrointestinal problems. Thus, the hypothesis is directly supported or entailed by the premise.
+
+**Answer: Entailment**"
+269,"মার্টিন ২০টিরও কম কনসার্টের টিকিট কিনেছেন, কিছু প্রতি টিকিটের সম্পূর্ণ মূল্যে $২.০০, এবং কিছু প্রতি টিকিটে $১.৬০ মূল্য ছাড়ে","মার্টিন ১০টি কনসার্টের টিকিট কিনেছেন, কিছু টিকিট প্রতি $২.০০ এর সম্পূর্ণ মূল্যে, এবং কিছু প্রতি টিকিটে $১.৬০ মূল্যে ছাড় দিয়েছেন।",neutral,"Here's the breakdown:
+
+1. **Translation:**
+
+*   **Premise (Bengali):** মার্টিন ২০টিরও কম কনসার্টের টিকিট কিনেছেন, কিছু প্রতি টিকিটের সম্পূর্ণ মূল্যে $২.০০, এবং কিছু প্রতি টিকিটে $১.৬০ মূল্য ছাড়ে
+*   **Premise (English):** Martin bought less than 20 concert tickets, some at the full price of $2.00 per ticket, and some at a discounted price of $1.60 per ticket.
+
+*   **Hypothesis (Bengali):** মার্টিন ১০টি কনসার্টের টিকিট কিনেছেন, কিছু টিকিট প্রতি $২.০০ এর সম্পূর্ণ মূল্যে, এবং কিছু প্রতি টিকিটে $১.৬০ মূল্যে ছাড় দিয়েছেন।
+*   **Hypothesis (English):** Martin bought 10 concert tickets, some at the full price of $2.00 per ticket, and some at a discounted price of $1.60 per ticket.
+
+2. **Analysis:**
+
+The premise states that Martin bought *less than* 20 tickets with a mix of full price and discounted tickets. The hypothesis states that Martin bought *exactly* 10 tickets with the same price structure. Since 10 is less than 20, the scenario described in the hypothesis is a possible scenario described in the Premise.
+
+3. **Conclusion:**
+
+Answer: Entailment"
+73,"অভিযুক্তদের মধ্যে এমএস-১৩-এর ১৫৮ জন সদস্য এবং সহযোগী রয়েছে, অন্য ১০৫ জন অন্য গ্যাংয়ের সাথে জড়িত বলে অভিযোগ রয়েছে।","গ্যাং সুইপ কুখ্যাত এমএস-১৩ গ্যাং এর ১৫৮ সদস্য ও সহযোগীদের গ্রেফতার করেছে, অন্যদের মধ্যে",Entailment,"1. **Translation:**
+   * **Premise (Bengali):** অভিযুক্তদের মধ্যে এমএস-১৩-এর ১৫৮ জন সদস্য এবং সহযোগী রয়েছে, অন্য ১০৫ জন অন্য গ্যাংয়ের সাথে জড়িত বলে অভিযোগ রয়েছে।
+   * **Premise (English):** Among the accused, there are 158 members and associates of MS-13, while another 105 are alleged to be involved with other gangs.
+   * **Hypothesis (Bengali):** গ্যাং সুইপ কুখ্যাত এমএস-১৩ গ্যাং এর ১৫৮ সদস্য ও সহযোগীদের গ্রেফতার করেছে, অন্যদের মধ্যে
+   * **Hypothesis (English):** The gang sweep arrested 158 members and associates of the notorious MS-13 gang, among others.
+
+2. **Analysis:**
+The premise states that 158 members and associates of MS-13 are among the accused. The hypothesis states that a gang sweep arrested 158 members and associates of MS-13. The hypothesis aligns with the premise; the premise implies a group including 158 MS-13 members, and the hypothesis states that they were arrested in a ""gang sweep"". The ""others"" mentioned in the Hypotheses could correspond to the 105 from the premise. Thus, the Hypothesis can be inferred from the premise.
+
+**Answer: Entailment**"
+10,দশ বছর আগে কুণাল ও সাগরের বয়সের অনুপাত ছিল ১২:৮,পাঁচ বছর আগে সাগর ও কুণালের  বয়সের অনুপাত ছিল ৩:২,contradiction,"Here's my analysis:
+
+1.  **Translation:**
+
+*   **Premise (Bengali):** দশ বছর আগে কুণাল ও সাগরের বয়সের অনুপাত ছিল ১২:৮
+*   **Premise (English):** Ten years ago, the ratio of Kunal's age to Sagar's age was 12:8.
+
+*   **Hypothesis (Bengali):** পাঁচ বছর আগে সাগর ও কুণালের  বয়সের অনুপাত ছিল ৩:২
+*   **Hypothesis (English):** Five years ago, the ratio of Sagar's age to Kunal's age was 3:2.
+
+2.  **Analysis:**
+
+Let K be Kunal's current age and S be Sagar's current age.
+From the premise, we know that 10 years ago:
+(K - 10) / (S - 10) = 12/8 = 3/2
+2(K - 10) = 3(S - 10)
+2K - 20 = 3S - 30
+2K = 3S - 10
+
+The hypothesis states that five years ago:
+(S - 5) / (K - 5) = 3/2
+2(S - 5) = 3(K - 5)
+2S - 10 = 3K - 15
+2S = 3K - 5.
+
+Substituting 2K = 3S - 10 into 2S = 3K - 5 yields :
+2S = (3/2)(3S - 10) - 5
+4S = 9S - 30 - 10
+5S = 40
+S = 8.
+
+Then, 2K = 3 * 8 - 10
+2K = 14
+K = 7.
+
+Now let us check the condition if these current ages are possible in real. First assumption is about 10 years ago:
+(K - 10) / (S - 10) = (7-10) / (8-10) = -3/-2 = 3/2. This aligns with the premise: 12/8 = 3/2
+
+Hypothesis checks five years ago:"
+276,জ্যাক প্রতি সেকেন্ডে ৮ ফুটের কম গতিতে ক্রিস্টিনার দিকে একটি সরল রেখায় হাঁটেন এবং ক্রিস্টিনা প্রতি সেকেন্ডে ৮ ফুট গতিতে জ্যাকের দিকে একটি সরল রেখায় হাঁটেন,জ্যাক ক্রিস্টিনার দিকে একটি সরল রেখায় ৭ ফুট প্রতি সেকেন্ডে ধ্রুবক গতিতে হাঁটেন এবং ক্রিস্টিনা প্রতি সেকেন্ডে ৮ ফুট গতিতে জ্যাকের দিকে একটি সরল রেখায় হাঁটেন,neutral,"Here's my analysis:
+
+1.  **Translation:**
+
+*   **Premise (Bengali):** জ্যাক প্রতি সেকেন্ডে ৮ ফুটের কম গতিতে ক্রিস্টিনার দিকে একটি সরল রেখায় হাঁটেন এবং ক্রিস্টিনা প্রতি সেকেন্ডে ৮ ফুট গতিতে জ্যাকের দিকে একটি সরল রেখায় হাঁটেন
+*   **Premise (English):** Jack walks towards Christina in a straight line at a speed less than 8 feet per second, and Christina walks towards Jack in a straight line at a speed of 8 feet per second.
+*   **Hypothesis (Bengali):** জ্যাক ক্রিস্টিনার দিকে একটি সরল রেখায় ৭ ফুট প্রতি সেকেন্ডে ধ্রুবক গতিতে হাঁটেন এবং ক্রিস্টিনা প্রতি সেকেন্ডে ৮ ফুট গতিতে জ্যাকের দিকে একটি সরল রেখায় হাঁটেন
+*   **Hypothesis (English):** Jack walks towards Christina in a straight line at a constant speed of 7 feet per second, and Christina walks towards Jack in a straight line at a speed of 8 feet per second.
+
+2.  **Analysis:**
+
+The premise states that Jack's speed is *less than* 8 feet per second. The hypothesis states that Jack's speed is 7 feet per second. Since 7 feet per second is less than 8 feet per second, the hypothesis is consistent with the premise. If Jack walks to Christina at 7 feet per second every second then it also means he walks to Christiana at a speed less than 8 feet per second.
+
+Answer: Entailment"
+282,"গত বছর ক্লাবের ১২ জন সদস্য ইংল্যান্ড এবং ফ্রান্স উভয় দেশে ভ্রমণ করেছিলেন, ৬ সদস্য ইংল্যান্ড এবং ইতালি উভয় দেশে ভ্রমণ করেছিলেন এবং ০ সদস্য ফ্রান্স এবং ইতালি উভয় দেশে ভ্রমণ করেছিলেন","গত বছর ক্লাবের ১২ জনেরও কম সদস্য ইংল্যান্ড এবং ফ্রান্স উভয় দেশে ভ্রমণ করেছিলেন, ৬ সদস্য ইংল্যান্ড এবং ইতালি উভয়ই ভ্রমণ করেছিলেন এবং ০ সদস্য ফ্রান্স এবং ইতালি উভয়ই ভ্রমণ করেছিলেন",contradiction,"Here's the breakdown of the QNLI problem:
+
+1. **Translation:**
+
+*   **Premise (Bengali):** গত বছর ক্লাবের ১২ জন সদস্য ইংল্যান্ড এবং ফ্রান্স উভয় দেশে ভ্রমণ করেছিলেন, ৬ সদস্য ইংল্যান্ড এবং ইতালি উভয় দেশে ভ্রমণ করেছিলেন এবং ০ সদস্য ফ্রান্স এবং ইতালি উভয় দেশে ভ্রমণ করেছিলেন
+*   **Premise (English):** Last year, 12 members of the club traveled to both England and France, 6 members traveled to both England and Italy, and 0 members traveled to both France and Italy.
+
+*   **Hypothesis (Bengali):** গত বছর ক্লাবের ১২ জনেরও কম সদস্য ইংল্যান্ড এবং ফ্রান্স উভয় দেশে ভ্রমণ করেছিলেন, ৬ সদস্য ইংল্যান্ড এবং ইতালি উভয়ই ভ্রমণ করেছিলেন এবং ০ সদস্য ফ্রান্স এবং ইতালি উভয়ই ভ্রমণ করেছিলেন
+*   **Hypothesis (English):** Last year, less than 12 members of the club traveled to both England and France, 6 members traveled to both England and Italy, and 0 members traveled to both France and Italy.
+
+2.  **Analysis:**
+
+The premise states that *exactly* 12 members traveled to both England and France. The hypothesis claims that *less than* 12 members traveled to both England and France. This directly contradicts the premise. The parts of the hypothesis, that mention the number of members who traveled to both England and Italy and both France and Italy, do not have any significant role in determining the relation between the premise and the hypothesis.
+
+**Answer: Contradiction**"
+256,"দ্বিতীয়, মেরি ক্রিস্টিন চ্যাপা, ১৮, মাথায় গুলির আঘাতে স্থানীয় হাসপাতালে গুরুতর অবস্থায় ছিলেন।","একজন নিহত হয়েছেন, অপরজনের অবস্থা আশঙ্কাজনক",neutral,"1. **Translation:**
+
+*   **Premise (Bengali):** দ্বিতীয়, মেরি ক্রিস্টিন চ্যাপা, ১৮, মাথায় গুলির আঘাতে স্থানীয় হাসপাতালে গুরুতর অবস্থায় ছিলেন।
+*   **Premise (English):** Second, Mary Christine Chappa, 18, was in critical condition at a local hospital with a gunshot wound to the head.
+*   **Hypothesis (Bengali):** একজন নিহত হয়েছেন, অপরজনের অবস্থা আশঙ্কাজনক
+*   **Hypothesis (English):** One person has been killed, and the other is in critical condition.
+
+2. **Analysis:**
+
+The premise states Mary Christine Chappa is in critical condition at a hospital due to a gunshot wound to the head. The hypothesis states someone is dead, and another person is critically injured. Without knowing if Mary is the critically injured or dead person , we can't determine if it's an entailment or contradiction.
+
+3. **Conclusion:**
+Answer: Neutral"
+185,মেরি অ্যালবার্টের চেয়ে ৮ বছরের ছোট,মেরি অ্যালবার্টের চেয়ে ১ বছরেরও বেশি ছোট,Entailment,"Here's the breakdown and solution:
+
+1.  **Translation:**
+
+    *   Premise (Bengali): মেরি অ্যালবার্টের চেয়ে ৮ বছরের ছোট
+    *   Premise (English): Mary is 8 years younger than Albert.
+    *   Hypothesis (Bengali): মেরি অ্যালবার্টের চেয়ে ১ বছরেরও বেশি ছোট
+    *   Hypothesis (English): Mary is more than 1 year younger than Albert.
+
+2.  **Analysis:**
+
+    If Mary is 8 years younger than Albert, it's definitively true that she is more than 1 year younger than Albert. The premise guarantees the hypothesis.
+
+3.  **Conclusion:**
+
+Answer: Entailment"
+56,দুই কোরিয়ার মধ্যে উত্তেজনা শুরু হওয়ার পর এই বৈঠকটি কিম ও চীনের কোনো শীর্ষ কর্মকর্তার মধ্যে প্রথম বৈঠক।,উত্তেজনার পর দুই দেশের মধ্যে এই প্রথম বৈঠক,Entailment,"Here's my analysis:
+
+1.  **Translation:**
+
+*   **Premise (Bengali):** দুই কোরিয়ার মধ্যে উত্তেজনা শুরু হওয়ার পর এই বৈঠকটি কিম ও চীনের কোনো শীর্ষ কর্মকর্তার মধ্যে প্রথম বৈঠক।
+*   **Premise (English):** This meeting is the first meeting between Kim and a top Chinese official after tensions began between the two Koreas.
+*   **Hypothesis (Bengali):** উত্তেজনার পর দুই দেশের মধ্যে এই প্রথম বৈঠক
+*   **Hypothesis (English):** This is the first meeting between the two countries after the tensions.
+
+2.  **Analysis:**
+
+The premise states that the meeting is between Kim (presumably Kim Jong-un of North Korea) and a *top Chinese official*. The hypothesis states that it's the first meeting between the *two countries*. Since Kim is representing North Korea in the premise and a top Chinese official represents China, the hypothesis is essentially a restatement of the premise. It entails that this meeting between Kim and a top Chinese official counts as the first meeting overall between both of the two countries.
+
+**Answer: Entailment**"
+141,"`` জেফারসন '' হাই স্কুলের জীববিজ্ঞান ল্যাবে ৫.৪ * ১০^৬ জীবাণু আছে, ১০,৮০০টি পেট্রি ডিশের মধ্যে সমানভাবে বিভক্ত","`` জেফারসন ' হাই স্কুলের জীববিজ্ঞান ল্যাবে ৫.৪ * ১০^৬ এর বেশি জীবাণু রয়েছে, ১০,৮০০টি পেট্রি ডিশের মধ্যে সমানভাবে বিভক্ত",contradiction,"Here's the breakdown:
+
+1.  **Translation:**
+    *   Premise (Bengali): `` জেফারসন '' হাই স্কুলের জীববিজ্ঞান ল্যাবে ৫.৪ * ১০^৬ জীবাণু আছে, ১০,৮০০টি পেট্রি ডিশের মধ্যে সমানভাবে বিভক্ত
+    *   Premise (English): Jefferson High School's biology lab has 5.4 * 10^6 germs, divided equally among 10,800 petri dishes.
+    *   Hypothesis (Bengali): `` জেফারসন ' হাই স্কুলের জীববিজ্ঞান ল্যাবে ৫.৪ * ১০^৬ এর বেশি জীবাণু রয়েছে, ১০,৮০০টি পেট্রি ডিশের মধ্যে সমানভাবে বিভক্ত
+    *   Hypothesis (English): Jefferson High School's biology lab has more than 5.4 * 10^6 germs, divided equally among 10,800 petri dishes.
+
+2.  **Analysis:**
+    The premise states the exact number of germs is 5.4 * 10^6. The hypothesis claims there are *more* than 5.4 * 10^6 germs. Therefore, if the premise is true, the hypothesis must be false.
+
+**Answer: Contradiction**"
+194,"যদি ইয়োলান্ডার হাঁটার হার ঘণ্টায় ৩ মাইল এবং ববের প্রতি ঘণ্টায় ৪ মাইল হয়, তাহলে বব কত মাইল হেঁটেছিল যখন তারা দেখা করেছিল?","যদি ইয়োলান্ডার হাঁটার হার ঘণ্টায় ৩ মাইলের কম হয় এবং ববটি প্রতি ঘন্টায় ৪ মাইল হয়, তাহলে বব কত মাইল হেঁটেছিল যখন তারা দেখা করেছিল?",contradiction,"Here's the breakdown:
+
+1. **Translation:**
+   * **Premise (Bengali):** যদি ইয়োলান্ডার হাঁটার হার ঘণ্টায় ৩ মাইল এবং ববের প্রতি ঘণ্টায় ৪ মাইল হয়, তাহলে বব কত মাইল হেঁটেছিল যখন তারা দেখা করেছিল?
+   * **Premise (English):** If Yolanda's walking rate is 3 miles per hour and Bob's is 4 miles per hour, how many miles did Bob walk when they met?
+   * **Hypothesis (Bengali):** যদি ইয়োলান্ডার হাঁটার হার ঘণ্টায় ৩ মাইলের কম হয় এবং ববটি প্রতি ঘন্টায় ৪ মাইল হয়, তাহলে বব কত মাইল হেঁটেছিল যখন তারা দেখা করেছিল?
+   * **Hypothesis (English):** If Yolanda's walking rate is less than 3 miles per hour and Bob's is 4 miles per hour, how many miles did Bob walk when they met?
+
+2. **Analysis:**
+   The premise states Yolanda walks at exactly 3 mph, while the hypothesis proposes Yolanda walks *less than* 3 mph. This change in Yolanda's speed affects the time it takes for them to meet, hence affecting the distance Bob covers when they meet.  Since the premise makes a specific claim (3mph) and the hypothesis weakens that claim (less than 3mph), it creates a situation different from, but not necessarily contradictory to, the premise.  Therefore, we cannot definitively say the hypothesis is true or false based solely on the premise.
+
+3. **Conclusion:**
+Answer: Neutral"
+146,"একদিন, রবিরাজ বাড়ি ছেড়ে ২০ কিমি দক্ষিণ দিকে সাইকেল চালান, ডান দিকে ঘুরলেন এবং ১০ কিমি সাইকেল চালান এবং ডানদিকে ঘুরলেন এবং ২০ কিমি সাইকেল চালান এবং বাম দিকে ঘুরলেন এবং ২০ কিমি সাইকেল চালান","একদিন, রবিরাজ বাড়ি ছেড়ে সাইকেল চালান ৮০ কিমি দক্ষিণ দিকে, ডানে ঘুরলেন এবং সাইকেল চালান ১০ কিমি এবং ডানে ঘুরলেন এবং ২০ কিমি সাইকেল চালান এবং বাম দিকে ঘুরলেন এবং ২০ কিমি সাইকেল চালান",contradiction,"Here's the breakdown:
+
+1.  **Translation:**
+
+*   **Premise (Bengali):** একদিন, রবিরাজ বাড়ি ছেড়ে ২০ কিমি দক্ষিণ দিকে সাইকেল চালান, ডান দিকে ঘুরলেন এবং ১০ কিমি সাইকেল চালান এবং ডানদিকে ঘুরলেন এবং ২০ কিমি সাইকেল চালান এবং বাম দিকে ঘুরলেন এবং ২০ কিমি সাইকেল চালান
+*   **Premise (English):** One day, Rabiraj cycled 20 km south from home, turned right and cycled 10 km, turned right again and cycled 20 km, and turned left and cycled 20 km.
+
+*   **Hypothesis (Bengali):** একদিন, রবিরাজ বাড়ি ছেড়ে সাইকেল চালান ৮০ কিমি দক্ষিণ দিকে, ডানে ঘুরলেন এবং সাইকেল চালান ১০ কিমি এবং ডানে ঘুরলেন এবং ২০ কিমি সাইকেল চালান এবং বাম দিকে ঘুরলেন এবং ২০ কিমি সাইকেল চালান
+*   **Hypothesis (English):** One day, Rabiraj cycled 80 km south from home, turned right and cycled 10 km, turned right again and cycled 20 km, and turned left and cycled 20 km.
+
+2.  **Analysis:**
+
+The only difference between the premise and the hypothesis is the initial distance traveled south. The premise states Rabiraj traveled 20km south initially, while the hypothesis states 80km south initially. Since this is a substantial difference in the initial condition, the hypothesis does not follow from (entail) the premise, nor are they neutral to each other. They directly contradict each other as the starting condition is different.
+
+**Answer: Contradiction**"
+385,"জিল, যিনি সিটি সি-তে থাকেন, ৫টি ভিন্ন শহর, এম, এল, এস, এন এবং ও দেখার পরিকল্পনা করেছেন","সিটি সি-তে বসবাসকারী জিল, এম, এল, এস, এন, ও ও ৬টিরও কম ভিন্ন শহর দেখার পরিকল্পনা করেছেন",Entailment,"1. **Translation:**
+
+*   **Premise (Bengali):** জিল, যিনি সিটি সি-তে থাকেন, ৫টি ভিন্ন শহর, এম, এল, এস, এন এবং ও দেখার পরিকল্পনা করেছেন
+*   **Premise (English):** Jill, who lives in City C, plans to visit 5 different cities, M, L, S, N, and O.
+
+*   **Hypothesis (Bengali):** সিটি সি-তে বসবাসকারী জিল, এম, এল, এস, এন, ও ও ৬টিরও কম ভিন্ন শহর দেখার পরিকল্পনা করেছেন
+*   **Hypothesis (English):** Jill, who lives in City C, plans to visit M, L, S, N, O and less than 6 different cities.
+
+2.  **Analysis:**
+
+The premise states Jill plans to visit 5 cities. The hypothesis states Jill plans to visit less than 6 cities (which includes 5 or less). Since the first explicitly says 5, the second statement (less than 6) holds true.
+3. **Conclusion:**
+
+Answer: Entailment"
+372,"মার্টিনকে তার ৯ম শ্রেণীর পরীক্ষায় উত্তীর্ণ হতে ৮০% নম্বর পেতে হবে।
+তিনি ২০০ নম্বর পেয়েছিলেন এবং ২০০ নম্বরে ফেল করেছিলেন।
+সর্বোচ্চ নম্বর কত?",মার্টিনকে তার ৯ম শ্রেণীর পরীক্ষায় উত্তীর্ণ হতে ১০% এর বেশি নম্বর পেতে হবে। তিনি ২০০ নম্বর পেয়েছিলেন এবং ২০০ নম্বরে ফেল করেছিলেন। সর্বোচ্চ নম্বর কত?,Entailment,"Here's the breakdown of the QNLI problem:
+
+**1. Translation:**
+
+*   **Premise (Bengali):** মার্টিনকে তার ৯ম শ্রেণীর পরীক্ষায় উত্তীর্ণ হতে ৮০% নম্বর পেতে হবে। তিনি ২০০ নম্বর পেয়েছিলেন এবং ২০০ নম্বরে ফেল করেছিলেন। সর্বোচ্চ নম্বর কত?
+*   **Premise (English):** Martin needs to score 80% to pass his 9th-grade exam. He scored 200 marks and failed by 200 marks. What is the maximum mark?
+
+*   **Hypothesis (Bengali):** মার্টিনকে তার ৯ম শ্রেণীর পরীক্ষায় উত্তীর্ণ হতে ১০% এর বেশি নম্বর পেতে হবে। তিনি ২০০ নম্বর পেয়েছিলেন এবং ২০০ নম্বরে ফেল করেছিলেন। সর্বোচ্চ নম্বর কত?
+*   **Hypothesis (English):** Martin needs to score more than 10% to pass his 9th-grade exam. He scored 200 marks and failed by 200 marks. What is the maximum mark?
+
+**2. Analysis:**
+
+The key information is that Martin scored 200 and failed by 200.  This means the passing score is 200 + 200 = 400.
+
+*   **Premise:** The passing score (400) is 80% of the maximum marks.
+*   **Hypothesis:** The passing score (400) is more than 10% of the maximum marks.
+
+Since 400 being 80% of the total marks logically implies that 400 is also more than 10% of the maximum marks, the premise entails the hypothesis.
+
+**Answer: Entailment**"
+263,"জেনারেল ডাইনামিক্স, ল্যান্ড কমব্যাট সিস্টেম, যুদ্ধজাহাজ এবং গালফস্ট্রিম বিজনেস জেট নির্মাতা, তৃতীয় প্রান্তিকে $৩৭৪m বা শেয়ার প্রতি $১.৮৪ এর নেট আয়ের কথা জানিয়েছে।",জেনারেল ডাইনামিক্স $ ৩৭৪ মিলিয়ন হারায়।,neutral,"1. **Translation:**
+   * **Premise (English):** General Dynamics, manufacturer of Land Combat Systems, warships and Gulfstream business jets, reported net earnings in the third quarter of $374m, or $1.84 per share.
+   * **Hypothesis (English):** General Dynamics lost $374 million.
+
+2. **Conclusion:** The premise states that General Dynamics *earned* $374 million, while the hypothesis states they *lost* $374 million. These statements are contradictory.
+
+Answer: Contradiction"
+127,"রেনু একটি কাজ ৮ দিনে করতে পারে, কিন্তু তার বন্ধু সুমার সাহায্যে, সে ৩ দিনে করতে পারে","রেনু একটি কাজ ৭ দিনের বেশি করতে পারে, কিন্তু তার বন্ধু সুমার সাহায্যে সে কাজটি করতে পারে ৩ দিনে।",Entailment,"Here's the breakdown:
+
+1. **Translation to English:**
+   *   **Premise:** Renu can do a piece of work in 8 days, but with the help of her friend Suma, she can do it in 3 days.
+   *   **Hypothesis:** Renu can do a piece of work in more than 7 days, but with the help of her friend Suma, she can do the work in 3 days.
+
+2. **Analysis:**
+
+The premise states Renu does the work in 8 days. The hypothesis states that Renu can do the work in more than 7 days. Since 8 days is indeed more than 7 days, and the statement about Suma remains the same, the hypothesis follows logically from the premise.
+
+**Answer: Entailment**"
+250,"এফ্রিদা এবং ফ্রেজার যারা ৫৩ মাইলেরও কম দূরত্বে বসবাস করেন, তারা একটি রেস্তোরাঁয় মিলিত হন যা এফ্রিদার বাড়ির উত্তরে এবং সরাসরি ফ্রেজারের বাড়ির পূর্বে অবস্থিত","এফ্রিদা এবং ফ্রেজার যারা ১৩ মাইল দূরে থাকেন, একটি রেস্তোরাঁয় দেখা করেন যেটি এফ্রিদার বাড়ির উত্তরে এবং ফ্রেজারের বাড়ির সরাসরি পূর্বে",neutral,"Here's the breakdown of the problem and the solution:
+
+1. **Translation:**
+
+*   **Premise (Bengali):** এফ্রিদা এবং ফ্রেজার যারা ৫৩ মাইলেরও কম দূরত্বে বসবাস করেন, তারা একটি রেস্তোরাঁয় মিলিত হন যা এফ্রিদার বাড়ির উত্তরে এবং সরাসরি ফ্রেজারের বাড়ির পূর্বে অবস্থিত
+*   **Premise (English):** Afrida and Fraser, who live less than 53 miles apart, meet at a restaurant that is north of Afrida's house and directly east of Fraser's house.
+*   **Hypothesis (Bengali):** এফ্রিদা এবং ফ্রেজার যারা ১৩ মাইল দূরে থাকেন, একটি রেস্তোরাঁয় দেখা করেন যেটি এফ্রিদার বাড়ির উত্তরে এবং ফ্রেজারের বাড়ির সরাসরি পূর্বে
+*   **Hypothesis (English):** Afrida and Fraser, who live 13 miles apart, meet at a restaurant that is north of Afrida's house and directly east of Fraser's house.
+
+2. **Analysis:**
+
+The premise states Afrida and Fraser live less than 53 miles apart and meet at a specific location relative to their homes. The hypothesis states Afrida and Fraser lives 13 miles apart (which aligns with being less than 53 miles). Both share the same restaurant location conditions. Therefore, the hypothesis is consistent with the premise.
+
+3. **Conclusion:**
+
+Answer: Entailment"
+300,"মাইক ৭.০ আপেল বাছাই করেছে, ন্যান্সি ৩.০ আপেল বাছাই করেছে, কিন্তু কিথ খামারে ৬.০ আপেল এবং ৪.০ নাশপাতি খেয়েছে।",৪.০ আপেল বাকি আছে,Entailment,"Here's the breakdown:
+
+1. **Translation:**
+
+*   **Premise (Bengali):** মাইক ৭.০ আপেল বাছাই করেছে, ন্যান্সি ৩.০ আপেল বাছাই করেছে, কিন্তু কিথ খামারে ৬.০ আপেল এবং ৪.০ নাশপাতি খেয়েছে।
+*   **Premise (English):** Mike picked 7.0 apples, Nancy picked 3.0 apples, but Keith ate 6.0 apples and 4.0 pears on the farm.
+*   **Hypothesis (Bengali):** ৪.০ আপেল বাকি আছে
+*   **Hypothesis (English):** 4.0 apples are left.
+
+2. **Analysis:**
+
+The premise states Mike picked 7 apples and Nancy picked 3 apples, so a total of 10 apples were picked. Keith ate 6 apples. Therefore, 10 - 6 = 4 apples are left. The Hypothesis aligns with the Premise meaning that it is highly possible given the facts in the premise.
+
+3. **Conclusion:**
+
+Answer: Entailment"
+94,৫ বছর পর অরুণের বয়স হবে ২৫ বছর,৭ বছর পর অরুণের বয়স হবে ২৫ বছর,contradiction,"1. **Translation:**
+*   **Premise (Bengali):** ৫ বছর পর অরুণের বয়স হবে ২৫ বছর
+*   **Premise (English):** After 5 years, Arun's age will be 25 years.
+*   **Hypothesis (Bengali):** ৭ বছর পর অরুণের বয়স হবে ২৫ বছর
+*   **Hypothesis (English):** After 7 years, Arun's age will be 25 years.
+
+2. **Reasoning:**
+If Arun will be 25 years old after 5 years, his current age is 20 years. This means that after 7 years, Arun's age will be 27, not 25. Therefore, the hypothesis contradicts the premise.
+
+Answer: Contradiction"
+421,রহিম ৫০ টাকায় বই কিনল,রহিম টাকায় ৮০টি বই কিনলেন,contradiction,"Here's the breakdown:
+
+1. **Translation:**
+   *   Premise (Bengali): রহিম ৫০ টাকায় বই কিনল
+   *   Premise (English): Rahim bought a book for 50 taka.
+   *   Hypothesis (Bengali): রহিম টাকায় ৮০টি বই কিনলেন
+   *   Hypothesis (English): Rahim bought 80 books for taka. (It's slightly grammatically awkward, but it implies Rahim bought 80 books for one taka)
+
+2.  **Analysis:**
+    The premise states Rahim bought *a* book for 50 taka. The hypothesis states Rahim bought *80* books for *one* taka. These statements are contradictory because the premise implies a higher cost per book than the hypothesis suggests.
+
+Answer: **Contradiction**"
+78,"ওভারল্যান্ড পার্ক, কানসাস (সিএনএন) -- কানসাসের দুটি ইহুদি-অনুষঙ্গিক স্থাপনায় তিনজনকে হত্যার অভিযোগে অভিযুক্ত ব্যক্তি তার বর্ণবাদী দৃষ্টিভঙ্গি গোপন করেননি, সংবাদপত্রে চিঠি লিখেছিলেন এবং তার বাড়িতে শ্বেতাঙ্গ-আধিপত্যবাদী সভায় লোকদের আমন্ত্রণ জানিয়েছিলেন, তারা বলে যারা তাকে চিনত।",ক্রসের বিরুদ্ধে দুটি ইহুদি-অনুষঙ্গিক স্থাপনায় তিনজনকে হত্যার অভিযোগ রয়েছে,neutral,"Here's the breakdown of the QNLI problem, along with the solution:
+
+1. **Translation:**
+
+*   **Premise (Bengali):** ওভারল্যান্ড পার্ক, কানসাস (সিএনএন) -- কানসাসের দুটি ইহুদি-অনুষঙ্গিক স্থাপনায় তিনজনকে হত্যার অভিযোগে অভিযুক্ত ব্যক্তি তার বর্ণবাদী দৃষ্টিভঙ্গি গোপন করেননি, সংবাদপত্রে চিঠি লিখেছিলেন এবং তার বাড়িতে শ্বেতাঙ্গ-আধিপত্যবাদী সভায় লোকদের আমন্ত্রণ জানিয়েছিলেন, তারা বলে যারা তাকে চিনত।
+*   **Premise (English):** Overland Park, Kansas (CNN) -- The man accused of killing three people at two Jewish-affiliated sites in Kansas did not hide his racist views, writing letters to newspapers and inviting people to white supremacist meetings at his home, according to those who knew him.
+*   **Hypothesis (Bengali):** ক্রসের বিরুদ্ধে দুটি ইহুদি-অনুষঙ্গিক স্থাপনায় তিনজনকে হত্যার অভিযোগ রয়েছে
+*   **Hypothesis (English):** Cross is accused of killing three people at two Jewish-affiliated sites.
+
+2. **Analysis:**
+
+The premise states that a man *accused* of killing three people at Jewish-affiliated sites held racist views and actively promoted them. The hypothesis *directly* states that ""Cross is accused of killing three people at two Jewish-affiliated sites"". The context and details surrounding the accused person's actions, as presented in the premise, confirm the accusation mentioned in the hypothesis.
+
+3. **Conclusion:**
+
+Answer: Entailment"
+342,৬ জন ছেলে ও ৪ জন মেয়ের একটি দলে ৪ জনের একটি কমিটি গঠন করতে হবে,৬ জনের কম ছেলে এবং ৪ জন মেয়ের একটি গ্রুপে ৪ জনের একটি কমিটি গঠন করতে হবে,contradiction,"1. **Translation:**
+   *   **Premise (English):** A committee of 4 members needs to be formed from a group of 6 boys and 4 girls.
+   *   **Hypothesis (English):** A committee of 4 members needs to be formed from a group of fewer than 6 boys and 4 girls.
+
+2.  **Analysis:**
+    The premise states there are 6 boys, while the hypothesis states there are fewer than 6 boys. If there are fewer than 6 boys, it cannot be the same as the premise of having 6 boys. Therefore, the hypothesis contradicts the premise.
+
+**Answer: Contradiction**"
+315,৮ বছর আগে জেসন ১২ গুণ বড় ছিল,৮ বছরেরও বেশি আগে জেসন ১২ গুণ বড় ছিল,contradiction,"1. **Translation:**
+   * **Premise (Bengali):** ৮ বছর আগে জেসন ১২ গুণ বড় ছিল
+   * **Premise (English):** 8 years ago, Jason was 12 times older.
+   * **Hypothesis (Bengali):** ৮ বছরেরও বেশি আগে জেসন ১২ গুণ বড় ছিল
+   * **Hypothesis (English):** More than 8 years ago, Jason was 12 times older.
+
+2. **Analysis:**
+   The premise states that Jason was 12 times older *exactly* 8 years ago. The hypothesis says that Jason was 12 times older *more than* 8 years ago. Since we only know the relation existed *exactly* 8 years ago, we cannot definitively conclude that it holds true for other times also.  Therefore, the hypothesis does not necessarily follow from the premise.
+   It is possible that Jason was 12 times older at a time more than 8 years ago, but the premise doesn't give us enough information to confirm this.
+
+**Answer: Neutral**"
+318,"ওলমার্টকে বিশ্বাসভঙ্গের দায়ে দোষী সাব্যস্ত করা হয়েছিল, কিন্তু দুর্নীতি-সংক্রান্ত দুটি অভিযোগ থেকে তাকে খালাস দেওয়া হয়েছিল।",তিনি বিশ্বাসভঙ্গের জন্য দোষী সাব্যস্ত হয়েছেন এবং দুটি দুর্নীতি-সংক্রান্ত অভিযোগ থেকে খালাস পেয়েছেন,Entailment,"Here's the breakdown:
+
+1. **Translation:**
+*   **Premise (Bengali):** ওলমার্টকে বিশ্বাসভঙ্গের দায়ে দোষী সাব্যস্ত করা হয়েছিল, কিন্তু দুর্নীতি-সংক্রান্ত দুটি অভিযোগ থেকে তাকে খালাস দেওয়া হয়েছিল।
+*   **Premise (English):** Olmert was convicted of breach of trust, but he was acquitted of two corruption-related charges.
+*   **Hypothesis (Bengali):** তিনি বিশ্বাসভঙ্গের জন্য দোষী সাব্যস্ত হয়েছেন এবং দুটি দুর্নীতি-সংক্রান্ত অভিযোগ থেকে খালাস পেয়েছেন
+*   **Hypothesis (English):** He was convicted of breach of trust and acquitted of two corruption-related charges.
+
+2. **Analysis:** The hypothesis directly reflects the information presented in the premise. There is no contradictory or additional information.
+
+**Answer: Entailment**"
+422,একই সময়ে জয়েস একই বিল্ডিংয়ের ৮১ তম তলায় একটি লিফটে উঠে এবং প্রতি মিনিটে ৭৮ তলায় রাইড করে,একই সময়ে জয়েস একই বিল্ডিংয়ের ৬১ তম তলায় একটি লিফটে ওঠেন এবং প্রতি মিনিটে ৭৮ তলা বেগে নেমে যান,neutral,"1. **Translation:**
+   *   **Premise (English):** At the same time, Joyce gets on an elevator on the 81st floor of the same building and rides up at a rate of 78 floors per minute.
+   *   **Hypothesis (English):** At the same time, Joyce gets on an elevator on the 61st floor of the same building and goes down at a rate of 78 floors per minute.
+
+2. **Conclusion:**
+
+The premise states Joyce starts at floor 81 and goes *up*. The hypothesis puts Joyce on floor 61 and going *down*. These two scenarios cannot both be true simultaneously. Thus they contradict each other.
+
+**Answer: Contradiction**"
+219,অ্যাডামস এর ইন্টারনেট প্রদানকারী সীমাহীন ট্রাফিক অফার করে যার খরচ প্রতিদিন $০.৫ চার্জ বন্ধ ৪২ a এর কম,অ্যাডামসের ইন্টারনেট প্রদানকারী সীমাহীন ট্র্যাফিক অফার করে যার খরচ $০.৫ প্রতি দিন চার্জ বন্ধ করে ১২ এ,neutral,"Here's my analysis:
+
+1.  **Translation:**
+
+    *   **Premise (Bengali):** অ্যাডামস এর ইন্টারনেট প্রদানকারী সীমাহীন ট্রাফিক অফার করে যার খরচ প্রতিদিন $০.৫ চার্জ বন্ধ ৪২ a এর কম
+    *   **Premise (English):** Adams's internet provider offers unlimited traffic with a daily charge of $0.5, stopping at less than 42 a.
+    *   **Hypothesis (Bengali):** অ্যাডামসের ইন্টারনেট প্রদানকারী সীমাহীন ট্র্যাফিক অফার করে যার খরচ $০.৫ প্রতি দিন চার্জ বন্ধ করে ১২ এ
+    *   **Hypothesis (English):** Adams's internet provider offers unlimited traffic with a daily charge of $0.5, stopping at 12 a.
+
+2.  **Analysis:**
+
+The premise states the daily charge stops at less than 42 a. The hypothesis states it stops at 12 a. Since 12 a is ""less than 42 a"", the hypothesis is supported by the premise.
+
+**Answer: Entailment**"
+149,অলকা ১৫টা বই কিনেছে,অলকা টাকায় ৭৫টিরও কম বই কিনেছেন,Entailment,"1. **Translation:**
+   *   **Premise (Bengali):** অলকা ১৫টা বই কিনেছে
+   *   **Premise (English):** Alka bought 15 books.
+   *   **Hypothesis (Bengali):** অলকা টাকায় ৭৫টিরও কম বই কিনেছেন
+   *   **Hypothesis (English):** Alka bought less than 75 books with the money.
+
+2. **Reasoning:**
+
+The premise states that Alka bought 15 books. The hypothesis claims that Alka bought less than 75 books with the money, which could be true. In other words, ""Alka bought 15 books"" entails that ""Alka bought less than 75 books"". The information in the premise logically implies what's stated in the hypothesis.
+
+**Answer: Entailment**"
+79,"ভিক্টরের আছে ১৫ কাপ যদি ময়দা, ১৬ কাপ চিনি এবং ৮ কাপ দুধ","ময়দা, ১৬ কাপ চিনি এবং ৮ কাপ দুধ থাকলে ভিক্টরের ৬৫ কাপের কম",Entailment,"Here's the breakdown:
+
+1. **Translation:**
+
+*   **Premise (Bengali):** ভিক্টরের আছে ১৫ কাপ যদি ময়দা, ১৬ কাপ চিনি এবং ৮ কাপ দুধ
+*   **Premise (English):** Victor has 15 cups of flour, 16 cups of sugar, and 8 cups of milk.
+
+*   **Hypothesis (Bengali):** ময়দা, ১৬ কাপ চিনি এবং ৮ কাপ দুধ থাকলে ভিক্টরের ৬৫ কাপের কম
+*   **Hypothesis (English):** If there are 15 cups of flour, 16 cups of sugar, and 8 cups of milk, Victor has less than 65 cups.
+
+2. **Analysis:**
+
+The premise states that Victor *has* specific quantities of flour, sugar, and milk. The hypothesis states that *if* those same quantities are present with victor, *Victor has less than 65 cups total*. We need to see if we can deduce the truth value of the hypothesis from the premise.
+
+Let's calculate the total amount based on the premise, 15 + 16 + 8 = 39 cups.
+Since 39 is less than 65, the hypothesis is true.
+
+Therefore, the premise entails the hypothesis.
+
+**Answer: Entailment**"
+74,"ডেভিড ইংরেজি , গণিত , পদার্থ বিজ্ঞান , রসায়ন এবং জীববিদ্যায় ৫৬ , ৬৫ , ৮২ , ৬৭ এবং ৮৫ নম্বর ( ১০০ এর মধ্যে ) বেশি পেয়েছে তার গড় নম্বর কত?","ডেভিড ইংরেজি, গণিত, পদার্থবিদ্যা, রসায়ন এবং জীববিদ্যায় ৭৬, ৬৫, ৮২, ৬৭ এবং ৮৫ নম্বর (১০০-এর মধ্যে) পেয়েছে। তার গড় নম্বর কত?",neutral,"Here's the breakdown:
+
+1. **Translation:**
+    *   **Premise (English):** David scored 56, 65, 82, 67, and 85 marks (out of 100) in English, Math, Physics, Chemistry, and Biology, respectively. What is his average score?
+    *   **Hypothesis (English):** David scored 76, 65, 82, 67, and 85 marks (out of 100) in English, Math, Physics, Chemistry, and Biology, respectively. What is his average score?
+
+2. **Reasoning:**
+
+The premise and the hypothesis present very similar scenarios, the only difference being the score David received in English. Calculating the averages in both scenarios would lead to different results. The hypothesis provides similar but different information.
+
+3. **Conclusion:**
+
+Answer: Contradiction"
+34,"জেসমিনের দুটি স্লট সহ একটি টোস্টার রয়েছে যা একবারে প্রতিটি রুটির একপাশে টোস্ট করে এবং এটি করতে এক মিনিট সময় লাগে।
+যদি সে টোস্টের ৩ টুকরো বানাতে চায়, তবে সেগুলিকে উভয় দিকে টোস্ট করতে তার সর্বনিম্ন কত সময় লাগবে?","জেসমিনের দুটি স্লট সহ একটি টোস্টার রয়েছে যা একবারে প্রতিটি রুটির একপাশে টোস্ট করে এবং এটি করতে এক মিনিট সময় লাগে। যদি সে ৩ টুকরো টোস্টের বেশি বানাতে চায়, তবে সেগুলিকে উভয় দিকে টোস্ট করতে তার সর্বনিম্ন কত সময় লাগবে?",contradiction,"Here's the breakdown:
+
+1. **Translation:**
+
+*   **Premise (Bengali):** জেসমিনের দুটি স্লট সহ একটি টোস্টার রয়েছে যা একবারে প্রতিটি রুটির একপাশে টোস্ট করে এবং এটি করতে এক মিনিট সময় লাগে। যদি সে টোস্টের ৩ টুকরো বানাতে চায়, তবে সেগুলিকে উভয় দিকে টোস্ট করতে তার সর্বনিম্ন কত সময় লাগবে?
+*   **Premise (English):** Jasmine has a toaster with two slots that toasts one side of each bread at a time, and it takes one minute to do so. If she wants to make 3 pieces of toast, what is the least amount of time it will take to toast them on both sides?
+*   **Hypothesis (Bengali):** জেসমিনের দুটি স্লট সহ একটি টোস্টার রয়েছে যা একবারে প্রতিটি রুটির একপাশে টোস্ট করে এবং এটি করতে এক মিনিট সময় লাগে। যদি সে ৩ টুকরো টোস্টের বেশি বানাতে চায়, তবে সেগুলিকে উভয় দিকে টোস্ট করতে তার সর্বনিম্ন কত সময় লাগবে?
+*   **Hypothesis (English):** Jasmine has a toaster with two slots that toasts one side of each bread at a time, and it takes one minute to do so. If she wants to make *more than* 3 pieces of toast, what is the least amount of time it will take to toast them on both sides?
+
+2. **Reasoning:**
+
+The premise asks about exactly 3 pieces of toast while the hypothesis speaks to more that 3 pieces of toast. The premise doesn't tell us what the time it takes to toast 3 pieces is, but the minimum time to toast three slices of bread is 3 minutes. We toast two slices together (sides 1 completed), then we toast one slice and flip one of the previously toasted slices. Then, we toast the final sides of the bread, giving us a grand total of 3 minutes.
+
+**More** than three pieces of toast, on the other hand, would take a longer period of time. Because the question doesn't give the maximum number of slices, then we can't entail a possible time completion
+
+3.  **Final Answer:**
+
+Answer: Neutral"
+117,মেলানি বাগান থেকে ৭.০ বরই এবং ৪.০ কমলা বাছাই করেছে এবং স্যাম তাকে ৩.০ বরই দিয়েছে,তার এখন ১৪.০ বরই আছে,contradiction,"Here's the breakdown and solution:
+
+1.  **Translation to English:**
+
+*   **Premise:** Melanie picked 7.0 plums and 4.0 oranges from the garden, and Sam gave her 3.0 plums.
+*   **Hypothesis:** She now has 14.0 plums.
+
+2.  **Analysis:**
+
+Melanie started with 7.0 plums and received 3.0 more. Therefore, she has a total of 7.0 + 3.0 = 10.0 plums. The hypothesis states that she has 14.0 plums, which is not true based on the premise. Consequently, the hypothesis contradicts the premise.
+
+**Answer: Contradiction**"
+295,বাড়ি থেকে কত মাইল দূরে হারুন জগিং করতে পারেন যাতে তিনি মোট ৩ ঘন্টা জগিং এবং হাঁটাতে ব্যয় করেন?,বাড়ি থেকে কত মাইল দূরে অ্যারন জগিং করতে পারেন যাতে তিনি মোট ৪ ঘন্টা জগিং এবং হাঁটাতে ব্যয় করেন?,Entailment,"Here's the breakdown:
+
+1.  **Translation:**
+    *   **Premise (Bengali):** বাড়ি থেকে কত মাইল দূরে হারুন জগিং করতে পারেন যাতে তিনি মোট ৩ ঘন্টা জগিং এবং হাঁটাতে ব্যয় করেন?
+    *   **Premise (English):** How many miles away from home can Harun jog so that he spends a total of 3 hours jogging and walking?
+    *   **Hypothesis (Bengali):** বাড়ি থেকে কত মাইল দূরে অ্যারন জগিং করতে পারেন যাতে তিনি মোট ৪ ঘন্টা জগিং এবং হাঁটাতে ব্যয় করেন?
+    *   **Hypothesis (English):** How many miles away from home can Aaron jog so that he spends a total of 4 hours jogging and walking?
+
+2.  **Analysis:**
+
+The premise describes Harun spending 3 hours jogging and walking, while the hypothesis describes Aaron spending 4 hours jogging and walking. Since it talks about different time and different persons, the hypothesis neither follows from the premise nor contradicts it. Thus, it is neutral.
+
+**Answer: Neutral**"
+77,"প্রতি সপ্তাহে, হ্যারিকে প্রথম ১৮ ঘন্টার জন্য প্রতি ঘন্টা x ডলার এবং সেই সপ্তাহে কাজ করা প্রতিটি অতিরিক্ত ঘন্টার জন্য ১.৫ x ডলার প্রদান করা হয়","প্রতি সপ্তাহে, হ্যারিকে প্রথম ৬৮ ঘন্টার কম সময়ের জন্য প্রতি ঘন্টা x ডলার এবং সেই সপ্তাহে কাজ করা প্রতিটি অতিরিক্ত ঘন্টার জন্য ১.৫ x ডলার প্রদান করা হয়।",Entailment,"**Translation:**
+
+*   **Premise (Bengali):** প্রতি সপ্তাহে, হ্যারিকে প্রথম ১৮ ঘন্টার জন্য প্রতি ঘন্টা x ডলার এবং সেই সপ্তাহে কাজ করা প্রতিটি অতিরিক্ত ঘন্টার জন্য ১.৫ x ডলার প্রদান করা হয়
+*   **Premise (English):** Each week, Harry is paid x dollars per hour for the first 18 hours and 1.5x dollars for each additional hour worked that week.
+
+*   **Hypothesis (Bengali):** প্রতি সপ্তাহে, হ্যারিকে প্রথম ৬৮ ঘন্টার কম সময়ের জন্য প্রতি ঘন্টা x ডলার এবং সেই সপ্তাহে কাজ করা প্রতিটি অতিরিক্ত ঘন্টার জন্য ১.৫ x ডলার প্রদান করা হয়।
+*   **Hypothesis (English):** Each week, Harry is paid x dollars per hour for less than 68 hours and 1.5x dollars for each additional hour worked that week.
+
+**Explanation:**
+
+The premise states Harry is paid x dollars for the first 18 hours. The hypothesis states that Harry is paid x dollars for less than 68 hours. This statement is consistent with the premise, as 18 hours is less than 68 hours.
+
+**Answer: Entailment**"
+238,"ভিনসেন্ট প্রাণীদের সম্পর্কে ১০.০টি বই, ১.০টি মহাকাশ সম্পর্কে বই এবং ৩.০টি ট্রেন সম্পর্কে বই কিনেছিলেন এবং তিনি সমস্ত বইয়ের জন্য $১৬.০ প্রদান করেছিলেন",১.০ বইয়ের গড় মূল্য ৪.৬,contradiction,"**Translation:**
+
+*   **Premise (Bengali):** ভিনসেন্ট প্রাণীদের সম্পর্কে ১০.০টি বই, ১.০টি মহাকাশ সম্পর্কে বই এবং ৩.০টি ট্রেন সম্পর্কে বই কিনেছিলেন এবং তিনি সমস্ত বইয়ের জন্য $১৬.০ প্রদান করেছিলেন
+*   **Premise (English):** Vincent bought 10.0 books about animals, 1.0 book about space, and 3.0 books about trains, and he paid $16.0 for all the books.
+*   **Hypothesis (Bengali):** ১.০ বইয়ের গড় মূল্য ৪.৬
+*   **Hypothesis (English):** The average price of 1.0 books is 4.6.
+
+**Reasoning:**
+
+The premise states that Vincent bought a total of 10 + 1 + 3 = 14 books for $16.0. The hypothesis suggests that the average price of 1 book is $4.6. Let's calculate whether the hypothesis aligns with the information from the premise!
+
+If 1 book's average price is $4.6 then 14 books would cost 14 * 4.6 = $64.4.
+The premise indicates that the 14 books only cost $16. Therefore, clearly, based on the information within the premise, Vincent could not have purchased the books at an average price of $4.6 per book. This contradicts the hypothesis.
+
+**Answer: Contradiction**"
+413,অ্যান্ড্রু ৭০ কেজি দরে ৮ কেজি আঙ্গুর এবং ৫৫ কেজি দরে ৯ কেজি আম কিনেছিলেন,অ্যান্ড্রু ৭০ কেজি দরে ৫ কেজির বেশি আঙ্গুর এবং ৫৫ কেজি দরে ৯ কেজি আম কিনেছিলেন,Entailment,"1.  **Translation:**
+    *   **Premise (Bengali):** অ্যান্ড্রু ৭০ কেজি দরে ৮ কেজি আঙ্গুর এবং ৫৫ কেজি দরে ৯ কেজি আম কিনেছিলেন
+    *   **Premise (English):** Andrew bought 8 kg of grapes at 70 kg price and 9 kg of mangoes at 55 kg price.
+    *   **Hypothesis (Bengali):** অ্যান্ড্রু ৭০ কেজি দরে ৫ কেজির বেশি আঙ্গুর এবং ৫৫ কেজি দরে ৯ কেজি আম কিনেছিলেন
+    *   **Hypothesis (English):** Andrew bought more than 5 kg of grapes at 70 kg price and 9 kg of mangoes at 55 kg price.
+
+2.  **Reasoning:**
+    The premise states that Andrew bought 8 kg of grapes. The hypothesis says Andrew bought more than 5 kg of grapes. Since 8kg is more than 5kg, and the mangoes are the same in both statements, the hypothesis logically follows from the premise.
+
+**Answer: Entailment**"
+16,টুম্পার বয়স ১৪ বছর।,টুম্পার বয়স ১৫ বছর।,contradiction,"1. **Translation:**
+
+*   **Premise (Bengali):** টুম্পার বয়স ১৪ বছর।
+*   **Premise (English):** Tumpa's age is 14 years.
+
+*   **Hypothesis (Bengali):** টুম্পার বয়স ১৫ বছর।
+*   **Hypothesis (English):** Tumpa's age is 15 years.
+
+2. **Reasoning:**
+
+If Tumpa's age is 14, it cannot be 15. Therefore, the hypothesis contradicts the premise.
+
+**Answer: Contradiction**"
+230,হেইলির ২৫.০ মিটবল আছে এবং কার্স্টেন তাকে আরও ১১.০ দিয়েছেন,হেইলির এখন ৩৬.০ মিটবল আছে,Entailment,"Here's the breakdown:
+
+1.  **Translation:**
+    *   Premise (Bengali): হেইলির ২৫.০ মিটবল আছে এবং কার্স্টেন তাকে আরও ১১.০ দিয়েছেন
+    *   Premise (English): Hailey has 25.0 meatballs and Karsten gave her 11.0 more.
+    *   Hypothesis (Bengali): হেইলির এখন ৩৬.০ মিটবল আছে
+    *   Hypothesis (English): Hailey now has 36.0 meatballs.
+
+2.  **Analysis:**
+    *   The premise states Hailey starts with 25.0 meatballs and receives 11.0 more. Mathematically, 25.0 + 11.0 = 36.0.
+    *   The hypothesis states Hailey has 36.0 meatballs.
+    *   The hypothesis is a direct logical consequence of the premise.
+
+**Answer: Entailment**"
+351,"জিলের কোয়ার্ট, হাফ-গ্যালন এবং এক গ্যালন জারে ২১ গ্যালন জল সঞ্চিত রয়েছে","জিলের কোয়ার্ট, হাফ-গ্যালন এবং এক গ্যালন জারে ৩১ গ্যালন জল সঞ্চিত রয়েছে",contradiction,"Here's the breakdown:
+
+1. **Translation:**
+
+*   **Premise (Bengali):** জিলের কোয়ার্ট, হাফ-গ্যালন এবং এক গ্যালন জারে ২১ গ্যালন জল সঞ্চিত রয়েছে
+*   **Premise (English):** Jill has 21 gallons of water stored in quart, half-gallon, and one-gallon jars.
+
+*   **Hypothesis (Bengali):** জিলের কোয়ার্ট, হাফ-গ্যালন এবং এক গ্যালন জারে ৩১ গ্যালন জল সঞ্চিত রয়েছে
+*   **Hypothesis (English):** Jill has 31 gallons of water stored in quart, half-gallon, and one-gallon jars.
+
+2. **Analysis:**
+
+The premise states that Jill has 21 gallons of water. The hypothesis claims she has 31 gallons of water in the same containers. These values are distinctly different, but not necessarily contradictory; it is possible the hypothesis is false, but it could also be true with unknown changes. Thus, knowing the water sum does not entail it must be true that the sum is 31, and it is possible that the hypothesis statement is true as well. Therefore, the relationship is neutral.
+
+**Answer: Neutral**"
+1,"যেহেতু আপনি ভালো, আপনি নাজমুলকে ২ টি বেসবল কার্ড দিয়েছেন।","যেহেতু আপনি ভালো, আপনি নাজমুলকে ২টির বেশি বেসবল কার্ড দিয়েছেন।",contradiction,"1.  **Translation:**
+    *   **Premise (Bengali):** যেহেতু আপনি ভালো, আপনি নাজমুলকে ২ টি বেসবল কার্ড দিয়েছেন।
+    *   **Premise (English):** Since you are good, you gave Nazmul 2 baseball cards.
+    *   **Hypothesis (Bengali):** যেহেতু আপনি ভালো, আপনি নাজমুলকে ২টির বেশি বেসবল কার্ড দিয়েছেন।
+    *   **Hypothesis (English):** Since you are good, you gave Nazmul more than 2 baseball cards.
+
+2.  **Analysis:**
+    The premise states you gave Nazmul *exactly* 2 baseball cards. The hypothesis states you gave Nazmul *more than* 2 baseball cards. The hypothesis is not necessarily true based on the premise; it *could* be more than two, but it could also not be. Thus, the relationship is Neutral.
+
+**Answer: Neutral**"
+20,এর পর থেকে ১.২ মিলিয়নেরও বেশি মানুষ এটি দেখেছেন।,ইউটিউবে ১.২ মিলিয়নেরও বেশি মানুষ এটি দেখেছেন,Entailment,"Here's the breakdown:
+
+1. **Translation:**
+   *   **Premise (Bengali):** এর পর থেকে ১.২ মিলিয়নেরও বেশি মানুষ এটি দেখেছেন।
+   *   **Premise (English):** Since then, more than 1.2 million people have seen it.
+   *   **Hypothesis (Bengali):** ইউটিউবে ১.২ মিলিয়নেরও বেশি মানুষ এটি দেখেছেন
+   *   **Hypothesis (English):** More than 1.2 million people have seen it on YouTube.
+
+2. **Analysis:**
+
+The premise states that more than 1.2 million people have seen ""it"" since then. The Hypothesis says more than 1.2 million people have seen the ""it"" on youtube. Assuming ""it"" refers to the same thing, the Hypothesis simply specifies the platform where the event happened. Therefore, hypothesis is entailed buy Premise.
+
+**Answer: Entailment**"
+273,কৃষকরা জানিয়েছেন যে তারা প্রতিদিন বাগানের ৮.০ ভাগের প্রতিটি থেকে ৪৫.০ বস্তা আপেল সংগ্রহ করে।,প্রতিদিন ৩৬০.০ বস্তা কাটা হয়,Entailment,"Here's the breakdown:
+
+1. **Translation:**
+
+*   **Premise (Bengali):** কৃষকরা জানিয়েছেন যে তারা প্রতিদিন বাগানের ৮.০ ভাগের প্রতিটি থেকে ৪৫.০ বস্তা আপেল সংগ্রহ করে।
+*   **Premise (English):** Farmers reported that they collect 45.0 sacks of apples from each of the 8.0 parts of the garden every day.
+*   **Hypothesis (Bengali):** প্রতিদিন ৩৬০.০ বস্তা কাটা হয়
+*   **Hypothesis (English):** 360.0 sacks are harvested every day.
+
+2. **Analysis:**
+
+To determine the relationship, we need to calculate the total number of sacks collected per day based on the premise.
+Total sacks = (Number of parts of the garden) * (Sacks collected from each part)
+Total sacks = 8.0 * 45.0 = 360.0
+
+The hypothesis states that 360.0 sacks are harvested every day, which matches the calculation from the premise. Therefore, the hypothesis is entailed by the premise.
+
+**Answer: Entailment**"
+281,"কায়ার শিক্ষকের ডেস্কে ৬৪টিরও কম গোলাপী হাইলাইটার, ২৮টি হলুদ হাইলাইটার এবং ২৫টি নীল হাইলাইটার রয়েছে","কায়ার শিক্ষকের ডেস্কে ২৪টি গোলাপী হাইলাইটার, ২৮টি হলুদ হাইলাইটার এবং ২৫টি নীল হাইলাইটার রয়েছে",neutral,"Here's the breakdown:
+
+1.  **Translation:**
+
+    *   **Premise (Bengali):** কায়ার শিক্ষকের ডেস্কে ৬৪টিরও কম গোলাপী হাইলাইটার, ২৮টি হলুদ হাইলাইটার এবং ২৫টি নীল হাইলাইটার রয়েছে
+    *   **Premise (English):** Kaya's teacher has fewer than 64 pink highlighters, 28 yellow highlighters, and 25 blue highlighters on their desk.
+    *   **Hypothesis (Bengali):** কায়ার শিক্ষকের ডেস্কে ২৪টি গোলাপী হাইলাইটার, ২৮টি হলুদ হাইলাইটার এবং ২৫টি নীল হাইলাইটার রয়েছে
+    *   **Hypothesis (English):** Kaya's teacher has 24 pink highlighters, 28 yellow highlighters, and 25 blue highlighters on their desk.
+
+2.  **Analysis:**
+
+    *   The premise states that there are *fewer than 64* pink highlighters.
+    *   The hypothesis states that there are *24* pink highlighters.
+    *   Since 24 is less than 64, the hypothesis is a valid scenario within the bounds established by the premise. Regarding the number of yellow and blue highlighters, the premise and hypothesis are aligned. Hence, the premise entails the hypothesis.
+
+**Answer: Entailment**"
+57,"যদি সুনীলের বয়স ৪ বছরের মধ্যে শ্যামের বয়সের চেয়ে দ্বিগুণ হয়, তাহলে সুনীলের বয়স কত?","সুনীলের বয়সের দ্বিগুণ হলে শ্যামের বয়স ২ বছরের বেশি হলে, সুনীলের বয়স কত?",Entailment,"Here's the breakdown of the QNLI problem and the solution:
+
+1. **Translation:**
+
+*   **Premise (Bengali):** যদি সুনীলের বয়স ৪ বছরের মধ্যে শ্যামের বয়সের চেয়ে দ্বিগুণ হয়, তাহলে সুনীলের বয়স কত?
+*   **Premise (English):** If Sunil's age is twice Shyam's age within 4 years, then what is Sunil's age?
+
+*   **Hypothesis (Bengali):** সুনীলের বয়সের দ্বিগুণ হলে শ্যামের বয়স ২ বছরের বেশি হলে, সুনীলের বয়স কত?
+*   **Hypothesis (English):** If twice Sunil's age is more than 2 years than Shyam's age, then what is Sunil's age?
+
+2. **Analysis:**
+The question asks for Sunil's age given specific relationship with shyam's age. Let's analyze each statement:
+* **Premise:** Let Sunil's age be 's' and Shyam's age be 'sh'. s = 2 * sh within 4 years. The premise sets up a specific relationship between their ages.
+
+* **Hypothesis:** 2 * s > sh + 2. Hypothesism presents different relationship between 's' and 'sh' and asks for 's'.
+
+Since the relationship between Sunil's age and Shyam's age is varied in the two sentences, so it is neutral.
+
+3. **Conclusion:**
+
+Answer: Neutral"
+337,ইউরোপিয়ান চ্যাম্পিয়ন্স লিগে বুলগেরিয়ান আন্ডারডগ লুডোগোরেটসের কাছে ঘরের মাঠে শেষ-হাঁসির মাঝামাঝি জয়ের পর ওয়েস্ট হ্যামের কাছে ৩-১ ব্যবধানে পরাজয় ছিল ব্রেন্ডন রজার্স দলের জন্য পাঁচটি ম্যাচে তৃতীয়।,লিভারপুল টানা দ্বিতীয় ম্যাচে ওয়েস্ট হ্যামের কাছে ৩-১ ব্যবধানে হেরেছে,neutral,"Here's the breakdown:
+
+1.  **Translation:**
+
+*   **Premise (Bengali):** ইউরোপিয়ান চ্যাম্পিয়ন্স লিগে বুলগেরিয়ান আন্ডারডগ লুডোগোরেটসের কাছে ঘরের মাঠে শেষ-হাঁসির মাঝামাঝি জয়ের পর ওয়েস্ট হ্যামের কাছে ৩-১ ব্যবধানে পরাজয় ছিল ব্রেন্ডন রজার্স দলের জন্য পাঁচটি ম্যাচে তৃতীয়।
+*   **Premise (English):** After a last-gasp home win against Bulgarian underdog Ludogorets in the European Champions League, a 3-1 loss to West Ham was the third in five games for Brendan Rodgers' side.
+*   **Hypothesis (Bengali):** লিভারপুল টানা দ্বিতীয় ম্যাচে ওয়েস্ট হ্যামের কাছে ৩-১ ব্যবধানে হেরেছে
+*   **Hypothesis (English):** Liverpool lost to West Ham 3-1 for the second match in a row.
+
+2.  **Analysis:**
+
+The premise states that Brendan Rodgers' team (which is likely to be Liverpool) lost 3-1 to West Ham. It doesn't explicitly state whether it was a second consecutive loss to West Ham by that score. So there is no information from the premise that can confirm if this statement is true.
+
+3.  **Conclusion:**
+
+Answer: Neutral"
+83,"ফাইজার কাছে ৫টির বেশি পার্স রয়েছে, সে উপহার হিসেবে ৩টি পার্স দিয়েছে","ফাইজার ৭টি পার্স আছে, সে উপহার হিসেবে ৩টি পার্স দেয়",neutral,"Here's the breakdown:
+
+1.  **Translation:**
+
+*   **Premise (Bengali):** ফাইজার কাছে ৫টির বেশি পার্স রয়েছে, সে উপহার হিসেবে ৩টি পার্স দিয়েছে
+*   **Premise (English):** Pfizer has more than 5 purses, she gave 3 purses as a gift.
+*   **Hypothesis (Bengali):** ফাইজার ৭টি পার্স আছে, সে উপহার হিসেবে ৩টি পার্স দেয়
+*   **Hypothesis (English):** Pfizer has 7 purses, she gives 3 purses as a gift.
+
+2.  **Analysis:**
+
+The premise states Pfizer has *more than 5* purses and gives away 3. The hypothesis states Pfizer has *7* purses and gives away 3.  Since 7 is ""more than 5"", the hypothesis is a specific instance that is consistent with the premise. The premise entails the hypothesis.
+
+**Answer: Entailment**"
+240,একটি স্কুলে ৫৪২.০ মেয়ে এবং ৩৮৭.০ ছেলে।,সেই স্কুলে ৯২৮.০ ছাত্র আছে,contradiction,"1. **Translation:**
+*   **Premise (Bengali):** একটি স্কুলে ৫৪২.০ মেয়ে এবং ৩৮৭.০ ছেলে।
+*   **Premise (English):** A school has 542.0 girls and 387.0 boys.
+*   **Hypothesis (Bengali):** সেই স্কুলে ৯২৮.০ ছাত্র আছে
+*   **Hypothesis (English):** That school has 928.0 students.
+
+2. **Analysis:**
+To determine the relationship, we need to calculate the total student count based on the premise, adding the number of girls and boys: 542.0 + 387.0 = 929.0
+The hypothesis states that there are 928 students.
+The calculated value is very close. However, given that the stated values are to one decimal place, the total should also be stated to one decimal place. As per the premise, the exact calculation yields 929.0, which is not 928.0. Therefore, the hypothesis doesn't necessarily follow from (is not entailed by) the premise, and isn't really a contradiction either as the numbers are pretty close. It's more of a neutral relationship given the precise numerical values provided.
+
+Answer: Neutral"
+368,"৮ মাস পরে অ্যালেক্স তার সাথে যোগ দেন, রুপি বিনিয়োগ করে","অ্যালেক্স ৭ মাসেরও বেশি সময় পরে তার সাথে যোগ দেন, রুপি বিনিয়োগ করে",Entailment,"Here's my analysis:
+
+1.  **Translation:**
+    *   Premise (Bengali): ৮ মাস পরে অ্যালেক্স তার সাথে যোগ দেন, রুপি বিনিয়োগ করে
+    *   Premise (English): Alex joined him after 8 months, investing rupees.
+    *   Hypothesis (Bengali): অ্যালেক্স ৭ মাসেরও বেশি সময় পরে তার সাথে যোগ দেন, রুপি বিনিয়োগ করে
+    *   Hypothesis (English): Alex joined him after more than 7 months, investing rupees.
+
+2.  **Analysis:**
+    The premise states Alex joined after *8* months. The hypothesis says Alex joined after *more than 7* months. Since 8 months *is* more than 7 months, the hypothesis logically follows from the premise.
+
+Answer: Entailment"
+80,"২০০০ এর কম, ইসাবেলার রাজধানী কি?","১০০০, ইসাবেলার রাজধানী কি?",neutral,"Here's how I'll approach this QNLI problem:
+
+1. **Translation to English:**
+
+*   **Premise (Bengali):** ২০০০ এর কম, ইসাবেলার রাজধানী কি?
+*   **Premise (English):** Less than 2000, what is Isabella's capital? (Implies Isabella's capital is some value less than 2000)
+*   **Hypothesis (Bengali):** ১০০০, ইসাবেলার রাজধানী কি?
+*   **Hypothesis (English):** 1000, what is Isabella's capital? (Implies Isabella's capital is 1000)
+
+2. **Analysis of Relationship:**
+
+The premise states that Isabella's capital is a value less than 2000. The hypothesis claims that Isabella's capital is 1000. Since 1000 is indeed less than 2000, the hypothesis is consistent with the premise and could be true if the premise is.
+
+3. **Conclusion:**
+
+Answer: Entailment"
+91,প্রীতি ম্যাচ চলাকালীন এসি মিলানের এই মিডফিল্ডার রেফারিকে তিনবার বলেছিলেন তার সঙ্গে দুর্ব্যবহার করা হচ্ছে।,জার্মান বংশোদ্ভূত বোয়াটেং রেফারিকে তিনবার বলেছিলেন যে তার সাথে দুর্ব্যবহার করা হচ্ছে,neutral,"Here's the breakdown and solution:
+
+1.  **Translation:**
+
+*   **Premise (Bengali):** প্রীতি ম্যাচ চলাকালীন এসি মিলানের এই মিডফিল্ডার রেফারিকে তিনবার বলেছিলেন তার সঙ্গে দুর্ব্যবহার করা হচ্ছে।
+*   **Premise (English):** During a friendly match, this AC Milan midfielder told the referee three times that he was being mistreated.
+*   **Hypothesis (Bengali):** জার্মান বংশোদ্ভূত বোয়াটেং রেফারিকে তিনবার বলেছিলেন যে তার সাথে দুর্ব্যবহার করা হচ্ছে
+*   **Hypothesis (English):** German-born Boateng told the referee three times that he was being mistreated.
+
+2.  **Analysis:**
+
+The premise states that *an AC Milan midfielder* said he was being mistreated. The hypothesis states that *German-born Boateng* said he was being mistreated. We don't know if the AC Milan midfielder mentioned in the premise is Boateng. It's possible, but it's also possible it's another player. Therefore, we cannot definitively say the hypothesis is true based on the premise. There's no direct contradiction.
+
+3.  **Conclusion:**
+
+Answer: Neutral"
+362,"যদি ফ্রেড ঘণ্টায় ৫ মাইল বেগে হাঁটেন এবং স্যাম ঘণ্টায় ৫ মাইল বেগে হাঁটেন, তাহলে স্যাম কত মাইল হেঁটেছে যখন তারা মিলিত হয়েছে?","যদি ফ্রেড ঘণ্টায় ১ মাইলের বেশি গতিতে হাঁটেন এবং স্যাম ঘণ্টায় ৫ মাইল গতিতে হাঁটেন, তাহলে স্যাম কত মাইল হেঁটেছে যখন তারা মিলিত হয়েছে?",Entailment,"Here's the breakdown:
+
+1.  **Translation:**
+    *   Premise (Bengali): যদি ফ্রেড ঘণ্টায় ৫ মাইল বেগে হাঁটেন এবং স্যাম ঘণ্টায় ৫ মাইল বেগে হাঁটেন, তাহলে স্যাম কত মাইল হেঁটেছে যখন তারা মিলিত হয়েছে?
+    *   Premise (English): If Fred walks at 5 miles per hour and Sam walks at 5 miles per hour, how many miles has Sam walked when they meet?
+    *   Hypothesis (Bengali): যদি ফ্রেড ঘণ্টায় ১ মাইলের বেশি গতিতে হাঁটেন এবং স্যাম ঘণ্টায় ৫ মাইল গতিতে হাঁটেন, তাহলে স্যাম কত মাইল হেঁটেছে যখন তারা মিলিত হয়েছে?
+    *   Hypothesis (English): If Fred walks at more than 1 mile per hour and Sam walks at 5 miles per hour, how many miles has Sam walked when they meet?
+
+2.  **Analysis:**
+
+The premise states Fred and Sam both walk at 5 mph. Therefore, they meet somewhere halfway between their start positions, and Sam walked a specified number of miles.
+
+The hypothesis states that Fred walks at >1 mph, and Sam walks at 5 mph. The question is how many miles has Sam walked when they meet.
+
+The premise provides more specific information (Fred walks at 5 mph) than the hypothesis (Fred walks at more than 1 mph) about the speed of Fred. We expect Sam to traverse different distances in meeting Fred in the two cases. Therefore, the hypothesis does neither entail nor contradict the premise.
+
+Consequently, the relationship between the premise and hypothesis is neutral.
+
+**Answer: Neutral**"
+26,জেক ১৬ দিনে একটি কূপ খনন করতে পারে,জেক ৬৬ দিনেরও কম সময়ে একটি কূপ খনন করতে পারে,Entailment,"1.  **Translation:**
+
+    *   Premise (Bengali): জেক ১৬ দিনে একটি কূপ খনন করতে পারে
+    *   Premise (English): Jake can dig a well in 16 days.
+    *   Hypothesis (Bengali): জেক ৬৬ দিনেরও কম সময়ে একটি কূপ খনন করতে পারে
+    *   Hypothesis (English): Jake can dig a well in less than 66 days.
+
+2.  **Reasoning:**
+
+    If Jake can dig a well in 16 days, then it is necessarily true that he can dig a well in less than 66 days.
+
+**Answer: Entailment**"
+174,মোনা এবং সোনা ১৮ কিমি এবং ৩৬ কিমি প্রতি ঘণ্টা গতিতে একটি বাইকে ৪০০ মিটার দৈর্ঘ্যের একটি বৃত্তাকার ট্র্যাকের চারপাশে যান,মোনা এবং সোনা ১৮ কিলোমিটার এবং ৩৬ কিলোমিটার প্রতি ঘণ্টা গতিতে একটি বাইকে ৪০০ মিটারের কম দৈর্ঘ্যের একটি বৃত্তাকার ট্র্যাকের চারপাশে যান,contradiction,"Here's the breakdown:
+
+1. **Translation:**
+   *   **Premise (Bengali):** মোনা এবং সোনা ১৮ কিমি এবং ৩৬ কিমি প্রতি ঘণ্টা গতিতে একটি বাইকে ৪০০ মিটার দৈর্ঘ্যের একটি বৃত্তাকার ট্র্যাকের চারপাশে যান
+   *   **Premise (English):** Mona and Sona travel around a circular track of 400 meters in length on a bike at speeds of 18 kmph and 36 kmph respectively.
+   *   **Hypothesis (Bengali):** মোনা এবং সোনা ১৮ কিলোমিটার এবং ৩৬ কিলোমিটার প্রতি ঘণ্টা গতিতে একটি বাইকে ৪০০ মিটারের কম দৈর্ঘ্যের একটি বৃত্তাকার ট্র্যাকের চারপাশে যান
+   *   **Hypothesis (English):** Mona and Sona travel around a circular track of less than 400 meters in length on a bike at speeds of 18 kmph and 36 kmph respectively.
+
+2. **Analysis:**
+The premise states that the track is 400 meters long. The hypothesis states that the track is less than 400 meters long. These statements contradict each other.
+
+**Answer: Contradiction**"
+181,"যদি ইয়োলান্ডার হাঁটার হার ঘণ্টায় ৩ মাইল এবং ববের প্রতি ঘণ্টায় ৪ মাইল হয়, তাহলে বব কত মাইল হেঁটেছিল যখন তারা দেখা করেছিল?","যদি ইয়োলান্ডার হাঁটার হার ঘণ্টায় ৭ মাইলের কম হয় এবং বব-এর প্রতি ঘণ্টায় ৪ মাইল হয়, তাহলে বব কত মাইল হেঁটেছিল যখন তারা দেখা করেছিল?",Entailment,"Here's the breakdown:
+
+1. **Translation:**
+   * **Premise (Bengali):** যদি ইয়োলান্ডার হাঁটার হার ঘণ্টায় ৩ মাইল এবং ববের প্রতি ঘণ্টায় ৪ মাইল হয়, তাহলে বব কত মাইল হেঁটেছিল যখন তারা দেখা করেছিল?
+   * **Premise (English):** If Yolanda's walking rate is 3 miles per hour and Bob's is 4 miles per hour, how many miles did Bob walk when they met?
+   * **Hypothesis (Bengali):** যদি ইয়োলান্ডার হাঁটার হার ঘণ্টায় ৭ মাইলের কম হয় এবং বব-এর প্রতি ঘণ্টায় ৪ মাইল হয়, তাহলে বব কত মাইল হেঁটেছিল যখন তারা দেখা করেছিল?
+   * **Hypothesis (English):** If Yolanda's walking rate is less than 7 miles per hour and Bob's is 4 miles per hour, how many miles did Bob walk when they met?
+
+2. **Analysis:**
+
+The hypothesis broadens the condition for Yolanda's speed. The premise gives a specific speed for Yolanda of 3 mph. The hypothesis states that Yolanda's speed is less than 7mph, which encompasses the 3 mph in the original premise. Bob's speed remains at 4mph in both cases. As the Hypothesis only broadens Yolanda's possible speeds, the inference to the number of miles Bob walked is neutral; we would not know how many miles Bob walked in either case since we do not know the time for which the walk took place.
+
+3. **Conclusion:**
+
+Answer: Neutral"
+176,"শ্রীহরি যদি তার বাড়ি থেকে ৪.৫ কিমি/ঘন্টা বেগে হেঁটে যায়, তাহলে কত সময়ে সে তার বাড়ি থেকে ৭৫০ মিটার লম্বা তার স্কুলে পৌঁছাবে?","শ্রীহরি যদি তার বাড়ি থেকে ৪.৫ কিমি/ঘন্টা বেগে হেঁটে যান, তাহলে কত সময়ে তিনি তার বাড়ি থেকে ৮৫০ মিটারের কম লম্বা তার স্কুলে পৌঁছাবেন?",Entailment,"**Translation:**
+
+*   **Premise (English):** If Srihari walks from his house at a speed of 4.5 km/h, how long will it take him to reach his school, which is 750 meters long from his house?
+*   **Hypothesis (English):** If Srihari walks from his house at a speed of 4.5 km/h, how long will it take him to reach his school, which is less than 850 meters long from his house?
+
+**Explanation:**
+
+The premise specifies the school's distance as exactly 750 meters. The hypothesis states that the distance to the school is less than 850 meters. Since 750 meters is indeed less than 850 meters, the hypothesis is true if the premise is true.
+
+**Answer: Entailment**"
+43,এর্নাকুলাম এবং চেন্নাইয়ের মধ্যে ২৪টি স্টেশন রয়েছে,এর্নাকুলাম এবং চেন্নাইয়ের মধ্যে ৪৪টি স্টেশন রয়েছে,contradiction,"Here's the breakdown of the QNLI problem and the solution:
+
+1.  **Translation:**
+
+*   Premise (Bengali): এর্নাকুলাম এবং চেন্নাইয়ের মধ্যে ২৪টি স্টেশন রয়েছে
+*   Premise (English): There are 24 stations between Ernakulam and Chennai.
+*   Hypothesis (Bengali): এর্নাকুলাম এবং চেন্নাইয়ের মধ্যে ৪৪টি স্টেশন রয়েছে
+*   Hypothesis (English): There are 44 stations between Ernakulam and Chennai.
+
+2.  **Analysis:**
+
+The premise states that there are 24 stations between two locations, while the hypothesis states that there are 44 stations between the same two locations. These two statements cannot both be true. The hypothesis contradicts the information given in the premise.
+
+Answer: Contradiction"
+210,"বারবারার কয়টি পোশাকের সংমিশ্রণ আছে, যদি তিনি ৫টি নির্দিষ্ট প্যান্টের সাথে ২টির বেশি নির্দিষ্ট শার্ট না পরেন?","বারবারার কয়টি পোশাকের সংমিশ্রণ আছে, যদি সে ৫টি নির্দিষ্ট প্যান্টের সাথে ৬টি নির্দিষ্ট শার্ট না পরে?",neutral,"Here's the breakdown:
+
+1. **Translation:**
+
+*   **Premise (Bengali):** বারবারার কয়টি পোশাকের সংমিশ্রণ আছে, যদি তিনি ৫টি নির্দিষ্ট প্যান্টের সাথে ২টির বেশি নির্দিষ্ট শার্ট না পরেন?
+*   **Premise (English):** How many clothing combinations does Barbara have if she doesn't wear more than 2 specific shirts with 5 specific pants?
+*   **Hypothesis (Bengali):** বারবারার কয়টি পোশাকের সংমিশ্রণ আছে, যদি সে ৫টি নির্দিষ্ট প্যান্টের সাথে ৬টি নির্দিষ্ট শার্ট না পরে?
+*   **Hypothesis (English):** How many clothing combinations does Barbara have if she doesn't wear 6 specific shirts with 5 specific pants?
+
+2. **Analysis:**
+
+The premise restricts Barbara to not wearing *more than* 2 specific shirts with the 5 pants. This implies she can wear 0, 1, or 2 shirts. The hypothesis states Barbara can not wear 6 shirts with the 5 pants.
+
+Since the premise refers to no more than 2 specific shirts and the hypothesis refers to not wearing 6 shirts, the hypothesis doesn't logically follow or contradict from the premise. It gives different information than what is presented in the premise. Hence it is neutral.
+
+**Answer: Neutral**"
+414,রহিম টাকায় ২৫টিরও বেশি বই কিনলেন,রহিম ৬৫টি বই কিনলেন টাকায়,neutral,"Here's the breakdown:
+
+1. **Translation:**
+   * **Premise (Bengali):** রহিম টাকায় ২৫টিরও বেশি বই কিনলেন
+   * **Premise (English):** Rahim bought more than 25 books for the money.
+   * **Hypothesis (Bengali):** রহিম ৬৫টি বই কিনলেন টাকায়
+   * **Hypothesis (English):** Rahim bought 65 books for the money.
+
+2. **Analysis:** The premise states that Rahim bought *more than* 25 books. The hypothesis states that Rahim bought 65 books. Since 65 is more than 25, the hypothesis aligns with what is stated in the premise. Therefore the premise entails the Hypothesis.
+
+**Answer: Entailment**"
+105,স্যান্ডি ৬.০ গাজর বেড়েছে এবং স্যাম ৩.০ গাজর নিয়েছে,স্যান্ডির ৩.০ গাজর বাকি আছে,Entailment,"Here's my analysis:
+
+1.  **Translation:**
+
+    *   **Premise (Bengali):** স্যান্ডি ৬.০ গাজর বেড়েছে এবং স্যাম ৩.০ গাজর নিয়েছে
+    *   **Premise (English):** Sandy grew 6.0 carrots and Sam took 3.0 carrots.
+    *   **Hypothesis (Bengali):** স্যান্ডির ৩.০ গাজর বাকি আছে
+    *   **Hypothesis (English):** Sandy has 3.0 carrots left.
+
+2.  **Analysis:**
+
+    The premise states that Sandy grew 6.0 carrots and Sam took 3.0 carrots. If we assume Sam took the carrots from Sandy, then Sandy would have 6.0 - 3.0 = 3.0 carrots left.
+
+3.  **Conclusion:**
+
+Answer: Entailment"
+166,শোভার বাবার বয়স ছিল ৩৮ বছর যখন তিনি জন্মগ্রহণ করেছিলেন এবং তার মায়ের বয়স ছিল ৩৬ বছর যখন তার ভাই তার থেকে চার বছরের ছোট জন্মগ্রহণ করেছিলেন,শোভার জন্মের সময় তার বাবার বয়স ছিল ২৮ বছরের বেশি এবং তার মায়ের বয়স ছিল ৩৬ বছর যখন তার ভাই তার থেকে চার বছরের ছোট জন্মগ্রহণ করেছিলেন,Entailment,"Here's the breakdown:
+
+1.  **Translation:**
+
+    *   **Premise (Bengali):** শোভার বাবার বয়স ছিল ৩৮ বছর যখন তিনি জন্মগ্রহণ করেছিলেন এবং তার মায়ের বয়স ছিল ৩৬ বছর যখন তার ভাই তার থেকে চার বছরের ছোট জন্মগ্রহণ করেছিলেন
+    *   **Premise (English):** Shova's father was 38 years old when she was born, and her mother was 36 years old when her brother, who is four years younger than her, was born.
+    *   **Hypothesis (Bengali):** শোভার জন্মের সময় তার বাবার বয়স ছিল ২৮ বছরের বেশি এবং তার মায়ের বয়স ছিল ৩৬ বছর যখন তার ভাই তার থেকে চার বছরের ছোট জন্মগ্রহণ করেছিলেন
+    *   **Hypothesis (English):** Shova's father was older than 28 years old when she was born, and her mother was 36 years old when her brother, who is four years younger than her, was born.
+
+2.  **Analysis:**
+
+    The premise states that Shova's father was 38 when she was born. The hypothesis states that Shova's father was older than 28 at her birth. Since 38 is greater than 28, the statement in the hypothesis can be inferred from the premise. The second part of both statements are the same, so the overall claim of the hypothesis is inferrable.
+
+**Answer: Entailment**"
+417,"সব মিলিয়ে, স্টিভ রাস্তায় দিনে ৭ ঘণ্টারও কম সময় কাটাচ্ছেন","সব মিলিয়ে, স্টিভ প্রতিদিন ৬ ঘন্টা রাস্তায় কাটাচ্ছেন",neutral,"Here's the breakdown:
+
+1. **Translation:**
+   *   **Premise (Bengali):** সব মিলিয়ে, স্টিভ রাস্তায় দিনে ৭ ঘণ্টারও কম সময় কাটাচ্ছেন
+   *   **Premise (English):** In total, Steve is spending less than 7 hours a day on the road.
+   *   **Hypothesis (Bengali):** সব মিলিয়ে, স্টিভ প্রতিদিন ৬ ঘন্টা রাস্তায় কাটাচ্ছেন
+   *   **Hypothesis (English):** In total, Steve is spending 6 hours a day on the road.
+
+2. **Reasoning:**
+    If Steve spends less than 7 hours on the road, the hypothesis that Steve spends 6 hours on the road is plausible and logically follows from the premise. That means the premise entails the hypothesis.
+
+**Answer: Entailment**"
+275,"খেলনার দোকানে ৩ ধরনের বল এবং ৬ ধরনের বোর্ড গেম থাকলে, আমান্ডা ৪টি আইটেমের মধ্যে কতগুলি ভিন্ন নির্বাচন করতে পারে?","খেলনার দোকানে ৪ ধরনের বল এবং ৬ ধরনের বোর্ড গেম থাকলে, আমান্ডা ৪টি আইটেমের মধ্যে কতগুলি ভিন্ন নির্বাচন করতে পারে?",contradiction,"1. **Translation:**
+
+*   **Premise (English):** If a toy store has 3 types of balls and 6 types of board games, how many different selections of 4 items can Amanda make?
+*   **Hypothesis (English):** If a toy store has 4 types of balls and 6 types of board games, how many different selections of 4 items can Amanda make?
+
+2. **Conclusion:**
+
+The premise has 3 types of balls while the hypothesis mentions 4 types of balls, and the number of board games is the same in both. The number of different possible selections of 4 items will be different in premise and hypothesis. Hence, the hypothesis doesn't necessarily follow the premise. Therefore the relationship between the premise and hypothesis is neutral.
+
+**Answer: Neutral**"
+23,রেবেকার বার্ষিক আয় কতটা বাড়াতে হবে যাতে এটি রেবেকা এবং জিমির সম্মিলিত আয়ের ৫৫% গঠন করে?,রেবেকার বার্ষিক আয় কতটা বাড়াতে হবে যাতে এটি রেবেকা এবং জিমির সম্মিলিত আয়ের ৫৫% এর কম হয়?,contradiction,"1. **Translation:**
+   *   **Premise (Bengali):** রেবেকার বার্ষিক আয় কতটা বাড়াতে হবে যাতে এটি রেবেকা এবং জিমির সম্মিলিত আয়ের ৫৫% গঠন করে?
+   *   **Premise (English):** By how much must Rebecca's annual income increase so that it constitutes 55% of the combined income of Rebecca and Jimmy?
+   *   **Hypothesis (Bengali):** রেবেকার বার্ষিক আয় কতটা বাড়াতে হবে যাতে এটি রেবেকা এবং জিমির সম্মিলিত আয়ের ৫৫% এর কম হয়?
+   *   **Hypothesis (English):** By how much must Rebecca's annual income increase so that it is less than 55% of the combined income of Rebecca and Jimmy?
+
+2.  **Analysis:**
+    The premise asks for the amount Rebecca's income needs to increase to reach exactly 55% of their combined income. The hypothesis asks for the amount to increase it to *less than* 55%. These two statements contradict each other.
+
+**Answer: Contradiction**"
+47,"স্থানীয় কর্তৃপক্ষের উদ্ধৃতি দিয়ে সংবাদ প্রতিবেদনে বলা হয়েছে, কিছু কাঁচা সবজিতে ই. কোলাইয়ের কারণে ১৬ জনের মৃত্যু হয়েছে।","মিডিয়া রিপোর্টে ১৬ জন মারা গেছে প্রাদুর্ভাবের সাথে যুক্ত, যার মধ্যে ১ সুইডেনে রয়েছে",neutral,"Here's the breakdown and solution:
+
+1.  **Translation:**
+
+*   **Premise (Bengali):** স্থানীয় কর্তৃপক্ষের উদ্ধৃতি দিয়ে সংবাদ প্রতিবেদনে বলা হয়েছে, কিছু কাঁচা সবজিতে ই. কোলাইয়ের কারণে ১৬ জনের মৃত্যু হয়েছে।
+*   **Premise (English):** News reports quoting local authorities state that 16 people have died due to E. coli in some raw vegetables.
+*   **Hypothesis (Bengali):** মিডিয়া রিপোর্টে ১৬ জন মারা গেছে প্রাদুর্ভাবের সাথে যুক্ত, যার মধ্যে ১ সুইডেনে রয়েছে
+*   **Hypothesis (English):** Media reports 16 people have died linked to an outbreak, including 1 in Sweden.
+
+2.  **Analysis:**
+
+The premise states that 16 people died from E. coli in raw vegetables. The hypothesis states that media reports say that 16 people died linked to an outbreak, and one of them is in Sweden. While the numbers match, the hypothesis introduces a detail (Sweden) and doesn't explicitly link the deaths to raw vegetables. Also, the nature of ""outbreak"" might not be related to raw vegetables. The death source is questionable. Therefore, we can not infer that the hypothesis is an entailment of the premise.
+
+3.  **Conclusion:**
+
+Answer: Neutral"
+376,"যাইহোক, বেশিরভাগ বিলাসবহুল অন্তর্বাস ৪% এর কম তুলা দিয়ে তৈরি করা হয় -- এবং অনুমতি দেওয়া হবে না।",এর মধ্যে রয়েছে সূক্ষ্ম অন্তর্বাস -- বেশির ভাগই ৪% তুলা এবং তার চেয়ে কম সামগ্রী দিয়ে তৈরি,Entailment,"Here's the breakdown of the QNLI problem and the solution:
+
+1. **Translation:**
+
+*   **Premise (Bengali):** যাইহোক, বেশিরভাগ বিলাসবহুল অন্তর্বাস ৪% এর কম তুলা দিয়ে তৈরি করা হয় -- এবং অনুমতি দেওয়া হবে না।
+*   **Premise (English):** However, most luxury lingerie is made with less than 4% cotton -- and won't be allowed.
+*   **Hypothesis (Bengali):** এর মধ্যে রয়েছে সূক্ষ্ম অন্তর্বাস -- বেশির ভাগই ৪% তুলা এবং তার চেয়ে কম সামগ্রী দিয়ে তৈরি
+*   **Hypothesis (English):** This includes fine lingerie -- mostly made with 4% cotton and less material.
+
+2. **Analysis:**
+
+The premise states that most luxury lingerie contains *less than* 4% cotton. The hypothesis claims that fine lingerie (which could be a subset of luxury lingerie) is ""mostly made with 4% cotton *and less* material"" which is potentially referring to less than 4%. Therefore, the hypothesis aligns with the premise.
+
+3. **Conclusion:**
+
+Answer: Entailment"
+114,জিল একটি বাস্কেটবল খেলার জন্য তার ৬৬-এর কম - ব্যক্তি শ্রেণিকে সমান আকারের দুটি দলে ভাগ করছে,জিল একটি বাস্কেটবল খেলার জন্য তার ১৬-ব্যক্তি শ্রেণীকে সমান আকারের দুটি দলে ভাগ করছে,neutral,"1. **Translation:**
+
+*   **Premise (English):** Jill is dividing her class of less than 66 students into two equal-sized teams for a basketball game.
+*   **Hypothesis (English):** Jill is dividing her class of 16 students into two equal-sized teams for a basketball game.
+
+2. **Reasoning:**
+
+The premise states Jill is dividing a class with *less than* 66 students. The hypothesis specifies that the class has *16* students. Since 16 is less than 66, the hypothesis is a specific instance that is consistent with the premise. The information provided in the premise entails that the class size *could* be 16. Thus the hypothesis follows from the premise.
+
+3. **Conclusion:**
+
+Answer: Entailment"
+95,কামাল ২০ দিনের মধ্যে কাজ শেষ করবেন,কামাল ২০ দিনের বেশি সময় কাজ শেষ করবেন,contradiction,"1.  **Translation:**
+    *   Premise (Bengali): কামাল ২০ দিনের মধ্যে কাজ শেষ করবেন
+    *   Premise (English): Kamal will finish the work within 20 days.
+    *   Hypothesis (Bengali): কামাল ২০ দিনের বেশি সময় কাজ শেষ করবেন
+    *   Hypothesis (English): Kamal will finish the work in more than 20 days.
+
+2.  **Reasoning:**
+    If Kamal finishes the work within 20 days, it directly contradicts the claim that he will finish the work in more than 20 days.
+
+**Answer: Contradiction**"
+375,"যদি ইয়োলান্ডার হাঁটার হার ঘণ্টায় ৩ মাইল এবং ববের প্রতি ঘণ্টায় ৪ মাইল হয়, তাহলে বব কত মাইল হেঁটেছিল যখন তারা দেখা করেছিল?","যদি ইয়োলান্ডার হাঁটার হার ঘণ্টায় ২ মাইলের বেশি হয় এবং বব-এর ঘণ্টায় ৪ মাইল হয়, তাহলে বব কত মাইল হেঁটেছিল যখন তারা দেখা করেছিল?",Entailment,"Here's the breakdown of the problem:
+
+1. **Translation:**
+
+*   **Premise (Bengali):** যদি ইয়োলান্ডার হাঁটার হার ঘণ্টায় ৩ মাইল এবং ববের প্রতি ঘণ্টায় ৪ মাইল হয়, তাহলে বব কত মাইল হেঁটেছিল যখন তারা দেখা করেছিল?
+*   **Premise (English):** If Yolanda's walking speed is 3 miles per hour and Bob's is 4 miles per hour, how many miles did Bob walk when they met?
+
+*   **Hypothesis (Bengali):** যদি ইয়োলান্ডার হাঁটার হার ঘণ্টায় ২ মাইলের বেশি হয় এবং বব-এর ঘণ্টায় ৪ মাইল হয়, তাহলে বব কত মাইল হেঁটেছিল যখন তারা দেখা করেছিল?
+*   **Hypothesis (English):** If Yolanda's walking speed is more than 2 miles per hour and Bob's is 4 miles per hour, how many miles did Bob walk when they met?
+
+2.  **Analysis:**
+
+The premise provides a specific speed for Yolanda (3 mph), while the hypothesis states that Yolanda's speed is greater than 2 mph. Bob's speed is the same (4 mph) in both. The question being asked is the same (how far Bob traveled before they meet). The information given in the Premise is not enough to know how far Bob walked until they met as it depends on how far apart they were initially. The Hypothesis gives even less specific information.
+
+3. **Conclusion:**
+
+Answer: Neutral"
+58,"যেহেতু আপনি চমৎকার, আপনি জন ৭ বেসবল কার্ড দেন","যেহেতু আপনি চমৎকার, আপনি জন কে ৭টির বেশি বেসবল কার্ড দিয়েছেন",contradiction,"1. **Translation:**
+   *   **Premise (Bengali):** যেহেতু আপনি চমৎকার, আপনি জন ৭ বেসবল কার্ড দেন
+   *   **Premise (English):** Since you are excellent, you give John 7 baseball cards.
+   *   **Hypothesis (Bengali):** যেহেতু আপনি চমৎকার, আপনি জন কে ৭টির বেশি বেসবল কার্ড দিয়েছেন
+   *   **Hypothesis (English):** Since you are excellent, you give John more than 7 baseball cards.
+
+2.  **Reasoning:**
+The premise states that John receives exactly 7 baseball cards. The hypothesis claims that John receives more than 7 baseball cards. These two statements cannot both be true. Therefore, there is a contradiction.
+
+**Answer: Contradiction**"
+125,"যদি এখন থেকে পাঁচ বছর পরে, তাদের বয়সের যোগফল হবে ৫১, স্টেফানির বয়স কত?","যদি এখন থেকে পাঁচ বছর পরে, তাদের বয়সের যোগফল ৭১-এর কম হয়, তাহলে স্টেফানির বয়স কত?",Entailment,"1. **Translation:**
+
+*   **Premise (Bengali):** যদি এখন থেকে পাঁচ বছর পরে, তাদের বয়সের যোগফল হবে ৫১, স্টেফানির বয়স কত?
+*   **Premise (English):** If the sum of their ages is 51 five years from now, what is Stephanie's age?
+*   **Hypothesis (Bengali):** যদি এখন থেকে পাঁচ বছর পরে, তাদের বয়সের যোগফল ৭১-এর কম হয়, তাহলে স্টেফানির বয়স কত?
+*   **Hypothesis (English):** If the sum of their ages is less than 71 five years from now, what is Stephanie's age?
+
+2.  **Analysis:**
+
+The premise states a specific value (51) for the future sum of ages. The hypothesis states the sum of the ages will be less than 71. Both ask for stephanie's age. Since 51 *is* less than 71, the hypothesis is merely a weaker statement based upon the given information of the premise, but does not have a logical connection that establishes if we can determine ""what is Stephanie's age"".  Therefore it can be neutral.
+
+**Answer: Neutral**"
+25,নাইন ওয়েস্টের আইকনিক মহিলাদের ফুটওয়্যার ডিজাইনার এবং সহ-প্রতিষ্ঠাতা ভিন্স ক্যামুটো মারা গেছেন।,ভিন্স কামুটো ৭৮ বছর বয়সে মারা গেছেন,neutral,"Here's the breakdown:
+
+1. **Translation:**
+
+*   **Premise (Bengali):** নাইন ওয়েস্টের আইকনিক মহিলাদের ফুটওয়্যার ডিজাইনার এবং সহ-প্রতিষ্ঠাতা ভিন্স ক্যামুটো মারা গেছেন।
+*   **Premise (English):** Vince Camuto, the iconic women's footwear designer and co-founder of Nine West, has passed away.
+*   **Hypothesis (Bengali):** ভিন্স কামুটো ৭৮ বছর বয়সে মারা গেছেন
+*   **Hypothesis (English):** Vince Camuto died at the age of 78.
+
+2. **Analysis:**
+
+The premise states that Vince Camuto, a prominent figure in the footwear industry, has died. The hypothesis further specifies that he died at the age of 78. While the premise confirms his death, it gives no information about his age. This is new information not contained in the original statement.
+
+3. **Conclusion:**
+
+Answer: Neutral"
+18,"ভেরিডাক্স কর্পোরেশনে, ২৫০ জন কর্মচারী আছে","ভেরিডাক্স কর্পোরেশনে, ৬৫০ টিরও কম কর্মচারী রয়েছে৷",Entailment,"1.  **Translation:**
+    *   Premise (Bengali): ভেরিডাক্স কর্পোরেশনে, ২৫০ জন কর্মচারী আছে
+    *   Premise (English): In Veridax Corporation, there are 250 employees.
+    *   Hypothesis (Bengali): ভেরিডাক্স কর্পোরেশনে, ৬৫০ টিরও কম কর্মচারী রয়েছে৷
+    *   Hypothesis (English): In Veridax Corporation, there are less than 650 employees.
+
+2.  **Conclusion:**
+    If there are exactly 250 employees, then it is true that there are less than 650 employees. Therefore, the premise entails the hypothesis.
+
+Answer: Entailment"
+67,"এই পরিকল্পনা প্রায় ৩,০০০ সেনা পাঠাতে পারে, প্রস্তাবের সাথে পরিচিত আরেক মার্কিন সামরিক কর্মকর্তা বলেছেন।","পরিকল্পনা প্রায় ৩,০০০ সৈন্য পাঠাতে পারে, সূত্র বলছে",Entailment,"1. **Translation:**
+
+*   **Premise (Bengali):** এই পরিকল্পনা প্রায় ৩,০০০ সেনা পাঠাতে পারে, প্রস্তাবের সাথে পরিচিত আরেক মার্কিন সামরিক কর্মকর্তা বলেছেন।
+*   **Premise (English):** This plan could send approximately 3,000 troops, according to another U.S. military official familiar with the proposal.
+*   **Hypothesis (Bengali):** পরিকল্পনা প্রায় ৩,০০০ সৈন্য পাঠাতে পারে, সূত্র বলছে
+*   **Hypothesis (English):** The plan could send approximately 3,000 troops, according to sources.
+
+2. **Analysis:**
+
+The Premise states a specific source (another US Military official familiar with the proposal). The Hypothesis states a more general source (sources). The hypothesis is likely true given the premise. Thus, the Premise entails the Hypothesis.
+
+**Answer: Entailment**"
+133,"জোন্স এলিমেন্টারির ছেলেরা যদি মোট স্কুল জনসংখ্যার x ছাত্রদের ৬০% এর বেশি হয়, তাহলে x কত?","জোন্স এলিমেন্টারির ছেলেরা যদি x ছাত্রদের মোট স্কুল জনসংখ্যার ৭০% হয়, তাহলে x কত?",neutral,"Here's the breakdown:
+
+1. **Translation:**
+   *   **Premise (Bengali):** জোন্স এলিমেন্টারির ছেলেরা যদি মোট স্কুল জনসংখ্যার x ছাত্রদের ৬০% এর বেশি হয়, তাহলে x কত?
+   *   **Premise (English):** If the boys of Jones Elementary are more than 60% of x students, which is the total school population, then what is x?
+   *   **Hypothesis (Bengali):** জোন্স এলিমেন্টারির ছেলেরা যদি x ছাত্রদের মোট স্কুল জনসংখ্যার ৭০% হয়, তাহলে x কত?
+   *   **Hypothesis (English):** If the boys of Jones Elementary are 70% of x students, which is the total school population, then what is x?
+
+2.  **Analysis:**
+    The Premise states the percentage of boy students is more than 60% of the total (x) and the Hypothesis states it is 70% of total (x).
+    Since both statements talk about x, and the percentage of boys in x is varying, the statement is neutral in nature.
+
+**Answer: Neutral**"
+223,"মার্টিন ৮০টিরও কম কনসার্টের টিকিট কিনেছেন, কিছু প্রতি টিকিটে $২.০০ এর পুরো মূল্যে, এবং কিছু প্রতি টিকিটে $১.৬০ মূল্যে ছাড় দিয়েছেন।","মার্টিন ১০টি কনসার্টের টিকিট কিনেছেন, কিছু টিকিট প্রতি $২.০০ এর সম্পূর্ণ মূল্যে, এবং কিছু প্রতি টিকিটে $১.৬০ মূল্যে ছাড় দিয়েছেন।",neutral,"Here's the breakdown:
+
+1.  **Premise Translation:** Martin bought less than 80 concert tickets, some at the full price of $2.00 per ticket, and some at a discounted price of $1.60 per ticket.
+2.  **Hypothesis Translation:** Martin bought 10 concert tickets, some at the full price of $2.00 per ticket, and some at a discounted price of $1.60 per ticket.
+
+The premise states Martin bought *less than 80* tickets. The hypothesis states Martin bought *10* tickets. 10 is less than 80, which is consistent with the premise.
+
+Answer: Entailment"
+32,১৬টি ন্যাটো সদস্য এবং ১৪টি দেশ যারা প্রতিদ্বন্দ্বী ওয়ারশ চুক্তি গঠন করেছিল তারা সম্মত হয়েছিল যে ইউরোপে মূল চুক্তির অধীনে প্রয়োগের ক্ষেত্রে উল্লেখযোগ্যভাবে কম সরঞ্জামের অনুমতি দেওয়া হবে।,ন্যাটোর সদস্য সংখ্যা ১৬।,Entailment,"Here's the breakdown:
+
+1. **Translation:**
+   *   **Premise (Bengali):** ১৬টি ন্যাটো সদস্য এবং ১৪টি দেশ যারা প্রতিদ্বন্দ্বী ওয়ারশ চুক্তি গঠন করেছিল তারা সম্মত হয়েছিল যে ইউরোপে মূল চুক্তির অধীনে প্রয়োগের ক্ষেত্রে উল্লেখযোগ্যভাবে কম সরঞ্জামের অনুমতি দেওয়া হবে।
+   *   **Premise (English):** 16 NATO members and 14 countries that formed the rival Warsaw Pact agreed that significantly fewer pieces of equipment would be allowed in Europe under the key treaty regarding implementation.
+   *   **Hypothesis (Bengali):** ন্যাটোর সদস্য সংখ্যা ১৬।
+   *   **Hypothesis (English):** The number of NATO members is 16.
+
+2. **Analysis:**
+The premise states that ""16 NATO members..."" agreed to something. Therefore, the number of NATO members mentioned in the premise is indeed 16. The hypothesis states that ""the number of NATO members is 16"" in the context described.
+
+3. **Conclusion:**
+Answer: Entailment"
+85,আয়েশার বাবার বয়স ৬০ বছরের কম ছিল যখন তিনি জন্মগ্রহণ করেছিলেন এবং তার মায়ের বয়স ছিল ৩২ বছর যখন তার ভাই তার থেকে ছয় বছরের ছোট জন্মগ্রহণ করেছিলেন,আয়েশার বাবার বয়স ছিল ৪০ বছর যখন তিনি জন্মগ্রহণ করেন এবং তার মায়ের বয়স ছিল ৩২ বছর যখন তার ভাই তার থেকে ছয় বছরের ছোট জন্মগ্রহণ করেন,neutral,"Here's the breakdown of the QNLI problem:
+
+1. **Translation:**
+
+*   **Premise (Bengali):** আয়েশার বাবার বয়স ৬০ বছরের কম ছিল যখন তিনি জন্মগ্রহণ করেছিলেন এবং তার মায়ের বয়স ছিল ৩২ বছর যখন তার ভাই তার থেকে ছয় বছরের ছোট জন্মগ্রহণ করেছিলেন
+*   **Premise (English):** Aisha's father was less than 60 years old when she was born, and her mother was 32 years old when her brother, who is six years younger than her, was born.
+*   **Hypothesis (Bengali):** আয়েশার বাবার বয়স ছিল ৪০ বছর যখন তিনি জন্মগ্রহণ করেন এবং তার মায়ের বয়স ছিল ৩২ বছর যখন তার ভাই তার থেকে ছয় বছরের ছোট জন্মগ্রহণ করেন
+*   **Hypothesis (English):** Aisha's father was 40 years old when she was born, and her mother was 32 years old when her brother, who is six years younger than her, was born.
+
+2. **Analysis:**
+
+The premise states the father was *less than 60* when Aisha was born. The hypothesis specifies that the father was *40* when Aisha was born. 40 is less than 60, therefore the hypothesis is consistent with the condition in premise. Remaining part 'her mother was 32 years old when her brother, who is six years younger than her, was born' is same in both premise and hypothesis.
+
+3. **Conclusion:**
+
+Answer: Entailment"
+292,"যদি তাদের বাড়ির মধ্যে দূরত্ব ৬১০ কিলোমিটারের কম হয়, ম্যাক্সওয়েলের হাঁটার গতি হয় ৪ কিমি/ঘন্টা, এবং ব্র্যাডের দৌড়ের গতি ৭ কিমি/ঘন্টা হয়, তাহলে ব্র্যাডের ভ্রমণের দূরত্ব কত?","যদি তাদের বাড়ির মধ্যে দূরত্ব ১১০ কিলোমিটার হয়, ম্যাক্সওয়েলের হাঁটার গতি হয় ৪ কিমি/ঘন্টা, এবং ব্র্যাডের দৌড়ানোর গতি ৭ কিমি/ঘন্টা হয়, তাহলে ব্র্যাডের ভ্রমণের দূরত্ব কত?",neutral,"1. **Translation:**
+
+*   **Bengali Premise:** যদি তাদের বাড়ির মধ্যে দূরত্ব ৬১০ কিলোমিটারের কম হয়, ম্যাক্সওয়েলের হাঁটার গতি হয় ৪ কিমি/ঘন্টা, এবং ব্র্যাডের দৌড়ের গতি ৭ কিমি/ঘন্টা হয়, তাহলে ব্র্যাডের ভ্রমণের দূরত্ব কত?
+*   **English Premise:** If the distance between their houses is less than 610 kilometers, Maxwell's walking speed is 4 km/hour, and Brad's running speed is 7 km/hour, then what is the distance Brad travels?
+
+*   **Bengali Hypothesis:** যদি তাদের বাড়ির মধ্যে দূরত্ব ১১০ কিলোমিটার হয়, ম্যাক্সওয়েলের হাঁটার গতি হয় ৪ কিমি/ঘন্টা, এবং ব্র্যাডের দৌড়ানোর গতি ৭ কিমি/ঘন্টা হয়, তাহলে ব্র্যাডের ভ্রমণের দূরত্ব কত?
+*   **English Hypothesis:** If the distance between their houses is 110 kilometers, Maxwell's walking speed is 4 km/hour, and Brad's running speed is 7 km/hour, then what is the distance Brad travels?
+
+2. **Analysis:**
+
+The premise gives a general condition that the distance between houses is less than 610km. The hypothesis gives a specific condition that the distance between houses is 110km. Since 110km is less than 610km, the hypothesis is a specific instance satisfying the premise's condition. Therefore, the hypothesis follows logically from the premise. If premise is true, then hypothesis must be true. The problem asks for the distance brad travels.
+
+3. **Conclusion:**
+
+Answer: Entailment"
+212,"যদি বাড়ি ট্রিপটি সমুদ্র সৈকতে ভ্রমণের চেয়ে ১/২ ঘন্টা বেশি সময় নেয়, তাহলে কার্ল প্রতি পথে কত কিলোমিটার ড্রাইভ করেছিল?","যদি বাড়ি ট্রিপটি সমুদ্র সৈকতে ভ্রমণের চেয়ে ১/২ ঘণ্টার বেশি সময় নেয়, তাহলে কার্ল প্রতি পথে কত কিলোমিটার ড্রাইভ করেছিল?",contradiction,"Here's the breakdown:
+
+1. **Translation:**
+
+*   **Premise (Bengali):** যদি বাড়ি ট্রিপটি সমুদ্র সৈকতে ভ্রমণের চেয়ে ১/২ ঘন্টা বেশি সময় নেয়, তাহলে কার্ল প্রতি পথে কত কিলোমিটার ড্রাইভ করেছিল?
+*   **Premise (English):** If the trip home takes 1/2 hour longer than the trip to the beach, how many kilometers did Karl drive each way?
+*   **Hypothesis (Bengali):** যদি বাড়ি ট্রিপটি সমুদ্র সৈকতে ভ্রমণের চেয়ে ১/২ ঘণ্টার বেশি সময় নেয়, তাহলে কার্ল প্রতি পথে কত কিলোমিটার ড্রাইভ করেছিল?
+*   **Hypothesis (English):** If the trip home takes 1/2 hour longer than the trip to the beach, how many kilometers did Karl drive each way?
+
+2. **Analysis:**
+
+The premise and the hypothesis are identical. This means the hypothesis is directly entailed by the premise.
+
+**Answer: Entailment**"
+299,"যদি অরুণের বর্তমান বয়স থেকে ৬ বছর বিয়োগ করা হয় এবং অবশিষ্টকে ১৮ দিয়ে ভাগ করা হয়, তাহলে তার নাতি গোকুলের বর্তমান বয়স পাওয়া যায়।","যদি অরুণের বর্তমান বয়স থেকে ৭ বছরের কম বিয়োগ করা হয় এবং অবশিষ্টকে ১৮ দিয়ে ভাগ করা হয়, তাহলে তার নাতি গোকুলের বর্তমান বয়স পাওয়া যায়।",Entailment,"**Premise (English Translation):** If 6 years are subtracted from Arun's current age and the remainder is divided by 18, then the current age of his grandson Gokul is obtained.
+
+**Hypothesis (English Translation):** If less than 7 years are subtracted from Arun's current age and the remainder is divided by 18, then the current age of his grandson Gokul is obtained.
+
+**Reasoning:**
+
+Let Arun's current age be 'A' and Gokul's current age be 'G'.
+
+From the premise:  G = (A - 6) / 18
+
+The hypothesis states: G = (A - x) / 18, where x < 7
+
+If x is less than 7, it could be 6, 5, 4 or any number till approaching to 0.  Since the premise clearly states that subtracting 6 years from Arun's age, i.e., strictly equal to 6 years is definite, and the hypothesis states strictly less than subtracting 7 years from Arun's age, the hypothesis contains subtracting 6 years from Arun's age (as less than 7 includes 6, 5, 4 and more, up to 0 and below 0); Thus the premise is the case of the conclusion.
+
+Therefore, the hypothesis has the potential to have the same outcome as the premise. Thus the premise means that the hypothesis is true.
+
+**Answer: Entailment**"
+412,৪০০০ এরও বেশি যা তিনি এবং ডেভ ১ বছরের শেষে উপার্জন করেছিলেন,৯০০০ যা তিনি এবং ডেভ ১ বছরের শেষে উপার্জন করেছেন,neutral,"1.  **Premise (Bengali):** ৪০০০ এরও বেশি যা তিনি এবং ডেভ ১ বছরের শেষে উপার্জন করেছিলেন
+    **Premise (English Translation):** More than 4000 is what he and Dave earned by the end of 1 year.
+
+2.  **Hypothesis (Bengali):** ৯০০০ যা তিনি এবং ডেভ ১ বছরের শেষে উপার্জন করেছেন
+    **Hypothesis (English Translation):** 9000 is what he and Dave earned by the end of 1 year.
+
+**Explanation:**
+
+The premise states that he and Dave earned *more than* 4000. The hypothesis states that they earned *exactly* 9000. If they earned more than 4000, it's possible that they earned 9000. Therefore, the hypothesis could be true given the premise. It doesn't necessarily follow that they *must* have earned 9000, but it's a plausible scenario. Thus, the relationship is one of entailment.
+
+**Answer: Entailment**"
+245,ক্যাডে ৮৭.০ মার্বেল ছিল এবং তিনি ডিলানের কাছ থেকে ৮.০ পেয়েছেন,তার এখন ৯৮.০ মার্বেল আছে,contradiction,"1.  **Translation:**
+    *   Premise (Bengali): ক্যাডে ৮৭.০ মার্বেল ছিল এবং তিনি ডিলানের কাছ থেকে ৮.০ পেয়েছেন
+    *   Premise (English): Cade had 87.0 marbles and he received 8.0 from Dylan.
+    *   Hypothesis (Bengali): তার এখন ৯৮.০ মার্বেল আছে
+    *   Hypothesis (English): He now has 98.0 marbles.
+
+2.  **Analysis:** If Cade had 87.0 marbles and received 8.0 more, he would have 87.0 + 8.0 = 95.0 marbles. The hypothesis states he has 98.0 marbles. Therefore, the premise contradicts the hypothesis.
+
+**Answer: Contradiction**"
+403,মোট রায় ছিল ৮৫ মিলিয়ন ডলারের বেশি।,প্রত্যেককে ৭ মিলিয়ন ডলারের বেশি পুরস্কার দেওয়া হয়েছিল,neutral,"Here's the breakdown of the QNLI problem and the solution:
+
+1.  **Translation:**
+
+    *   **Premise (Bengali):** মোট রায় ছিল ৮৫ মিলিয়ন ডলারের বেশি।
+    *   **Premise (English):** The total judgment was more than $85 million.
+    *   **Hypothesis (Bengali):** প্রত্যেককে ৭ মিলিয়ন ডলারের বেশি পুরস্কার দেওয়া হয়েছিল
+    *   **Hypothesis (English):** Everyone was awarded more than $7 million.
+
+2.  **Analysis:**
+
+    The premise states that the total award was more than $85 million. The hypothesis claims that *everyone* (presumably referring to the recipients of the award, though how many people is not stated) received more than $7 million. It is possible that the total judgement was 85 million dollars and only one person was involved. Let's consider a few scenarios:
+
+    * Scenario 1: If 10 people shared the judgment, then the average award would be $8.5 million. This *could* support the hypothesis, but it's not guaranteed everyone got *more* than $7 million. One person could have gotten much more, and the rest much less for an average that's greater than 7.
+
+    * Scenario 2: If 1 person received the full 85+ million dollars, then the hypothesis would also be satisfied (since 85 > 7)
+
+    * Scenario 3: If many people received the judgement, everyone can receive more than $7 million.
+    However, since we do not know the number of people involved, the premise does not strictly entail the hypothesis, but it is not a contradition either. The hypothesis cannot be conclusively confirmed as either true or false, based on the premise. These two statements are neutral to each other.
+
+3.  **Conclusion:**
+
+Answer: Neutral"
+352,"মারফা, আলপাইন এবং ম্যারাথন ইউএস ৯০ বরাবর বসে আছে হিচিং পোস্টের মতো।","মারফা, আলপাইন এবং ম্যারাথন শহরগুলি ইউএস ৯০ এর সাথে হিচিং পোস্টের মতো বসে আছে",Entailment,"1.  **Translation to English:**
+
+*   **Premise:** Marfa, Alpine, and Marathon sit along US 90 like hitching posts.
+*   **Hypothesis:** The towns of Marfa, Alpine, and Marathon sit along US 90 like hitching posts.
+
+2.  **Analysis:**
+
+The hypothesis simply clarifies that Marfa, Alpine, and Marathon are towns. The premise implies that Marfa, Alpine and Marathon are locations ""sitting"" along the US 90 like hitching posts. The hypothesis and premise essentially say the same thing, with the hypothesis being slightly more explicit. Thus, the premise entails the hypothesis.
+
+**Answer: Entailment**"
+6,অশোক এবং পেয়ারলাল একসাথে একটি ব্যবসায় অর্থ বিনিয়োগ করেছিলেন এবং অশোকের মূলধন পেয়ারেলালের ১/৯ ভাগ।,অশোক এবং পেয়ারেলাল একটি ব্যবসায় একসাথে অর্থ বিনিয়োগ করেছিলেন এবং অশোকের মূলধন পেয়ারেলালের ৩/৯ এর কম।,Entailment,"Here's the breakdown of the QNLI problem:
+
+1.  **Translation:**
+
+*   **Premise (Bengali):** অশোক এবং পেয়ারলাল একসাথে একটি ব্যবসায় অর্থ বিনিয়োগ করেছিলেন এবং অশোকের মূলধন পেয়ারেলালের ১/৯ ভাগ।
+*   **Premise (English):** Ashok and Pyarelal jointly invested money in a business, and Ashok's capital is 1/9 of Pyarelal's capital.
+*   **Hypothesis (Bengali):** অশোক এবং পেয়ারেলাল একটি ব্যবসায় একসাথে অর্থ বিনিয়োগ করেছিলেন এবং অশোকের মূলধন পেয়ারেলালের ৩/৯ এর কম।
+*   **Hypothesis (English):** Ashok and Pyarelal jointly invested money in a business, and Ashok's capital is less than 3/9 of Pyarelal's capital.
+
+2.  **Analysis:**
+
+The premise states that Ashok's capital is exactly 1/9 of Pyarelal's. The hypothesis states that Ashok's capital is less than 3/9 of Pyarelal's. Since 1/9 is less than 3/9, the hypothesis is true if the premise is true.
+
+3.  **Conclusion:**
+
+Answer: Entailment"
+46,"৮% স্টকে ১৬২০, মাইকেল রুপি আয় করেন","৮% স্টকে ১৬২০ এর বেশি, মাইকেল রুপি আয় করেন",contradiction,"1. **Translation:**
+    *   **Premise (Bengali):** ৮% স্টকে ১৬২০, মাইকেল রুপি আয় করেন
+    *   **Premise (English):** Michael earns 1620 rupees on 8% stock.
+    *   **Hypothesis (Bengali):** ৮% স্টকে ১৬২০ এর বেশি, মাইকেল রুপি আয় করেন
+    *   **Hypothesis (English):** Michael earns more than 1620 rupees on 8% stock.
+
+2.  **Analysis:**
+    The premise states that Michael earns exactly 1620 rupees on the stock. The hypothesis states that Michael earns more than 1620 rupees on the same stock. These statements contradict each other.
+
+**Answer: Contradiction**"
+297,একটি লাইব্রেরীতে ১৪২৪০.০টি বই রয়েছে এবং সেগুলি তাকগুলিতে সাজানো হয়েছে যাতে প্রতিটিতে ৮.০টি বই থাকে,লাইব্রেরিতে ১৭৮০.০ তাক রয়েছে,Entailment,"1. **Translation:**
+    *   **Premise (English):** A library has 14240.0 books, and they are arranged on shelves so that each shelf has 8.0 books.
+    *   **Hypothesis (English):** The library has 1780.0 shelves.
+
+2.  **Reasoning:**
+    To check if the hypothesis is entailed, we need to see if the number of shelves can be derived from the premise.
+    Number of selves = Total books / Books per shelf
+    Number of shelves = 14240.0 / 8.0 = 1780.0
+
+    The calculated number of shelves is exactly the same as the number of shelves provided in the hypothesis. Hence the premise entails the hypothesis.
+
+**Answer: Entailment**"
+156,"স্যান্ডির ৬০০ মিটার দূরত্ব অতিক্রম করতে কত সেকেন্ড সময় লাগে, যদি স্যান্ডি ১৮ কিমি/ঘন্টা বেগে দৌড়ায়?",স্যান্ডি ১৮ কিমি/ঘন্টা বেগে দৌড়ালে ৬০০ মিটারের কম দূরত্ব অতিক্রম করতে কত সেকেন্ড সময় নেয়?,contradiction,"Here's the breakdown of the QNLI problem:
+
+1. **Translation:**
+   *   **Premise (Bengali):** স্যান্ডির ৬০০ মিটার দূরত্ব অতিক্রম করতে কত সেকেন্ড সময় লাগে, যদি স্যান্ডি ১৮ কিমি/ঘন্টা বেগে দৌড়ায়?
+   *   **Premise (English):** How many seconds does it take Sandy to cover a distance of 600 meters if Sandy runs at a speed of 18 km/h?
+
+   *   **Hypothesis (Bengali):** স্যান্ডি ১৮ কিমি/ঘন্টা বেগে দৌড়ালে ৬০০ মিটারের কম দূরত্ব অতিক্রম করতে কত সেকেন্ড সময় নেয়?
+   *   **Hypothesis (English):** How many seconds does it take Sandy to cover a distance of *less than* 600 meters if Sandy runs at a speed of 18 km/h?
+
+2.  **Analysis:**
+    * The premise asks a question about the time taken to cover *exactly* 600 meters.
+    * The hypothesis asks a question about the time taken to cover a distance *less than* 600 meters.
+    * While both share related information (speed and distance), the hypothesis presents a scenario *different and more constrained* than the premise's scenario. The premise does not provide any information about the time taken for distances less than 600 meters.
+
+3. **Conclusion:**
+
+Answer: Neutral"
+367,"বিভাগটি শহরের কেন্দ্রস্থলের কাছে প্লাবিত খাঁড়ির পাশের দুটি এলাকা খালি করছে, তিনি বলেছিলেন।",ব্যাপক বন্যা শহরের কাছাকাছি দুটি আশেপাশের এলাকাগুলিকে সরিয়ে নেওয়ার জন্য অনুরোধ করে৷,neutral,"Here's the breakdown:
+
+1.  **Translation:**
+
+    *   Premise (Bengali): বিভাগটি শহরের কেন্দ্রস্থলের কাছে প্লাবিত খাঁড়ির পাশের দুটি এলাকা খালি করছে, তিনি বলেছিলেন।
+    *   Premise (English): The department is evacuating two areas next to the flooded creek near the city center, he said.
+    *   Hypothesis (Bengali): ব্যাপক বন্যা শহরের কাছাকাছি দুটি আশেপাশের এলাকাগুলিকে সরিয়ে নেওয়ার জন্য অনুরোধ করে৷
+    *   Hypothesis (English): Extensive flooding prompts the evacuation of two neighboring areas near the city.
+2.  **Analysis:**
+
+    The premise states that a department is evacuating two areas near a flooded creek in the city center. The hypothesis states that extensive flooding prompts the evacuation of two neighboring areas near the city. The hypothesis can be reasonably inferred from premise.
+
+**Answer: Entailment**"
+399,৮ জনের কম ছেলে ও ৪ জন মেয়ের একটি দলে ৪ জনের একটি কমিটি গঠন করতে হবে,৬ জন ছেলে ও ৪ জন মেয়ের একটি দলে ৪ জনের একটি কমিটি গঠন করতে হবে,neutral,"Here's the breakdown:
+
+1.  **Translation:**
+
+*   **Premise (Bengali):** ৮ জনের কম ছেলে ও ৪ জন মেয়ের একটি দলে ৪ জনের একটি কমিটি গঠন করতে হবে
+*   **Premise (English):** A committee of 4 needs to be formed from a group of less than 8 boys and 4 girls.
+
+*   **Hypothesis (Bengali):** ৬ জন ছেলে ও ৪ জন মেয়ের একটি দলে ৪ জনের একটি কমিটি গঠন করতে হবে
+*   **Hypothesis (English):** A committee of 4 needs to be formed from a group of 6 boys and 4 girls.
+
+2.  **Analysis:**
+
+The premise states that the number of boys is ""less than 8"". The Hypothesis specifies the number of boys with the digit ""6"", thereby not contradicting the premise. So it is reasonable to state the number of mentioned boys in the hypothesis could be a value in the premise.
+
+3.  **Conclusion:**
+
+Answer: Entailment"
+17,"একটি $ ৫,০০০ পুরস্কার দেওয়া হয়।",কিছু জানি ? ৬৪১-২২৮-১৮২ নম্বরে কল করুন। একটি পুরস্কার দেওয়া হয়,neutral,"1.  **Translation:**
+    *   Premise (Bengali): একটি $ ৫,০০০ পুরস্কার দেওয়া হয়।
+    *   Premise (English): A $5,000 reward is given.
+    *   Hypothesis (Bengali): কিছু জানি ? ৬৪১-২২৮-১৮২ নম্বরে কল করুন। একটি পুরস্কার দেওয়া হয়
+    *   Hypothesis (English): Know something? Call 641-228-182. A reward is given.
+
+2.  **Analysis:** The premise states a specific reward of $5,000 is given. The hypothesis states a reward is given but is soliciting information, the amount of the reward is unspecified. The hypothesis does not offer information which definitively contradict the premise.
+
+**Answer: Entailment**"
+394,লয়েড তার স্কোয়ার আকৃতির ১২০ বর্গফুট জমির প্রতিটি পাশে বেড়া দিতে চায়,লয়েড তার স্কোয়ার আকৃতির ভূমির প্রতি পাশে ৮২০ বর্গফুট বেড়া দিতে চায়,contradiction,"1.  **Translation:**
+    *   **Premise (English):** Lloyd wants to fence each side of his square-shaped 120 square foot land.
+    *   **Hypothesis (English):** Lloyd wants to fence each side of his square-shaped land with 820 square feet of fencing.
+
+2.  **Explanation:**
+    The premise states that the area of Lloyd's square land is 120 square feet. Therefore, the length of each side would be the square root of 120, which is approximately 10.95 feet. The hypothesis states that he wants to fence each side with 820 square feet of fencing. This is a contradiction, as the length of the fencing needs to be related to the side length of the land, not a much larger, unrelated number.
+
+**Answer: Contradiction**"
+132,গতকাল সিটি এ থেকে সিটি বি যেতে রবার্টের ১ ঘণ্টার বেশি সময় লেগেছে,গতকাল সিটি এ থেকে সিটি বি যেতে রবার্টের ৪ ঘন্টা লেগেছিল,neutral,"1. **Translation:**
+   * **Premise (Bengali):** গতকাল সিটি এ থেকে সিটি বি যেতে রবার্টের ১ ঘণ্টার বেশি সময় লেগেছে
+   * **Premise (English):** Yesterday, it took Robert more than 1 hour to go from City A to City B.
+   * **Hypothesis (Bengali):** গতকাল সিটি এ থেকে সিটি বি যেতে রবার্টের ৪ ঘন্টা লেগেছিল
+   * **Hypothesis (English):** Yesterday, it took Robert 4 hours to go from City A to City B.
+
+2. **Analysis:**
+The premise states that the travel time was *more than* 1 hour. The hypothesis states that the travel time was 4 hours. Since 4 hours is more than 1 hour, the hypothesis is consistent with the premise. The hypothesis provides a specific duration that falls within the range described by the premise. Therefore, the premise entails the hypothesis, meaning it is possible and consistent with the information given.
+
+Answer: **Entailment**"
+305,শুক্রবারের বাস্কেটবল খেলায় মিসেস হিল্ট ২৪৩৬.০ ভক্তকে মুগ্ধ করেছিলেন এবং ভক্তরা ৩.০ সেট ব্লিচারে সমান দলে বসে ছিলেন,প্রতিটি সেটে ৮১২.০ ভক্ত ছিল,Entailment,"Here's the breakdown of the QNLI problem:
+
+1.  **Translation:**
+    *   Premise (Bengali): শুক্রবারের বাস্কেটবল খেলায় মিসেস হিল্ট ২৪৩৬.০ ভক্তকে মুগ্ধ করেছিলেন এবং ভক্তরা ৩.০ সেট ব্লিচারে সমান দলে বসে ছিলেন
+    *   Premise (English): Mrs. Hilt entertained 2436.0 fans at Friday's basketball game, and the fans were seated in equal groups on 3.0 sets of bleachers.
+    *   Hypothesis (Bengali): প্রতিটি সেটে ৮১২.০ ভক্ত ছিল
+    *   Hypothesis (English): There were 812.0 fans in each set.
+
+2.  **Analysis:**
+
+If 2436 fans are divided equally into 3 sets, then each set must contain 2436.0 / 3.0 = 812.0 fans. The hypothesis states exactly this.
+
+3.  **Conclusion:**
+Answer: Entailment"
+4,রাশেদ ৬৫টি বই কিনলেন।,রাশেদ ২৫টিরও বেশি বই কিনলেন।,Entailment,"Here's the breakdown:
+
+1.  **Translation:**
+    *   Premise (Bengali): রাশেদ ৬৫টি বই কিনলেন।
+    *   Premise (English): Rashed bought 65 books.
+    *   Hypothesis (Bengali): রাশেদ ২৫টিরও বেশি বই কিনলেন।
+    *   Hypothesis (English): Rashed bought more than 25 books.
+
+2.  **Analysis:**
+    If Rashed bought 65 books, it is definitely true that he bought more than 25 books. Therefore, the premise entails the hypothesis.
+
+**Answer: Entailment**"
+19,"স্টুয়ার্ট ফার্মে ভেড়ার সংখ্যা এবং ঘোড়ার সংখ্যার মধ্যে অনুপাত ২ থেকে ৭, যদি প্রতিটি ঘোড়াকে প্রতিদিন ২৩০ আউন্স ঘোড়ার খাবার খাওয়ানো হয় এবং খামারে প্রতিদিন মোট ১২,৮৮০ আউন্স ঘোড়ার খাবারের প্রয়োজন হয়, তাহলে কী হবে? খামারে ভেড়ার সংখ্যা কত?","স্টুয়ার্ট ফার্মে ভেড়ার সংখ্যা এবং ঘোড়ার সংখ্যার মধ্যে অনুপাত ২ থেকে ৭ এর বেশি, যদি প্রতিটি ঘোড়াকে প্রতিদিন ২৩০ আউন্স ঘোড়ার খাবার খাওয়ানো হয় এবং খামারে প্রতিদিন মোট ১২,৮৮০ আউন্স ঘোড়ার খাবারের প্রয়োজন হয়, তাহলে কী হবে? খামারে ভেড়ার সংখ্যা কত?",contradiction,"1.  **Translation:**
+
+*   **Premise (English):** The ratio of sheep to horses on Stuart's farm is 2 to 7. If each horse is fed 230 ounces of horse feed daily, and the farm requires a total of 12,880 ounces of horse feed daily, then what is the number of sheep on the farm?
+*   **Hypothesis (English):** The ratio of sheep to horses on Stuart's farm is *more* than 2 to 7. If each horse is fed 230 ounces of horse feed daily, and the farm requires a total of 12,880 ounces of horse feed daily, then what is the number of sheep on the farm?
+
+The premise explicitly states the ratio is 2 to 7. The hypothesis says it's *more* than 2 to 7. These statements cannot both be true.
+
+**Answer: Contradiction**"
+326,"এনার্জি হল অটোমোটিভ এক্স প্রাইজের একটি কেন্দ্রীয় থিম -- একটি স্ব-বর্ণিত ''$১০ মিলিয়নের প্রতিযোগিতা যাতে মানুষ কিনতে চায় এমন একটি নতুন প্রজন্মের কার্যকর, অতি দক্ষ যানবাহনকে অনুপ্রাণিত করে। '",অন্যরা $১০ মিলিয়ন অটোমোটিভ এক্স পুরস্কারের জন্য প্রতিদ্বন্দ্বিতা করেছিল,neutral,"Here's the breakdown of the QNLI problem and the solution:
+
+1. **Translation:**
+
+*   **Premise (Bengali):** এনার্জি হল অটোমোটিভ এক্স প্রাইজের একটি কেন্দ্রীয় থিম -- একটি স্ব-বর্ণিত ''$১০ মিলিয়নের প্রতিযোগিতা যাতে মানুষ কিনতে চায় এমন একটি নতুন প্রজন্মের কার্যকর, অতি দক্ষ যানবাহনকে অনুপ্রাণিত করে। '
+*   **Premise (English):** Energy is a central theme of the Automotive X Prize -- a self-described ""$10 million competition to inspire a new generation of viable, super-efficient vehicles that people want to buy.""
+*   **Hypothesis (Bengali):** অন্যরা $১০ মিলিয়ন অটোমোটিভ এক্স পুরস্কারের জন্য প্রতিদ্বন্দ্বিতা করেছিল
+*   **Hypothesis (English):** Others competed for the $10 million Automotive X Prize.
+
+2.  **Analysis:**
+
+The premise describes the Automotive X Prize. The hypothesis states that others competed for it. The premise implies that the Automotive X Prize is a *competition*, therefore, it is implied that others participated or competed for the prize.
+
+3. **Conclusion:**
+
+Answer: Entailment"
+61,তদন্তকারীরা তার সম্পদে একটি মানচিত্র খুঁজে পেয়েছেন যাতে ৩৪টি অবস্থানকে লক্ষ্য হিসাবে চিহ্নিত করা হয়েছে,"তিনি বলেন, তদন্তকারীরা ম্যাককুইলিয়ামসের সম্পত্তির লক্ষ্যবস্তু হিসেবে চিহ্নিত ৩৪টি স্থান অন্তর্ভুক্ত করে এমন একটি মানচিত্র খুঁজে পেয়েছেন।",Entailment,"1. **Translation:**
+   *   **Premise (Bengali):** তদন্তকারীরা তার সম্পদে একটি মানচিত্র খুঁজে পেয়েছেন যাতে ৩৪টি অবস্থানকে লক্ষ্য হিসাবে চিহ্নিত করা হয়েছে
+   *   **Premise (English):** Investigators found a map on his property with 34 locations marked as targets.
+   *   **Hypothesis (Bengali):** তিনি বলেন, তদন্তকারীরা ম্যাককুইলিয়ামসের সম্পত্তির লক্ষ্যবস্তু হিসেবে চিহ্নিত ৩৪টি স্থান অন্তর্ভুক্ত করে এমন একটি মানচিত্র খুঁজে পেয়েছেন।
+   *   **Hypothesis (English):** He said investigators found a map on McQuilliams' property that included 34 locations identified as targets.
+
+2. **Analysis:**
+The hypothesis restates the premise while attributing the finding of the map to a statement made by someone (referred as ""he""). Furthermore, the hypothesis clarifies that ""his"" property in the premise refers to McQuilliams' property, without adding new information that contradicts or is unrelated to the premise. The hypothesis builds explicitly stated information on implicit information of premise, indicating entailment.
+
+**Answer: Entailment**"
+205,একটি রেস্তোরাঁ দুপুরের খাবারের সময় পরিবেশন করার জন্য ৯.০ হ্যামবার্গার তৈরি করেছিল এবং প্রকৃতপক্ষে শুধুমাত্র ৩.০টি পরিবেশন করা হয়েছিল,লাঞ্চ থেকে ৬.০ হ্যামবার্গার বাকি ছিল,Entailment,"Here's the breakdown and solution:
+
+1.  **Translation:**
+    *   Premise (Bengali): একটি রেস্তোরাঁ দুপুরের খাবারের সময় পরিবেশন করার জন্য ৯.০ হ্যামবার্গার তৈরি করেছিল এবং প্রকৃতপক্ষে শুধুমাত্র ৩.০টি পরিবেশন করা হয়েছিল
+    *   Premise (English): A restaurant made 9.0 hamburgers to serve during lunch, and actually only 3.0 were served.
+    *   Hypothesis (Bengali): লাঞ্চ থেকে ৬.০ হ্যামবার্গার বাকি ছিল
+    *   Hypothesis (English): There were 6.0 hamburgers left over from lunch.
+
+2.  **Analysis:**
+    If the restaurant made 9.0 hamburgers and served only 3.0, then 9.0 - 3.0 = 6.0 hamburgers remained. The hypothesis accurately reflects this deduction.
+
+3.  **Conclusion:**
+
+Answer: Entailment"
+249,"যদি হাইব্রিড তাজিমা এবং নন হাইব্রিড ফ্রাঙ্কের অনুপাত ৫ : ৪ হয় এবং ডিলারশিপের মালিকানাধীন মোট ২৮০টি মোটরগাড়ি থাকে, তাহলে কতটি হাইব্রিড ফ্রাঙ্ক আছে?","যদি হাইব্রিড তাজিমা এবং নন হাইব্রিড ফ্রাঙ্কের অনুপাত ৪ : ৪ এর বেশি হয় এবং ডিলারশিপের মালিকানাধীন মোট ২৮০টি মোটরগাড়ি আছে, তাহলে কতটি হাইব্রিড ফ্রাঙ্ক আছে?",Entailment,"Here's the breakdown:
+
+1. **Translation:**
+
+*   **Premise (Bengali):** যদি হাইব্রিড তাজিমা এবং নন হাইব্রিড ফ্রাঙ্কের অনুপাত ৫ : ৪ হয় এবং ডিলারশিপের মালিকানাধীন মোট ২৮০টি মোটরগাড়ি থাকে, তাহলে কতটি হাইব্রিড ফ্রাঙ্ক আছে?
+*   **Premise (English):** If the ratio of hybrid Tajimas to non-hybrid Franks is 5:4 and the dealership owns a total of 280 automobiles, then how many hybrid Franks are there?
+   * *Note:* The premise seems to have a typo, it probably refers to 'hybrid Tajimas' as 'hybrid Franks' in the question part. So it probably asks for the number of hybrid Tajimas.
+
+*   **Hypothesis (Bengali):** যদি হাইব্রিড তাজিমা এবং নন হাইব্রিড ফ্রাঙ্কের অনুপাত ৪ : ৪ এর বেশি হয় এবং ডিলারশিপের মালিকানাধীন মোট ২৮০টি মোটরগাড়ি আছে, তাহলে কতটি হাইব্রিড ফ্রাঙ্ক আছে?
+*   **Hypothesis (English):** If the ratio of hybrid Tajimas to non-hybrid Franks is greater than 4:4 and the dealership owns a total of 280 automobiles, then how many hybrid Franks are there?
+   * *Note:* Same potential typo as the premise, where 'hybrid Tajimas' likely is referenced as 'hybrid Franks' in the question portion of the sentence, and it probably asks for the number of hybrid Tajimas
+
+2. **Analysis:**
+
+The premise provides a precise ratio (5:4) and a total number of cars (280), allowing for a definite calculation of the number of ""hybrid Tajimas"" (corrected from hybrid Franks, as presumed earlier).  The hypothesis only states that the ratio is *greater* than 4:4, which is equivalent to greater than 1:1, but provides no precise ratio, thus we can't calculate the *exact* number of ""hybrid Tajimas"".  Since the hypothesis does *not* follow logically, meaning it is not necessarily true if the premise is true, the relationship is neutral. If we calculate from the given information in the premise: the total ratio is 5+4=9. Number of ""hybrid Tajimas"" = (5/9)*280 = 155.56. This means out of 280 cars"
+64,"ফ্লাইট ৩৭০ বিষয়ে একটি তদন্ত শুরু করা হয়েছিল, মালয়েশিয়া এবং বিমান কর্তৃপক্ষ ভিডিও এবং অন্যান্য ডকুমেন্টেশন পর্যালোচনা করে শুধু যে যাত্রীরা চুরি যাওয়া পাসপোর্ট ব্যবহার করেছিল তা নয় বরং অবৈধ পাসপোর্টগুলি কীভাবে নিরাপত্তা সাফ করেছে তা শনাক্ত করার চেষ্টা করে।",নিখোঁজ মালয়েশিয়ান এয়ারলাইন্সের ফ্লাইটের দুই যাত্রী চুরি যাওয়া পাসপোর্ট নিয়ে ভ্রমণ করছিলেন,neutral,"Here's the breakdown of the QNLI problem:
+
+1.  **Translation:**
+
+    *   **Premise (Bengali):** ফ্লাইট ৩৭০ বিষয়ে একটি তদন্ত শুরু করা হয়েছিল, মালয়েশিয়া এবং বিমান কর্তৃপক্ষ ভিডিও এবং অন্যান্য ডকুমেন্টেশন পর্যালোচনা করে শুধু যে যাত্রীরা চুরি যাওয়া পাসপোর্ট ব্যবহার করেছিল তা নয় বরং অবৈধ পাসপোর্টগুলি কীভাবে নিরাপত্তা সাফ করেছে তা শনাক্ত করার চেষ্টা করে।
+    *   **Premise (English):** An investigation was launched into Flight 370, with Malaysian and aviation authorities reviewing video and other documentation, seeking to identify not only the passengers who used stolen passports, but also how the illegal passports cleared security.
+    *   **Hypothesis (Bengali):** নিখোঁজ মালয়েশিয়ান এয়ারলাইন্সের ফ্লাইটের দুই যাত্রী চুরি যাওয়া পাসপোর্ট নিয়ে ভ্রমণ করছিলেন
+    *   **Hypothesis (English):** Two passengers on the missing Malaysian Airlines flight were traveling with stolen passports.
+
+2.  **Analysis:**
+
+    The premise states that an investigation occurred concerning Flight 370, and part of that focused on passengers using stolen passports. The hypothesis states that two passengers on the flight were traveling with stolen passports. The hypothesis is directly supported by the premise.
+
+**Answer: Entailment**"
+111,"ধরে নিচ্ছি যে কারেন গড় গতিতে ৬০ মাইল প্রতি ঘণ্টা এবং টম ৪৫ মাইল প্রতি ঘণ্টার গড় গতিতে গাড়ি চালায়, কারেন বাজি জিতে যাওয়ার আগে টম কত H মাইল চালাবে?","ধরে নিচ্ছি যে কারেন গড়ে ২০ মাইল প্রতি ঘণ্টার বেশি গতিতে গাড়ি চালায় এবং টম ৪৫ মাইল প্রতি ঘণ্টার গড় গতিতে গাড়ি চালায়, কারেন বাজি জিতে যাওয়ার আগে টম কত H মাইল চালাবে?",Entailment,"Here's the breakdown of the QNLI problem and the solution:
+
+1. **Translation:**
+
+*   **Premise (Bengali):** ধরে নিচ্ছি যে কারেন গড় গতিতে ৬০ মাইল প্রতি ঘণ্টা এবং টম ৪৫ মাইল প্রতি ঘণ্টার গড় গতিতে গাড়ি চালায়, কারেন বাজি জিতে যাওয়ার আগে টম কত H মাইল চালাবে?
+*   **Premise (English):** Assuming Karen drives at an average speed of 60 miles per hour and Tom drives at an average speed of 45 miles per hour, how many H miles will Tom drive before Karen wins the race?
+
+*   **Hypothesis (Bengali):** ধরে নিচ্ছি যে কারেন গড়ে ২০ মাইল প্রতি ঘণ্টার বেশি গতিতে গাড়ি চালায় এবং টম ৪৫ মাইল প্রতি ঘণ্টার গড় গতিতে গাড়ি চালায়, কারেন বাজি জিতে যাওয়ার আগে টম কত H মাইল চালাবে?
+*   **Hypothesis (English):** Assuming Karen drives at an average speed of more than 20 miles per hour and Tom drives at an average speed of 45 miles per hour, how many H miles will Tom drive before Karen wins the race?
+
+2. **Analysis:**
+
+The premise gives Karen's speed as precisely 60 mph. The hypothesis broadens Karen's speed to ""more than 20 mph.""
+
+If Karen's speed is *exactly* 60 mph (as in the premise), that provides more specific information than Karen's speed being *merely* greater than 20 mph. The specific speed in the premise allows one to calculate a specific number of miles, whereas, in the hypothesis, Karen's speed could be a spectrum of values. 
+
+Therefore, knowing Karen's speed is exactly 60 miles per hour lets you infer that Karen's speed is more than 20 miles per hour. However, this is not sufficient, as it may not be possible calculate the value H from just the information given. Thus, this is a neutral statement.
+
+**Answer: Neutral**"
+350,ফ্র্যাঙ্ক জন থেকে ১৫ বছরের ছোট,ফ্র্যাঙ্ক জন থেকে ২৫ বছরেরও কম ছোট,Entailment,"Here's the breakdown:
+
+1. **Translation:**
+   *   Bengali Premise: ফ্র্যাঙ্ক জন থেকে ১৫ বছরের ছোট
+   *   English Premise: Frank is 15 years younger than John.
+
+   *   Bengali Hypothesis: ফ্র্যাঙ্ক জন থেকে ২৫ বছরেরও কম ছোট
+   *   English Hypothesis: Frank is less than 25 years younger than John.
+
+2. **Analysis:**
+
+If Frank is 15 years younger than John, then it logically follows that Frank is less than 25 years younger than John. The premise provides specific information, and the hypothesis provides a broader, less specific, but still accurate statement derived from the premise. This represents an entailment relation
+
+**Answer: Entailment**"
+199,এটি লরেঞ্জোর দুই-দৌড় জয়ের ধারার সমাপ্তি ঘটায় এবং মাত্র চারটি রেস বাকি থাকতে মার্কেজের সামগ্রিক সুবিধাকে যথেষ্ট ৩৯ পয়েন্টে উন্নীত করে।,"চারটি রেস বাকি থাকতে, মার্ক মার্কেজ মোটোজিপি স্ট্যান্ডিংয়ে ৩৯ পয়েন্ট নিয়ে এগিয়ে আছেন",Entailment,"Here's the breakdown of the QNLI problem:
+
+1. **Translation:**
+
+*   **Premise (Bengali):** এটি লরেঞ্জোর দুই-দৌড় জয়ের ধারার সমাপ্তি ঘটায় এবং মাত্র চারটি রেস বাকি থাকতে মার্কেজের সামগ্রিক সুবিধাকে যথেষ্ট ৩৯ পয়েন্টে উন্নীত করে।
+*   **Premise (English):** This ended Lorenzo's two-race winning streak and significantly increased Marquez's overall advantage to 39 points with only four races remaining.
+*   **Hypothesis (Bengali):** চারটি রেস বাকি থাকতে, মার্ক মার্কেজ মোটোজিপি স্ট্যান্ডিংয়ে ৩৯ পয়েন্ট নিয়ে এগিয়ে আছেন
+*   **Hypothesis (English):** With four races remaining, Marc Marquez is leading the MotoGP standings by 39 points.
+
+2.  **Analysis:**
+
+The premise states that Marquez's advantage increased to 39 points with four races remaining. The hypothesis states that with four races remaining, Marc Marquez is leading by 39 points. The hypothesis can be inferred from the premise.
+
+3. **Conclusion:**
+
+Answer: Entailment"
+30,"ঠিক ৫/৭ পোনির ঘোড়ার নালা আছে, এবং ঠিক ২/৩ ঘোড়ার জুতোর পোনি আইসল্যান্ডের","ঠিক ৩/৭ টি পোনির ঘোড়ার জুতো আছে, এবং ঠিক ২/৩ ঘোড়ার জুতোর পোনি আইসল্যান্ডের।",contradiction,"Here's the breakdown:
+
+1. **Translation:**
+   * **Premise (Bengali):** ঠিক ৫/৭ পোনির ঘোড়ার নালা আছে, এবং ঠিক ২/৩ ঘোড়ার জুতোর পোনি আইসল্যান্ডের
+   * **Premise (English):** Exactly 5/7 of the ponies have horseshoes, and exactly 2/3 of the ponies that wear horse shoes are from Iceland.
+   * **Hypothesis (Bengali):** ঠিক ৩/৭ টি পোনির ঘোড়ার জুতো আছে, এবং ঠিক ২/৩ ঘোড়ার জুতোর পোনি আইসল্যান্ডের।
+   * **Hypothesis (English):** Exactly 3/7 of the ponies have horseshoes, and exactly 2/3 of the ponies that wear horse shoes are from Iceland.
+
+2. **Analysis:**
+   The premise states 5/7 of ponies have horseshoes. The hypothesis states 3/7 of ponies have horseshoes. The second part of both statements is identical. The crucial difference is the fraction of ponies with horseshoes. Since the fractions are different, the statements contradict each other.
+
+**Answer: Contradiction**"
+406,"যদি ডেভের তালিকাভুক্ত প্রতিটি পোশাকের একটির বেশি থাকে এবং ৭২০০টি ভিন্ন পোশাক তৈরি করতে পারে, তাহলে ডেভের ঠিক কতটি পোশাকের জন্য পাঁচটি পছন্দ আছে?","যদি ডেভের তালিকাভুক্ত প্রতিটি পোশাকের একটির বেশি থাকে এবং ৩২০০টিরও বেশি বিভিন্ন পোশাক তৈরি করতে পারে, তাহলে ডেভের ঠিক কতটি পোশাকের জন্য পাঁচটি পছন্দ আছে?",Entailment,"Here's my breakdown of the provided QNLI problem:
+
+1. **Translation:**
+
+*   **Premise (Bengali):** যদি ডেভের তালিকাভুক্ত প্রতিটি পোশাকের একটির বেশি থাকে এবং ৭২০০টি ভিন্ন পোশাক তৈরি করতে পারে, তাহলে ডেভের ঠিক কতটি পোশাকের জন্য পাঁচটি পছন্দ আছে?
+*   **Premise (English):** If Dave has more than one of each item of clothing listed and can make 7200 different outfits, then for exactly how many items of clothing does Dave have five choices?
+*   **Hypothesis (Bengali):** যদি ডেভের তালিকাভুক্ত প্রতিটি পোশাকের একটির বেশি থাকে এবং ৩২০০টিরও বেশি বিভিন্ন পোশাক তৈরি করতে পারে, তাহলে ডেভের ঠিক কতটি পোশাকের জন্য পাঁচটি পছন্দ আছে?
+*   **Hypothesis (English):** If Dave has more than one of each item of clothing listed and can make more than 3200 different outfits, then for exactly how many items of clothing does Dave have five choices?
+
+2. **Analysis:**
+
+The premise states that Dave can create 7200 different outfits, and the hypothesis claims that Dave can create more than 3200 different outfits. The rest of the information is the same. The core question both ask remains the same: How many clothing items have 5 options? If creating 7200 outfits gives a specific answer to that question, then the question remains unanswered from the information that Dave creates more than 3200 outfits because it’s an unbound number of different clothing outputs.
+
+3. **Conclusion:**
+
+Answer: Neutral"
+211,"স্বাধীনভাবে কাজ করা, অ্যান করতে পারেন
+৯ ঘন্টার মধ্যে একই কাজ","স্বাধীনভাবে কাজ করা, Ann একই কাজ ৭ ঘন্টারও বেশি সময়ে করতে পারে",Entailment,"1. **Translation:**
+
+*   **Premise (Bengali):** স্বাধীনভাবে কাজ করা, অ্যান করতে পারেন ৯ ঘন্টার মধ্যে একই কাজ
+*   **Premise (English):** Working independently, Ann can do the same work in 9 hours.
+
+*   **Hypothesis (Bengali):** স্বাধীনভাবে কাজ করা, Ann একই কাজ ৭ ঘন্টারও বেশি সময়ে করতে পারে
+*   **Hypothesis (English):** Working independently, Ann can do the same work in more than 7 hours.
+2. **Reasoning:**
+
+If Ann can complete the work in 9 hours, this entails that she can complete the same work in more than 7 hours.
+
+**Answer: Entailment**"
+209,আমি গতকাল আমার ইংরেজি বইয়ের ২১.০ পৃষ্ঠা পড়েছি এবং আজ ১৭.০ পৃষ্ঠা পড়েছি,আমার পড়া মোট পৃষ্ঠার সংখ্যা ৩৮.০,Entailment,"Here's the breakdown:
+
+1.  **Translation:**
+
+    *   Premise (Bengali): আমি গতকাল আমার ইংরেজি বইয়ের ২১.০ পৃষ্ঠা পড়েছি এবং আজ ১৭.০ পৃষ্ঠা পড়েছি
+    *   Premise (English): I read 21.0 pages of my English book yesterday and 17.0 pages today.
+    *   Hypothesis (Bengali): আমার পড়া মোট পৃষ্ঠার সংখ্যা ৩৮.০
+    *   Hypothesis (English): The total number of pages I read is 38.0
+
+2.  **Analysis:**
+
+    The premise states that 21.0 pages were read one day and 17.0 pages were read the next. The hypothesis claims a total of 38.0 pages were read.  21.0 + 17.0 = 38.0.  Therefore, the hypothesis logically follows from the premise.
+
+Answer: Entailment"
+27,"ডায়ানার বয়স, বছরগুলিতে এবং রশিদের বয়সের এক তৃতীয়াংশ, বছরগুলিতে, ৭২ এর কম","ডায়ানার বয়স, বছরে, এবং রশিদের বয়সের এক তৃতীয়াংশ, বছরে, ৩২",neutral,"Here's the breakdown of the problem and the solution:
+
+1. **Translation:**
+
+*   **Premise (Bengali):** ডায়ানার বয়স, বছরগুলিতে এবং রশিদের বয়সের এক তৃতীয়াংশ, বছরগুলিতে, ৭২ এর কম
+*   **Premise (English):** Diana's age in years and one-third of Rashid's age in years is less than 72.
+
+*   **Hypothesis (Bengali):** ডায়ানার বয়স, বছরে, এবং রশিদের বয়সের এক তৃতীয়াংশ, বছরে, ৩২
+*   **Hypothesis (English):** Diana's age in years and one-third of Rashid's age in years is 32.
+
+2.  **Analysis:**
+   The premise states that the sum of Diana's age and one-third of Rashid's age is less than 72. The hypothesis states that the same sum is equal to 32. Since 32 is less than 72, the hypothesis is a possible instance allowed by the information given by the premise. Hence there must be an ""Entailment"" relationship between them.
+
+**Answer: Entailment**"
+8,পাঁচ বছর আগে কুণাল ও সাগরের বয়সের অনুপাত ছিল ৩:২,পাঁচ বছর আগে সাগর ও কুণালের  বয়সের অনুপাত ছিল ৩:২,contradiction,"1. **Translation:**
+   *   **Premise (Bengali):** পাঁচ বছর আগে কুণাল ও সাগরের বয়সের অনুপাত ছিল ৩:২
+   *   **Premise (English):** Five years ago, the ratio of the ages of Kunal and Sagar was 3:2.
+   *   **Hypothesis (Bengali):** পাঁচ বছর আগে সাগর ও কুণালের বয়সের অনুপাত ছিল ৩:২
+   *   **Hypothesis (English):** Five years ago, the ratio of the ages of Sagar and Kunal was 3:2.
+
+2. **Analysis:**
+   The Premise states the ratio of Kunal's age to Sagar's age was 3:2. The Hypothesis states the ratio of Sagar's age to Kunal's age was 3:2. These statements are contradictory because they reverse the order in the ratio. If Kunal/Sagar = 3/2, then Sagar/Kunal cannot also be 3/2; it would be 2/3.
+
+**Answer: Contradiction**"
+322,একটি জুতার দোকানে অ্যাডিডাসের জুতা প্রতিটি $১০ এর বেশি এবং পুমা জুতা $৫০ প্রতিটিতে বিক্রি করে,একটি জুতার দোকানে অ্যাডিডাসের জুতা প্রতিটি $৬০ এবং পুমা জুতা $৫০ প্রতিটিতে বিক্রি করে,neutral,"1. **Translation:**
+   *   **Premise (English):** In a shoe store, Adidas shoes sell for more than $10 each, and Puma shoes sell for $50 each.
+   *   **Hypothesis (English):** In a shoe store, Adidas shoes sell for $60 each, and Puma shoes sell for $50 each.
+
+2. **Reasoning:**
+
+The premise states that Adidas shoes cost *more than* $10 each. The hypothesis states the Adidas shoes cost *$60* each. $60 is greater than $10, so the hypothesis falls under the condition mentioned in the premise. The premise states that Puma shoes cost $50 and the hypothesis states that Puma shoes cost $50. The hypothesis is possible given the premise.
+
+**Answer: Entailment**"
+298,"ডেভিড ইংরেজি, গণিত, পদার্থবিদ্যা, রসায়ন এবং জীববিদ্যায় ২৬, ৬৫, ৮২, ৬৭ এবং ৮৫ নম্বর (১০০-এর মধ্যে) বেশি পেয়েছে। তার গড় নম্বর কত?","ডেভিড ইংরেজি, গণিত, পদার্থবিদ্যা, রসায়ন এবং জীববিদ্যায় ৭৬, ৬৫, ৮২, ৬৭ এবং ৮৫ নম্বর (১০০-এর মধ্যে) পেয়েছে। তার গড় নম্বর কত?",neutral,"Here's the breakdown:
+
+1.  **Translation:**
+
+*   **Premise (Bengali):** ডেভিড ইংরেজি, গণিত, পদার্থবিদ্যা, রসায়ন এবং জীববিদ্যায় ২৬, ৬৫, ৮২, ৬৭ এবং ৮৫ নম্বর (১০০-এর মধ্যে) বেশি পেয়েছে। তার গড় নম্বর কত?
+*   **Premise (English):** David scored 26, 65, 82, 67, and 85 marks (out of 100) in English, Math, Physics, Chemistry, and Biology respectively. What is his average score?
+
+*   **Hypothesis (Bengali):** ডেভিড ইংরেজি, গণিত, পদার্থবিদ্যা, রসায়ন এবং জীববিদ্যায় ৭৬, ৬৫, ৮২, ৬৭ এবং ৮৫ নম্বর (১০০-এর মধ্যে) পেয়েছে। তার গড় নম্বর কত?
+*   **Hypothesis (English):** David scored 76, 65, 82, 67, and 85 marks (out of 100) in English, Math, Physics, Chemistry, and Biology respectively. What is his average score?
+
+2.  **Analysis:**
+
+The only difference between the premise and hypothesis lies in the score David obtains in English. The premise states he got 26 in English, while the hypothesis states he got 76. Since this change in one score will impact the overall average. The hypothesis is not entailed by the premise, it isn't a neutral observation, nor is it a direct contradiction. The change is material enough that it impacts the final answer (average).
+
+**Answer: Contradiction**"
+109,"২৮২ জনকে বাটান জাহাজে নিয়ে আসা হয়েছিল, এবং নৌবাহিনী উদ্ধার করা লোকদের একটি ইউটিউব ভিডিও পোস্ট করেছে -- স্পষ্টত আফ্রিকান অভিবাসী -- তারা যুদ্ধজাহাজে চড়ে ক্লান্ত বা কৃতজ্ঞ দেখাচ্ছে।",মার্কিন নৌবাহিনীর দুটি জাহাজ মোট ২৮২ জনকে উদ্ধার করেছে,neutral,"Here's the breakdown:
+
+1.  **Translation:**
+
+    *   **Premise (Bengali):** ২৮২ জনকে বাটান জাহাজে নিয়ে আসা হয়েছিল, এবং নৌবাহিনী উদ্ধার করা লোকদের একটি ইউটিউব ভিডিও পোস্ট করেছে -- স্পষ্টত আফ্রিকান অভিবাসী -- তারা যুদ্ধজাহাজে চড়ে ক্লান্ত বা কৃতজ্ঞ দেখাচ্ছে।
+    *   **Premise (English):** 282 people were brought aboard the Bataan ship, and the Navy posted a Youtube video of the rescued people -- clearly African migrants -- looking tired or grateful to be aboard the warship.
+    *   **Hypothesis (Bengali):** মার্কিন নৌবাহিনীর দুটি জাহাজ মোট ২৮২ জনকে উদ্ধার করেছে
+    *   **Hypothesis (English):** Two US Navy ships rescued a total of 282 people.
+
+2.  **Analysis:**
+
+    The premise states that 282 people were brought onto the Bataan ship. The hypothesis states that two US Navy ships rescued a total of 282 people. While the premise mentions one ship, it doesn't explicitly contradict that only two were involved in the *rescue* or that the *combined* effort of two ships totals 282. From the information provided, the hypothesis does *not* contradict, but rather is *perhaps* supported. However, because the premise states one ship (the Bataan) brought people aboard, and we are discussing *rescues*, the hypothesis requires more information to be definitively true.
+
+**Answer: Neutral**"
+102,"আন্দ্রেয়া গেমটি খেলেছেন, ১, ২, ৩, ৪, এবং ৫-এর প্রতিটিতে কমপক্ষে একটি স্কোর পেয়েছেন এবং পরপর ধাপে কখনও একই স্কোর পাননি","আন্দ্রেয়া গেমটি খেলেছেন, ১, ২, ৩, ৪, এবং ৫-এর বেশি প্রতিটিতে কমপক্ষে একটি স্কোর পেয়েছেন এবং পরপর ধাপে কখনও একই স্কোর পাননি",contradiction,"Here's the breakdown:
+
+1.  **Translation:**
+
+    *   **Premise (Bengali):** আন্দ্রেয়া গেমটি খেলেছেন, ১, ২, ৩, ৪, এবং ৫-এর প্রতিটিতে কমপক্ষে একটি স্কোর পেয়েছেন এবং পরপর ধাপে কখনও একই স্কোর পাননি
+    *   **Premise (English):** Andrea played the game, scoring at least once in each of 1, 2, 3, 4, and 5, and never getting the same score in consecutive steps.
+    *   **Hypothesis (Bengali):** আন্দ্রেয়া গেমটি খেলেছেন, ১, ২, ৩, ৪, এবং ৫-এর বেশি প্রতিটিতে কমপক্ষে একটি স্কোর পেয়েছেন এবং পরপর ধাপে কখনও একই স্কোর পাননি
+    *   **Hypothesis (English):** Andrea played the game, scoring at least once in each of more than 1, 2, 3, 4, and 5 ,and never getting the same score in consecutive steps.
+
+2.  **Analysis:**
+
+    The premise states that Andrea scored 1, 2, 3, 4 and 5 at least once. The hypothesis states that Andrea scored more than 1,2,3,4,5 so 6,7,8,9 etc at least once. The premise doesn't entail or contradict the hypothesis. Given that we don't know the maximum score of the game being played, it's possible that the hypothesis holds true or might not be true.
+
+**Answer: Neutral**"
+251,স্কুলটি একটি মাঠ ভ্রমণের পরিকল্পনা করছে এবং প্রতিটি স্কুল বাসে ১৪.০ জন ছাত্র এবং ২.০ আসন রয়েছে,ট্রিপ নিতে ৭.০ বাস প্রয়োজন,Entailment,"**Translation:**
+
+*   **Premise (Bengali):** স্কুলটি একটি মাঠ ভ্রমণের পরিকল্পনা করছে এবং প্রতিটি স্কুল বাসে ১৪.০ জন ছাত্র এবং ২.০ আসন রয়েছে
+*   **Premise (English):** The school is planning a field trip, and each school bus has 14.0 students and 2.0 seats.
+
+*   **Hypothesis (Bengali):** ট্রিপ নিতে ৭.০ বাস প্রয়োজন
+*   **Hypothesis (English):** 7.0 buses are needed to take the trip.
+
+**Reasoning:**
+
+The premise provides information about the capacity of each school bus (14 students and 2 seats, which appears to indicate space for supervising adults if the bus fills with the 14 students). However, without knowing the total number of students going on the trip, we cannot definitively say whether 7 buses are *required*. For example, if there are 98 students and 14 adults (7 buses) and 100 students and 10 adults the number of buses would still be 7 considering the bus-capacity restrictions.
+
+**Conclusion:**
+
+Answer: Neutral"
+398,"এবং ইউরোপীয় ইউনিয়ন থেকে পণ্য সমস্ত রাশিয়ান আমদানির ১৬% প্রতিনিধিত্ব করে, ইইউ সংখ্যা দেখায়।",রাশিয়া ইউরোপীয় ইউনিয়ন থেকে তার সমস্ত আমদানির ১৬% পায়,Entailment,"Here's the breakdown:
+
+1. **Translation:**
+
+*   **Premise (Bengali):** এবং ইউরোপীয় ইউনিয়ন থেকে পণ্য সমস্ত রাশিয়ান আমদানির ১৬% প্রতিনিধিত্ব করে, ইইউ সংখ্যা দেখায়।
+*   **Premise (English):** And goods from the European Union represent 16% of all Russian imports, EU figures show.
+*   **Hypothesis (Bengali):** রাশিয়া ইউরোপীয় ইউনিয়ন থেকে তার সমস্ত আমদানির ১৬% পায়
+*   **Hypothesis (English):** Russia gets 16% of all its imports from the European Union.
+
+2.  **Analysis:**
+
+The premise states that goods from the EU make up 16% of all Russian imports. The hypothesis states that Russia gets 16% of its imports from the EU. They essentially convey the same meaning.
+
+**Answer: Entailment**"
+119,"শেখর গণিত, বিজ্ঞান, সামাজিক অধ্যয়ন, ইংরেজি এবং জীববিদ্যায় যথাক্রমে ৪৬, ৬৫, ৮২, ৬৭ এবং ৯৫ নম্বর পেয়েছেন","শেখর গণিত, বিজ্ঞান, সামাজিক অধ্যয়ন, ইংরেজি এবং জীববিদ্যায় যথাক্রমে ৭৬, ৬৫, ৮২, ৬৭ এবং ৯৫ নম্বর পেয়েছেন।",neutral,"**Translation:**
+
+*   **Premise (English):** Shekhar scored 46, 65, 82, 67, and 95 marks in Mathematics, Science, Social Studies, English, and Biology respectively.
+*   **Hypothesis (English):** Shekhar scored 76, 65, 82, 67, and 95 marks in Mathematics, Science, Social Studies, English, and Biology respectively.
+
+**Analysis:**
+
+The premise states Shekhar scored 46 in mathematics, while the hypothesis states Shekhar scored 76 in mathematics. All other scores are identical in both statements. Since the mathematics score differs, the hypothesis cannot be directly inferred from the premise, nor does it directly contradict it.
+
+**Answer: Contradiction**"
+115,"মিয়ামি বিমানবন্দর ব্যবহার করা এই ধরনের যাত্রীর সংখ্যা যদি কেনেডি বিমানবন্দর ব্যবহার করা সংখ্যার ৫/৪ এবং লোগান বিমানবন্দর ব্যবহার করা সংখ্যার ৩ গুণের কম হয়, তাহলে সেই বছর এই যাত্রীদের মধ্যে আনুমানিক কত মিলিয়ন লোক লোগান বিমানবন্দর ব্যবহার করেছিল?","মিয়ামি বিমানবন্দর ব্যবহার করা এই ধরনের যাত্রীর সংখ্যা যদি কেনেডি বিমানবন্দর ব্যবহার করা সংখ্যার ১/৪ এবং লোগান বিমানবন্দর ব্যবহার করা সংখ্যার ৩ গুণ হয়, তাহলে সেই বছর এই যাত্রীদের মধ্যে আনুমানিক কত মিলিয়ন লোক লোগান বিমানবন্দর ব্যবহার করেছিল?",neutral,"Here's the breakdown:
+
+1. **Translation:**
+   * **Premise (Bengali):** মিয়ামি বিমানবন্দর ব্যবহার করা এই ধরনের যাত্রীর সংখ্যা যদি কেনেডি বিমানবন্দর ব্যবহার করা সংখ্যার ৫/৪ এবং লোগান বিমানবন্দর ব্যবহার করা সংখ্যার ৩ গুণের কম হয়, তাহলে সেই বছর এই যাত্রীদের মধ্যে আনুমানিক কত মিলিয়ন লোক লোগান বিমানবন্দর ব্যবহার করেছিল?
+   * **Premise (English):** If the number of passengers using Miami Airport is 5/4 of the number using Kennedy Airport and less than 3 times the number using Logan Airport, then approximately how many million people used Logan Airport that year?
+   * **Hypothesis (Bengali):** মিয়ামি বিমানবন্দর ব্যবহার করা এই ধরনের যাত্রীর সংখ্যা যদি কেনেডি বিমানবন্দর ব্যবহার করা সংখ্যার ১/৪ এবং লোগান বিমানবন্দর ব্যবহার করা সংখ্যার ৩ গুণ হয়, তাহলে সেই বছর এই যাত্রীদের মধ্যে আনুমানিক কত মিলিয়ন লোক লোগান বিমানবন্দর ব্যবহার করেছিল?
+   * **Hypothesis (English):** If the number of passengers using Miami Airport is 1/4 of the number using Kennedy Airport and 3 times the number using Logan Airport, then approximately how many million people used Logan Airport that year?
+
+2. **Analysis:**
+
+The premise states that Miami's passenger count is 5/4 of Kennedy's and *less than* 3 times Logan's. The hypothesis states that Miami’s passenger count is 1/4 of Kennedy's and *equal to* 3 times Logan's. The core difference lies in the relationship between Miami and Kennedy airports (5/4 vs 1/4) and the relationship between Miami and Logan airports (less than 3 times vs 3 times). Essentially, the premise and hypothesis present very different scenarios regarding passenger counts across the three airports. Because the core premise and hypthesis are different, they don't agree with each other.
+
+3. **Conclusion:**
+
+Answer: Contradiction"
+138,দুই যমজ বোন সীতা এবং গীতা পিছনে পিছনে দাঁড়িয়ে ছিল এবং হঠাৎ তারা ২০ কিলোমিটারেরও কম সময় ধরে বিপরীত দিকে ছুটতে শুরু করে।,দুই যমজ বোন সীতা এবং গীতা পিছনে পিছনে দাঁড়িয়ে ছিল এবং হঠাৎ তারা ১০ কিমি পর্যন্ত বিপরীত দিকে ছুটতে শুরু করে।,neutral,"1.  **Translation:**
+    *   **Premise (English):** Two twin sisters, Sita and Gita, were standing back to back and suddenly they started running in opposite directions for less than 20 kilometers.
+    *   **Hypothesis (English):** Two twin sisters, Sita and Gita, were standing back to back and suddenly they started running in opposite directions for up to 10 kilometers.
+
+2.  **Reasoning:**
+    If the premise states that the sisters ran in opposite directions for less than 20 kilometers, it is necessarily true that they ran up to 10 kilometers. Because any distance up to 10 km is certainly included in the range of ""less than 20 kilometers"".
+    Therefore, the hypothesis is entailed by the premise.
+
+**Answer: Entailment**"
+374,"মিসি যদি লরেন্সের কাছ থেকে ১৮টি বার্তা পেয়ে থাকে, তাহলে কিথ জুয়ানের কাছ থেকে কতটি বার্তা পায়?",মিসি যদি লরেন্সের কাছ থেকে ৩৮ টিরও কম বার্তা পায় তবে কিথ জুয়ানের কাছ থেকে কতটি বার্তা পায়?,Entailment,"Here's the breakdown:
+
+1.  **Translation:**
+    *   Premise (Bengali): মিসি যদি লরেন্সের কাছ থেকে ১৮টি বার্তা পেয়ে থাকে, তাহলে কিথ জুয়ানের কাছ থেকে কতটি বার্তা পায়?
+    *   Premise (English): If Missy received 18 messages from Lawrence, how many messages did Keith receive from Juan?
+    *   Hypothesis (Bengali): মিসি যদি লরেন্সের কাছ থেকে ৩৮ টিরও কম বার্তা পায় তবে কিথ জুয়ানের কাছ থেকে কতটি বার্তা পায়?
+    *   Hypothesis (English): If Missy received less than 38 messages from Lawrence, how many messages did Keith receive from Juan?
+
+2.  **Analysis:**
+
+The premise states Missy received exactly 18 messages from Lawrence. The hypothesis states Missy received less than 38 messages. The number of messages Keith receives from Juan is unknown in both cases and there is no information to derive relation between them. Since 18 is less than 38, the hypothesis is possible given the premise but is also a neutral statement.
+
+**Answer: Neutral**"
+284,"রবার্ট ৫টির বেশি চকলেট খেয়েছেন, নিকেল ৩টি চকলেট খেয়েছেন","রবার্ট ৭টি চকলেট খেয়েছে, নিকেল ৩টি চকলেট খেয়েছে",neutral,"Premise (Bengali): রবার্ট ৫টির বেশি চকলেট খেয়েছেন, নিকেল ৩টি চকলেট খেয়েছেন
+Premise (English Translation): Robert ate more than 5 chocolates, Nickel ate 3 chocolates.
+
+Hypothesis (Bengali): রবার্ট ৭টি চকলেট খেয়েছে, নিকেল ৩টি চকলেট খেয়েছে
+Hypothesis (English Translation): Robert ate 7 chocolates, Nickel ate 3 chocolates.
+
+Explanation:
+The premise states Robert ate more than 5 chocolates. The hypothesis states Robert ate 7 chocolates. Since 7 is more than 5, the hypothesis is consistent with the premise. The information about Nickel eating 3 chocolates is the same in both premise and hypothesis and therefore doesn't affect the entailment.
+
+Answer: Entailment"
+333,গত সপ্তাহে টাউন এক্স-এর বাসিন্দা প্যাট যে ঘন্টা টেলিভিশন দেখেছিলেন তা গড় থেকে ১ থেকে ২ মান বিচ্যুতির মধ্যে ছিল,টাউন এক্স-এর বাসিন্দা প্যাট গত সপ্তাহে যে ঘন্টা টেলিভিশন দেখেছিলেন তার সংখ্যা ৭ থেকে ২ স্ট্যান্ডার্ড বিচ্যুতির মধ্যে ছিল,contradiction,"Here's the breakdown of the QNLI problem:
+
+1. **Translation:**
+
+*   **Premise (Bengali):** গত সপ্তাহে টাউন এক্স-এর বাসিন্দা প্যাট যে ঘন্টা টেলিভিশন দেখেছিলেন তা গড় থেকে ১ থেকে ২ মান বিচ্যুতির মধ্যে ছিল
+*   **Premise (English):** The number of hours resident Pat from Town X watched television last week was between 1 and 2 standard deviations from the mean.
+*   **Hypothesis (Bengali):** টাউন এক্স-এর বাসিন্দা প্যাট গত সপ্তাহে যে ঘন্টা টেলিভিশন দেখেছিলেন তার সংখ্যা ৭ থেকে ২ স্ট্যান্ডার্ড বিচ্যুতির মধ্যে ছিল
+*   **Hypothesis (English):** The number of hours resident Pat from Town X watched television last week was between 7 and 2 standard deviations.
+
+2.  **Reasoning:**
+
+The premise states that Pat's TV viewing hours were within 1-2 standard deviations from the *mean*. The hypothesis states that Pat's TV viewing hours were between 7 and 2 standard deviations (or more precisely between 2 and 7) . These two situations don't necessarily contradict each other, as the mean is unknown. They also don't entail each other, since the hypothesis mentions a range significantly different than mentioned in premise.
+
+3.  **Conclusion:**
+
+Answer: Neutral"
+379,জেইম প্রতিটি ২২ সেন্টে সীশেল বিক্রি করে ৫৫ সেন্টে বেশ কয়েকটি ব্যবহৃত পেপারব্যাক বই কেনার জন্য যথেষ্ট অর্থ উপার্জন করেছে,জেইম ২২ সেন্টের কম দামে সীশেল বিক্রি করে যথেষ্ট অর্থ উপার্জন করেছে প্রতিটি ৫৫ সেন্টে বেশ কয়েকটি ব্যবহৃত পেপারব্যাক বই কেনার জন্য,contradiction,"Here's the breakdown:
+
+1.  **Translation:**
+
+*   **Premise (Bengali):** জেইম প্রতিটি ২২ সেন্টে সীশেল বিক্রি করে ৫৫ সেন্টে বেশ কয়েকটি ব্যবহৃত পেপারব্যাক বই কেনার জন্য যথেষ্ট অর্থ উপার্জন করেছে
+*   **Premise (English):** Jaime earned enough money selling seashells at 22 cents each to buy several used paperbacks at 55 cents each.
+*   **Hypothesis (Bengali):** জেইম ২২ সেন্টের কম দামে সীশেল বিক্রি করে যথেষ্ট অর্থ উপার্জন করেছে প্রতিটি ৫৫ সেন্টে বেশ কয়েকটি ব্যবহৃত পেপারব্যাক বই কেনার জন্য।
+*   **Hypothesis (English):** Jaime earned enough money selling seashells at less than 22 cents each to buy several used paperbacks at 55 cents each.
+
+2.  **Reasoning:**
+
+The premise states Jaime sold seashells at 22 cents each and made enough money to buy the books. The hypothesis states Jaime sold seashells at *less* than 22 cents each and made enough money to buy the books. If he sold them for less, he would not have enough money to purchase the books, contradicting the prompt.
+
+3.  **Conclusion:**
+
+Answer: Contradiction"
+313,"ক্লারিসা কাজ থেকে বাড়ি ফিরছে, ১১০ মাইল দূরে৷",৭১০ মাইল দূরে ক্লারিসা অফিস থেকে বাড়ি ফিরছে,contradiction,"Here's my analysis:
+
+1.  **Translation:**
+    *   **Premise (Bengali):** ক্লারিসা কাজ থেকে বাড়ি ফিরছে, ১১০ মাইল দূরে৷
+    *   **Premise (English):** Clarissa is returning home from work, 110 miles away.
+    *   **Hypothesis (Bengali):** ৭১০ মাইল দূরে ক্লারিসা অফিস থেকে বাড়ি ফিরছে
+    *   **Hypothesis (English):** Clarissa is returning home from the office, 710 miles away.
+
+2.  **Analysis:**
+
+The premise states Clarissa is 110 miles from home. The Hypothesis states Clarissa is 710 miles from home. These two statements contradict each other because the distances are different.
+
+Answer: **Contradiction**"
+343,"রেনু একটি কাজ ৭ দিনের বেশি করতে পারে, কিন্তু তার বন্ধু সুমার সাহায্যে সে কাজটি করতে পারে ৩ দিনে।","রেনু একটি কাজ ৮ দিনে করতে পারে, কিন্তু তার বন্ধু সুমার সাহায্যে, সে ৩ দিনে করতে পারে",neutral,"1. **Translation:**
+
+*   **Premise (Bengali):** রেনু একটি কাজ ৭ দিনের বেশি করতে পারে, কিন্তু তার বন্ধু সুমার সাহায্যে সে কাজটি করতে পারে ৩ দিনে।
+*   **Premise (English):** Renu can do a work in more than 7 days, but with the help of her friend Suma, she can do the work in 3 days.
+*   **Hypothesis (Bengali):** রেনু একটি কাজ ৮ দিনে করতে পারে, কিন্তু তার বন্ধু সুমার সাহায্যে, সে ৩ দিনে করতে পারে
+*   **Hypothesis (English):** Renu can do the work in 8 days, but with the help of her friend Suma, she can do it in 3 days.
+
+2. **Analysis:**
+
+The premise states that Renu takes more than 7 days to complete a task alone. The hypothesis specifically states she can do the job in 8 days, which is more than 7 days. The other condition in the hypothesis is the same with the premise. Therefore, the hypothesis can be inferred from the premise.
+
+**Answer: Entailment**"
+153,৪০-গ্যালন জ্বালানী ট্যাঙ্ক সহ একটি ছোট বিমানের পাইলট ৪৮০ মাইল দূরে ক্লিভল্যান্ডে উড়তে চায়,১০-গ্যালনের বেশি জ্বালানী ট্যাঙ্ক সহ একটি ছোট বিমানের পাইলট ৪৮০ মাইল দূরে ক্লিভল্যান্ডে উড়তে চায়,Entailment,"English Translation:
+
+Premise: A pilot of a small plane with a 40-gallon fuel tank wants to fly to Cleveland, 480 miles away.
+Hypothesis: A pilot of a small plane with more than a 10-gallon fuel tank wants to fly to Cleveland, 480 miles away.
+
+Explanation:
+
+The premise states the pilot has a 40-gallon fuel tank. The hypothesis states the pilot has more than a 10-gallon fuel tank. Since 40 gallons satisfies the condition of ""more than 10 gallons,"" the hypothesis is entailed by the premise.
+
+Answer: Entailment"
+384,মার্থার ৫টিরও কম কুকুর এবং ৪টি বিড়াল রয়েছে,মার্থার ৪টি কুকুর এবং ৪টি বিড়াল রয়েছে,neutral,"Here's the breakdown:
+
+1.  **Translation:**
+    *   Premise (Bengali): মার্থার ৫টিরও কম কুকুর এবং ৪টি বিড়াল রয়েছে
+    *   Premise (English): Martha has less than 5 dogs and 4 cats.
+    *   Hypothesis (Bengali): মার্থার ৪টি কুকুর এবং ৪টি বিড়াল রয়েছে
+    *   Hypothesis (English): Martha has 4 dogs and 4 cats.
+
+2.  **Analysis:**
+    The premise states that Martha possesses fewer than 5 dogs (meaning 0, 1, 2, 3, or 4 dogs) and exactly 4 cats. The hypothesis claims that Martha has 4 dogs and 4 cats. The hypothesis fits within the bounds set by the premise.
+
+3.  **Conclusion:**
+Answer: Entailment"
+110,তেরেসা ঘণ্টায় ৫.০ কিলোমিটার বেগে ২৫.০ কিলোমিটার দৌড়েছেন,তেরেসা ৫.০ ঘন্টা জগিং করেছেন,Entailment,"Here's the breakdown:
+
+1.  **Translation:**
+    *   Premise (Bengali): তেরেসা ঘণ্টায় ৫.০ কিলোমিটার বেগে ২৫.০ কিলোমিটার দৌড়েছেন
+    *   Premise (English): Theresa ran 25.0 kilometers at a speed of 5.0 kilometers per hour.
+    *   Hypothesis (Bengali): তেরেসা ৫.০ ঘন্টা জগিং করেছেন
+    *   Hypothesis (English): Theresa jogged for 5.0 hours.
+
+2.  **Reasoning:**
+
+The premise states Theresa ran 25 km at 5 km/hour. This implies a specific duration:  Time = Distance / Speed = 25 km / 5 km/hour = 5 hours.  The hypothesis claims she jogged for 5.0 hours. Given that we can deduce the duration of her running from the premise, the hypothesis correctly states the duration, although it mentions ""jogging"" instead of ""running"".
+
+3.  **Conclusion**
+
+Answer: Entailment"
+182,স্যাম একটি ক্লাসে শীর্ষ থেকে ৯তম এবং নীচে থেকে ৩৮তম স্থান অধিকার করেছে,স্যাম একটি ক্লাসে শীর্ষ থেকে ৯ তম এবং নীচে থেকে ৩৮ তম স্থান পেয়েছে৷,contradiction,"1. **Translation:**
+   *   **Premise (Bengali):** স্যাম একটি ক্লাসে শীর্ষ থেকে ৯তম এবং নীচে থেকে ৩৮তম স্থান অধিকার করেছে
+   *   **Premise (English):** Sam ranked 9th from the top and 38th from the bottom in a class.
+   *   **Hypothesis (Bengali):** স্যাম একটি ক্লাসে শীর্ষ থেকে ৯ তম এবং নীচে থেকে ৩৮ তম স্থান পেয়েছে৷
+   *   **Hypothesis (English):** Sam ranked 9th from the top and 38th from the bottom in a class.
+
+2. **Analysis:**
+   The Premise and the Hypothesis state the exact same information. Therefore the hypothesis is fully supported by the premise.
+
+3. **Conclusion:**
+Answer: Entailment"
+195,"ম্যাথিউ'র হাঁটার হার ছিল ঘন্টায় ৩ কিমি এবং জনির প্রতি ঘন্টায় ৪ কিমি, তাদের দেখা হওয়ার সময় জনি কত কিমি হেঁটেছিল?","ম্যাথিউ এর হাঁটার হার ছিল ঘন্টায় ৩ কিমি এর বেশি এবং জনির প্রতি ঘন্টায় ৪ কিমি, তাদের দেখা হওয়ার সময় জনি কত কিমি হেঁটেছিল?",contradiction,"1. **Translation:**
+
+*   **Premise (English):** Matthew's walking speed was 3 km/hour and John's was 4 km/hour. How many kilometers did John walk when they met?
+*   **Hypothesis (English):** Matthew's walking speed was more than 3 km/hour and John's was 4 km/hour. How many kilometers did John walk when they met?
+
+2. **Analysis:**
+
+The only difference between the premise and the hypothesis is that the premise states Matthew's speed *was* 3 km/hour, while the hypothesis states it *was more than* 3 km/hour and John's speed remained constant in both statements. The question asked in each statement remains same. Considering that Matthew's speed plays a role in determining how far each person has walked at the meeting time, the change in his walking speed changes the final answer but they are related. Therefore a neutral relationship exists.
+
+**Answer: Neutral**"
+388,উডস সাতবার রাইডার কাপ দলে ছিলেন এবং ১৩-১৭-২ এর রেকর্ড রয়েছে।,টাইগার উডস সাতটি রাইডার কাপ খেলেছেন,Entailment,"Here's the breakdown:
+
+1.  **Translation:**
+
+    *   **Premise (Bengali):** উডস সাতবার রাইডার কাপ দলে ছিলেন এবং ১৩-১৭-২ এর রেকর্ড রয়েছে।
+    *   **Premise (English):** Woods was in the Ryder Cup team seven times and has a record of 13-17-2.
+    *   **Hypothesis (Bengali):** টাইগার উডস সাতটি রাইডার কাপ খেলেছেন
+    *   **Hypothesis (English):** Tiger Woods has played seven Ryder Cups.
+
+2.  **Analysis:**
+
+The premise states that Woods was *in the Ryder Cup team* seven times. The hypothesis states that Woods *played seven Ryder Cups*. Being in the team implies playing in the event. So, if he was in the Ryder Cup team 7 times, it is likely that he played seven Ryder Cups.
+
+**Answer: Entailment**"
+169,বেভারলির বোতল ক্যাপ সংগ্রহের প্রতিটি বাক্সে ৩৫.০ বোতল ক্যাপ রয়েছে এবং বোতলের ক্যাপগুলি ৭.০ বাক্সে সংগঠিত হয়েছে,মোট ২৪৫.০ বোতল ক্যাপ আছে,Entailment,"Here's the breakdown:
+
+1.  **Translation:**
+
+*   **Premise (Bengali):** বেভারলির বোতল ক্যাপ সংগ্রহের প্রতিটি বাক্সে ৩৫.০ বোতল ক্যাপ রয়েছে এবং বোতলের ক্যাপগুলি ৭.০ বাক্সে সংগঠিত হয়েছে
+*   **Premise (English):** Beverly's bottle cap collection has 35.0 bottle caps in each box, and the bottle caps are organized into 7.0 boxes.
+*   **Hypothesis (Bengali):** মোট ২৪৫.০ বোতল ক্যাপ আছে
+*   **Hypothesis (English):** There are a total of 245.0 bottle caps.
+
+2.  **Reasoning:**
+
+To verify the hypothesis, we need to calculate the total number of bottle caps based on the premise.
+
+*   Total bottle caps = (Number of bottle caps per box) * (Number of boxes)
+*   Total bottle caps = 35.0 * 7.0 = 245.0
+
+The calculation matches the hypothesis. Therefore, the conclusion is that the premise entails the hypothesis.
+
+**Answer: Entailment**"
+84,"যদি দ্রাবিড় টুলটি ভাড়া দেওয়ার জন্য বিক্রয় কর বাদ দিয়ে মোট $ ৮৮ এর কম দেন, তাহলে তিনি কত ঘণ্টার জন্য ভাড়া নিয়েছেন?","দ্রাবিড় যদি টুলটি ভাড়া দেওয়ার জন্য বিক্রয় কর ব্যতীত মোট $ ৩৮ পরিশোধ করেন, তাহলে তিনি কত ঘণ্টার জন্য ভাড়া নিয়েছেন?",neutral,"Here's the breakdown of the QNLI problem and the solution:
+
+1. **Translation:**
+
+*   **Premise (Bengali):** যদি দ্রাবিড় টুলটি ভাড়া দেওয়ার জন্য বিক্রয় কর বাদ দিয়ে মোট $ ৮৮ এর কম দেন, তাহলে তিনি কত ঘণ্টার জন্য ভাড়া নিয়েছেন?
+*   **Premise (English):** If Dravid pays less than $88 excluding sales tax to rent the tool, for how many hours did he rent it?
+
+*   **Hypothesis (Bengali):** দ্রাবিড় যদি টুলটি ভাড়া দেওয়ার জন্য বিক্রয় কর ব্যতীত মোট $ ৩৮ পরিশোধ করেন, তাহলে তিনি কত ঘণ্টার জন্য ভাড়া নিয়েছেন?
+*   **Hypothesis (English):** If Dravid pays $38 excluding sales tax to rent the tool, for how many hours did he rent it?
+
+2. **Analysis:**
+
+The premise states Dravid paid *less than* $88, and the hypothesis states Dravid paid $38. $38 is less than $88, so the hypothesis gives a specific instance from within the broader range stated by the premise. Since it's an example from within the amount the premise says he paid, the hypothesis is following from (entailed by) the premise.
+
+3. **Conclusion:**
+
+Answer: Entailment"
+407,"যদি তাদের বাড়ির মধ্যে দূরত্ব ৩০ কিলোমিটার হয়, ম্যাক্সওয়েলের হাঁটার গতি হয় ৪ কিমি/ঘন্টা, এবং ব্র্যাডের দৌড়ের গতি ৬ কিমি/ঘন্টা হয়, তাহলে ব্র্যাডের ভ্রমণের দূরত্ব কত?","যদি তাদের বাড়ির মধ্যে দূরত্ব ২০ কিলোমিটারের বেশি হয়, ম্যাক্সওয়েলের হাঁটার গতি হয় ৪ কিমি/ঘন্টা, এবং ব্র্যাডের দৌড়ের গতি ৬ কিমি/ঘন্টা হয়, তাহলে ব্র্যাডের ভ্রমণের দূরত্ব কত?",Entailment,"**Translation:**
+
+*   **Premise (English):** If the distance between their houses is 30 kilometers, Maxwell's walking speed is 4 km/hour, and Brad's running speed is 6 km/hour, then what is the distance Brad travels?
+*   **Hypothesis (English):** If the distance between their houses is more than 20 kilometers, Maxwell's walking speed is 4 km/hour, and Brad's running speed is 6 km/hour, then what is the distance Brad travels?
+
+**Explanation:**
+
+The premise gives a specific distance (30 km) between the houses, whereas the hypothesis states that the distance is more than 20 km. Without additional information about how Maxwell and Brad travel to each other's houses and how long they travel, we can't definitively say whether the hypothesis is necessarily true or false given the premise. The premise only provides a specific case within the broader condition described in the hypothesis. The distance travelled will depend on the amount of time travelled which isn't specified.
+
+**Answer: Neutral**"
+377,"পুলিশ জানিয়েছে, সীমান্ত রক্ষী এবং ফরাসি পুলিশও এই চারজনকে খুঁজতে জড়িত।","পুলিশ জানিয়েছে, ধূসর রঙের একটি গাড়িতে করে ওই চারজন পালিয়ে গেছে",neutral,"1. Translation:
+    *   Premise (Bengali): পুলিশ জানিয়েছে, সীমান্ত রক্ষী এবং ফরাসি পুলিশও এই চারজনকে খুঁজতে জড়িত।
+    *   Premise (English): Police reported that border guards and French police are also involved in searching for these four individuals.
+    *   Hypothesis (Bengali): পুলিশ জানিয়েছে, ধূসর রঙের একটি গাড়িতে করে ওই চারজন পালিয়ে গেছে
+    *   Hypothesis (English): Police reported that the four individuals fled in a grey car.
+
+2.  Analysis:
+The premise states that border guards and French police are involved in *searching* for the four individuals. The hypothesis states that the police reported the four individuals *fled in a grey car*. There's no direct assertion or implication in the premise that they fled in a grey car. The premise only indicates that police and border forces are searching for them. The hypothesis introduces new information about how they allegedly fled. It neither contradicts nor is necessarily implied by the premise.
+
+Answer: Neutral"
+75,পল ৮২ সেকেন্ডেরও কম সময়ে কোর্সের প্রথম লেগ চালান,পল কোর্সের প্রথম লেগ ২২ সেকেন্ডে চালান,neutral,"1. **Translation:**
+   * **Premise (Bengali):** পল ৮২ সেকেন্ডেরও কম সময়ে কোর্সের প্রথম লেগ চালান
+   * **Premise (English):** Paul runs the first leg of the course in less than 82 seconds.
+   * **Hypothesis (Bengali):** পল কোর্সের প্রথম লেগ ২২ সেকেন্ডে চালান
+   * **Hypothesis (English):** Paul runs the first leg of the course in 22 seconds.
+
+2. **Analysis:**
+   If Paul runs the first leg of the course in 22 seconds, which is less than 82 seconds, then it follows that Paul runs the first leg of the course in less than 82 seconds. Therefore, the hypothesis is entailed by the premise.
+
+**Answer: Entailment**"

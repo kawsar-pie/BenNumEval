@@ -1,0 +1,4435 @@
+Q No.,Question,Answer,Model Response
+638,"কোনো প্রকৃত ভগ্নাংশের লব ও হরের যোগফল ১৪ এবং বিয়োগফল ৮ হলে, ভগ্নাংশটি নির্ণয় কর।",৩/১১,"**Translation of the Problem:**
+
+The sum of the numerator and denominator of a proper fraction is 14, and the difference between them is 8. Determine the fraction.
+
+**Solution:**
+
+Let's denote the numerator of the fraction as \( x \) and the denominator as \( y \).
+
+According to the problem, we are given two equations:
+1. \( x + y = 14 \)
+2. \( y - x = 8 \)
+
+We need to solve these simultaneous equations to find the values of \( x \) and \( y \).
+
+First, let's add the two equations:
+
+\[
+(x + y) + (y - x) = 14 + 8
+\]
+
+This simplifies to:
+
+\[
+2y = 22
+\]
+
+Divide both sides by 2 to solve for \( y \):
+
+\[
+y = 11
+\]
+
+Next, substitute \( y = 11 \) into the first equation:
+
+\[
+x + 11 = 14
+\]
+
+Subtract 11 from both sides to solve for \( x \):
+
+\[
+x = 3
+\]
+
+Therefore, the proper fraction is:
+
+\[
+\frac{x}{y} = \frac{3}{11}
+\]
+
+**Answer: \(\frac{3}{11}\)**"
+221,"১০৭১ টি ধুতি, ৫৯৫ টি শাড়ি ও ৩৫৭ টি জামা মজুদ আছে। কিছু পরিবারের মধ্যে ওই জিনিসগুলি সমানভাগে ভাগ করে দেয়া হলো। প্রত্যেক পরিবার কতগুলি জামা পাবে।",৩,"1. **Translation of the Bengali problem into English:**
+
+   ""There are 1071 dhotis, 595 sarees, and 357 shirts in stock. These items were equally distributed among some families. How many shirts will each family receive?""
+
+2. **Solution:**
+
+   To determine how many shirts each family will receive, we need to find the greatest common divisor (GCD) of the three numbers (1071, 595, and 357), considering that the items are equally distributed amongst the families.
+
+   First, let's calculate the GCD of the number of shirts, sarees, and dhotis. 
+
+   - Begin with the GCD of 1071 and 595. The prime factorization of these numbers is needed.
+   
+     The factors of 1071 are:
+     - 1071 = 3 × 357 = 3 × 3 × 119 = 3 × 3 × 7 × 17
+     
+     The factors of 595 are:
+     - 595 = 5 × 119 = 5 × 7 × 17
+     
+     The common factors between 1071 and 595 are 7 and 17. 
+
+     Calculate their product to find the GCD:
+     - GCD(1071, 595) = 7 × 17 = 119
+ 
+   - Next, find the GCD of the result (119) with 357:
+     
+     The factors of 357 are:
+     - 357 = 3 × 119 = 3 × 7 × 17
+     
+     The common factors between 119 and 357 are also 7 and 17:
+     - GCD(119, 357) = 7 × 17 = 119
+
+   So, the GCD of 1071, 595, and 357 is 119.
+
+   Since the items are distributed equally among the families, the number of families is determined by the GCD. There are 119 families.
+
+   Each family will receive the number of shirts calculated by dividing the total number of shirts by the number of families:
+
+   \( \frac{357}{119} = 3 \).
+
+   Each family receives 3 shirts.
+
+3. **Final Numerical Answer:**
+
+   **Answer: 3**"
+429,"২১৬০ টাকা রূমি, জেসমিন ও কাকলির মধ্যে ১ : ২ : ৩ অনুপাতে ভাগ করে দিলে জেসমিন কত টাকা পাবে ?",৭২০,"### Translation of the Problem:
+
+The problem asks: If 2160 Taka is divided among Rumi, Jesmin, and Kakoli in the ratio of 1:2:3, how much money will Jesmin receive?
+
+### Solution:
+
+Let's break down the problem step by step:
+
+1. The total ratio is \(1 + 2 + 3 = 6\).
+
+2. First, we need to find out how much one part of the ratio is worth.
+
+   Since the total amount of money is 2160 Taka, the value of one part of the ratio is:
+
+   \[
+   \text{Value of 1 part} = \frac{2160}{6} = 360 \, \text{Taka}
+   \]
+
+3. Jesmin's share corresponds to 2 parts of the ratio.
+
+4. Therefore, the amount Jesmin receives is:
+
+   \[
+   \text{Jesmin's share} = 2 \times 360 = 720 \, \text{Taka}
+   \]
+
+**Answer: 720**"
+327,"এক ইউরো সমান ১২০ টাকা হলে, নয় কোটি চুরানব্বই লক্ষ তেত্রিশ হাজার চারশত চল্লিশ টাকা সমান কত ইউরো?",৮২৮৬১২,"## Translation of the Problem:
+If one Euro equals 120 Taka, how many Euros are equivalent to nine crore ninety-four lakh thirty-three thousand four hundred forty Taka?
+
+## Solution:
+To find the number of Euros equivalent to the given amount in Taka, we need to divide the total Taka by the exchange rate (Taka per Euro).
+
+1. First, convert the given amount in words to numerical form:
+
+   - Nine crore = 9,00,00,000
+   - Ninety-four lakh = 94,00,000
+   - Thirty-three thousand = 33,000
+   - Four hundred forty = 440
+
+   Combining these numbers gives:  
+   9,00,00,000 + 94,00,000 + 33,000 + 440 = 9,94,33,440 Taka
+
+2. Calculate the equivalent amount in Euros:
+
+   Number of Euros = Total Taka / Taka per Euro  
+   Number of Euros = 9,94,33,440 / 120
+
+3. Perform the division:  
+   Number of Euros = 82,86,120.3333...
+
+Since typically currencies are expressed to two decimal places, we can round this to:  
+82,86,120.33 Euros
+
+**Answer: 82,86,120.33**"
+73,এক ইঞ্চি সমান ২.৫৪ সে.মি। ৮.৫ ইঞ্চি সমান কত সে.মি?,২১.৫৯,"## Translated Problem:
+
+One inch is equal to 2.54 cm. How many centimeters are equivalent to 8.5 inches?
+
+## Solution:
+
+To find how many centimeters are equivalent to 8.5 inches, we need to multiply the number of inches by the number of centimeters equivalent to one inch.
+
+Given:
+- 1 inch = 2.54 cm
+
+We want to find:
+- 8.5 inches = ? cm
+
+Calculation:
+\[ 8.5 \, \text{inches} \times 2.54 \, \text{cm/inch} = 21.59 \, \text{cm} \]
+
+**Answer: 21.59**"
+517,কোন সংখ্যা থেকে ২৭ বিয়োগ করলে বিয়োগফল -২১ হবে?,৬,"1. **Translate the Bengali problem into English for clarity:**
+
+   What number should we subtract 27 from to get a difference of -21?
+
+2. **Solve the problem:**
+
+   Let's denote the unknown number as \( x \).
+
+   According to the problem, if we subtract 27 from \( x \), the result is -21. This can be expressed as the equation:
+   \[
+   x - 27 = -21
+   \]
+
+   To find \( x \), add 27 to both sides of the equation:
+   \[
+   x - 27 + 27 = -21 + 27
+   \]
+
+   Simplifying gives:
+   \[
+   x = 6
+   \]
+
+   So, the number we are looking for is 6.
+
+**Answer: 6**"
+182,এবছরের অঙ্ক পরীক্ষায় আমাদের ক্লাসের ৬০% ছাত্রছাত্রী ৮০ এর বেশি নম্বর পেয়েছে। আমাদের ক্লাসের মোট ছাত্রছাত্রী ৫০ জন হলে কতজন ছাত্রছাত্রী ৮০ এর বেশি নম্বর পেয়েছে হিসাব করি।,৩০,"### Translation of the Bengali Problem into English:
+In this year's math exam, 60% of students in our class scored more than 80 marks. If the total number of students in our class is 50, calculate how many students scored more than 80 marks.
+
+### Solution:
+To find out how many students scored more than 80 marks, we need to calculate 60% of the total number of students.
+
+1. Convert the percentage to a decimal: \(60\% = \frac{60}{100} = 0.60\).
+2. Multiply the total number of students by this decimal:
+
+   \[
+   \text{Number of students scoring more than 80} = 0.60 \times 50
+   \]
+
+3. Calculate the result:
+
+   \[
+   0.60 \times 50 = 30
+   \]
+
+Thus, 30 students scored more than 80 marks.
+
+**Answer: 30**"
+132,ইছামতী নদীর পাড়ের একটি অংশ বাঁধাই করতে ৪০ জন শ্রমিকের ৩৫ দিন সময় লাগে। ২৮ দিনের মধ্যে ওই অংশ বাঁধাতে কতজন শ্রমিক লাগবে হিসাব করি।,৫০,"## Translation of the Problem:
+To fortify a section of the Ichamati riverbank, 40 workers take 35 days. How many workers are needed to complete the same work in 28 days?
+
+## Solution:
+We can solve this problem using the concept of man-days, which states that the total amount of work is the product of the number of workers and the number of days they work.
+
+### Step-by-step Calculation:
+1. **Calculate the Total Work in Man-Days:**
+   \[
+   \text{Total work} = 40 \text{ workers} \times 35 \text{ days} = 1400 \text{ man-days}
+   \]
+
+2. **Determine the Number of Workers Required for 28 Days:**
+   Let \( x \) be the number of workers required to complete the same work in 28 days.
+   \[
+   x \text{ workers} \times 28 \text{ days} = 1400 \text{ man-days}
+   \]
+
+3. **Solve for \( x \):**
+   \[
+   x = \frac{1400 \text{ man-days}}{28 \text{ days}} = 50 \text{ workers}
+   \]
+
+Thus, to complete the work in 28 days, 50 workers are required.
+
+**Answer: 50**"
+232,১৪৫ ও ২৩২ সংখ্যা দুটির গ.সা.গু -এর মান খুঁজি।,২৯,"## Translation of the Problem:
+Find the G.C.D (Greatest Common Divisor) of the numbers 145 and 232.
+
+## Solution:
+To find the G.C.D of 145 and 232, we can use the Euclidean algorithm, which involves a series of divisions:
+
+1. Divide 232 by 145 and find the remainder.
+   \[
+   232 \div 145 = 1 \quad \text{remainder} \quad 87
+   \]
+
+2. Then, divide the previous divisor (145) by the remainder (87).
+   \[
+   145 \div 87 = 1 \quad \text{remainder} \quad 58
+   \]
+
+3. Next, divide the previous divisor (87) by the new remainder (58).
+   \[
+   87 \div 58 = 1 \quad \text{remainder} \quad 29
+   \]
+
+4. Now, divide the previous divisor (58) by the latest remainder (29).
+   \[
+   58 \div 29 = 2 \quad \text{remainder} \quad 0
+   \]
+
+Since the remainder is now zero, the last non-zero remainder is the G.C.D of 145 and 232.
+
+**Answer: 29**"
+278,তিনটি ধণাত্মক সংখ্যার প্রথম ও দ্বিতীয়টির গুণফল ২৪; দ্বিতীয় ও তৃতীয়টির গুণফল ৪৮; এবং প্রথম ও তৃতীয়টির গুণফল ৩২। বড় সংখ্যাটি কী হবে হিসাব করি।,৮,"## Translation of the Problem:
+The product of the first and second of three positive numbers is 24; the product of the second and third is 48; and the product of the first and third is 32. Determine the largest number.
+
+## Solution:
+Let's denote the three numbers as \( a \), \( b \), and \( c \). From the problem, we have the following equations:
+
+1. \( ab = 24 \)
+2. \( bc = 48 \)
+3. \( ca = 32 \)
+
+We need to find the largest number among \( a \), \( b \), and \( c \).
+
+To solve this, we'll first multiply all three equations:
+
+\[ 
+(ab) \times (bc) \times (ca) = 24 \times 48 \times 32 
+\]
+
+This simplifies to:
+
+\[ 
+(a^2 b^2 c^2) = 24 \times 48 \times 32 
+\]
+
+Taking the square root of both sides, we get:
+
+\[ 
+abc = \sqrt{24 \times 48 \times 32} 
+\]
+
+Calculating the right side:
+
+\[ 
+24 = 2^3 \times 3,\quad 48 = 2^4 \times 3,\quad 32 = 2^5 
+\]
+
+So:
+
+\[ 
+24 \times 48 \times 32 = (2^3 \times 3) \times (2^4 \times 3) \times (2^5) = 2^{12} \times 3^2
+\]
+
+Thus:
+
+\[ 
+abc = \sqrt{2^{12} \times 3^2} = 2^6 \times 3 = 64 \times 3 = 192
+\]
+
+We now have the value of \( abc = 192 \).
+
+Next, let's solve for each individual number using the products we know:
+
+From \( abc = 192 \):
+
+1. \( ab = 24 \),  thus \( c = \frac{192}{ab} = \frac{192}{24} = 8 \)
+
+2. \( bc = 48 \), thus \( a = \frac{192}{bc} = \frac{192}{48} = 4 \)
+
+3. \( ca = 32 \), thus \( b = \frac{192}{ca} = \frac{192}{32} = 6 \)
+
+So the numbers are \( a ="
+608,"একটি ত্রিভূজাকৃতি জমির ক্ষেত্রফল ২৬৪ বর্গমিটার। এর ভ’মি ২২ মিটার হলে, উচ্চতা নির্ণয় কর।",২৪,"## Problem Translation:
+A triangular plot of land has an area of 264 square meters. If its base is 22 meters, determine its height.
+
+## Solution:
+The area \( A \) of a triangle can be calculated using the formula:
+
+\[
+A = \frac{1}{2} \times \text{base} \times \text{height}
+\]
+
+We know the area \( A = 264 \) square meters and the base \( b = 22 \) meters. Let's denote the height as \( h \).
+
+Substitute the known values into the formula:
+
+\[
+264 = \frac{1}{2} \times 22 \times h
+\]
+
+Simplify the equation:
+
+\[
+264 = 11 \times h
+\]
+
+Now, solve for \( h \):
+
+\[
+h = \frac{264}{11} = 24
+\]
+
+Thus, the height of the triangular plot of land is 24 meters.
+
+**Answer: 24**"
+282,৫৩২০ -এর সাথে কোন ক্ষুদ্রতম সংখ্যা যোগ করলে যোগফল পূর্ণবর্গ সংখ্যা হবে হিসাব করি।,৯,"## Translation
+To find the smallest number that, when added to 5320, results in a perfect square.
+
+## Solution
+1. Start by finding the square root of 5320 to determine the nearest perfect square.
+   \[
+   \sqrt{5320} \approx 72.969
+   \]
+
+2. The nearest whole numbers around this square root are 72 and 73.
+   - \(72^2 = 5184\)
+   - \(73^2 = 5329\)
+
+3. Determine which perfect square is the smallest that is larger than 5320.
+   - Since \(5184\) is less than \(5320\), use \(73^2 = 5329\).
+   - \(5329\) is the smallest perfect square greater than \(5320\).
+
+4. Find the difference between 5329 and 5320 to obtain the smallest number to add.
+   \[
+   5329 - 5320 = 9
+   \]
+
+Therefore, the smallest number to add to 5320 to make it a perfect square is 9.
+
+**Answer: 9**"
+250,নিসারের ফলের বাগান থেকে ৪৪১টি কমলালেবু তোলা হয়েছে। অনেকগুলি ঝুড়িতে রাখা হবে। যতগুলি ঝুড়ি আছে প্রত্যেক ঝুড়িতে ততগুলি কমলালেবু রাখলে মোট কতগুলি ঝুড়িতে কমলালেবু রাখা হলো হিসাব করি।,২১,"## Translation of the Problem:
+In Nisar's fruit garden, 441 oranges have been picked. They will be placed in several baskets. If the number of oranges in each basket is equal to the number of baskets, how many baskets will be filled with oranges?
+
+## Solution:
+We are given that the number of baskets (let's denote it as \( n \)) is equal to the number of oranges in each basket. Therefore, the total number of oranges is the square of the number of baskets, which can be expressed as \( n^2 = 441 \).
+
+To find \( n \), we need to calculate the square root of 441.
+
+\[ n = \sqrt{441} \]
+
+Calculating the square root of 441:
+
+\[ \sqrt{441} = 21 \]
+
+Thus, there are 21 baskets, and each basket contains 21 oranges.
+
+**Answer: 21**"
+82,"আব্দুল্লাহ ১ মিটার লম্বা একটি রেখা আঁকেন। তারপর তিনি বুঝতে পারলেন যে এটি কিছুটা দীর্ঘ। সুতরাং, তিনি এটির ৩৩ সেন্টিমিটার মুছে ফেলেছেন। ফলে রেখার দৈর্ঘ্য  এখন কত সে.মি.?",৬৭ ,"## Translation of the Problem:
+Abdullah draws a line that is 1 meter long. Then he realizes that it is a bit too long. Therefore, he erases 33 centimeters from it. What is the length of the line now in centimeters?
+
+## Solution:
+1. Initially, the line is 1 meter long. 
+2. Convert the length from meters to centimeters, since the final answer needs to be in centimeters:
+   \[
+   1 \text{ meter} = 100 \text{ centimeters}
+   \]
+3. Abdullah erases 33 centimeters from the line.
+4. Calculate the remaining length of the line:
+   \[
+   \text{Initial length in cm} - \text{Erased length in cm} = 100 \text{ cm} - 33 \text{ cm} = 67 \text{ cm}
+   \]
+
+**Answer: 67**"
+616,৮০ মিটার দৈর্ঘ্য ও ৬০ মিটার প্রস্থবিশিষ্ট একটি আয়তাকার বাগানের ভিতর চারদিকে ৪ মিটার প্রশস্ত একটি পথ আছে। প্রতি বর্গমিটার ৭.২৫ টাকা দরে ঐ পথ বাধাঁনোর খরচ কত?,৭৬৫৬,"## Problem Translation:
+We have a rectangular garden with a length of 80 meters and a width of 60 meters. There is a path around the garden that is 4 meters wide on all sides. Determine the cost of paving this path at a rate of 7.25 currency units per square meter.
+
+## Solution:
+1. **Calculate the dimensions of the outer rectangle (garden + path):**
+   - The length of the garden with the path on both sides = 80 + 2 * 4 = 88 meters
+   - The width of the garden with the path on both sides = 60 + 2 * 4 = 68 meters
+
+2. **Calculate the area of the outer rectangle (garden + path):**
+   \[
+   \text{Area of outer rectangle} = 88 \times 68 = 5984 \text{ square meters}
+   \]
+
+3. **Calculate the area of the garden only:**
+   \[
+   \text{Area of garden} = 80 \times 60 = 4800 \text{ square meters}
+   \]
+
+4. **Calculate the area of the path:**
+   \[
+   \text{Area of path} = \text{Area of outer rectangle} - \text{Area of garden} = 5984 - 4800 = 1184 \text{ square meters}
+   \]
+
+5. **Calculate the cost of paving the path:**
+   - Cost per square meter = 7.25 currency units
+   - Total cost = \(1184 \times 7.25 = 8584\) currency units
+
+**Answer: 8584**"
+248,ওদের কয়েকজন বন্ধু কিছু লজেন্স ও বিস্কুট নিয়ে বাগানে এলো। ওরা মোট যতজন বন্ধু হলো প্রত্যেক ততগুলি লজেন্স ও প্রত্যেক তার দ্বিগুণ সংখ্যক বিস্কুট আনল। মোট লজেন্স ও বিস্কুট ১৪৭ টি আনলে ওরা কতজন বন্ধু হিসাব করে দেখি।,৭,"## Problem Translation
+
+A group of friends brought some lozenges and biscuits to the garden. The number of friends is equal to the number of lozenges each brought, and each brought double that number in biscuits. If the total number of lozenges and biscuits is 147, determine how many friends there are.
+
+## Problem Solving
+
+Let the number of friends be \( n \).
+
+- Each friend brings \( n \) lozenges.
+- Each friend brings \( 2n \) biscuits.
+
+Therefore, the total number of lozenges brought by all the friends is \( n \times n = n^2 \).
+
+Similarly, the total number of biscuits brought by all the friends is \( n \times 2n = 2n^2 \).
+
+According to the problem, the combined total of lozenges and biscuits is 147:
+
+\[
+n^2 + 2n^2 = 147
+\]
+
+Combine the terms:
+
+\[
+3n^2 = 147
+\]
+
+Divide both sides by 3:
+
+\[
+n^2 = 49
+\]
+
+Taking the square root of both sides (considering \( n \) as a positive integer since the number of friends cannot be negative):
+
+\[
+n = 7
+\]
+
+Therefore, the number of friends is 7.
+
+**Answer: 7**"
+364,একটি পাত্রে ১.৬ লিটার রং আছে এবং এর ওজন ২.৪ কেজি। প্রতি লিটার রং এর ওজন নির্ণয় কর।,১.৫০,"## Translation:
+A container holds 1.6 liters of paint and its weight is 2.4 kilograms. Determine the weight of the paint per liter.
+
+## Solution:
+To find the weight of the paint per liter, we need to divide the total weight of the paint by the total volume in liters.
+
+Given:
+- Total weight of the paint = 2.4 kg
+- Total volume of the paint = 1.6 liters
+
+The weight of the paint per liter (W) can be calculated as follows:
+
+\[ 
+W = \frac{\text{Total weight of the paint}}{\text{Total volume of the paint}} = \frac{2.4 \text{ kg}}{1.6 \text{ liters}} 
+\]
+
+\[ 
+W = 1.5 \text{ kg/liter} 
+\]
+
+Therefore, the weight of the paint per liter is 1.5 kilograms.
+
+**Answer: 1.5**"
+644,"একজন বালক দোকান থেকে ১৫ টি খাতা ও ১০ টি পেনসিল ৩০০ টাকা দিয়ে ক্রয় করল। আবার, অন্য একজন বালক একই দোকান থেকে একই ধরনের ১০ টি খাতা ও ১৫ টি পেনসিল ২৫০ দিয়ে ক্রয় করল। প্রতিটি পেনসিল এর মূল্য নির্ণয় কর।",৬,"### Translation of the Problem:
+A boy bought 15 notebooks and 10 pencils for 300 taka from a shop. Another boy bought 10 notebooks and 15 pencils of the same type from the same shop for 250 taka. Determine the price of each pencil.
+
+### Solution in English:
+Let's denote:
+- The price of each notebook as \( x \) (in taka),
+- The price of each pencil as \( y \) (in taka).
+
+From the problem, we can form the following system of equations based on the transactions:
+1. \( 15x + 10y = 300 \)
+2. \( 10x + 15y = 250 \)
+
+We will solve these equations using the method of elimination.
+
+First, we multiply the first equation by 2 and the second equation by 3 to make the coefficients of \( y \) equal:
+- \( 30x + 20y = 600 \)
+- \( 30x + 45y = 750 \)
+
+Now, subtract the first modified equation from the second one to eliminate \( x \):
+\[ 
+(30x + 45y) - (30x + 20y) = 750 - 600 
+\]
+\[ 
+25y = 150 
+\]
+\[ 
+y = \frac{150}{25} = 6 
+\]
+
+Thus, the price of each pencil is 6 taka.
+
+**Answer: 6**"
+70,একটি প্যাকেটে ০.৩৩৪ লিটার দুধ আছে। এরূপ ৫০টি প্যাকেটে কত লিটার দুধ আছে ?,১৬.৭০,"### Translation of the Problem:
+There is 0.334 liters of milk in a packet. How many liters of milk are there in 50 such packets?
+
+### Solution:
+To find the total amount of milk in 50 packets, we need to multiply the amount of milk in one packet by the number of packets.
+
+Given:
+- Milk in one packet = 0.334 liters
+- Number of packets = 50
+
+Total milk in 50 packets = 0.334 liters/packet * 50 packets
+
+Now, let's perform the multiplication:
+\[
+0.334 \times 50 = 16.7
+\]
+
+Therefore, there are 16.7 liters of milk in 50 packets.
+
+**Answer: 16.7**"
+11,"এই বছর একটি গাড়ির মূল্য ১৬০০০ ডলার, যা গত বছরের মূল্যের ০.৮ গুন। গত বছরের গাড়ির মূল্য কত।",২০০০০,"## Translation:
+This year, the price of a car is $16,000, which is 0.8 times the price from last year. What was the price of the car last year?
+
+## Solution:
+Let last year's car price be denoted as \( x \).
+
+According to the problem, this year's price is 0.8 times last year's price:
+\[ 0.8x = 16000 \]
+
+To find the value of \( x \), divide both sides by 0.8:
+\[ x = \frac{16000}{0.8} \]
+
+To calculate \( \frac{16000}{0.8} \), multiply both the numerator and denominator by 10 to eliminate the decimal:
+\[ x = \frac{160000}{8} \]
+
+Now, perform the division:
+\[ x = 20000 \]
+
+Therefore, last year's car price was $20,000.
+
+**Answer: 20000**"
+342,একটি রাস্তায় কিছু গাছ এবং ল্যাম্পপোস্ট আছে। ২৫ মিটার পরপর গাছ এবং ২০ মিটার পরপর ল্যাম্পপোস্ট আছে। রাস্তার শুরুতে পাছ ও ল্যাম্পপোস্ট একত্রে থাকলে কত মিটার পরপর গাছ এবং ল্যাম্পপোস্ট পুনরায় একসাথে থাকবে ?,১০০,"## Translation of the Problem:
+On a road, there are some trees and lampposts. Trees are planted at every 25 meters, and lampposts are placed at every 20 meters. If both trees and lampposts are aligned at the beginning of the road, after how many meters will a tree and a lamppost align together again?
+
+## Solution:
+To find when the trees and lampposts align together again, we need to calculate the Least Common Multiple (LCM) of the distances at which they are placed.
+
+- Trees are planted every 25 meters.
+- Lampposts are placed every 20 meters.
+
+Finding the LCM of 25 and 20:
+- Prime factorization of 25: \(25 = 5^2\)
+- Prime factorization of 20: \(20 = 2^2 \times 5\)
+
+The LCM is obtained by taking the highest power of all prime numbers that appear in the factorizations:
+- LCM = \( 2^2 \times 5^2 \)
+
+Calculating the LCM:
+\[ 
+2^2 = 4 \\
+5^2 = 25 \\
+LCM = 4 \times 25 = 100 
+\]
+
+So, the trees and lampposts will align together every 100 meters.
+
+**Answer: 100**"
+64,"আমরা ০.৬ লিটার দুধকে ৩ জন শিক্ষার্থীর মধ্যে সমানভাবে ভাগ করতে চাই।
+প্রত্যেক শিক্ষার্থী কত লিটার দুধ পাবে ?",০.২০,"## Translation of the Problem:
+
+We want to divide 0.6 liters of milk equally among 3 students. How many liters of milk will each student get?
+
+## Solution:
+
+To find out how much milk each student will get, divide the total amount of milk by the number of students. 
+
+Mathematically, this can be represented as:
+
+\[ \text{Amount of milk each student gets} = \frac{0.6 \, \text{liter}}{3} \]
+
+\[ = 0.2 \, \text{liter} \]
+
+Therefore, each student will receive 0.2 liters of milk.
+
+**Answer: 0.2**"
+465,একটি গাড়ির বিক্রয়মূল্য গাড়িটির ক্রয়মূল্যের ৪৫ অংশের সমান। শতকরা লাভ ভাগ বা ক্ষতি নির্ণয় কর।,২০,"## Problem Translation
+
+The selling price of a car is equal to \( \frac{4}{5} \) of its cost price. Determine the percentage profit or loss.
+
+## Solution
+
+To determine whether it's a profit or loss and calculate the percentage, follow these steps:
+
+1. Let the cost price of the car be \( C \).
+
+2. The selling price (SP) of the car is given as \( \frac{4}{5} \) of the cost price \( C \). So,
+   \[
+   SP = \frac{4}{5}C
+   \]
+
+3. Calculate the difference between the cost price and the selling price to find out the profit or loss:
+   \[
+   \text{Loss} = C - SP = C - \frac{4}{5}C = \frac{1}{5}C
+   \]
+
+4. Since the selling price is less than the cost price, there is a loss.
+
+5. To find the percentage loss, use the formula:
+   \[
+   \text{Percentage Loss} = \left(\frac{\text{Loss}}{C}\right) \times 100\%
+   \]
+   Plug in the values:
+   \[
+   \text{Percentage Loss} = \left(\frac{\frac{1}{5}C}{C}\right) \times 100\% = \frac{1}{5} \times 100\% = 20\%
+   \]
+
+Therefore, there is a 20% loss.
+
+**Answer: 20**"
+55,"৪/৫ লিটার শরবত ২ জনকে সমানভাবে ভাগ করে দিলে প্রত্যেকে কত লিটার
+শরবত পাবে ?",২/৫,"## Translation of the Problem:
+If 4/5 liters of juice are equally divided among 2 people, how many liters of juice will each person receive?
+
+## Solution:
+To find out how much juice each person receives, we need to divide the total amount of juice, which is 4/5 liters, by the number of people, which is 2.
+
+So, the calculation becomes:
+\[ 
+\text{Juice per person} = \frac{\frac{4}{5} \text{ liters}}{2}
+\]
+
+To divide a fraction by a whole number, you multiply the fraction by the reciprocal of the whole number. Here, the reciprocal of 2 is 1/2.
+
+\[ 
+\text{Juice per person} = \frac{4}{5} \times \frac{1}{2} 
+\]
+
+Multiplying the fractions:
+\[ 
+= \frac{4 \times 1}{5 \times 2} = \frac{4}{10} 
+\]
+
+Simplifying the fraction:
+\[ 
+= \frac{2}{5} 
+\]
+
+Thus, each person will receive 2/5 liters of juice.
+
+**Answer: 2/5**"
+535,একটি ক্রিকেট খেলায় ইমন ও সুমনের মোট রানসংখ্যা ৫৮। ইমনের রানসংখ্যা সুমনের রানসংখ্যার দ্বিগুণের চেয়ে ৫ রান কম। ঐ খেলায় ইমনের রানসংখ্যা কত?,৩৭,"## Translated Problem:
+In a cricket match, the total number of runs scored by Iman and Suman is 58. Iman's runs are 5 less than twice the number of runs scored by Suman. How many runs did Iman score in the match?
+
+Let's assume the number of runs scored by Suman is \( x \). Then, according to the problem, the number of runs scored by Iman would be \( 2x - 5 \).
+
+The total runs scored by Iman and Suman is given as 58. Therefore, we can set up the following equation:
+
+\[ x + (2x - 5) = 58 \]
+
+Simplifying the equation:
+
+\[ x + 2x - 5 = 58 \]
+
+\[ 3x - 5 = 58 \]
+
+Adding 5 to both sides:
+
+\[ 3x = 63 \]
+
+Dividing both sides by 3 to solve for \( x \):
+
+\[ x = 21 \]
+
+Thus, the number of runs scored by Iman is:
+
+\[ 2x - 5 = 2(21) - 5 = 42 - 5 = 37 \]
+
+**Answer: 37**"
+518,কোন সংখ্যার এক-তৃতীয়াংশ ৪ এর সমান হবে?,১২,"## Problem Translation:
+What number's one-third is equal to 4?
+
+## Solution:
+Let the number be denoted as \( x \). According to the problem, one-third of this number equals 4. Thus, we can set up the equation:
+
+\[
+\frac{x}{3} = 4
+\]
+
+To find \( x \), multiply both sides of the equation by 3:
+
+\[
+x = 4 \times 3
+\]
+
+\[
+x = 12
+\]
+
+Therefore, the number is 12.
+
+**Answer: 12**"
+178,আজ রজত স্কুলে যাওয়ার সময়ে মোট পথের ০.২৫ অংশ হেঁটে ও বাকি অংশ রিকশায় গেল। রজত মোট পথের শতকরা কত ভাগ পথ রিকশায় গেল হিসাব করি।,৭৫,"## Problem Translation:
+Today, when Rajat went to school, he walked 0.25 (or 25%) of the total distance and traveled the rest of the way by rickshaw. Calculate the percentage of the total path that Rajat traveled by rickshaw.
+
+## Solution:
+We know that Rajat walked 0.25 or 25% of the total distance. Therefore, the remaining portion of the path that he traveled by rickshaw would be:
+\[ 1 - 0.25 = 0.75 \]
+
+To convert this portion into a percentage:
+\[ 0.75 \times 100 = 75\% \]
+
+Hence, Rajat traveled 75% of the total path by rickshaw.
+
+**Answer: 75%**"
+300,"আমার ও সুতপার বয়সের অনুপাত ৫ঃ৬; আমার বয়স ১০ বছর হলে, সুতপার বয়স কত হিসাব করে লিখি।",১২,"## Translated Problem:
+The ratio of my age to Sutapa's age is 5:6. If my age is 10 years, what is Sutapa's age? Calculate and write down the answer.
+
+## Solution:
+Given that the ratio of my age to Sutapa's age is 5:6, we can represent the ages as follows:
+- Let ""M"" be my age, and ""S"" be Sutapa's age.
+- According to the problem, \( \frac{M}{S} = \frac{5}{6} \).
+
+We are given that my age \( M = 10 \) years.
+
+Using the ratio, we can set up the equation:
+\[
+\frac{10}{S} = \frac{5}{6}
+\]
+
+To find Sutapa's age \( S \), we cross-multiply:
+\[
+10 \times 6 = 5 \times S
+\]
+\[
+60 = 5S
+\]
+
+Now, solve for \( S \):
+\[
+S = \frac{60}{5} = 12
+\]
+
+Thus, Sutapa's age is 12 years.
+
+**Answer: 12**"
+595,৪০ মিটার দৈর্ঘ্য এবং ৩০ মিটার প্রস্থবিশিষ্ট একটি মাঠের ঠিক মাঝে আড়াআড়িভাবে ১.৫ মিটার প্রশস্ত দুইটি রাস্তা আছে। রাস্তা দুইটির মোট ক্ষেত্রফল কত ?,১০২.৭৫,"## Translation of the Problem:
+A field is 40 meters in length and 30 meters in width. There are two paths crossing each other perpendicularly at the center of the field, each measuring 1.5 meters in width. What is the total area covered by the two paths?
+
+## Solution:
+To solve this problem, we need to determine the area covered by the two crossing paths.
+
+1. **Dimensions of the Field**:  
+   - Length = 40 meters  
+   - Width = 30 meters  
+
+2. **Dimensions of the Paths**:  
+   - Width of each path = 1.5 meters
+
+3. **Calculating the Total Area of the Paths**:
+
+   The two paths cross each other perpendicularly at the center, forming a cross shape. We need to find the total area covered by both paths.
+
+   - **Width of each path**: 1.5 meters
+
+   Each path extends across the entire length and width of the field. Therefore:
+
+   - **Area of the longer path** (covering the length of the field) = Length of the field × Width of the path = 40 meters × 1.5 meters = 60 square meters.
+
+   - **Area of the wider path** (covering the width of the field) = Width of the field × Width of the path = 30 meters × 1.5 meters = 45 square meters.
+
+4. **Overlap Area**:
+
+   Since the paths cross each other, there is an overlapping section at the center of the field. This overlap is a square with each side equal to the width of the path (1.5 meters):
+
+   - **Area of overlap** = Width of the path × Width of the path = 1.5 meters × 1.5 meters = 2.25 square meters.
+
+5. **Total Area of the Paths**:
+
+   Total area covered by both paths = Area of the longer path + Area of the wider path - Area of overlap  
+   = 60 square meters + 45 square meters - 2.25 square meters  
+   = 102.75 square meters.
+
+Thus, the total area covered by the two paths is 102.75 square meters.
+
+**Answer: 102.75**"
+32,৪টি কলমের মূল্য ৮০ টাকা। ১০টি কলমের মূল্য কত?,২০০,"### Problem Translation:
+
+The price of 4 pens is 80 taka. What is the price of 10 pens?
+
+### Solution:
+
+First, we need to determine the price of one pen. We know that 4 pens cost 80 taka, so the price of one pen is:
+
+\[ \text{Price of one pen} = \frac{80 \text{ taka}}{4} = 20 \text{ taka} \]
+
+Now, we need to find the price of 10 pens. Since each pen costs 20 taka, the total price for 10 pens would be:
+
+\[ \text{Price of 10 pens} = 10 \times 20 \text{ taka} = 200 \text{ taka} \]
+
+### Final Answer:
+
+**Answer: 200**"
+491,"একটি ত্রিভূজাকৃতি জমির ক্ষেত্রফল ২১৬ বর্গমিটার। এর ভূমি ১৮ মিটার হলে, উচ্চতা নির্ণয় কর।",২৪,"### Translation of the Problem:
+The area of a triangular-shaped land is 216 square meters. If its base is 18 meters, find the height.
+
+### Solution:
+The formula for the area of a triangle is given by:
+
+\[
+\text{Area} = \frac{1}{2} \times \text{base} \times \text{height}
+\]
+
+We know the area is 216 square meters and the base is 18 meters. We need to find the height.
+
+Plugging in the values we have:
+
+\[
+216 = \frac{1}{2} \times 18 \times \text{height}
+\]
+
+To isolate the height, first multiply both sides of the equation by 2 to remove the fraction:
+
+\[
+432 = 18 \times \text{height}
+\]
+
+Now, divide both sides by 18 to solve for the height:
+
+\[
+\text{height} = \frac{432}{18}
+\]
+
+\[
+\text{height} = 24
+\]
+
+Therefore, the height of the triangle is 24 meters.
+
+**Answer: 24**"
+56,৮/৯ লিটার দুধ ৫ জনকে সমানভাবে ভাগ করে দিলে প্রত্যেকে কত লিটার দুধ পাবে?,৮/৪৫,"## Translated Problem:
+If 8/9 liters of milk are equally divided among 5 people, how many liters of milk will each person receive?
+
+## Solution:
+To find out how much milk each person will receive, we divide the total amount of milk, 8/9 liters, by the number of people, which is 5.
+
+Mathematically, this is represented as:
+
+\[
+\text{Milk received per person} = \frac{8/9}{5}
+\]
+
+To divide by a whole number, it is equivalent to multiplying by the reciprocal of that number:
+
+\[
+\frac{8}{9} \div 5 = \frac{8}{9} \times \frac{1}{5} = \frac{8 \times 1}{9 \times 5} = \frac{8}{45}
+\]
+
+Thus, each person will receive \( \frac{8}{45} \) liters of milk.
+
+**Answer: \(\frac{8}{45}\)**"
+175,আমাদের বাড়ি থেকে স্কুলের দুরত্ব ২০.৪ কি.মি.। ঘণ্টায় ১০.২ কি.মি. বেগে সাইকেল চালিয়ে কত সময়ে স্কুলে পৌঁছাব হিসাব করি।,২,"1. **Translation of the Bengali problem into English:**
+
+   The distance from our house to the school is 20.4 km. Calculate the time it takes to reach the school while cycling at a speed of 10.2 km/h.
+
+2. **Solution:**
+
+   To find the time taken to reach the school, we use the formula:
+
+   \[
+   \text{Time} = \frac{\text{Distance}}{\text{Speed}}
+   \]
+
+   Given:
+   - Distance = 20.4 km
+   - Speed = 10.2 km/h
+
+   Substituting the given values into the formula:
+
+   \[
+   \text{Time} = \frac{20.4}{10.2} = 2 \text{ hours}
+   \]
+
+3. **Final Answer:**
+
+   **Answer: 2**"
+480,"একটি কাজ ক ও খ একত্রে ১৬ দিনে , খ ও গ একত্রে ১২ দিনে এবং ক ও গ একত্রে ২০ দিনে করতে পারে। ক, খ, ও গ একত্রে কাজটি কত দিনে করতে পারবে ?",১০.২১,"## Problem Translation:
+A task can be completed by A and B together in 16 days, by B and C together in 12 days, and by A and C together in 20 days. How many days will A, B, and C take to complete the task together?
+
+## Solution:
+Let's denote the work done by A in one day as \(a\), by B as \(b\), and by C as \(c\).
+
+Given:
+- \(a + b = \frac{1}{16}\)
+- \(b + c = \frac{1}{12}\)
+- \(a + c = \frac{1}{20}\)
+
+We need to find \(a + b + c\).
+
+We can solve this by adding all three equations:
+\[
+(a + b) + (b + c) + (a + c) = \frac{1}{16} + \frac{1}{12} + \frac{1}{20}
+\]
+
+Simplifying the left side:
+\[
+2a + 2b + 2c = \frac{1}{16} + \frac{1}{12} + \frac{1}{20}
+\]
+
+Which simplifies further to:
+\[
+2(a + b + c) = \frac{1}{16} + \frac{1}{12} + \frac{1}{20}
+\]
+
+Calculating the total on the right-hand side, we need a common denominator, which is 240:
+\[
+\frac{1}{16} = \frac{15}{240}, \quad \frac{1}{12} = \frac{20}{240}, \quad \frac{1}{20} = \frac{12}{240}
+\]
+\[
+\frac{1}{16} + \frac{1}{12} + \frac{1}{20} = \frac{15}{240} + \frac{20}{240} + \frac{12}{240} = \frac{47}{240}
+\]
+
+So we have:
+\[
+2(a + b + c) = \frac{47}{240}
+\]
+\[
+a + b + c = \frac{47}{480}
+\]
+
+Thus, A, B, and C together can complete \(\frac{47}{480}\) of the work in one day. Therefore, the whole work can be completed in:
+\[
+\frac{1}{\frac{47}{480}} = \frac{"
+551,"বার্ষিক শতকরা মুনাফার হার ১০.৫০ টাকা হলে, ২০০০ টাকার ৫ বছরের মুনাফা কত হবে ?",১০৫০,"1. **Translated Problem:** If the annual interest rate is 10.50%, what will be the interest on 2000 rupees for 5 years?
+
+To find the interest, we will use the formula for simple interest, which is:
+
+\[ \text{Simple Interest (SI)} = \frac{P \times R \times T}{100} \]
+
+where \( P \) is the principal amount, \( R \) is the interest rate, and \( T \) is the time in years.
+
+Given:
+- Principal, \( P = 2000 \) rupees
+- Interest rate, \( R = 10.50\% \)
+- Time, \( T = 5 \) years
+
+Plugging the values into the formula:
+
+\[ \text{SI} = \frac{2000 \times 10.50 \times 5}{100} \]
+
+\[ \text{SI} = \frac{2000 \times 52.5}{100} \]
+
+\[ \text{SI} = \frac{105000}{100} \]
+
+\[ \text{SI} = 1050 \]
+
+Therefore, the interest on 2000 rupees for 5 years at an interest rate of 10.50% is 1050 rupees.
+
+**Answer: 1050**"
+210,"৬, ৮, ১০ ও ১২ দিয়ে বিভাজ্য এমন ক্ষুদ্রতম সংখ্যা খোঁজার চেষ্টা করি যেটি ৩০০ ও ৫০০ এর মধ্যে থাকবে?",৩৬০,"## Problem Translation
+Let's try to find the smallest number divisible by 6, 8, 10, and 12 that will be between 300 and 500.
+
+## Solution
+To solve this problem, we need to determine the Least Common Multiple (LCM) of the numbers 6, 8, 10, and 12. Then, find the smallest multiple of this LCM that lies between 300 and 500.
+
+### Step 1: Find the LCM of 6, 8, 10, and 12
+
+- The prime factorization of each number is:
+  - \(6 = 2 \times 3\)
+  - \(8 = 2^3\)
+  - \(10 = 2 \times 5\)
+  - \(12 = 2^2 \times 3\)
+
+- To find the LCM, use the highest power of each prime number that appears in any of the factorizations:
+  - The highest power of 2 is \(2^3\) from 8.
+  - The highest power of 3 is \(3^1\) from 6 and 12.
+  - The highest power of 5 is \(5^1\) from 10.
+
+Thus, the LCM is:
+
+\[ LCM = 2^3 \times 3^1 \times 5^1 = 8 \times 3 \times 5 = 120 \]
+
+### Step 2: Find the smallest multiple of the LCM between 300 and 500
+
+We are looking for the smallest multiple of 120 that is greater than or equal to 300 and less than or equal to 500.
+
+- Divide 300 by 120 to find the smallest integer multiple greater than or equal to 300:
+  \[
+  \frac{300}{120} = 2.5
+  \]
+  The next whole number greater than 2.5 is 3.
+
+- Calculate \(120 \times 3 = 360\).
+
+- Verify that 360 is less than 500: 
+  \[
+  360 < 500
+  \]
+
+Thus, 360 is the smallest number divisible by 6, 8, 10, and 12 and is between 300 and 500.
+
+**Answer: 360**"
+111,একটি ইঞ্জিনের সামনের চাকার পরিধি ১৪ ডেসিমি. এবং পিছনের চাকার পরিধি ৩৫ ডেসিমি.। কমপক্ষে কত পথ গেলে চাকা দুটি একই সঙ্গে পূর্ণসংখ্যক বার ঘোরা সম্পূর্ণ ঘুরবে হিসাব করি। ,৭০,"## Translation of the Problem:
+The circumference of the front wheel of an engine is 14 decimeters, and the circumference of the rear wheel is 35 decimeters. Calculate the minimum distance the engine must travel such that both wheels complete a whole number of rotations simultaneously.
+
+## Solution:
+To solve this problem, we need to find the least common multiple (LCM) of the two circumferences since the distance traveled must be a common multiple of both 14 decimeters and 35 decimeters, ensuring both wheels complete an integer number of rotations.
+
+1. **Find the LCM of 14 and 35:**
+
+   - Factorization of 14: \(14 = 2 \times 7\)
+   - Factorization of 35: \(35 = 5 \times 7\)
+
+   The LCM will take each prime factor the greatest number of times it appears in either number:
+   
+   - Maximum power of 2 in both = \(2^1\)
+   - Maximum power of 5 in both = \(5^1\)
+   - Maximum power of 7 in both = \(7^1\)
+
+   So, the LCM is:
+   \( \text{LCM}(14, 35) = 2^1 \times 5^1 \times 7^1 = 2 \times 5 \times 7 = 70 \)
+
+Therefore, the minimum distance that the engine needs to travel for both wheels to complete a whole number of rotations simultaneously is 70 decimeters.
+
+**Answer: 70**"
+512,অহনা একটি পরীক্ষায় ইংরেজিতে ও গণিতে মোট ১৭৬ নম্বর পেয়েছে এবং ইংরেজি অপেক্ষা গণিতে ১০ নম্বর বেশি পেয়েছে। সে ইংরেজিতে কত নম্বর পেয়েছে।,৮৩,"1. **Translation of the Problem:**
+
+   Ahona scored a total of 176 marks in English and Mathematics, and she scored 10 more marks in Mathematics than in English. How many marks did she score in English?
+
+2. **Solution:**
+
+   Let's suppose Ahona scored \( x \) marks in English. Therefore, according to the problem, she scored \( x + 10 \) marks in Mathematics.
+
+   The total marks she scored in both subjects is given as 176:
+
+   \[
+   x + (x + 10) = 176
+   \]
+
+   Simplifying the equation:
+
+   \[
+   2x + 10 = 176
+   \]
+
+   Subtract 10 from both sides:
+
+   \[
+   2x = 166
+   \]
+
+   Divide both sides by 2 to solve for \( x \):
+
+   \[
+   x = 83
+   \]
+
+   Therefore, Ahona scored 83 marks in English.
+
+3. **Final Numerical Answer:**
+
+   **Answer: 83**"
+211,"হিসাব করে দেখি চার অঙ্কের কোন ক্ষুদ্রতম সংখ্যা ১২, ১৫, ২০ ও ৩৫ দিয়ে বিভাজ্য।",১২৬০,"1. **Translation of the Bengali problem into English:**
+
+   ""Calculate and find the smallest four-digit number that is divisible by 12, 15, 20, and 35.""
+
+2. **Solution:**
+
+   To find the smallest four-digit number divisible by these numbers, we must first find the least common multiple (LCM) of 12, 15, 20, and 35.
+
+   - First, factor each number into its prime factors:
+     - \(12 = 2^2 \times 3\)
+     - \(15 = 3 \times 5\)
+     - \(20 = 2^2 \times 5\)
+     - \(35 = 5 \times 7\)
+
+   - Next, determine the LCM by taking the highest power of each prime that appears in these factorizations:
+     - For \(2\), the highest power is \(2^2\).
+     - For \(3\), the highest power is \(3^1\).
+     - For \(5\), the highest power is \(5^1\).
+     - For \(7\), the highest power is \(7^1\).
+
+   - Therefore, the LCM is:
+     \[
+     LCM = 2^2 \times 3^1 \times 5^1 \times 7^1 = 4 \times 3 \times 5 \times 7
+     \]
+
+   - Calculate the LCM:
+     \[
+     4 \times 3 = 12, \; 12 \times 5 = 60, \; 60 \times 7 = 420
+     \]
+      
+   The LCM of 12, 15, 20, and 35 is 420.
+
+   Now, determine the smallest four-digit number that is divisible by 420. The smallest four-digit number is 1000.
+
+   - Divide 1000 by 420 to find the quotient:
+     \[
+     1000 \div 420 \approx 2.38
+     \]
+
+   - Since we need a full integer, take the next whole number greater than 2.38, which is 3.
+   - Multiply 3 by 420 to find the smallest four-digit multiple:
+     \[
+     3 \times 420 = 1260
+     \]
+
+   Therefore, the smallest four-digit number divisible by 12, 15, 20, and"
+159,৫০/৩ মিটার লম্বা ফিতের ৩/৮ অংশ কেটে নিয়ে তাকে সমান ৫টি ভাগে কাটলে একটি টুকরোর দৈর্ঘ্য কী পাব হিসাব করি।,৫/৪,"1. **Translation of the Bengali problem into English:**
+
+   A ribbon that is \( \frac{50}{3} \) meters long has \( \frac{3}{8} \) of its length cut off. If the remaining piece is then divided into 5 equal parts, what is the length of one piece?
+
+2. **Solution:**
+
+   First, we find the length of the ribbon that was cut off:
+   \[
+   \text{Length cut off} = \frac{3}{8} \times \frac{50}{3} = \frac{50 \times 3}{8 \times 3} = \frac{50}{8} = \frac{25}{4} \text{ meters}
+   \]
+
+   Next, we determine the remaining length of the ribbon:
+   \[
+   \text{Remaining length} = \frac{50}{3} - \frac{25}{4}
+   \]
+
+   To subtract these fractions, we need a common denominator. The least common multiple of 3 and 4 is 12:
+   \[
+   \frac{50}{3} = \frac{50 \times 4}{3 \times 4} = \frac{200}{12}
+   \]
+   \[
+   \frac{25}{4} = \frac{25 \times 3}{4 \times 3} = \frac{75}{12}
+   \]
+
+   Now subtract the two:
+   \[
+   \text{Remaining length} = \frac{200}{12} - \frac{75}{12} = \frac{200 - 75}{12} = \frac{125}{12} \text{ meters}
+   \]
+
+   Finally, divide the remaining ribbon into 5 equal parts:
+   \[
+   \text{Length of one part} = \frac{125}{12} \div 5 = \frac{125}{12} \times \frac{1}{5} = \frac{125}{60} = \frac{25}{12}
+   \]
+
+   Therefore, the length of one piece is \( \frac{25}{12} \) meters.
+
+3. **Conclusion:**
+
+   **Answer: \(\frac{25}{12}\)**"
+166,আমার কাছে ১৫০ টাকা আছে। আমার টাকার ০.৩ অংশ দিয়ে খাতা কিনলাম এবং আমার টাকার ০.৪ অংশ দিয়ে গল্পের বই কিনলাম। এখন আমার কাছে কত টাকা পড়ে আছে হিসাব করি।,৪৫,"### Translation of the Bengali Problem:
+
+I have 150 taka. I spent 0.3 of my money on buying notebooks and 0.4 of my money on buying storybooks. How much money do I have left now?
+
+### Solution:
+
+1. **Calculate the amount spent on notebooks:**
+
+   The amount of money spent on notebooks is 0.3 of 150 taka.
+
+   \[
+   \text{Amount spent on notebooks} = 0.3 \times 150 = 45 \text{ taka}
+   \]
+
+2. **Calculate the amount spent on storybooks:**
+
+   The amount of money spent on storybooks is 0.4 of 150 taka.
+
+   \[
+   \text{Amount spent on storybooks} = 0.4 \times 150 = 60 \text{ taka}
+   \]
+
+3. **Total amount spent:**
+
+   Add the amount spent on notebooks and storybooks.
+
+   \[
+   \text{Total amount spent} = 45 + 60 = 105 \text{ taka}
+   \]
+
+4. **Calculate the remaining money:**
+
+   Subtract the total amount spent from the original amount of money.
+
+   \[
+   \text{Remaining money} = 150 - 105 = 45 \text{ taka}
+   \]
+
+**Answer: 45**"
+363,এক মিটার লোহার দণ্ডের ওজন ২.৩ কেজি। দণ্ডটির দৈর্ঘ্য ১.৪ মিটার হলে এর ওজন কত কেজি?,৩.২২,"## Problem Translation:
+
+A one-meter iron rod weighs 2.3 kg. If the rod's length is 1.4 meters, what is its weight in kilograms?
+
+## Solution:
+
+To find the weight of the 1.4-meter long iron rod, we will use the given weight per meter and multiply it by the total length of the rod.
+
+1. Weight of 1 meter of the rod = 2.3 kg.
+2. Length of the rod = 1.4 meters.
+
+Therefore, the total weight of the rod = weight per meter × total length = 2.3 kg/m × 1.4 m.
+
+\[ \text{Total weight} = 2.3 \times 1.4 = 3.22 \text{ kg} \]
+
+**Answer: 3.22**"
+524,দুইটি সংখ্যার যোগফল ৫৫ এবং বড় সংখ্যাটির ৫ গুণ ছোট সংখ্যাটির ৬ গুণের সমান। ছোট সংখ্যাটি বের কর।,২৫,"## Translation of the Problem:
+Two numbers have a sum of 55, and five times the larger number is equal to six times the smaller number. Find the smaller number.
+
+## Solution:
+Let's denote the smaller number as \( x \) and the larger number as \( y \).
+
+According to the problem, the sum of these two numbers is 55. Therefore, we can write the first equation as:
+\[ x + y = 55 \quad \text{(Equation 1)} \]
+
+Also, it is given that five times the larger number is equal to six times the smaller number:
+\[ 5y = 6x \quad \text{(Equation 2)} \]
+
+Now, let's solve these two equations step by step.
+From Equation 1, express \( y \) in terms of \( x \):
+\[ y = 55 - x \]
+
+Substitute \( y = 55 - x \) into Equation 2:
+\[ 5(55 - x) = 6x \]
+
+Simplify the equation:
+\[ 275 - 5x = 6x \]
+
+Add \( 5x \) to both sides:
+\[ 275 = 11x \]
+
+Divide both sides by 11 to solve for \( x \):
+\[ x = \frac{275}{11} = 25 \]
+
+Thus, the smaller number is:
+**Answer: 25**"
+77,দশ লাখ টাকার জন্য মোট কয়টা দুইশত টাকার নোট প্রয়োজন?,৫০০০,"### Translated Problem:
+How many two-hundred taka notes are required for a total of ten lakh taka?
+
+### Solution:
+To determine the number of 200-taka notes needed to make a total of 10 lakh taka, we perform the following calculation:
+
+1. Understand the values:
+   - Total amount needed = 10 lakh taka = 1,000,000 taka.
+   - Value of one note = 200 taka.
+
+2. Calculate the number of notes:
+   \[
+   \text{Number of notes} = \frac{\text{Total amount needed}}{\text{Value of one note}} = \frac{1,000,000}{200}
+   \]
+
+3. Perform the division:
+   \[
+   \frac{1,000,000}{200} = 5,000
+   \]
+
+Thus, 5,000 notes of 200 taka are required to make a total of 10 lakh taka.
+
+**Answer: 5000**"
+447,"একজন দোকানদার ৫০ কেজির ১ বস্তা চাল ১৬০০ টাকায় কিনলেন। চালের দাম কমেক যাওয়ায় ১৫০০ টাকায় বিক্রয় করেন, তাঁর কত টাকা ক্ষতি হলো ?",১০০,"## Translation of the Bengali Problem:
+A shopkeeper purchased a sack of rice weighing 50 kg for 1600 Taka. Due to a decrease in the price of rice, he sold it for 1500 Taka. How much loss did he incur?
+
+## English Solution:
+To find the shopkeeper's loss, we subtract the selling price from the cost price.
+
+### Calculations:
+- Cost price (CP) of the rice = 1600 Taka
+- Selling price (SP) of the rice = 1500 Taka
+
+The loss can be calculated using the formula:  
+\[ \text{Loss} = \text{Cost Price} - \text{Selling Price} \]
+
+Substituting the given values:
+\[ \text{Loss} = 1600 - 1500 = 100 \]
+
+Therefore, the shopkeeper incurred a loss of 100 Taka.
+
+**Answer: 100**"
+3,"একটি সিনেমা থিয়েটার প্রাপ্তবয়স্কদের জন্য ৭.৫০ টাকা এবং শিশুদের জন্য ৪.৫০ টাকা চার্জ করে। একটি সিনেমা দেখানোর রসিদ ছিল ৫৪০ টাকা। যদি ৮০  টি টিকিট বিক্রি হয়, তাহলে কতটি প্রাপ্তবয়স্ক টিকিট বিক্রি হয়েছে তা খুঁজে বের করুন।",৬০,"## Translation of the Problem:
+
+A cinema theater charges 7.50 taka for adults and 4.50 taka for children. A receipt for a movie show was 540 taka. If 80 tickets were sold, find out how many adult tickets were sold.
+
+## Solution:
+
+Let the number of adult tickets sold be \( x \).
+
+If the total number of tickets sold is 80, then the number of children's tickets sold is \( 80 - x \).
+
+The total revenue from adult tickets is \( 7.50 \times x \).
+
+The total revenue from children's tickets is \( 4.50 \times (80 - x) \).
+
+According to the problem, the total revenue is 540 taka. Therefore, the equation can be set up as follows:
+
+\[ 7.50x + 4.50(80 - x) = 540 \]
+
+Now, let's solve for \( x \):
+
+First, expand the equation:
+
+\[ 7.50x + 4.50 \times 80 - 4.50x = 540 \]
+
+Calculate \( 4.50 \times 80 \):
+
+\[ 4.50 \times 80 = 360 \]
+
+Substitute back into the equation:
+
+\[ 7.50x + 360 - 4.50x = 540 \]
+
+Combine like terms:
+
+\[ (7.50x - 4.50x) + 360 = 540 \]
+
+\[ 3.00x + 360 = 540 \]
+
+Subtract 360 from both sides:
+
+\[ 3.00x = 540 - 360 \]
+
+\[ 3.00x = 180 \]
+
+Divide both sides by 3.00:
+
+\[ x = \frac{180}{3.00} \]
+
+\[ x = 60 \]
+
+Therefore, 60 adult tickets were sold.
+
+**Answer: 60**"
+378,"একটি বাক্সের ৩০টি কমলার মধ্যে আমরা ৩টির ওজন মেপে পেলাম যথাক্রমে ২৩৫ গ্রাম, ১২০ গ্রাম এবং ৩৬৫ গ্রাম । গড় ওজনের ভিত্তিতে ৩০টি কমলার মোট ওজন (কেজিতে) নির্ণয় কর।",৭.২০,"## Translation of the Problem:
+In a box of 30 oranges, we weighed 3 of them and found their weights to be 235 grams, 120 grams, and 365 grams, respectively. Based on the average weight, calculate the total weight of the 30 oranges in kilograms.
+
+## Solution:
+First, we need to calculate the average weight of the 3 oranges that were weighed.
+
+The weights given are:
+- Orange 1: 235 grams
+- Orange 2: 120 grams
+- Orange 3: 365 grams
+
+To find the average weight of these oranges, we sum their weights and divide by 3.
+
+\[
+\text{Average weight} = \frac{235 + 120 + 365}{3} \text{ grams}
+\]
+
+Calculating the sum:
+
+\[
+235 + 120 + 365 = 720 \text{ grams}
+\]
+
+Now, divide by 3 to find the average weight:
+
+\[
+\text{Average weight} = \frac{720}{3} = 240 \text{ grams}
+\]
+
+Next, we use this average weight to estimate the total weight of all 30 oranges.
+
+Total weight of 30 oranges:
+
+\[
+\text{Total weight} = 30 \times 240 \text{ grams} = 7200 \text{ grams}
+\]
+
+Finally, convert the total weight into kilograms (since there are 1000 grams in a kilogram):
+
+\[
+\text{Total weight in kilograms} = \frac{7200}{1000} = 7.2 \text{ kilograms}
+\]
+
+**Answer: 7.2**"
+272,দুটি ধণাত্মক সংখ্যার গুণফল ৯৮ এবং বড়ো সংখ্যাটি ছোটো সংখ্যাটির ২ গুণ। ছোট সংখ্যাটি কী?,৭,"## Translation:
+The problem in English is:
+""The product of two positive numbers is 98, and the larger number is twice the smaller number. What is the smaller number?""
+
+## Solution:
+Let's denote the smaller number as \( x \).
+According to the problem, the larger number is \( 2x \).
+
+The product of these two numbers is given by:
+\[ x \times 2x = 98 \]
+
+This simplifies to:
+\[ 2x^2 = 98 \]
+
+To find the value of \( x \), divide both sides of the equation by 2:
+\[ x^2 = 49 \]
+
+Next, solve for \( x \) by taking the square root of both sides:
+\[ x = \sqrt{49} \]
+\[ x = 7 \]
+
+Therefore, the smaller number is 7.
+
+**Answer: 7**"
+293, ১৮৯৫ সাল থেকে ১৯১৫ সাল পর্যন্ত মোট কতগুলো লিপইয়ার ছিলো।,৪,"1. **Translation of the problem:**
+   ""How many leap years were there from the year 1895 to 1915?""
+
+2. **Solution:**
+   A leap year is a year that is divisible by 4, except for end-of-century years which must be divisible by 400. The years from 1895 to 1915 are analyzed below:
+
+   - Starting from 1895, the first leap year is in 1896.
+   - Subsequent leap years in this range will follow every 4 years: 1900 would typically be a leap year by the rule of being divisible by 4, but 1900 is not a leap year because it is an end-of-century year and is not divisible by 400.
+   - Therefore, the leap years between 1895 and 1915 are 1896, 1904, 1908, 1912.
+   
+   Let's count them:
+   - 1896
+   - 1904
+   - 1908
+   - 1912
+
+   Total leap years = 4.
+
+**Answer: 4**"
+450,একটি বাক্স আঙ্গুর ২৭৫০ টাকায় বিক্রয় করায় ৪৫০ টাকা ক্ষতি হলো। ঐ আঙ্গুর ৩৬০০ টাকায় বিক্রয় করলে কত টাকা লাভ বা ক্ষতি হতো ?,৪০০,"### Translated Problem:
+A box of grapes was sold for 2750 taka, resulting in a loss of 450 taka. If the grapes were sold for 3600 taka, how much profit or loss would there be?
+
+### Solution:
+
+To solve the problem, let's first determine the cost price of the grapes.
+
+1. **Calculate the Cost Price (CP):**
+
+   The loss is the difference between the cost price and the selling price (SP). Since selling at 2750 taka resulted in a 450 taka loss, we have:
+
+   \[
+   \text{CP} = \text{SP} + \text{Loss} = 2750 + 450 = 3200 \text{ taka}
+   \]
+
+2. **Determine the Profit or Loss when Sold at 3600 taka:**
+
+   Selling Price in the new scenario is 3600 taka. Now, calculate the profit or loss:
+   
+   \[
+   \text{Profit/Loss} = \text{SP} - \text{CP} = 3600 - 3200 = 400 \text{ taka}
+   \]
+
+   Since the result is positive, this indicates a profit.
+
+### Conclusion:
+
+If the box of grapes were sold for 3600 taka, there would be a profit of 400 taka.
+
+**Answer: 400**"
+646,"একজন লোকের নিকট ৫০০০ টাকা আছে। তিনি উক্ত টাকা দুইজনের মধ্যে এমনভাবে ভাগ করে দিলেন, যেন, প্রথম জনের টাকা দ্বিতীয় জনের ৪ গুণ হয়। আবার, প্রথম জন থেকে ১৫০০ টাকা দ্বিতীয় জনকে দিলে উভয়ের টাকার পরিমাণ সমান হয়। দ্বিতীয় জনের টাকার পরিমাণ নির্ণয় কর।",১০০০,"## Translation of the Problem:
+A person has 5000 Taka. He divides the amount between two people such that the amount received by the first person is four times the amount received by the second person. Furthermore, if the first person gives 1500 Taka to the second person, both will have the same amount of money. Find the amount of money received by the second person.
+
+## Solution:
+Let's denote:
+- The amount of money received by the second person as \( x \) Taka.
+- The amount of money received by the first person as \( 4x \) Taka, since it is four times the amount the second person received.
+
+According to the problem statement, the sum of their amounts is 5000 Taka:
+\[
+x + 4x = 5000
+\]
+\[
+5x = 5000
+\]
+\[
+x = 1000
+\]
+
+Thus, the second person received 1000 Taka initially.
+
+To verify, we check the condition where the first person gives 1500 Taka to the second person, making their amounts equal:
+- Initially, the first person has \( 4x = 4 \times 1000 = 4000 \) Taka.
+- After giving 1500 Taka to the second person, the first person has \( 4000 - 1500 = 2500 \) Taka.
+- The second person originally has 1000 Taka and receives 1500 more, totaling \( 1000 + 1500 = 2500 \) Taka.
+
+Both have 2500 Taka after the transaction, confirming the conditions are met.
+
+**Answer: 1000**"
+91,একটি পার্কে একটি বট গাছ ও একটি পাইন গাছ আছে। ১৫০ বছর পূর্বে গাছ দুইটির বয়সের যোগফল ছিল ২৯৬১ বছর। বর্তমানে পাইন পাছটির বয়স ১৪৩২ বছর। বর্তমানে বট গাছটির বয়স কত বছর হবে?,১৮২৯,"## Translation of the Problem:
+In a park, there is a banyan tree and a pine tree. 150 years ago, the sum of the ages of the two trees was 2961 years. Currently, the age of the pine tree is 1432 years. What is the current age of the banyan tree?
+
+## Solution:
+Let's denote the age of the banyan tree 150 years ago as \( B \) and the age of the pine tree 150 years ago as \( P \).
+
+From the problem statement, we have the following equation for 150 years ago:
+\[ B + P = 2961 \]
+
+We are also given that the current age of the pine tree is 1432 years. Therefore, 150 years ago, the age of the pine tree was:
+\[ P = 1432 - 150 = 1282 \]
+
+Substitute \( P = 1282 \) into the first equation:
+\[ B + 1282 = 2961 \]
+\[ B = 2961 - 1282 \]
+\[ B = 1679 \]
+
+Now, add 150 years to the age of the banyan tree to find its current age:
+\[ \text{Current age of the banyan tree} = B + 150 = 1679 + 150 = 1829 \]
+
+**Answer: 1829**"
+498,প্রতি মিটার ১০০ টাকা দরে ১০০ মিটার লম্বা ও ৫০ মিটার চওড়া একটি আয়তাকার পার্কের চারিদিকে বেড়া দিতে কত খরচ লাগবে ?,৩০০০০,"## Translation of the Problem:
+
+What is the cost of fencing a rectangular park that is 100 meters long and 50 meters wide at the rate of 100 taka per meter?
+
+## Solution:
+
+To find the cost of fencing, we first need to determine the total length of fencing required, which is the perimeter of the rectangular park.
+
+The formula for the perimeter \( P \) of a rectangle is:
+\[ P = 2 \times (\text{length} + \text{width}) \]
+
+Given:  
+Length \( = 100 \) meters  
+Width \( = 50 \) meters
+
+Plug these values into the formula:
+\[ P = 2 \times (100 + 50) \]
+\[ P = 2 \times 150 \]
+\[ P = 300 \] meters
+
+Now, we calculate the cost of the fencing:
+
+The cost per meter is 100 taka. Therefore, for 300 meters, the cost will be:
+\[ \text{Total Cost} = 300 \times 100 \]
+\[ \text{Total Cost} = 30000 \] taka
+
+**Answer: 30000**"
+319,৫৬০৫ থেকে কোন ক্ষুদ্রতম সংখ্যা বিয়োগ করলে বিয়োগফল একটি পূর্ণ বর্গসংখ্যা হবে?,১২৯,"1. **Translation:**
+
+   What is the smallest number that can be subtracted from 5605 so that the result is a perfect square?
+
+2. **Solution:**
+
+   To solve this problem, we first determine the smallest perfect square that is less than or equal to 5605.
+
+   We first find the integer part of the square root of 5605:
+   \[
+   \sqrt{5605} \approx 74.86
+   \]
+   So, the greatest integer less than or equal to 74.86 is 74.
+
+   Calculate the square of this integer: 
+   \[
+   74^2 = 5476
+   \]
+
+   Now, subtract this perfect square, 5476, from 5605 to find the difference:
+   \[
+   5605 - 5476 = 129
+   \]
+
+   Therefore, the smallest number we need to subtract from 5605 to obtain a perfect square is 129.
+
+**Answer: 129**"
+31,১৮টি ডিমের দাম ৭২ টাকা। এরূপ ১৫টি ডিম ক্রয় করতে কত টাকার প্রয়োজন?,৬০,"### Translated Problem:
+The cost of 18 eggs is 72 Taka. How much money is required to purchase 15 such eggs?
+
+### Solution:
+1. **Determine the cost of one egg:**
+
+   \[
+   \text{Cost of 18 eggs} = 72 \text{ Taka}
+   \]
+
+   To find the cost of one egg, divide the total cost by the number of eggs:
+
+   \[
+   \text{Cost of 1 egg} = \frac{72}{18} = 4 \text{ Taka}
+   \]
+
+2. **Calculate the cost of 15 eggs:**
+
+   Now that we know the cost of one egg is 4 Taka, we can calculate the cost for 15 eggs:
+
+   \[
+   \text{Cost of 15 eggs} = 15 \times 4 = 60 \text{ Taka}
+   \]
+
+Therefore, the money required to purchase 15 eggs is **60 Taka**.
+
+**Answer: 60**"
+329,গীতা অপেক্ষা শিহাবের ২১০ টাকা বেশি আছে। শিমুল অপেক্ষা গীতার ৩৫০ টাকা কম আছে। শিমুলের কাছে ৪২০ টাকা আছে। শিহাবের কাছে কত টাকা আছে ?,২৮০,"## Translated Problem:
+Shihab has 210 takas more than Geeta. Shimul has 350 takas less than Geeta. Shimul has 420 takas. How much money does Shihab have?
+
+## Solution:
+1. Let's first determine how much money Geeta has. We know that Shimul has 350 takas less than Geeta, and he currently has 420 takas. 
+
+   \[
+   \text{Geeta's amount} = \text{Shimul's amount} + 350 = 420 + 350 = 770
+   \]
+
+2. Now that we know Geeta has 770 takas, we can find out how much money Shihab has. Shihab has 210 takas more than Geeta.
+
+   \[
+   \text{Shihab's amount} = \text{Geeta's amount} + 210 = 770 + 210 = 980
+   \]
+
+Therefore, Shihab has 980 takas.
+
+**Answer: 980**"
+177,আমাদের শ্রেণিতে মোট ছাত্রছাত্রীর ০.২৩ অংশ ছাত্রী আছে। আমাদের শ্রেণিতে মোট ছাত্রছাত্রীর শতকরা কত জন ছাত্রী পড়ে হিসাব করি।,২৩,"## Translation of the Bengali Problem into English:
+In our class, 0.23 of the total students are female students. Let's calculate the percentage of female students in our class.
+
+## Solution:
+To find the percentage of female students, we need to convert the fraction 0.23 into a percentage.
+
+Percentage is calculated by multiplying the fraction by 100.
+
+So, the calculation will be:
+\[ 
+0.23 \times 100 = 23\%
+\]
+
+Therefore, 23% of the total students are female students.
+
+**Answer: 23**"
+432,"কিছু টাকা লাবিব , সামি ও সিয়াম এর মধ্যে ৫ : ৪ : ২ অনুপাতে ভাগ করে দেওয়া হলো। সিয়াম ১৮০ টাকা পেলে সামি কত টাকা পাবে নির্ণয় কর।",৩৬০,"## Translation of the Problem:
+A sum of money is divided among Labib, Sami, and Siam in the ratio of 5:4:2. If Siam receives 180 taka, determine how much Sami will receive.
+
+## Solution:
+Given the ratio of distribution among Labib, Sami, and Siam is 5:4:2, and Siam (the third person in the ratio) receives 180 taka.
+
+Let's denote the parts of Labib, Sami, and Siam by \( 5x \), \( 4x \), and \( 2x \) respectively.
+
+From the problem, we know:
+\[ 2x = 180 \]
+
+By solving for \( x \), we divide both sides of the equation by 2:
+\[ x = \frac{180}{2} = 90 \]
+
+Now, we need to find the amount Sami receives, which corresponds to \( 4x \):
+\[ 4x = 4 \times 90 = 360 \]
+
+Thus, Sami will receive 360 taka.
+
+**Answer: 360**"
+45,"ভাজ্য ৮৯০৩, ভাজক ৮৭ এবং ভাগশেষ ২৯। ভাগফল কত?",১০২,"## Translation of the Problem:
+The dividend is 8903, the divisor is 87, and the remainder is 29. What is the quotient?
+
+## Solution in English:
+To find the quotient, we use the division relationship which is expressed as:
+
+\[ \text{Dividend} = (\text{Divisor} \times \text{Quotient}) + \text{Remainder} \]
+
+Given:
+- Dividend (ভাজ্য) = 8903
+- Divisor (ভাজক) = 87
+- Remainder (ভাগশেষ) = 29
+
+We need to find the quotient (ভাগফল), denoted as \( Q \).
+
+Substitute the given values in the equation:
+
+\[ 8903 = (87 \times Q) + 29 \]
+
+First, subtract the remainder (29) from the dividend (8903):
+
+\[ 8903 - 29 = 87 \times Q \]
+
+\[ 8874 = 87 \times Q \]
+
+Now, solve for \( Q \) by dividing 8874 by 87:
+
+\[ Q = \frac{8874}{87} \]
+
+Perform the division:
+
+\[ Q = 102 \]
+
+Thus, the quotient is 102.
+
+**Answer: 102**"
+265,কোন ক্ষুদ্রতম স্বাভাবিক সংখ্যা দিয়ে ৪৩২ কে গুণ করলে পূর্ণবর্গ সংখ্যা পাব।,৩,"1. **Translation of the Problem:**
+   What is the smallest natural number that, when multiplied by 432, results in a perfect square?
+
+2. **Solution:**
+
+   To solve this problem, we need to find the smallest number \( n \) such that \( 432 \times n \) is a perfect square.
+
+   We start by finding the prime factorization of 432:
+
+   \[
+   432 = 2^4 \times 3^3
+   \]
+
+   For \( 432 \times n \) to be a perfect square, all the exponents in its prime factorization must be even.
+
+   - Currently, we have \( 2^4 \), which is already an even exponent.
+   - However, we have \( 3^3 \) where the exponent 3 is odd.
+
+   To make \( 3^3 \) an even power, we need to multiply by an additional \( 3^1 \) to make it \( 3^4 \).
+
+   Thus, \( n \) must be a factor such that:
+   
+   \[
+   n = 3^1 = 3
+   \]
+
+   Therefore, the smallest natural number \( n \) is 3.
+
+   Checking:  
+   \[
+   432 \times 3 = 1296
+   \]
+
+   Now, we check if 1296 is a perfect square:
+
+   \[
+   \sqrt{1296} = 36
+   \]
+
+   Since 36 is an integer, 1296 is indeed a perfect square.
+
+3. **Conclusion:**
+
+   Therefore, the smallest natural number by which we can multiply 432 to get a perfect square is:
+
+   **Answer: 3**"
+79,৫% মুনাফা হারে ১০ বছরে ১০০০০ টাকা থেকে কত টাকা লাভ পাওয়া যাবে?,৫০০০,"## Translation of the Problem
+""At a 5% profit rate, how much profit will be gained on 10,000 taka in 10 years?""
+
+## Solution
+To find the profit, we can use the simple interest formula, which is given by:
+
+\[ \text{Interest} = \frac{\text{Principal} \times \text{Rate} \times \text{Time}}{100} \]
+
+Where:
+- Principal = 10,000 taka
+- Rate = 5%
+- Time = 10 years
+
+Plug the values into the formula:
+
+\[ \text{Interest} = \frac{10000 \times 5 \times 10}{100} \]
+
+\[ \text{Interest} = \frac{500000}{100} \]
+
+\[ \text{Interest} = 5000 \]
+
+The profit gained will be 5,000 taka.
+
+**Answer: 5000**"
+448,৭৫ টাকায় ১৫ টি বলপেন কিনে ৯০ টাকায় বিক্রয় করলে শতকরা কত ভাগ লাভ হবে ?,২০,"1. **Translation of the Problem:**
+   - The problem in Bengali asks: ""If 15 ball pens are bought for 75 taka and sold for 90 taka, what is the percentage profit?""
+
+2. **Solution in English:**
+
+   To calculate the percentage profit, we first need to determine the cost price and the selling price.
+
+   - **Cost Price (CP):**
+     The cost of 15 ball pens is 75 taka.
+
+   - **Selling Price (SP):**
+     The selling price of 15 ball pens is 90 taka.
+
+   The formula to calculate the percentage profit is:
+
+   \[
+   \text{Percentage Profit} = \left( \frac{\text{Selling Price} - \text{Cost Price}}{\text{Cost Price}} \right) \times 100
+   \]
+
+   Substitute the given values into the formula:
+
+   \[
+   \text{Percentage Profit} = \left( \frac{90 - 75}{75} \right) \times 100
+   \]
+
+   \[
+   \text{Percentage Profit} = \left( \frac{15}{75} \right) \times 100
+   \]
+
+   \[
+   \text{Percentage Profit} = 0.2 \times 100
+   \]
+
+   \[
+   \text{Percentage Profit} = 20\%
+   \]
+
+Therefore, the percentage profit is 20%.
+
+**Answer: 20**"
+102,"সব চেয়ে ছোট সংখ্যা খুঁজি যা ১৮, ২৪, ৪২ দিয়ে বিভাজ্য। ",৫০৪,"1. **Translation of the Problem:**
+
+   ""Find the smallest number that is divisible by 18, 24, and 42.""
+
+2. **Solution:**
+
+   To find the smallest number that is divisible by all the given numbers, we need to find the Least Common Multiple (LCM) of the numbers 18, 24, and 42.
+
+   - **Finding the LCM of 18, 24, and 42:**
+
+     First, we find the prime factorization of each number:
+
+     - 18 = 2 × 3²
+     - 24 = 2³ × 3
+     - 42 = 2 × 3 × 7
+
+     Next, to find the LCM, we take the highest power of each prime number that appears in the factorizations:
+
+     - For the prime number 2: the highest power is 2³ from 24.
+     - For the prime number 3: the highest power is 3² from 18.
+     - For the prime number 7: the highest power is 7¹ from 42.
+
+     Therefore, the LCM is calculated as:
+
+     \[
+     LCM = 2³ × 3² × 7 = 8 × 9 × 7
+     \]
+
+     Now compute the LCM:
+
+     - Calculate 8 × 9 = 72
+     - Next, calculate 72 × 7 = 504
+
+   Thus, the smallest number that is divisible by 18, 24, and 42 is 504.
+
+3. **Final Answer:**
+
+   **Answer: 504**"
+311,আমার পড়ার বই ও গল্পের বইয়ের অনুপাত ৪ঃ৩; পড়ার বই ২৮টি হলে মোট বইয়ের সংখ্যা কত হিসাব করি।,৪৯,"## Translated Problem:
+The ratio of my textbooks to storybooks is 4:3. If there are 28 textbooks, how many books are there in total?
+
+## Solution:
+Let's denote the number of textbooks as \( T \) and the number of storybooks as \( S \).
+
+According to the problem, the ratio of textbooks to storybooks is given as:
+
+\[
+\frac{T}{S} = \frac{4}{3}
+\]
+
+We are also given that:
+
+\[
+T = 28
+\]
+
+We can set up the equation based on the given ratio:
+
+\[
+\frac{28}{S} = \frac{4}{3}
+\]
+
+To find \( S \), we solve the equation:
+
+\[
+28 \times 3 = 4 \times S
+\]
+
+\[
+84 = 4S
+\]
+
+\[
+S = \frac{84}{4} = 21
+\]
+
+Now that we know there are 21 storybooks, we can find the total number of books by adding the number of textbooks and storybooks:
+
+\[
+T + S = 28 + 21 = 49
+\]
+
+Therefore, the total number of books is 49.
+
+**Answer: 49**"
+441,"৯৬০০ টাকা সারা, মাইমুনা ও রাইসার মধ্যে ৪:৩:১ অনুপাতে ভাগ করে দিলে রাইসা কত টাকা পাবে ?",১২০০,"## Problem Translation:
+
+The problem is as follows:
+
+""9600 Taka is divided among Sara, Maimuna, and Raisa in the ratio of 4:3:1. How much money will Raisa receive?""
+
+## Solution:
+
+1. First, we need to determine the total parts in the given ratio. The ratio is 4:3:1.
+   
+   Total parts = 4 + 3 + 1 = 8 parts.
+
+2. Raisa's share in the ratio is represented by 1 part.
+
+3. Therefore, to find out how much Raisa receives, we calculate her share based on the number of parts:
+
+   Raiasa's share = Total amount * (Raisa's ratio part / Total parts)
+
+   Raisa's share = 9600 * (1 / 8)
+
+4. Calculating the above expression gives:
+
+   Raisa's share = 9600 / 8 = 1200
+
+Therefore, Raisa gets 1200 Taka.
+
+**Answer: 1200**"
+451,একজন চা ব্যবসায়ী একবাক্স চা পাতা কেজি প্রতি ৮০ টাকা হিসাবে ক্রয় করেন। সব চা পাতা কেজি প্রতি ৭৫ টাকা দরে বিক্রয় করায় ৫০০ টাকা ক্ষতি হয়। তিনি কত কেজি চা পাতা ক্রয় করেছিলেন ?,১০০,"## Translation of the Problem:
+A tea merchant buys a box of tea leaves at a rate of 80 Taka per kilogram. Selling all the tea leaves at a rate of 75 Taka per kilogram results in a loss of 500 Taka. How many kilograms of tea leaves did he purchase?
+
+## Solution:
+First, let's define:
+- \( x \) as the number of kilograms of tea leaves purchased.
+
+The cost price of \( x \) kilograms of tea leaves is given by:
+\[ \text{Cost Price} = 80 \times x \]
+
+The selling price for \( x \) kilograms of tea leaves is:
+\[ \text{Selling Price} = 75 \times x \]
+
+Given, the loss incurred is 500 Taka. We know that:
+\[ \text{Loss} = \text{Cost Price} - \text{Selling Price} \]
+
+Substituting the known values:
+\[ 500 = (80 \times x) - (75 \times x) \]
+
+Simplifying the expression:
+\[
+500 = 80x - 75x 
+\]
+\[
+500 = 5x 
+\]
+
+Solving for \( x \):
+\[
+x = \frac{500}{5} 
+\]
+\[
+x = 100 
+\]
+
+Therefore, the merchant purchased **100 kilograms** of tea leaves.
+
+**Answer: 100**"
+421,"২০ মিটার কাপড়কে তিন ভাইবোন অমিত, সুমিত ও চৈতির মধ্যে ৫ : ৩ : ২ অনুপাতে ভাগ করলে সুমিতের কাপড়ের পরিমাণ কত?",৬,"## Translation of the Problem:
+The problem asks how much cloth Sumit will receive if 20 meters of cloth is divided among three siblings, Amit, Sumit, and Chaiti, in the ratio of 5:3:2.
+
+## Solution:
+
+To solve this problem, we first need to divide the total length of cloth (20 meters) in the given ratio 5:3:2.
+
+1. First, find the sum of the parts of the ratio:
+   \[
+   5 + 3 + 2 = 10
+   \]
+
+2. Next, find out how much 1 part of the ratio represents:
+   - 1 part = \( \frac{20}{10} = 2 \) meters
+
+3. Now, calculate how much cloth Sumit gets (which corresponds to 3 parts of the ratio):
+   \[
+   3 \text{ parts} = 3 \times 2 = 6 \text{ meters}
+   \]
+
+**Answer: 6**"
+559,বার্ষিক মুনাফা ৮% থেকে বেড়ে ১০% হওয়ায় তিশা মারমার আয় ৪ বছরে ১২৮ টাকা বেড়ে গেল। তাঁর মূলধন কত ছিল ?,১৬০০,"## Translation of the Bengali problem into English:
+Due to the increase in annual profit from 8% to 10%, Tisha Marmar's income increased by 128 Taka over 4 years. What was her principal amount?
+
+## Solution:
+Let's denote Tisha's principal amount as \( P \).
+
+1. **Initial Interest Calculation:**
+   - At 8% annual interest, the annual income would be \((8/100) \times P = 0.08P\).
+
+2. **New Interest Calculation:**
+   - At 10% annual interest, the new annual income would be \((10/100) \times P = 0.10P\).
+
+3. **Increase in Annual Income:**
+   - The increase in annual income when the interest rate rises from 8% to 10% is \((0.10P - 0.08P) = 0.02P\).
+
+4. **Total Increase over 4 years:**
+   - Over 4 years, this increase equals 128 Taka:  
+     \[
+     4 \times 0.02P = 128
+     \]
+
+5. **Solving for Principal \( P \):**
+   \[
+   0.08P = 128
+   \]
+   \[
+   P = \frac{128}{0.08}
+   \]
+   \[
+   P = 1600
+   \]
+
+Therefore, Tisha's principal amount was 1600 Taka.
+
+**Answer: 1600**"
+164,মিঠু ৪টি খাতা কিনবে। ১টি খাতার দাম ১২.৭৫ টাকা হলে মিঠুকে কত টাকা জোগাড় করতে হবে হিসাব করি।,৫১,"## Problem Translation
+Mithu will buy 4 notebooks. If the price of one notebook is 12.75 Taka, calculate how much money Mithu needs to gather.
+
+## Solution
+To find out how much money Mithu needs, we need to multiply the price of one notebook by the number of notebooks:
+
+Price of one notebook = 12.75 Taka  
+Number of notebooks = 4  
+
+Total cost = Price of one notebook × Number of notebooks  
+Total cost = 12.75 × 4  
+
+Now, perform the multiplication:
+
+\[ 12.75 \times 4 = 51.00 \]
+
+Therefore, Mithu needs to gather 51.00 Taka.
+
+**Answer: 51.00**"
+495,একটি আয়তাকার ঘরের পরিসীমা একটি বর্গাকার পরীসীমার সমান। আয়তাকার ঘরের দৈর্ঘ্য প্রস্থের ৩ গুণ। প্রতি বর্গমিটারে ৭৫ টাকা দরে ঘরের মেঝে কার্পেট দিয়ে মুড়তে মোট ১১০২৫ টাকা ব্যয় হয়। ৪০ সে.মি. বর্গাকার টাইলস দ্বারা বর্গাকার ঘরের মেঝে ঢাকতে কয়টি টাইলস লাগবে ?,১৬০০,"### Problem Translation:
+
+The perimeter of a rectangular room is equal to the perimeter of a square. The length of the rectangular room is three times its width. To carpet the floor of the rectangular room, at 75 taka per square meter, the total cost is 11,025 taka. How many 40 cm square tiles are needed to cover the floor of the square room?
+
+### Problem Solving:
+
+1. **Find the dimensions of the rectangular room:**
+   - Let the width of the rectangular room be \( w \) meters.
+   - Then the length is \( 3w \) meters.
+   - The area of the rectangular room is given by the cost of carpeting:
+     \[
+     \text{Area} = \frac{\text{Total Cost}}{\text{Cost per square meter}} = \frac{11025}{75} = 147 \text{ square meters}
+     \]
+   - Therefore, the area is \( w \times 3w = 3w^2 = 147 \).
+   - Solving for \( w \), we get:
+     \[
+     w^2 = \frac{147}{3} = 49 \Rightarrow w = \sqrt{49} = 7 \text{ meters}
+     \]
+
+2. **Determine the perimeter of the rectangular room:**
+   - Since \( w = 7 \) meters, the length is \( 3w = 21 \) meters.
+   - The perimeter (P) of the rectangle is:
+     \[
+     P = 2(l + w) = 2(21 + 7) = 2 \times 28 = 56 \text{ meters}
+     \]
+
+3. **Find the side length of the square room:**
+   - The perimeter of the square room is the same as that of the rectangular room, 56 meters.
+   - If \( s \) is the side length of the square, we have:
+     \[
+     4s = 56 \Rightarrow s = \frac{56}{4} = 14 \text{ meters}
+     \]
+
+4. **Calculate the required number of tiles:**
+   - The area of the square room is \( s^2 = 14^2 = 196 \) square meters.
+   - Each tile covers an area of \( 40 \text{ cm} \times 40 \text{ cm} = 0.4 \times 0.4 = "
+66,"একটি পাত্রে ০.৬৩ লিটার তেল আছে। ঐ তেল ৭টি কাপে সমানভাবে ঢালা হলে, প্রত্যেক কাপে কত লিটার তেল থাকবে ?",০.০৯,"1. **Translation of the problem:**
+   
+   There is 0.63 liters of oil in a container. If this oil is poured equally into 7 cups, how much oil will each cup contain?
+
+2. **Solution:**
+
+   To find out how much oil each cup contains, we need to divide the total amount of oil by the number of cups.
+
+   \[
+   \text{Oil per cup} = \frac{0.63 \text{ liters}}{7}
+   \]
+
+   Performing the division:
+
+   \[
+   0.63 \div 7 = 0.09 \text{ liters}
+   \]
+
+   Therefore, each cup will contain 0.09 liters of oil.
+
+3. **Answer: 0.09**"
+347,"৩/৫ বর্গ মি দেয়াল রঙিন করতে ১/৩ ডেসি লি রং লাগে। ১ ডেসি লি রং দ্বারা কত বর্গ মি দেয়াল
+রঙিন করা যাবে?",৯/৫,"1. **Translation of the Bengali problem into English:**
+
+   To paint a 3/5 square meter wall, 1/3 deciliter of paint is required. How many square meters of wall can be painted with 1 deciliter of paint?
+
+2. **Solution in English:**
+
+   Let's determine how much wall can be painted with 1 deciliter of paint.
+
+   From the given information, 1/3 deciliter of paint is needed for 3/5 square meters.
+
+   To find out how much wall can be painted with 1 deciliter, we need to find the ratio of square meters to paint in deciliters:
+
+   \[
+   \text{Wall area per deciliter} = \left(\frac{3}{5} \text{ square meters}\right) \div \left(\frac{1}{3} \text{ deciliters}\right)
+   \]
+
+   To divide by a fraction, you multiply by its reciprocal:
+
+   \[
+   \text{Wall area per deciliter} = \left(\frac{3}{5} \right) \times \left(\frac{3}{1} \right) = \frac{9}{5} \text{ square meters}
+   \]
+
+   Therefore, with 1 deciliter of paint, you can paint 9/5 square meters of wall.
+
+3. **Conclusion:**
+
+   **Answer: 9/5**"
+50,৭/৫ মি ও ৪/৫ মি দৈর্ঘ্যের দুইটি ফিতা একত্রে কত মিটার?,১১/৫,"1. **Translation of the Bengali problem into English:**
+
+   What is the total length when two ribbons, one measuring \( \frac{7}{5} \) meters and the other \( \frac{4}{5} \) meters, are combined?
+
+2. **Solution:**
+
+   To find the total length of the two ribbons, we need to add the lengths of the individual ribbons.
+
+   \[
+   \text{Total length} = \frac{7}{5} + \frac{4}{5}
+   \]
+
+   Since the denominators are the same, we can simply add the numerators:
+
+   \[
+   = \frac{7 + 4}{5} = \frac{11}{5}
+   \]
+
+   To express the answer in mixed number form, divide 11 by 5:
+
+   \[
+   11 \div 5 = 2 \quad \text{remainder} \quad 1
+   \]
+
+   So, \( \frac{11}{5} \) can be expressed as \( 2 \frac{1}{5} \).
+
+   Thus, the total length of the ribbons is \( 2 \frac{1}{5} \) meters.
+
+**Answer: \( \frac{11}{5} \) or \( 2 \frac{1}{5} \) meters.**"
+412,কোনো বাগানে ১৮০০ টি চারাগাছ বর্গাকারে লাগাতে গিয়ে ৩৬ টি গাছ বেশি হলো। প্রত্যেক সারিতে চারাগাছের সংখ্যা নির্ণয় কর।,৪২,"1. **Translation of the Bengali Problem:**
+
+   In a garden, while planting 1800 saplings in a square formation, there are 36 saplings more than needed. Determine the number of saplings in each row.
+
+2. **Solution:**
+
+   Let's say the number of saplings in each row is \( n \). Therefore, the total number of saplings if they are planted in a perfect square formation will be \( n \times n = n^2 \).
+
+   According to the problem, the actual number of saplings is 1800, but there are 36 saplings more than needed for a perfect square. Hence, the equation is:
+   \[
+   n^2 + 36 = 1800
+   \]
+
+   Solving for \( n \), we get:
+   \[
+   n^2 = 1800 - 36
+   \]
+   \[
+   n^2 = 1764
+   \]
+
+   To find \( n \), we take the square root of both sides:
+   \[
+   n = \sqrt{1764}
+   \]
+   \[
+   n = 42
+   \]
+
+   Thus, the number of saplings in each row is 42.
+
+3. **Final Numerical Answer:**
+
+   **Answer: 42**"
+219,"১০৭১ টি ধুতি, ৫৯৫ টি শাড়ি ও ৩৫৭ টি জামা মজুদ আছে। কিছু পরিবারের মধ্যে ওই জিনিসগুলি সমানভাগে ভাগ করে দেয়া হলো। প্রত্যেক পরিবার কতগুলি ধুতি পাবে।",৯,"1. **Translation of the Problem:**
+
+   There are 1071 dhotis, 595 saris, and 357 shirts in stock. These items are distributed equally among some families. How many dhotis will each family receive?
+
+2. **Solution:**
+
+   To determine how many dhotis each family will receive, we first need to find the greatest number of families that can receive an equal number of every item, which is determined by the greatest common divisor (GCD) of the three quantities: 1071 dhotis, 595 saris, and 357 shirts.
+
+   Finding the GCD:
+
+   - Factors of 1071:
+     - 1071 = 3 × 357
+     - 357 = 3 × 119
+     - 119 = 7 × 17
+     - Hence, 1071 = 3² × 7 × 17
+
+   - Factors of 595:
+     - 595 = 5 × 119
+     - 119 = 7 × 17
+     - Hence, 595 = 5 × 7 × 17
+     
+   - Factors of 357:
+     - 357 = 3 × 119
+     - 119 = 7 × 17
+     - Hence, 357 = 3 × 7 × 17
+
+   The common factors are 7 and 17. Therefore, the GCD is \( 7 \times 17 = 119 \).
+
+   Now, divide the number of dhotis by this GCD to identify how many dhotis each family receives:
+
+   \[
+   \text{Number of dhotis per family} = \frac{1071}{119} = 9
+   \]
+
+   Therefore, each family will receive 9 dhotis.
+
+   **Answer: 9**"
+40,রাজু এবং রনির একত্রে ৬৯০টি লিচু আছে। রাজু অপেক্ষা রনির ৮৬টি লিচু কম আছে। রাজুর কতটি লিচু আছে?,৩৮৮,"1. **Translation of the Bengali problem into English:**
+
+   Raju and Roni together have 690 lychees. Raju has 86 fewer lychees than Roni. How many lychees does Raju have?
+
+2. **Solution:**
+
+   Let the number of lychees Roni has be \( x \).
+
+   Therefore, the number of lychees Raju has is \( x - 86 \).
+
+   According to the problem, together they have 690 lychees:
+
+   \[
+   x + (x - 86) = 690
+   \]
+
+   Simplifying the equation:
+
+   \[
+   2x - 86 = 690
+   \]
+
+   Add 86 to both sides of the equation to isolate the term with \( x \):
+
+   \[
+   2x = 690 + 86
+   \]
+
+   \[
+   2x = 776
+   \]
+
+   Divide both sides by 2 to solve for \( x \):
+
+   \[
+   x = 388
+   \]
+
+   So, Roni has 388 lychees. Since Raju has 86 fewer lychees than Roni, the number of lychees Raju has is:
+
+   \[
+   388 - 86 = 302
+   \]
+
+3. **Final Answer:**
+
+   Raju has 302 lychees.
+
+   **Answer: 302**"
+205,১১ কেজি চিনি ১২টি প্যাকেটে সমান ভাগে ভাগ করে প্রতিটি ভাগের মাপ দেখি।,০.৯১,"### Problem Translation:
+The problem in Bengali is: ""১১ কেজি চিনি ১২টি প্যাকেটে সমান ভাগে ভাগ করে প্রতিটি ভাগের মাপ দেখি।""
+
+Translated into English, it reads: ""Divide 11 kg of sugar equally into 12 packets to find the measurement of each portion.""
+
+### Solution:
+To solve the problem, we need to divide the total amount of sugar, which is 11 kg, by the number of packets, which is 12.
+
+Calculation:
+\[ \text{Measurement of each packet} = \frac{11 \text{ kg}}{12} \]
+
+\[ \frac{11}{12} = 0.9167 \text{ kg} \]
+
+Thus, each packet contains approximately 0.9167 kg.
+
+### Answer:
+Answer: 0.9167 kg"
+323,"আবিরের কাছে ১০ টি ১০ টাকার নোট, ১০ টি ২০ টাকার নোট ও ১০ টি ৫০ টাকার নোট আছে। সর্বনিম্ন কয়টা নোট ব্যবহার করে সে ১৯০ টাকা পরিশোধ করতে পারবে?",৫,"## Translation of the Problem:
+Abir has ten 10 Taka notes, ten 20 Taka notes, and ten 50 Taka notes. What is the minimum number of notes he can use to pay 190 Taka?
+
+## Solution:
+To minimize the number of notes used, Abir should start by using the notes of higher denomination first. Let's see how he can use them to make a total of 190 Taka:
+
+1. **Use 50 Taka Notes:**
+   - Using three 50 Taka notes would give us: \(3 \times 50 = 150\) Taka.
+
+2. **Remaining Amount:**
+   - Remaining amount after using three 50 Taka notes: \(190 - 150 = 40\) Taka.
+
+3. **Use 20 Taka Notes:**
+   - To make up the remaining 40 Taka, Abir can use two 20 Taka notes: \(2 \times 20 = 40\) Taka.
+
+4. **Total Notes Used:**
+   - Total number of notes used: 3 (50 Taka notes) + 2 (20 Taka notes) = 5 notes.
+
+Thus, the minimum number of notes Abir can use to pay 190 Taka is 5.
+
+**Answer: 5**"
+7," একটি সংখ্যা  অন্যটির দ্বিগুণের চেয়ে ৯ কম, এবং তাদের যোগফল ৪২। বড় সংখ্যাটি কত।",২৫,"1. **Translation of the Bengali problem into English:**
+
+   A number is 9 less than twice another number, and their sum is 42. What is the larger number?
+
+2. **Solution:**
+
+   Let the smaller number be \( x \).  
+   Then the larger number is \( 2x - 9 \).
+
+   According to the problem, the sum of these two numbers is 42:
+   \[
+   x + (2x - 9) = 42
+   \]
+
+   Simplify the equation:
+   \[
+   3x - 9 = 42
+   \]
+
+   Add 9 to both sides:
+   \[
+   3x = 51
+   \]
+
+   Divide by 3:
+   \[
+   x = 17
+   \]
+
+   Therefore, the larger number is:
+   \[
+   2x - 9 = 2(17) - 9 = 34 - 9 = 25
+   \]
+
+3. **Final Answer:**
+
+   **Answer: 25**"
+590,"একটি চৌবাচ্চায় ৮০০০ লিটার পানি ধরে। চৌবাচ্চাটির দৈর্ঘ্য ২.৫৬ মিটার এবং প্রস্থ ১.২৫ মিটার হলে, গভীরতা কত ?",২.৫০,"## Translation of the Problem:
+
+A tank holds 8000 liters of water. If the length of the tank is 2.56 meters and the width is 1.25 meters, what is the depth of the tank?
+
+## Solution:
+
+To find the depth of the tank, we first need to convert the volume from liters to cubic meters. \(1 \, \text{cubic meter} = 1000 \, \text{liters}\).
+
+So, the volume of the tank in cubic meters is:
+
+\[ \frac{8000 \, \text{liters}}{1000} = 8 \, \text{cubic meters} \]
+
+The formula for the volume of a rectangular tank is:
+
+\[ \text{Volume} = \text{Length} \times \text{Width} \times \text{Depth} \]
+
+We need to solve for the depth:
+
+\[ \text{Depth} = \frac{\text{Volume}}{\text{Length} \times \text{Width}} \]
+
+Substitute the known values into the formula:
+
+\[ \text{Depth} = \frac{8}{2.56 \times 1.25} \]
+
+Calculate the denominator:
+
+\[ 2.56 \times 1.25 = 3.20 \]
+
+Now, calculate the depth:
+
+\[ \text{Depth} = \frac{8}{3.20} = 2.5 \, \text{meters} \]
+
+**Answer: 2.5**"
+530,"একজন ফলবিক্রেতার মোট ফলের ১/২ অংশ আপেল, ১/৩ অংশ কমলালেবু ও ৪০ টি আম আছে। তার নিকট মোট কতগুলো ফল আছে?",২৪০,"1. **Translation of the Bengali problem into English:**
+
+   A fruit seller has \( \frac{1}{2} \) of his total fruits as apples, \( \frac{1}{3} \) of his total fruits as oranges, and 40 mangoes. How many total fruits does he have?
+
+2. **Solution:**
+
+   Let the total number of fruits be \( x \).
+
+   According to the problem, the distribution of fruits is as follows:
+   - Apples: \( \frac{1}{2}x \)
+   - Oranges: \( \frac{1}{3}x \)
+   - Mangoes: 40
+
+   These quantities together make up all the fruits he has, so:
+   \[
+   \frac{1}{2}x + \frac{1}{3}x + 40 = x
+   \]
+
+   To solve for \( x \), first find a common denominator for the fractions \( \frac{1}{2} \) and \( \frac{1}{3} \), which is 6:
+   \[
+   \frac{1}{2}x = \frac{3}{6}x, \quad \frac{1}{3}x = \frac{2}{6}x
+   \]
+
+   Substitute these values back into the equation:
+   \[
+   \frac{3}{6}x + \frac{2}{6}x + 40 = x
+   \]
+
+   Combine the terms:
+   \[
+   \frac{5}{6}x + 40 = x
+   \]
+
+   Subtract \( \frac{5}{6}x \) from both sides:
+   \[
+   40 = x - \frac{5}{6}x
+   \]
+
+   Simplify the right side:
+   \[
+   40 = \left(1 - \frac{5}{6}\right)x = \frac{1}{6}x
+   \]
+
+   Multiply each side by 6 to solve for \( x \):
+   \[
+   240 = x
+   \]
+
+Thus, the total number of fruits the fruit seller has is 240.
+
+**Answer: 240**"
+609,"একটি চৌবাচ্চায় ১৯২০০ লিটার পানি ধরে। এর গভীরতা ২.৫৬ মিটার এবং প্রস্থ ২.৫ মিটার হলে, দৈর্ঘ্য কত?",৩,"## Translation of the Problem:
+A tank holds 19200 liters of water. If its depth is 2.56 meters and width is 2.5 meters, what is its length?
+
+## Solution:
+To find the length of the tank, we first need to use the volume formula for a rectangular prism (tank):
+
+\[
+\text{Volume} = \text{Length} \times \text{Width} \times \text{Depth}
+\]
+
+We need to convert the volume from liters to cubic meters because the other dimensions are in meters. Knowing that 1 cubic meter is equal to 1000 liters, we convert 19200 liters into cubic meters as follows:
+
+\[
+19200 \, \text{liters} = \frac{19200}{1000} = 19.2 \, \text{cubic meters}
+\]
+
+Now using the volume formula:
+
+\[
+19.2 = \text{Length} \times 2.5 \times 2.56
+\]
+
+To find the length, rearrange the formula and solve for Length:
+
+\[
+\text{Length} = \frac{19.2}{2.5 \times 2.56}
+\]
+
+Calculate the product of the width and the depth:
+
+\[
+2.5 \times 2.56 = 6.4
+\]
+
+Substitute this back into the formula to find the length:
+
+\[
+\text{Length} = \frac{19.2}{6.4} = 3
+\]
+
+Thus, the length of the tank is 3 meters.
+
+**Answer: 3**"
+422,"২০ মিটার কাপড়কে তিন ভাইবোন অমিত, সুমিত ও চৈতির মধ্যে ৫ : ৩ : ২ অনুপাতে ভাগ করলে চৈতির কাপড়ের পরিমাণ কত?",৪,"## Translated Problem:
+If 20 meters of cloth is divided among three siblings, Amit, Sumit, and Chaiti, in the ratio 5:3:2, how much cloth does Chaiti receive?
+
+## Solution:
+To solve this problem, we start by understanding the given ratio, 5:3:2. This means that for every 10 parts of the whole, Amit receives 5 parts, Sumit receives 3 parts, and Chaiti receives 2 parts.
+
+1. First, calculate the total number of parts in the ratio:
+   \[
+   5 + 3 + 2 = 10 \text{ parts}
+   \]
+
+2. Each part of the cloth is calculated by dividing the total cloth by the total number of parts:
+   \[
+   \text{One part} = \frac{20 \text{ meters}}{10} = 2 \text{ meters}
+   \]
+
+3. Now, calculate Chaiti's share of the cloth, which corresponds to her part of the ratio:
+   \[
+   \text{Chaiti's share} = 2 \text{ parts} \times 2 \text{ meters per part} = 4 \text{ meters}
+   \]
+
+Therefore, Chaiti receives 4 meters of cloth.
+
+**Answer: 4**"
+572,মনোয়ারা বেগম তার পারিবারিক প্রয়োজনে ৬% হারে কিছু টাকা এবং ৪% হারে কিছু  টাকা ঋণ নিল। সে মোট ৫৬০০০ টাকা ঋণ নিল এবং শেষে ২৮৪০ টাকা মুনাফা শোধ করল। সম্পূর্ণ ঋণের উপর ৫% মুনাফা প্রযোজ্য হলে বার্ষিক মুনাফা কত ?,২৮০০,"## Translation of the Problem:
+Monowara Begum took out a loan at 6% interest for a portion of the money and at 4% interest for another portion of the money to meet her family's needs. She took a total loan of 56,000 taka and ultimately paid an interest of 2,840 taka. If a 5% interest rate was applied to the entire loan, what would the annual interest be?
+
+## Solution:
+Let's denote the amount Monowara Begum borrowed at 6% interest as \( x \) taka and the amount borrowed at 4% interest as \( y \) taka.
+
+According to the problem, we have:
+\[ x + y = 56,000 \, \text{(1)} \]
+
+For the interest, we have:
+\[ 0.06x + 0.04y = 2,840 \, \text{(2)} \]
+
+We now have two equations:
+1. \( x + y = 56,000 \)
+2. \( 0.06x + 0.04y = 2,840 \)
+
+From equation (1), we can express \( y \) in terms of \( x \):
+\[ y = 56,000 - x \]
+
+Substitute \( y \) in equation (2):
+\[ 0.06x + 0.04(56,000 - x) = 2,840 \]
+\[ 0.06x + 2,240 - 0.04x = 2,840 \]
+\[ 0.02x + 2,240 = 2,840 \]
+\[ 0.02x = 600 \]
+\[ x = \frac{600}{0.02} = 30,000 \]
+
+Substituting the value of \( x \) in equation (1) to find \( y \):
+\[ 30,000 + y = 56,000 \]
+\[ y = 56,000 - 30,000 = 26,000 \]
+
+So, Monowara Begum borrowed \( 30,000 \) taka at 6% interest and \( 26,000 \) taka at 4% interest.
+
+To find the hypothetical interest at 5% on the total loan:
+\[ 5\% \text{ of } 56,000 = 0.05 \times 56,000 = 2,800 \]
+
+Thus, the annual interest would be:
+
+**"
+313,সমকোণী সমদ্বিবাহু ত্রিভুজের তিনটি কোণের অনুপাত লিখি।,১ঃ১ঃ২,"1. **Translation of the Problem:**
+   Write the ratio of the angles of an isosceles right triangle.
+
+2. **Solution in English:**
+   
+   An isosceles right triangle is a triangle where two sides have equal lengths, and one angle is 90 degrees (a right angle). Consequently, the other two angles must be equal because the triangle is isosceles. 
+
+   The sum of angles in any triangle is 180 degrees. In an isosceles right triangle, since one angle measures 90 degrees, the sum of the other two angles must be 90 degrees as well (since 180 - 90 = 90). 
+
+   Since these two angles are equal (because the triangle is isosceles), each of these angles measures 45 degrees.
+
+   Hence, the angles of the isosceles right triangle can be expressed as: 90 degrees, 45 degrees, and 45 degrees.
+
+   Therefore, the ratio of the angles of the isosceles right triangle is 90:45:45. Simplifying this ratio by dividing all terms by 45, we get 2:1:1.
+
+3. **Answer: 2:1:1**"
+405,৫৬০৫ এর সাথে কোন ক্ষুদ্রতম সংখ্যা যোগ করলে যোগফল একটি পূর্ণ বর্গসংখ্যা হবে?,২০,"## Translation
+What is the smallest number that must be added to 5605 to make the sum a perfect square?
+
+## Solution
+To determine the smallest number that, when added to 5605, results in a perfect square, we first need to find the smallest perfect square greater than 5605. 
+
+1. Begin by finding the square root of 5605: 
+   \[
+   \sqrt{5605} \approx 74.85
+   \]
+   Since 74.85 is not an integer, 5605 is not a perfect square.
+
+2. The smallest integer greater than 74.85 is 75. We will first calculate \(75^2\).
+   \[
+   75^2 = 5625
+   \]
+
+3. Next, calculate how much needs to be added to 5605 to reach 5625:
+   \[
+   5625 - 5605 = 20
+   \]
+
+Thus, the smallest number to add to 5605, so the sum becomes a perfect square, is 20.
+
+**Answer: 20**"
+87,তিনটি সংখ্যার যোগফল ৫৪৫২ । দুইটি সংখ্যা ২৫৬৩ ও  ১২৪৫ হলে অপর সংখাটি কত?,১৬৪৪,"**Translation of the Problem:**
+
+The sum of three numbers is 5452. If two of the numbers are 2563 and 1245, what is the other number?
+
+**Solution:**
+
+To find the third number, we subtract the sum of the two known numbers from the total sum.
+
+1. Calculate the sum of the two known numbers:
+   \[
+   2563 + 1245 = 3808
+   \]
+
+2. Subtract this sum from the total sum to find the third number:
+   \[
+   5452 - 3808 = 1644
+   \]
+
+Therefore, the other number is 1644.
+
+**Answer: 1644**"
+258,"আমি পিচবোর্ডের একটি বর্গাকার বাক্স তৈরি করেছি। তাতে অনেকগুলি বর্গাকার খোপ আছে। আমার ভাই প্রতি খোপে ১টি ৫ টাকার মুদ্রা, ১টি ২ টাকার মুদ্রা ও ১টি ১ টাকার মুদ্রা রেখেছে। ভাই যদি মোট ১১৫২ টাকা রেখে থাকে, তবে আমার তৈরি পিচবোর্ডের বাক্সেও প্রতি সারিতে কতগুলি খোপ আছে হিসাব করি।",১২,"1. **Translation of the Bengali Problem:**
+
+   I have made a square cardboard box. It contains many square compartments. My brother has placed 1 five-rupee coin, 1 two-rupee coin, and 1 one-rupee coin in each compartment. If my brother has placed a total of 1152 rupees, calculate how many compartments are there in each row of the box that I made.
+
+2. **Solution:**
+
+   Let's denote the number of compartments in each row of the square cardboard box as \( n \). Therefore, the total number of compartments in the box is \( n \times n = n^2 \).
+
+   In each compartment, the total amount of money is:
+   - 5 rupees from one 5-rupee coin
+   - 2 rupees from one 2-rupee coin
+   - 1 rupee from one 1-rupee coin
+
+   Thus, the total money in each compartment is: 
+   \[
+   5 + 2 + 1 = 8 \text{ rupees}
+   \]
+
+   Given that the total amount of money spread over all compartments is 1152 rupees, we can set up the equation:
+   \[
+   8 \times n^2 = 1152
+   \]
+
+   Solving for \( n^2 \):
+   \[
+   n^2 = \frac{1152}{8} = 144
+   \]
+
+   Therefore, solving for \( n \) (the number of compartments in each row):
+   \[
+   n = \sqrt{144} = 12
+   \]
+
+3. **Final Answer:**
+
+   **Answer: 12**"
+266,"এই বছরের প্রজাতন্ত্র দিবসে আমাদের স্কুলের শারীরশিক্ষার স্যার আমাদের বিভিন্ন সময়ে ১২,১৫ ও ২০ সারিতে দাঁড় করিয়ে নানারকম কুচকাওয়াজ করিয়েছিলেন। এক সময়ে আমাদের নিরেট বর্গক্ষেত্রাকারেও সাজিয়েছিলেন। ওইদিন কমপক্ষে কতজন ছাত্রছাত্রী বিদ্যালয়ে উপস্থিত ছিল হিসাব করি।",৯০০,"### Translation of the Bengali Problem:
+On this year's Republic Day, the physical education teacher at our school arranged us in different sequences of 12, 15, and 20 rows for various parades. At one point, he also arranged us into a solid square formation. Calculate the minimum number of students present in the school that day.
+
+### Solution:
+To solve this problem, we need to find the least number of students who can be arranged in rows of 12, 15, and 20 and also form a perfect square.
+
+1. **Least Common Multiple (LCM):** 
+   First, we need to find the LCM of 12, 15, and 20 to determine the smallest number of students that can be arranged in the given rows without leaving any student unarranged.
+
+   - Prime factorization:
+     - 12 = \(2^2 \times 3\)
+     - 15 = \(3 \times 5\)
+     - 20 = \(2^2 \times 5\)
+
+   - LCM is found by taking the highest power of each prime that appears:
+     - LCM = \(2^2 \times 3 \times 5 = 60\)
+
+   So, 60 is the smallest number divisible by 12, 15, and 20.
+
+2. **Perfect Square:**
+   Next, we need to find the smallest square number that is a multiple of 60. We have:
+   
+   - Prime factorization of 60: \(60 = 2^2 \times 3 \times 5\)
+   - To make it a perfect square, all prime factors must appear in pairs. Thus, we need:
+     - \(2^2\) (already paired)
+     - Add one more 3 to make \(3^2\)
+     - Add one more 5 to make \(5^2\)
+
+   - The smallest number \(n\) we need to multiply with 60 to make it a perfect square:
+     - \(n = 3 \times 5 = 15\)
+
+   - The smallest perfect square is therefore: \(60 \times 15 = 900\)
+   - Verification: \(900 = (2^2 \times 3 \times 5) \times (3 \times 5) = (2^2 \times 3^2 \times 5^2)\)
+   - \(900 = 30^2\), which is"
+604,"একটি আয়তাকার ঘরের দৈর্ঘ্য প্রস্থের দেড় গুণ। এর ক্ষেত্রফল ২১৬ বর্গমিটার হলে, পরিসীমা কত ?",৬০,"## Translation of the Problem:
+
+A rectangular room's length is one and a half times its width. If its area is 216 square meters, what is the perimeter?
+
+## Solution:
+
+Let's denote the width of the room as \( w \). According to the problem, the length \( l \) is 1.5 times the width, so we can write:
+\[ l = 1.5w \]
+
+The area of the rectangle is given by the formula:
+\[ \text{Area} = l \times w \]
+
+Substituting the known values into the area formula:
+\[ 1.5w \times w = 216 \]
+\[ 1.5w^2 = 216 \]
+
+To find \( w \), divide both sides by 1.5:
+\[ w^2 = \frac{216}{1.5} \]
+\[ w^2 = 144 \]
+
+Taking the square root of both sides gives:
+\[ w = \sqrt{144} \]
+\[ w = 12 \]
+
+Since \( l = 1.5w \), we find the length:
+\[ l = 1.5 \times 12 \]
+\[ l = 18 \]
+
+Now, we can determine the perimeter of the rectangle using the formula for the perimeter:
+\[ \text{Perimeter} = 2(l + w) \]
+
+Substitute \( l = 18 \) and \( w = 12 \):
+\[ \text{Perimeter} = 2(18 + 12) \]
+\[ \text{Perimeter} = 2 \times 30 \]
+\[ \text{Perimeter} = 60 \]
+
+**Answer: 60**"
+110,"যদুনাথ বিদ্যামন্দির স্কুলের ষষ্ঠ শ্রেণির ছাত্রছাত্রীদের, স্কুলের বাগানে লাগানোর জন্য পঞ্চায়েত থেকে ফুলগাছের চারা পাঠিয়েছে। হিসাব করে দেখা গেল চারাগুলিকে ২০টি, ২৪টি বা ৩০ টি সারিতে লাগালে প্রতিক্ষেত্রে প্রতিসারিতে সমান চারা থাকে। পঞ্চায়েত থেকে কমপক্ষে কতগুলি চারা পাঠিয়েছিল হিসাব করে দেখি।",১২০,"## Translated Problem:
+Jadunath Vidyamandir School's sixth-grade students received saplings from the panchayat to plant in the school garden. It was calculated that if the saplings are planted in rows of 20, 24, or 30, there are an equal number of saplings in each row in every case. Calculate the minimum number of saplings the panchayat must have sent.
+
+## Solution:
+To determine the minimum number of saplings the panchayat sent, we need to find the least common multiple (LCM) of the numbers 20, 24, and 30, because the saplings can be arranged in rows of each of these quantities with an equal number of saplings per row.
+
+### Step-by-step LCM calculation:
+1. **Prime Factorization**:
+   - The prime factorization of 20 is: \( 2^2 \times 5 \)
+   - The prime factorization of 24 is: \( 2^3 \times 3 \)
+   - The prime factorization of 30 is: \( 2 \times 3 \times 5 \)
+
+2. **LCM Determination**:
+   - Identify the highest power of each prime number present in the factorizations:
+     - The highest power of 2 is \( 2^3 \)
+     - The highest power of 3 is \( 3^1 \)
+     - The highest power of 5 is \( 5^1 \)
+
+   - Calculate the LCM by multiplying the highest powers of all prime numbers:
+     \[
+     \text{LCM} = 2^3 \times 3^1 \times 5^1 = 8 \times 3 \times 5
+     \]
+     \[
+     = 24 \times 5 = 120
+     \]
+
+Therefore, the minimum number of saplings the panchayat must have sent is 120.
+
+**Answer: 120**"
+149,কোনো একটি দেশের ক্ষেত্রফল প্রায় ৩২৮৭২৬৩ বর্গকিলোমিটার। এর মধ্যে বনভূমি প্রায় ৭৫৪৭৪০ বর্গকিলোমিটার ও নদী অববাহিকা ২৫০৩০০০ বর্গকিলোমিটার জুড়ে। বনভূমি ও নদী অববাহিকা বাদে বাকি অংশের ক্ষেত্রফল কত দেখি।,২৯৫২৩,"## Problem Translation:
+The area of a certain country is approximately 3,287,263 square kilometers. Of this, approximately 754,740 square kilometers is forestland and 2,503,000 square kilometers is river basin. Calculate the area of the remaining part excluding the forestland and river basin.
+
+## Solution:
+To find the area of the remaining part of the country excluding forestland and river basin, we subtract the areas of the forestland and river basin from the total area of the country.
+
+Total area of the country = 3,287,263 square kilometers  
+Area of forestland = 754,740 square kilometers  
+Area of river basin = 2,503,000 square kilometers
+
+Remaining area = Total area - (Area of forestland + Area of river basin)
+
+Remaining area = 3,287,263 - (754,740 + 2,503,000)
+
+Calculating the sum of forestland and river basin areas:
+754,740 + 2,503,000 = 3,257,740 square kilometers
+
+Subtracting this from the total area:
+3,287,263 - 3,257,740 = 29,523 square kilometers
+
+**Answer: 29,523**"
+42,মা এবং পুত্রের বয়সের সমষ্টি ৬০ বছর। মায়ের বয়স পুত্রের বয়সের ৩ গুণ। মায়ের বয়স কত?,৪৫,"### Translation of the Problem:
+The sum of the ages of a mother and her son is 60 years. The mother's age is 3 times the age of the son. What is the mother's age?
+
+### Solution:
+Let the age of the son be \( x \) years. Then, the mother's age will be \( 3x \) years, as it is 3 times the age of the son.
+
+According to the problem:
+
+\[
+x + 3x = 60
+\]
+
+Simplifying the equation:
+
+\[
+4x = 60
+\]
+
+Solving for \( x \):
+
+\[
+x = \frac{60}{4} = 15
+\]
+
+Thus, the son's age is 15 years. Given the mother’s age is three times the son’s age, we calculate:
+
+\[
+3x = 3 \times 15 = 45
+\]
+
+Therefore, the mother's age is 45 years.
+
+**Answer: 45**"
+351,"একটি লাঠির ১/২ অংশ মাটিতে, ১/৩ অংশ পানিতে এবং অবশিষ্ট অংশ পানির উপরে আছে। পানির উপরের অংশের দৈর্ঘ্য ৩ মিটার। লাঠির কত মিটার পানিতে আছে?",৬,"### Problem Translation:
+
+A stick has \( \frac{1}{2} \) of its length in the ground, \( \frac{1}{3} \) in water, and the remaining part above the water. The part above the water is 3 meters long. How many meters of the stick are in the water?
+
+### Solution:
+
+1. **Define the Length of the Stick:**
+   Let the total length of the stick be \( L \).
+
+2. **Understand the Parts of the Stick:**
+   - Ground: \( \frac{1}{2}L \)
+   - Water: \( \frac{1}{3}L \)
+   - Above Water: Remaining Length
+
+3. **Find Length Above Water:**
+   The problem states that the part above the water is 3 meters.
+
+4. **Calculate Using the Information:**
+   - Sum of parts equal to total length, hence:
+     \[
+     \frac{1}{2}L + \frac{1}{3}L + \text{Above Water} = L
+     \]
+   - Substitute the length above water:
+     \[
+     \frac{1}{2}L + \frac{1}{3}L + 3 = L
+     \]
+
+5. **Solve the Equation:**
+   - Combine the fractions:
+     \[
+     \frac{3}{6}L + \frac{2}{6}L = \frac{5}{6}L
+     \]
+   - Simplify:
+     \[
+     \frac{5}{6}L + 3 = L
+     \]
+   - Subtract \(\frac{5}{6}L\) from both sides:
+     \[
+     3 = \frac{1}{6}L
+     \]
+   - Solve for \( L \):
+     \[
+     L = 18
+     \]
+
+6. **Calculate the Part in Water:**
+   - The length in the water is \( \frac{1}{3}L \):
+     \[
+     \frac{1}{3} \times 18 = 6 \text{ meters}
+     \]
+
+**Answer:** 6 meters"
+449,একজন মাছবিক্রেতা প্রতি হালি ইলিশ মাছ ১৬০০ টাকায় কিনে প্রতিটি মাছ ৩৫০ টাকা করে বিক্রয় করলেন। তাঁর শতকরা কত ভাগ লাভ বা ক্ষতি হলো ?,১২.৫০,"## Problem Translation:
+A fish seller buys each set of four hilsa fish for 1600 BDT and sells each fish for 350 BDT. What is his percentage profit or loss?
+
+## Solution:
+Let's break down the problem:
+
+1. **Cost Price (CP) Calculation:**
+   - A set (hāli) of hilsa fish contains 4 fish.
+   - Total cost for 4 fish = 1600 BDT.
+
+   Hence, the cost price per fish is:
+   \[
+   \text{Cost Price per fish} = \frac{1600}{4} = 400 \, \text{BDT}
+   \]
+
+2. **Selling Price (SP) Calculation:**
+   - The selling price of each fish is given as 350 BDT.
+
+3. **Profit or Loss Calculation:**
+   - Since the cost price (CP) is 400 BDT and the selling price (SP) is 350 BDT, the seller incurs a loss.
+   - Loss per fish = CP - SP = 400 - 350 = 50 BDT.
+
+4. **Percentage Loss Calculation:**
+   - Percentage Loss = \(\left(\frac{\text{Loss}}{\text{CP}}\right) \times 100 = \left(\frac{50}{400}\right) \times 100 = 12.5\% \).
+
+The fish seller incurs a loss of 12.5%.
+
+**Answer: 12.5% loss**"
+57,"৩/৫ বর্গ মি ক্ষেত্রফল এর জন্য ২ ডেসি লিটার রং লাগে। ১ ডেসি লিটার রং দ্বারা কত বর্গ মিটার
+ক্ষেত্রফল রং করা যাবে?",৩/১০,"### Translation of the Problem:
+
+For painting an area of \( \frac{3}{5} \) square meters, 2 deciliters of paint is required. How many square meters can be painted with 1 deciliter of paint?
+
+### Solution:
+
+To find out how many square meters can be painted with 1 deciliter of paint, we need to determine the area that can be painted per deciliter.
+
+Given:
+- \( \frac{3}{5} \) square meters can be painted with 2 deciliters of paint.
+
+**Step 1: Calculate area painted per deciliter:**
+
+The area per deciliter of paint can be found by dividing the total area by the amount of paint used:
+
+\[
+\text{Area per deciliter} = \frac{\frac{3}{5} \text{ square meters}}{2 \text{ deciliters}}
+\]
+
+This simplifies to:
+
+\[
+\frac{3}{5} \div 2 = \frac{3}{5} \times \frac{1}{2} = \frac{3}{10} \text{ square meters per deciliter}
+\]
+
+So, with 1 deciliter of paint, you can paint \( \frac{3}{10} \) square meters.
+
+**Answer: \(\frac{3}{10}\)**"
+647,দুইটি সমকেন্দ্রিক বৃত্তের ব্যাসার্ধ যথাক্রমে ৯ সে.মি. ও ৪ সেমি। বৃত্তদ্বয়ের পরিধির মধ্যবর্তী এলাকার ক্ষেত্রফল কত ?,২০৪.১০,"## Translation of the Problem:
+The radii of two concentric circles are 9 cm and 4 cm, respectively. What is the area of the region between the circumferences of the two circles?
+
+## Solution:
+To find the area of the region between the two concentric circles (also known as the annular region), we will calculate the area of the larger circle and subtract the area of the smaller circle from it.
+
+1. **Area of the larger circle:**
+
+   The radius of the larger circle is 9 cm.  
+   The area of a circle is given by the formula:  
+   \[ \text{Area} = \pi \times (\text{radius})^2 \]  
+   So, the area of the larger circle is:  
+   \[ \pi \times (9)^2 = 81\pi \, \text{cm}^2 \]
+
+2. **Area of the smaller circle:**
+
+   The radius of the smaller circle is 4 cm.  
+   Thus, the area of the smaller circle is:  
+   \[ \pi \times (4)^2 = 16\pi \, \text{cm}^2 \]
+
+3. **Area of the annular region:**
+
+   The area of the region between the two circles is the difference between the area of the larger circle and the smaller circle:  
+   \[ \text{Area of annular region} = 81\pi - 16\pi = 65\pi \, \text{cm}^2 \]
+
+Therefore, the area of the region between the two circles is \( 65\pi \) square centimeters.
+
+**Answer: 65π cm²**"
+345,৭/৪ মি দৈর্ঘ্য এবং ৬/৫ মি প্রস্থবিশিষ্ট একটি আয়তাকার বোর্ডের ক্ষেত্রফল নির্ণয় কর।,২১/১০,"## Translation:
+The problem in English is: Calculate the area of a rectangular board with a length of \( \frac{7}{4} \) meters and a width of \( \frac{6}{5} \) meters.
+
+## Solution:
+The area \( A \) of a rectangle is calculated using the formula:
+
+\[
+A = \text{length} \times \text{width}
+\]
+
+In this case, the length is \( \frac{7}{4} \) meters and the width is \( \frac{6}{5} \) meters. Therefore, the area \( A \) is:
+
+\[
+A = \left(\frac{7}{4}\right) \times \left(\frac{6}{5}\right)
+\]
+
+To multiply the fractions, multiply the numerators together and the denominators together:
+
+\[
+A = \frac{7 \times 6}{4 \times 5} = \frac{42}{20}
+\]
+
+Now, simplify the fraction \( \frac{42}{20} \) by finding the greatest common divisor (GCD) of 42 and 20, which is 2:
+
+\[
+A = \frac{42 \div 2}{20 \div 2} = \frac{21}{10}
+\]
+
+Thus, the area of the rectangular board is \( \frac{21}{10} \) square meters.
+
+**Answer: \(\frac{21}{10}\)**"
+269,দুটি ধনাত্মক সংখ্যার গুণফল ১৬২ এবং ভাগফল ২; সংখ্যাদুটি কী হবে হিসাব করি। ছোট সংখ্যাটি কত?,৯,"## Problem Translation:
+The product of two positive numbers is 162, and their quotient is 2. What are the numbers? Calculate the smaller number.
+
+## Solution:
+Let the two numbers be \( x \) and \( y \) with \( x < y \).
+
+According to the problem, we have the following equations:
+1. The product of the numbers: 
+   \[
+   x \times y = 162
+   \]
+2. The quotient of the numbers: 
+   \[
+   \frac{y}{x} = 2 \quad \Rightarrow \quad y = 2x
+   \]
+
+Now, substitute the value of \( y \) from the second equation into the first equation:
+\[
+x \times (2x) = 162 \quad \Rightarrow \quad 2x^2 = 162
+\]
+
+Divide both sides by 2:
+\[
+x^2 = 81
+\]
+
+Solve for \( x \) by taking the square root of both sides:
+\[
+x = \sqrt{81} = 9
+\]
+
+Now using \( y = 2x \), we find:
+\[
+y = 2 \times 9 = 18
+\]
+
+Therefore, the two numbers are 9 and 18. The smaller number is \( x = 9 \).
+
+**Answer: 9**"
+146,"একটি শহরের লোকসংখ্যা দুই কোটি আটানব্বই লক্ষ বাহাত্তর হাজার ছয়শো। এদের মধ্যে পুরুষ ১২৫০০৫০০ জন ও মহিলা ৮৮৭২৪৩৫ জন হলে, শিশুদের সংখ্যা কত হিসাব করি।",৮৪৯৯৬৬৫,"### Translation of the Problem:
+The population of a city is twenty-nine million eight hundred seventy-two thousand six hundred. Among them, there are 12,500,500 men and 8,872,435 women. Calculate the number of children.
+
+### Solution:
+First, we'll translate the given numbers into standard numerical figures:
+- Total population = 29,872,600
+- Number of men = 12,500,500
+- Number of women = 8,872,435
+
+To find the number of children, we'll subtract the number of men and women from the total population:
+\[ \text{Number of children} = \text{Total population} - \text{Number of men} - \text{Number of women} \]
+
+Performing the calculation:
+\[ \text{Number of children} = 29,872,600 - 12,500,500 - 8,872,435 \]
+\[ \text{Number of children} = 29,872,600 - 21,372,935 \]
+\[ \text{Number of children} = 8,499,665 \]
+
+Thus, the number of children in the city is 8,499,665.
+
+**Answer: 8,499,665**"
+536,একটি ট্রেন ঘন্টায় ৩০ কি.মি. বেগে চলে কমলাপুর স্টেশন থেকে নারায়নগঞ্জ স্টেশনে পৌঁছাল। ২৫ কি.মি. হলে ১০ মিনিট সময় বেশি লাগত। দুই স্টেশনের মধ্যে দূরত্ব কত?,২৫,"## Translation of the Problem:
+A train travels at a speed of 30 km/h from Kamalapur Station to Narayanganj Station. If the distance were 25 km, it would take 10 minutes longer. What is the distance between the two stations?
+
+## Solution:
+Let the distance between Kamalapur Station and Narayanganj Station be \( D \) km. 
+
+1. **Find the time taken for the actual journey:**
+
+   \[
+   \text{Time} = \frac{D}{30} \quad \text{hours}
+   \]
+
+2. **Find the time taken if the distance were 25 km:**
+
+   \[
+   \text{Time} = \frac{25}{30} = \frac{5}{6} \quad \text{hours}
+   \]
+
+3. **Set up the equation based on the given condition:**
+
+   The time difference between the two journeys is given as 10 minutes, which is equal to \(\frac{1}{6}\) hours. Therefore:
+
+   \[
+   \frac{D}{30} = \frac{5}{6} + \frac{1}{6}
+   \]
+
+   Simplifying, we get:
+
+   \[
+   \frac{D}{30} = 1
+   \]
+
+   Multiplying both sides by 30, we find:
+
+   \[
+   D = 30 \quad \text{km}
+   \]
+
+Thus, the distance between Kamalapur Station and Narayanganj Station is 30 km.
+
+**Answer: 30**"
+109,বিভাস ও তার বন্ধুরা মিলে ৮ জন অথবা ১০ জন করে সদস্য নিয়ে নাটকের একটি দল তৈরির কথা ভাবল। কমপক্ষে কতজন থাকলে উভয়প্রকার দল তৈরি করতে পারবে হিসাব করি। ,৪০,"1. **Translation of the Problem:**
+   Bivas and his friends are considering forming a drama group with either 8 members per group or 10 members per group. Calculate the minimum number of people needed to be able to form both types of groups.
+
+2. **Solution:**
+   To find the minimum number of people needed to form both types of groups (8 members per group or 10 members per group), we need to determine the Least Common Multiple (LCM) of 8 and 10.
+
+   The prime factorization of 8 is \(2^3\).
+   
+   The prime factorization of 10 is \(2^1 \times 5^1\).
+   
+   To find the LCM, we take the highest power of each prime number that appears in these factorizations:
+   - The highest power of 2 is \(2^3\).
+   - The highest power of 5 is \(5^1\).
+
+   Therefore, the LCM is \(2^3 \times 5^1 = 8 \times 5 = 40\).
+
+   Thus, the minimum number of people required to form a group with either 8 members or 10 members is 40.
+
+3. **Conclusion:**
+   Answer: 40"
+25,পিতা-পুত্রের বয়সের সমষ্টি ৫৫ বছর। পিতার বয়স পুত্রের বয়সের ৪ গুণ। পিতার বয়স কত?,৪৪,"## Translated Problem:
+
+The sum of the ages of a father and son is 55 years. The father's age is 4 times the son's age. What is the father's age?
+
+## Solution:
+
+Let's denote the son's age as \( x \) years. According to the problem, the father's age is 4 times that of the son's age, so it can be expressed as \( 4x \) years.
+
+According to the problem, the sum of their ages is 55 years:
+
+\[
+x + 4x = 55
+\]
+
+Solving the equation:
+
+\[
+5x = 55
+\]
+
+Divide both sides of the equation by 5:
+
+\[
+x = 11
+\]
+
+Therefore, the son's age is 11 years. To find the father's age, we multiply the son's age by 4:
+
+\[
+4x = 4 \times 11 = 44
+\]
+
+Thus, the father's age is 44 years.
+
+**Answer: 44**"
+119, আমার কাছে ২০ টাকা আছে। আমি ৫ টাকা খরচ করলাম। আমার টাকার কত অংশ এখনও আমার কাছে আছে হিসাব করি।,৩/৪,"## Translation of the Bengali Problem
+I have 20 taka. I spent 5 taka. Calculate what fraction of my money I still have.
+
+## Solution
+1. **Initial Amount:** You start with 20 taka.
+
+2. **Amount Spent:** You spent 5 taka.
+
+3. **Remaining Amount:** To find out how much money you still have, subtract the spent amount from the initial amount:
+
+   \[
+   20 \text{ taka} - 5 \text{ taka} = 15 \text{ taka}
+   \]
+
+4. **Fraction of Money Remaining:** To determine what fraction of the original amount you still have, divide the remaining amount by the initial amount:
+
+   \[
+   \frac{\text{Remaining Amount}}{\text{Initial Amount}} = \frac{15 \text{ taka}}{20 \text{ taka}} = \frac{3}{4}
+   \]
+
+The fraction of the money that I still have is \(\frac{3}{4}\).
+
+**Answer: \(\frac{3}{4}\)**"
+134,২ জন এক দিনে একটি দরজার ১/৩ অংশ পালিশ করতে পারে। ২ দিনে দরজার ২/৩ অংশ পালিশ করতে হলে কতজন লাগবে হিসাব করি।,২,"1. **Translate the Bengali problem into English:**
+
+   Two people can polish 1/3 of a door in one day. Calculate how many people are needed to polish 2/3 of the door in 2 days.
+
+2. **Solution:**
+
+   First, let's determine the rate at which 2 people polish in one day and extend this to the requirement.
+
+   Given:
+   - 2 people can polish 1/3 of a door in one day.
+   
+   Therefore, in one day, 2 people can polish 1/3 of a door.
+
+   To polish 2/3 of a door in 2 days, let's first see how much needs to be polished in one day:
+   \[
+   \text{Amount to polish per day} = \frac{2/3 \text{ of the door}}{2 \text{ days}} = \frac{1/3 \text{ of the door per day}}
+   \]
+
+   The rate required is the same, 1/3 of a door per day. We have already established that 2 people can polish 1/3 of a door in one day.
+
+   Thus, the number of people required doesn't change. 
+
+**Answer: 2**"
+320,"যদি কোনও দোকান ৫০০ টাকার আইটেমের উপর ২০% ছাড় দেয়
+ তবে আপনি কত টাকা সাশ্রয় করবেন?",১০০,"## Translation:
+If a shop offers a 20% discount on a 500 Taka item, how much money will you save?
+
+## Solution:
+To find the amount of money saved, we calculate 20% of 500 Taka.
+
+1. Calculate 20% of 500 Taka:
+   \[
+   \text{Savings} = \frac{20}{100} \times 500 = 100 \text{ Taka}
+   \]
+
+Therefore, the amount you will save is 100 Taka.
+
+**Answer: 100**"
+632,"দুইটি সংখ্যার যোগফল ১৬০ এবং একটি অপরটির তিনগুণ হলে,  ছোট সংখ্যাটি নির্ণয় কর।",৪০,"## Translated Problem:
+The sum of two numbers is 160, and one is three times the other. Determine the smaller number.
+
+## Solution:
+Let's denote the smaller number by \( x \).
+
+Since one number is three times the other, the other (larger) number is \( 3x \).
+
+According to the problem, the sum of these two numbers is 160. Therefore, we can write the equation as:
+
+\[
+x + 3x = 160
+\]
+
+Simplify the equation:
+
+\[
+4x = 160
+\]
+
+To find the value of \( x \), divide both sides by 4:
+
+\[
+x = \frac{160}{4}
+\]
+
+\[
+x = 40
+\]
+
+Thus, the smaller number is 40.
+
+**Answer: 40**"
+83,পার্কে আখরোট গাছ আছে ৬টি। পার্কের কর্মীরা আজ ৪টি গাছ অপসারণ করবে। শ্রমিকদের কাজ শেষ করার পর পার্কে কতটি আখরোট গাছ থাকবে?,২,"1. Translate the Bengali problem into English for clarity:
+
+There are 6 walnut trees in the park. The park workers will remove 4 trees today. After the workers finish their work, how many walnut trees will remain in the park?
+
+2. Solution:
+
+Initially, there are 6 walnut trees in the park. If 4 of these trees are removed, we calculate the number remaining by subtracting the number of removed trees from the initial count:
+
+6 (initial trees) - 4 (trees removed) = 2 (trees remaining)
+
+Conclude with the final numerical answer:
+
+**Answer: 2**"
+481,একটি চৌবাচ্চায় দুইটি নল আছে। প্রথম ও দ্বিতীয় নল দ্বারা যথাক্রমে ১২ ঘন্টা ও ১৮ ঘন্টা খালি চৌবাচ্চাটি পূর্ণ হয়। দুইটি নল এক সাথে খুলে দিলে খালি চৌবাচ্চাটি পূর্ণ হয়। দুইটি নল এক সাথে খুলে দিলে খালি চৌবাচ্চাটি কত ঘন্টায় পূর্ণ হবে?,৭.২০,"## Translation of the Bengali Problem:
+There are two pipes in a tank. The first and second pipes can fill the empty tank in 12 hours and 18 hours, respectively. If both pipes are opened together, how many hours will it take to fill the empty tank?
+
+## Solution:
+To solve this problem, we need to find the combined filling rate of both pipes when they are opened together.
+
+1. **Determine the individual rates:**
+   - The rate of the first pipe filling the tank is \( \frac{1}{12} \) of the tank per hour.
+   - The rate of the second pipe filling the tank is \( \frac{1}{18} \) of the tank per hour.
+
+2. **Calculate the combined rate:**
+   - The combined rate of both pipes is given by adding their rates:
+   \[
+   \frac{1}{12} + \frac{1}{18}
+   \]
+
+3. **Find a common denominator and compute:**
+   - To add \( \frac{1}{12} \) and \( \frac{1}{18} \), convert them to have a common denominator:
+   \[
+   \frac{1}{12} = \frac{3}{36}, \quad \frac{1}{18} = \frac{2}{36}
+   \]
+   - Therefore,
+   \[
+   \frac{1}{12} + \frac{1}{18} = \frac{3}{36} + \frac{2}{36} = \frac{5}{36}
+   \]
+
+4. **Calculate the time to fill the tank:**
+   - The combined rate of \( \frac{5}{36} \) of the tank per hour means that it takes the reciprocal number of hours to fill one whole tank:
+   \[
+   \frac{36}{5} = 7.2 \text{ hours}
+   \]
+
+Therefore, when both pipes are opened together, the empty tank will be filled in \( 7.2 \) hours.
+
+**Answer: 7.2**"
+168,আলিশার দাদা বাড়ি থেকে সাইকেলে চেপে শিবপুর লঞ্চ ঘাটে পৌঁছাতে ১.৪ ঘণ্টা সময় নিল। যদি সে ঘণ্টায় ১১.৫ কি.মি.. বেগে সাইকেল চালায় তবে আলিশাদের বাড়ি থেকে শিবপুর লঞ্চঘাট কত দূরে হিসাব করি।,১৬.১০,"### Translation of the Problem:
+
+Alisha's older brother took 1.4 hours to reach the Shibpur launch dock by bicycle from home. If he rides the bicycle at a speed of 11.5 km/h, calculate the distance from Alisha's home to the Shibpur launch dock.
+
+### Solution:
+
+To find the distance, we can use the formula:
+
+\[ \text{Distance} = \text{Speed} \times \text{Time} \]
+
+Where:
+- Speed = 11.5 km/h
+- Time = 1.4 hours
+
+Substituting the given values into the formula:
+
+\[ \text{Distance} = 11.5 \, \text{km/h} \times 1.4 \, \text{hours} \]
+
+\[ \text{Distance} = 16.1 \, \text{km} \]
+
+Thus, the distance from Alisha's home to the Shibpur launch dock is 16.1 kilometers.
+
+**Answer: 16.1**"
+78,দশ হাজার টাকার জন্য মোট কয়টা পাঁচশত টাকার নোট প্রয়োজন?,২০,"## Translation of the Problem
+The problem in Bengali states: ""দশ হাজার টাকার জন্য মোট কয়টা পাঁচশত টাকার নোট প্রয়োজন?"" 
+
+Translated into English, this reads: ""For ten thousand taka, how many five hundred taka notes are needed?""
+
+## Solution
+To find out how many five hundred taka notes are needed to make up ten thousand taka, you need to divide the total amount by the denomination of the note.
+
+- Total amount: 10,000 taka
+- Denomination of each note: 500 taka
+
+The mathematical operation is as follows:
+
+\[
+\frac{10000}{500} = 20
+\]
+
+Therefore, you would need 20 notes of five hundred taka to make up ten thousand taka.
+
+**Answer: 20**"
+522,তিনটি ক্রমিক স্বাভাবিক সংখ্যার সমষ্টি ৬৩ হলে। ছোট সংখ্যাটি বের কর।,২০,"## Translation of the Problem:
+The sum of three consecutive natural numbers is 63. Find the smallest number.
+
+## Solution:
+
+Let's assume the three consecutive natural numbers are \( n \), \( n+1 \), and \( n+2 \).
+
+According to the problem, the sum of these numbers is given by:
+
+\[
+n + (n + 1) + (n + 2) = 63
+\]
+
+Simplifying this equation:
+
+\[
+3n + 3 = 63
+\]
+
+Subtract 3 from both sides:
+
+\[
+3n = 60
+\]
+
+Divide each side by 3:
+
+\[
+n = 20
+\]
+
+Therefore, the smallest number is \( n = 20 \).
+
+**Answer: 20**"
+71,"৩৫.২৮ লিটার তেল ৯টি পরিবারের মধ্যে সমানভাবে ভাগ করে দিলে প্রত্যেক পরিবার কত লিটার
+তেল পাবে ?",৩.৯২,"## Translation of the Problem:
+If 35.28 liters of oil are equally divided among 9 families, how many liters of oil will each family receive?
+
+## Solution:
+To find out how much oil each family receives, we need to divide the total amount of oil by the number of families.
+
+Given:
+- Total oil = 35.28 liters
+- Number of families = 9
+
+Each family receives:
+\[
+\text{Oil per family} = \frac{35.28 \text{ liters}}{9}
+\]
+
+Performing the division:
+\[
+35.28 \div 9 = 3.92
+\]
+
+Each family will receive 3.92 liters of oil.
+
+**Answer: 3.92**"
+394,পুজা ব্যাংক থেকে বার্ষিক ১২% মুনাফায় কিছু টাকা ঋণ নিয়ে এক বছর পর ১৬৮০ টাকা মুনাফা দিল । আসল কত ছিল?,১৪০০০,"## Problem Translation:
+Puja took a loan from a bank at an annual interest rate of 12% and paid an interest of 1680 Taka at the end of one year. What was the principal amount?
+
+## Solution:
+We are given:
+- Annual Interest Rate = 12%
+- Interest Paid = 1680 Taka
+
+The formula for simple interest is:
+\[ 
+\text{Interest} = \text{Principal} \times \text{Rate} \times \text{Time} 
+\]
+
+Here, we need to find the Principal (P), and we know the Interest (I) is 1680, the Rate (R) is 12% (or 0.12 when converted to decimal), and the Time (T) is 1 year.
+
+Substitute the known values into the formula:
+\[
+1680 = P \times 0.12 \times 1 
+\]
+
+Solving for P:
+\[
+P = \frac{1680}{0.12} 
+\]
+
+\[
+P = 14000
+\]
+
+Therefore, the principal amount was 14,000 Taka.
+
+**Answer: 14000**"
+332,"৬, ৪, ৮ ও ২ অঙ্কগুলো মাত্র একবার ব্যবহার করে গঠিত বৃহত্তম ও ক্ষুদ্রতম সংখ্যার পার্থক্য কত ?",৬১৭৪,"## Problem Translation:
+What is the difference between the largest and smallest numbers that can be formed using the digits 6, 4, 8, and 2, each used only once?
+
+## Solution:
+To solve this problem, we need to create the largest and smallest possible numbers using the given digits 6, 4, 8, and 2.
+
+### Step 1: Arrange digits to form the largest number.
+To get the largest possible number, we should arrange the digits in descending order:
+- Largest number = 8642
+
+### Step 2: Arrange digits to form the smallest number.
+To get the smallest possible number, we should arrange the digits in ascending order:
+- Smallest number = 2468
+
+### Step 3: Calculate the difference.
+Now, we find the difference between these two numbers:
+\[ 8642 - 2468 = 6174 \]
+
+Hence, the difference between the largest and smallest numbers formed by the digits 6, 4, 8, and 2 is **6174**.
+
+**Answer: 6174**"
+354,"একটি হোস্টেলে প্রতিদিন ৬০/৭ কুইন্টাল চাল লাগে। হোস্টেলটিতে এক সপ্তাহে কত কুইন্টাল চাল
+লাগবে?",৬০,"## Translation of the Problem:
+A hostel requires \( \frac{60}{7} \) quintals of rice every day. How many quintals of rice will be needed in one week for the hostel?
+
+## Solution:
+The hostel needs \( \frac{60}{7} \) quintals of rice per day.
+
+To find the total amount of rice required for one week (7 days), multiply the daily requirement by 7:
+
+\[
+\text{Total rice for one week} = \frac{60}{7} \times 7
+\]
+
+\[
+= 60 \, \text{quintals}
+\]
+
+Thus, the hostel will need 60 quintals of rice in one week.
+
+**Answer: 60**"
+133,"রাজীব, দেবাঙ্গনা, মাসুম ও তাজমীরা ৬ দিনে ১৫০টি অংম করতে পারে। হিসাব করে দেখি প্রত্যেকে প্রতিদিন সমপরিমাণ অঙ্ক করলে রাজীব ও তাজমীরা কত দিনে ২৫০ টি অঙ্ক করতে পারবে।",২০,"1. **Translation of the Problem into English:**
+
+   Rajib, Debangana, Masum, and Tajmira can solve 150 problems in 6 days. Calculate how many days it will take for Rajib and Tajmira to solve 250 problems if each person solves the same number of problems per day.
+
+2. **Solution:**
+
+   First, determine the total number of problems solved by all four individuals per day.
+
+   \[
+   \text{Total problems in 6 days} = 150
+   \]
+   \[
+   \text{Problems per day for all four} = \frac{150}{6} = 25 \text{ problems}
+   \]
+
+   Since the problems are equally distributed among all four individuals, each person solves:
+
+   \[
+   \text{Problems per person per day} = \frac{25}{4} = 6.25 \text{ problems}
+   \]
+
+   Next, calculate the total problems solved per day by Rajib and Tajmira combined.
+
+   \[
+   \text{Problems solved by Rajib and Tajmira per day} = 2 \times 6.25 = 12.5 \text{ problems}
+   \]
+
+   Now, determine how many days it will take for Rajib and Tajmira to solve 250 problems:
+
+   \[
+   \text{Days required} = \frac{250}{12.5} = 20 \text{ days}
+   \]
+
+3. **Conclusion:**
+
+   **Answer: 20**"
+61,৫টি কাপ আছে যার প্রত্যেকটির ওজন ০.৩ কেজি। ৫টি কাপের ওজন একত্রে কত ?,১.৫০,"1. **Translation of the Bengali problem into English:**
+
+   There are 5 cups, each weighing 0.3 kg. What is the total weight of the 5 cups together?
+
+2. **Solution:**
+
+   To find the total weight of the 5 cups, multiply the weight of one cup by the number of cups.
+
+   \[
+   \text{Total weight} = \text{Weight of one cup} \times \text{Number of cups}
+   \]
+
+   \[
+   \text{Total weight} = 0.3 \, \text{kg} \times 5
+   \]
+
+   \[
+   \text{Total weight} = 1.5 \, \text{kg}
+   \]
+
+**Answer: 1.5 kg**"
+213,"৪২০ টাকা , ৫৬০ টাকা ও ৬৩০ টাকা  -এর গ.সা.গু খুঁজি।",৭০,"1. **Translation of the Bengali problem into English:**
+
+   Find the greatest common divisor (GCD) of 420, 560, and 630.
+
+2. **Solution:**
+
+   To find the GCD of several numbers, we can use the prime factorization method:
+
+   - Prime factorization of 420:  
+     \( 420 = 2^2 \times 3^1 \times 5^1 \times 7^1 \)
+
+   - Prime factorization of 560:  
+     \( 560 = 2^4 \times 5^1 \times 7^1 \)
+
+   - Prime factorization of 630:  
+     \( 630 = 2^1 \times 3^2 \times 5^1 \times 7^1 \)
+
+   To find the GCD, we take the lowest power of all common prime factors.
+
+   Common prime factors are \(2\), \(5\), and \(7\).
+   
+   - For \(2\), the lowest power is \(2^1\).
+   - For \(5\), the lowest power is \(5^1\).
+   - For \(7\), the lowest power is \(7^1\).
+
+   Therefore, the GCD is:
+   \( 2^1 \times 5^1 \times 7^1 = 2 \times 5 \times 7 = 70 \).
+
+   **Answer: 70**"
+580,বার্ষিক শতকরা ৮.৫০ টাকা চক্রবৃদ্ধি মুনাফায় ১০০০০ টাকার ২ বছরের চক্রবৃদ্ধি মুনাফা নির্ণয় কর।,১৭৭২.২৫,"## Translation of the Problem:
+Determine the compound interest on 10,000 Taka after 2 years at an annual interest rate of 8.50%.
+
+## Solution:
+To calculate the compound interest, we can use the compound interest formula:
+
+\[ A = P \left(1 + \frac{r}{100}\right)^n \]
+
+where:
+- \( A \) is the amount of money accumulated after n years, including interest.
+- \( P \) is the principal amount (initial investment).
+- \( r \) is the annual interest rate (in percentage).
+- \( n \) is the number of years the money is invested for.
+
+Given:
+- \( P = 10,000 \) Taka
+- \( r = 8.50\% \)
+- \( n = 2 \) years
+
+First, we need to calculate the total amount accumulated (\( A \)) using the formula:
+
+\[ A = 10,000 \left(1 + \frac{8.50}{100}\right)^2 \]
+
+\[ A = 10,000 \left(1 + 0.085\right)^2 \]
+
+\[ A = 10,000 \times (1.085)^2 \]
+
+\[ A = 10,000 \times 1.176225 \]
+
+\[ A = 11,762.25 \]
+
+Now, to find the compound interest (\( CI \)), subtract the principal (\( P \)) from the total amount (\( A \)):
+
+\[ CI = A - P \]
+
+\[ CI = 11,762.25 - 10,000 \]
+
+\[ CI = 1,762.25 \]
+
+Thus, the compound interest on 10,000 Taka after 2 years at a rate of 8.50% is 1,762.25 Taka.
+
+**Answer: 1762.25**"
+335,রাসেলের কাছে ৪৫টি আপেল ও ১৮টি কমলা আছে। রাসেল কোনো আপেল বা কমলা অবশিষ্ট না রেখে যত বেশি সম্ভব শিশুর মধ্যে এমনভাবে ভাগ করে দিতে চায় যাতে প্রত্যেকে সমান সংখ্যক আপেল ও কমলা পায়। রাসেল কত জন শিশুর মাঝে এগুলো ভাগ করে দিতে পারবে?,৯,"## Translation of the Problem:
+Rasel has 45 apples and 18 oranges. Rasel wants to distribute them among as many children as possible such that each child receives the same number of apples and oranges without any leftover. How many children can Rasel distribute them to?
+
+## Solution:
+To find the maximum number of children Rasel can distribute the fruits to, we need to determine the greatest common divisor (GCD) of the numbers 45 and 18. The GCD will give us the largest number of children among whom Rasel can evenly distribute both apples and oranges.
+
+### Finding the GCD of 45 and 18:
+
+1. Prime factorization of 45:
+   \[
+   45 = 3^2 \times 5
+   \]
+
+2. Prime factorization of 18:
+   \[
+   18 = 2 \times 3^2
+   \]
+
+3. The common prime factors are \(3^2\), as both 45 and 18 have the factor 3.
+
+Therefore, the GCD of 45 and 18 is \(3^2 = 9\).
+
+Thus, Rasel can distribute the apples and oranges among **9 children**.
+
+**Answer: 9**"
+341,"একজন শিক্ষক ৬০ টি পেন্সিল, ৩৬ টি রাবার ও ১৮ টি খাতা কয়েকজন শিক্ষার্থীর মধ্যে সমান ভাগে ভাগ করে দিতে চান। সর্বোচ্চ কতজন শিক্ষার্থীর মধ্যে এই পেন্সিল, রাবার ও খাতাগুলো সমান ভাগে ভাগ করে দেওয়া যাবে?",৬,"1. **Translation of the Problem:**
+
+   A teacher wants to distribute 60 pencils, 36 erasers, and 18 notebooks equally among several students. What is the maximum number of students among whom these pencils, erasers, and notebooks can be evenly distributed?
+
+2. **Solution:**
+
+   To find the maximum number of students, we need to determine the greatest common divisor (GCD) of the numbers of pencils, erasers, and notebooks, i.e., the GCD of 60, 36, and 18.
+
+   - Factors of 60: \(60 = 2^2 \times 3 \times 5\)
+   - Factors of 36: \(36 = 2^2 \times 3^2\)
+   - Factors of 18: \(18 = 2 \times 3^2\)
+
+   For the GCD, we take the lowest power of all common prime factors:
+
+   - The common prime factors are 2 and 3.
+   - For 2, the lowest power is \(2^1\).
+   - For 3, the lowest power is \(3^1\).
+
+   Therefore, the GCD is \(2^1 \times 3^1 = 2 \times 3 = 6\).
+
+   Hence, the maximum number of students that the teacher can distribute the pencils, erasers, and notebooks equally to is 6.
+
+3. **Answer: 6**"
+620,"একটি বইয়ের দৈর্ঘ্য ২৫ সে.মি. ও প্রস্থ ১৮ সে.মি.। বইটির পৃষ্ঠাসংখ্যা ২০০ এবং প্রতি পাতা কাগজের পুরুত্ব ০.১ মি.মি. হলে, বইটির আয়তন নির্ণয় কর।",৪৫০,"## Translated Problem
+The length of a book is 25 cm and the width is 18 cm. The book has 200 pages and the thickness of each sheet of paper is 0.1 mm. Determine the volume of the book.
+
+## Solution
+To calculate the volume of the book, we need to consider the dimensions: length, width, and thickness (or height) of the book, which we will calculate from the pages.
+
+1. **Convert thickness of each sheet to cm**:  
+   Since each sheet has a thickness of 0.1 mm, we need to convert this to cm:  
+   \(0.1 \text{ mm} = 0.01 \text{ cm}\)
+
+2. **Calculate the total thickness of all the pages**:  
+   The total thickness, which is essentially the height, is calculated by multiplying the number of sheets by the thickness of each:  
+   Total thickness = 200 pages × 0.01 cm/page = 2 cm
+
+3. **Determine the volume of the book**:  
+   The volume of the book is given by the product of its dimensions - length, width, and height (or thickness of the pages):  
+   Volume = Length × Width × Height  
+   Volume = 25 cm × 18 cm × 2 cm = 900 cm³
+
+**Answer: 900**"
+136,৩৬০ বিঘা জমি ২০ দিনে চাষ করতে ৪টি ট্রাক্টর লাগে। ১৮০০ বিঘা জমি ১০ দিনে চাষ করতে হলে কটি ট্রাক্টর লাগবে হিসাব করি ।,৪০,"1. **Translate the Problem:**
+
+   The problem in Bengali is: ""৩৬০ বিঘা জমি ২০ দিনে চাষ করতে ৪টি ট্রাক্টর লাগে। ১৮০০ বিঘা জমি ১০ দিনে চাষ করতে হলে কটি ট্রাক্টর লাগবে হিসাব করি ।""
+
+   Translation in English: ""To till 360 bighas of land in 20 days, 4 tractors are required. Calculate how many tractors are needed to till 1800 bighas of land in 10 days.""
+
+2. **Solution:**
+
+   First, we need to determine the productivity of the 4 tractors together.
+
+   Let's calculate the work done by 1 tractor in a single day:
+   
+   - 4 tractors can till 360 bighas in 20 days.
+   - So in 20 days, 4 tractors can do 360 bigha-days of work.
+   - Therefore, 1 tractor can do: \(\frac{360}{4} = 90\) bigha-days in 20 days.
+   - In 1 day, 1 tractor can do: \(\frac{90}{20} = 4.5\) bighas.
+   
+   Next, calculate the total amount of work needed for 1800 bighas in 10 days:
+   
+   - Over 10 days, the work needed is \(1800\) bigha-days.
+   
+   Now, find out how many tractors are needed:
+   
+   - Each tractor does 4.5 bighas per day.
+   - Therefore, in 10 days, 1 tractor does \(4.5 \times 10 = 45\) bighas.
+   - Total number of tractors required is \(\frac{1800}{45} = 40\).
+
+Thus, 40 tractors are needed.
+
+**Answer: 40**"
+216,"তিনটি ছোটো ট্যাঙ্কে যথাক্রমে ৩৫ লিটার, ৫৬ লিটার ও ৮৪ লিটার তেল আছে। হিসাব করি সবচেয়ে বড়ো কত মাপের পাত্র দিয়ে ট্যাঙ্ক তিনটির তেল পূর্ণসংখ্যক বার মাপতে পারব।",৭,"## Problem Translation:
+There are three small tanks with 35 liters, 56 liters, and 84 liters of oil respectively. Calculate the largest size of a container that can be used to measure the oil in each of the three tanks an exact number of times.
+
+## Solution:
+To solve this problem, we need to find the largest size of the container that can measure the oil in each tank an exact number of times. This means finding the greatest common divisor (GCD) of the given quantities of oil in the tanks.
+
+The quantities of oil in the tanks are:
+- 35 liters
+- 56 liters
+- 84 liters
+
+We will find the GCD of these three numbers.
+
+### Finding the GCD:
+1. First, find the GCD of 35 and 56.
+   - Prime factorization of 35: \(35 = 5 \times 7\)
+   - Prime factorization of 56: \(56 = 2^3 \times 7\)
+   - Common factor: 7
+   - So, GCD(35, 56) = 7
+
+2. Now, find the GCD of 7 (result from step 1) and 84.
+   - Prime factorization of 84: \(84 = 2^2 \times 3 \times 7\)
+   - GCD(7, 84) = 7 (since both numbers are divisible by 7)
+
+Thus, the greatest common divisor of 35, 56, and 84 is 7.
+
+Therefore, the largest size of the container that can measure the oil in each tank an exact number of times is 7 liters.
+
+**Answer: 7**"
+516,কোন সংখ্যার দ্বিগুণের সাথে ৫ যোগ করলে যোগফল ২৫ হবে ?,১০,"1. **Translation:**
+   The problem in Bengali is: ""কোন সংখ্যার দ্বিগুণের সাথে ৫ যোগ করলে যোগফল ২৫ হবে ?""
+   
+   Translated into English, it reads: ""If you add 5 to twice a number, the sum will be 25. What is the number?""
+
+2. **Solution:**
+   Let's represent the unknown number as \( x \).
+   
+   According to the problem, if you add 5 to twice this number, the sum is 25. Therefore, we can set up the equation as follows:
+
+   \[
+   2x + 5 = 25
+   \]
+
+   Now, we need to solve for \( x \).
+
+   First, subtract 5 from both sides of the equation:
+
+   \[
+   2x = 25 - 5
+   \]
+
+   \[
+   2x = 20
+   \]
+
+   Next, divide both sides by 2:
+
+   \[
+   x = \frac{20}{2}
+   \]
+
+   \[
+   x = 10
+   \]
+
+   Hence, the number is 10.
+
+3. **Answer: 10**"
+376,"একটি বাক্সের ২০টি কমলার মধ্যে আমরা ৩টির ওজন মেপে পেলাম যথাক্রমে ৩৩৫ গ্রাম, ৩২০ গ্রাম এবং ৩৭১ গ্রাম । গড় ওজনের ভিত্তিতে ২০টি কমলার মোট ওজন (কেজিতে) নির্ণয় কর।",৬.৮৪,"## Translation of the Problem:
+In a box containing 20 oranges, we measured the weight of 3 oranges and found them to be 335 grams, 320 grams, and 371 grams, respectively. Based on the average weight, determine the total weight of all 20 oranges (in kilograms).
+
+## Solution:
+Firstly, calculate the average weight of the 3 oranges that were measured.
+
+Given weights:
+- Orange 1: 335 grams
+- Orange 2: 320 grams
+- Orange 3: 371 grams
+
+To find the average weight:
+\[ \text{Average weight} = \frac{335 \text{ grams} + 320 \text{ grams} + 371 \text{ grams}}{3} \]
+
+\[ = \frac{1026 \text{ grams}}{3} \]
+
+\[ = 342 \text{ grams} \]
+
+Now, we use this average weight to estimate the total weight of all 20 oranges.
+
+Total weight of 20 oranges:
+\[ = 20 \times 342 \text{ grams} \]
+
+\[ = 6840 \text{ grams} \]
+
+Convert grams to kilograms (since 1 kilogram = 1000 grams):
+\[ 6840 \text{ grams} = \frac{6840}{1000} \text{ kilograms} \]
+
+\[ = 6.84 \text{ kilograms} \]
+
+**Answer: 6.84**"
+370,"৩.২৫ মিটার লম্বা একটি লোহার খণ্ডের ওজন ১৫.৬ কেজি। লোহার খণ্ডের প্রতি মিটারের ওজন
+নির্ণয় কর।",৪.৮০,"## Translation of the Problem:
+
+A 3.25-meter-long metal rod weighs 15.6 kilograms. Determine the weight of the metal rod per meter.
+
+## Solution:
+
+To find the weight per meter, we need to divide the total weight of the rod by its length.
+
+Total weight of the rod = 15.6 kg  
+Length of the rod = 3.25 meters
+
+Weight per meter = Total weight / Length  
+Weight per meter = 15.6 kg / 3.25 m
+
+Now, perform the division:
+
+Weight per meter ≈ 4.8 kg/m
+
+So, the weight of the metal rod per meter is approximately 4.8 kilograms.
+
+**Answer: 4.8**"
+245,সাকির গুনে দেখল তার কাছে ৪৫০ টি হলুদ বোতাম আছে। সে বর্গক্ষেত্রাকারে সাজানোর চেষ্টা করল। সাকির বর্গক্ষেত্রাকারে সাজানোর পরেও ৯টি হলুদ বোতাম পড়ে রইল। সাকিরের সাজানোর প্রতি সারিতে কতগুলি হলুদ বোতাম আছে হিসাব করি।,২১,"## Translated Problem:
+
+Sakir counted and found that he has 450 yellow buttons. He tried to arrange them in a square shape. After arranging them into a square shape, 9 yellow buttons were left over. Determine how many yellow buttons are there in each row of Sakir's arrangement.
+
+## Solution:
+
+To find how many buttons Sakir can arrange in a perfect square, we need to calculate the maximum perfect square that can be formed with the given buttons (450 - 9 = 441 buttons).
+
+1. Determine the largest perfect square that fits into 441 buttons.
+2. The side length of the square is given by the square root of 441.
+
+\[
+\sqrt{441} = 21
+\]
+
+Thus, after arranging the buttons into a square, Sakir has 21 buttons in each row.
+
+**Answer: 21**"
+603,আয়তাকার একটি ক্ষেত্রের ক্ষেত্রফল ১০ একর এবং তার দৈর্ঘ্য প্রস্থেও ৪ গুণ। ক্ষেত্রটির দৈর্ঘ্য কত মিটার ?,৪০২.৩৪,"1. **Translated Problem:**
+   
+   The area of a rectangular field is 10 acres, and its length is 4 times its width. What is the length of the field in meters?
+
+2. **Solution:**
+
+   An acre is a unit of area commonly used in the United States and other countries. One acre is equal to 4046.86 square meters. Therefore, the area of the rectangular field in square meters is:
+
+   \[
+   10 \text{ acres} \times 4046.86 \text{ m}^2/\text{acre} = 40468.6 \text{ m}^2
+   \]
+
+   Let's denote the width of the rectangular field as \( w \) and the length as \( l \). According to the problem, the length is 4 times the width:
+
+   \[
+   l = 4w
+   \]
+
+   The area of the rectangle is given by:
+
+   \[
+   l \times w = 40468.6 \text{ m}^2
+   \]
+
+   Substituting \( l = 4w \) into the area equation:
+
+   \[
+   4w \times w = 40468.6
+   \]
+
+   This simplifies to:
+
+   \[
+   4w^2 = 40468.6
+   \]
+
+   Solving for \( w^2 \):
+
+   \[
+   w^2 = \frac{40468.6}{4} = 10117.15
+   \]
+
+   Taking the square root to solve for \( w \):
+
+   \[
+   w = \sqrt{10117.15} \approx 100.585
+   \]
+
+   Now, using \( l = 4w \):
+
+   \[
+   l = 4 \times 100.585 = 402.34
+   \]
+
+   Therefore, the length of the field is approximately 402.34 meters.
+
+**Answer: 402.34**"
+334,আমার কাছে ৩৬ সে.মি. লম্বা ও ২৪ সে.মি. চওড়া একটি কাগজ আছে। আমি বর্গ আকৃতির কাগজ দিয়ে কাগজের পৃষ্ঠাটি ঢাকতে চাই। সম্ভাব্য সবচেয়ে বড় কাগজের বর্গটির বাহুর দৈর্ঘ্য কত?,১২,"### Translation
+
+I have a piece of paper that is 36 cm long and 24 cm wide. I want to cover the surface of the paper using square-shaped paper. What is the length of the side of the largest possible square paper?
+
+### Solution
+
+To find the largest possible square that can cover the entire surface of the rectangular sheet without leaving any uncovered area, we need to determine the greatest common divisor (GCD) of the length and width of the rectangle.
+
+The dimensions of the rectangle are 36 cm and 24 cm.
+
+1. **Find the GCD of 36 and 24:**
+   - The prime factorization of 36 is \(2^2 \times 3^2\).
+   - The prime factorization of 24 is \(2^3 \times 3^1\).
+   - The GCD is obtained by taking the lowest power of all common prime factors:
+     - For the prime number 2: the minimum power is \(2^2\).
+     - For the prime number 3: the minimum power is \(3^1\).
+   - Therefore, the GCD is \(2^2 \times 3^1 = 4 \times 3 = 12\).
+
+Thus, the side length of the largest square that can cover the entire sheet is 12 cm.
+
+**Answer: 12**"
+30,আলতাফ সাহেবের মাসিক বেতন ৯৮৭০ টাকা। প্রতি মাসে তিনি ৩৮০০ টাকা বাসা ভাড়া বাবদ এবং ৫৬৫০ টাকা পরিবারের প্রয়োজন বাবদ খরচ করেন। অবশিষ্ট টাকা তিনি একটি ব্যাংকে জমা রাখেন। তিনি বছরে কত টাকা ব্যাংকে জমা রাখেন?,৫০৪০,"## Problem Translation:
+Mr. Altaf's monthly salary is 9870 taka. Every month he spends 3800 taka on house rent and 5650 taka for family expenses. The remaining amount is deposited in a bank. How much money does he deposit in the bank annually?
+
+## Solution:
+1. **Calculate Mr. Altaf's monthly savings**: 
+   - Monthly salary = 9870 taka
+   - Monthly expenses for house rent = 3800 taka
+   - Monthly expenses for family = 5650 taka
+   - Monthly total expenses = 3800 + 5650 = 9450 taka
+   - Monthly savings = Monthly salary - Monthly total expenses
+   - Monthly savings = 9870 - 9450 = 420 taka
+
+2. **Calculate Mr. Altaf's annual savings**:
+   - Monthly savings = 420 taka
+   - Annual savings = Monthly savings × 12
+   - Annual savings = 420 × 12 = 5040 taka
+
+Therefore, Mr. Altaf deposits **5040 taka** in the bank annually.
+
+**Answer: 5040**"
+554,"বার্ষিক শতকরা মুনাফা কত টাকা হলে, ১৩০০০ টাকা ৫ বছরে মুনাফা-আসলে দ্বিগুণ হবে ?",১২.৫০,"1. **Translation of the Bengali problem into English:**
+
+   What should be the annual percentage profit for 13,000 Taka to double in 5 years?
+
+2. **Solution:**
+
+   Let's solve this problem using the concept of simple interest and the formula for the calculation of amount (A) that includes principal and interest:
+   \[
+   A = P \left(1 + \frac{r \times t}{100}\right)
+   \]
+   where:
+   - \(A\) is the final amount (which is double the principal in this case),
+   - \(P\) is the principal amount (initial investment, 13,000 Taka here),
+   - \(r\) is the annual rate of interest in percentage,
+   - \(t\) is the time period in years.
+
+   In this situation, the amount \(A\) will be double the principal:
+   \[
+   A = 2P = 2 \times 13,000 \Rightarrow A = 26,000
+   \]
+
+   Let's substitute the known values into the formula:
+   \[
+   26,000 = 13,000 \left(1 + \frac{r \times 5}{100}\right)
+   \]
+
+   Dividing both sides by 13,000:
+   \[
+   2 = 1 + \frac{r \times 5}{100}
+   \]
+
+   Simplifying the equation:
+   \[
+   2 - 1 = \frac{r \times 5}{100}
+   \]
+   \[
+   1 = \frac{r \times 5}{100}
+   \]
+
+   Solving for \(r\):
+   \[
+   r \times 5 = 100
+   \]
+   \[
+   r = \frac{100}{5}
+   \]
+   \[
+   r = 20
+   \]
+
+   Therefore, the annual percentage profit must be 20%.
+
+3. **Conclusion with the final answer:**
+
+   **Answer: 20**"
+287,৫০০০ এর নিকটতম ৫০০০ এর থেকে ছোট পূর্ণবর্গ সংখ্যা খুজিঁ।,৪৯০০,"## Translated Problem:
+Find the perfect square number closest to but less than 5000.
+
+## Solution:
+To find the largest perfect square less than 5000, we first need to consider the square root of 5000.
+
+1. Calculate the approximate square root of 5000:
+   \[
+   \sqrt{5000} \approx 70.71
+   \]
+
+2. We need to find the largest integer \( n \) such that \( n^2 < 5000 \).
+
+3. The integer part of 70.71 is 70. Therefore, we test \( n = 70 \):
+   \[
+   70^2 = 4900
+   \]
+
+4. Test \( n = 71 \) to confirm it's too large:
+   \[
+   71^2 = 5041
+   \]
+
+Since \( 4900 < 5000 \) and \( 5041 > 5000 \), the largest perfect square less than 5000 is 4900.
+
+**Answer: 4900**"
+426,"কবির সাহেবের তিন পুত্রের বয়স যথাক্রমে ৫ বছর, ৭ বছর ও ৯ বছর। তিনি ৪২০০ টাকা তিন পুত্রকে তাদের বয়স অনুপাতে ভাগ করে দিলেন, মেঝো ছেলে কত টাকা পাবে ?",১৪০০,"**Translated Problem:**
+
+Mr. Kabir has three sons whose ages are 5 years, 7 years, and 9 years, respectively. He divided 4200 Taka among his three sons in proportion to their ages. How much money will the middle son receive?
+
+**Solution:**
+
+To solve this, we'll distribute the money among the sons according to their ages. The total ages are 5 + 7 + 9 = 21. 
+
+The shares of the money will be given in the proportion of each son’s age relative to the total age.
+
+- The share of the youngest son: \( \frac{5}{21} \)
+- The share of the middle son: \( \frac{7}{21} \)
+- The share of the oldest son: \( \frac{9}{21} \)
+
+The middle son's share from 4200 Taka would be:
+
+\[ \text{Middle son's share} = \frac{7}{21} \times 4200 \]
+
+Calculating this gives:
+
+\[ \text{Middle son's share} = \frac{7}{21} \times 4200 = 1400 \]
+
+Thus, the middle son will receive 1400 Taka.
+
+**Answer: 1400**"
+292,"দেবুবাবু নতুন বাড়ি বানিয়েছেন। আজ তিনি নিজেই তাঁর বাড়ির দুটি সমান মাপের জানালা রং করবেন। প্রতি জানালার দুটো পাল্লা। যদি প্রতিটি পাল্লা রং করতে তার ২ ঘণ্টা ১৫ মিনিট করে সময় লাগে, তবে দেবুবাবুর দুটি জানালা রং করতে মোট কত ঘন্টা সময় লাগবে হিসাব করি।",৯,"## Translation of the Problem:
+Debubabu has built a new house. Today, he will paint two equally sized windows by himself. Each window consists of two shutters. If it takes him 2 hours and 15 minutes to paint each shutter, calculate the total time Debubabu will require to paint both windows.
+
+## Solution:
+Each window has 2 shutters, so Debubabu has to paint a total of \(2 \text{ shutters/window} \times 2 \text{ windows} = 4\) shutters.
+
+The time taken to paint each shutter is 2 hours and 15 minutes. First, convert 2 hours and 15 minutes into just hours:
+
+\[
+2 \text{ hours} + 15 \text{ minutes} = 2 \text{ hours} + \frac{15}{60} \text{ hours} = 2 + 0.25 = 2.25 \text{ hours}
+\]
+
+Since there are 4 shutters to paint, the total time taken is:
+
+\[
+4 \text{ shutters} \times 2.25 \text{ hours/shutter} = 9 \text{ hours}
+\]
+
+Therefore, Debubabu will need a total of 9 hours to paint both windows.
+
+**Answer: 9**"
+381,৬টি বইয়ের ওজন ৯২৪ গ্রাম। বইগুলোর গড় ওজন বের কর।,১৫৪,"### Translated Problem:
+The combined weight of 6 books is 924 grams. Find the average weight of the books.
+
+### Solution:
+To find the average weight of the books, we will use the formula for average:
+
+\[
+\text{Average weight} = \frac{\text{Total weight of the books}}{\text{Number of books}}
+\]
+
+Given:
+- Total weight of the books = 924 grams
+- Number of books = 6
+
+Substituting the given values into the formula:
+
+\[
+\text{Average weight} = \frac{924 \text{ grams}}{6} = 154 \text{ grams}
+\]
+
+Thus, the average weight of the books is \( 154 \) grams.
+
+**Answer: 154**"
+582,এক ব্যক্তি একটি ঋণদান সংস্থা থেকে বার্ষিক ৮% চক্রবৃদ্ধি মুনাফায় ৫০০০ টাকা ঋণ নিলেন। প্রতিবছর শেষে তিনি ২০০০ টাকা করে পনিশোধ করেন। ২য় কিস্তি পরিশোধের পর তাঁর আর কত টাকা ঋণ থাকবে ?,১৬৭২,"## Translation of the Problem:
+A person took a loan of 5000 BDT from a lending institution at an annual compound interest rate of 8%. At the end of each year, he repays 2000 BDT. How much loan will he have left after the second installment is paid?
+
+## Solution:
+1. **Initial Loan Amount:** 5000 BDT
+
+2. **Interest Rate:** 8% per annum
+
+3. **Yearly Repayment:** 2000 BDT
+
+Let's calculate the loan remaining after each installment:
+
+### End of the First Year:
+- **Interest for the First Year:** 
+  \[
+  \text{Interest} = 5000 \times \frac{8}{100} = 400 \text{ BDT}
+  \]
+- **Total Amount After Adding Interest**:
+  \[
+  5000 + 400 = 5400 \text{ BDT}
+  \]
+- **Amount Remaining After First Repayment**:
+  \[
+  5400 - 2000 = 3400 \text{ BDT}
+  \]
+
+### End of the Second Year:
+- **Interest for the Second Year on Remaining Amount**:
+  \[
+  \text{Interest} = 3400 \times \frac{8}{100} = 272 \text{ BDT}
+  \]
+- **Total Amount After Adding Second Year Interest**:
+  \[
+  3400 + 272 = 3672 \text{ BDT}
+  \]
+- **Amount Remaining After Second Repayment**:
+  \[
+  3672 - 2000 = 1672 \text{ BDT}
+  \]
+
+Therefore, after the second installment, he will have a loan of 1672 BDT remaining.
+
+**Answer: 1672**"
+431,"কিছু টাকা লাবিব , সামি ও সিয়াম এর মধ্যে ৫ : ৪ : ২ অনুপাতে ভাগ করে দেওয়া হলো। সিয়াম ১৮০ টাকা পেলে লাবিব কত টাকা পাবে নির্ণয় কর।",৪৫০,"## Translation of the Problem:
+Some money is divided among Labib, Sami, and Siam in the ratio of 5:4:2. If Siam receives 180 taka, determine how much Labib will receive.
+
+## Solution:
+We know the ratio of distribution among Labib, Sami, and Siam is 5:4:2. Therefore, if the amounts they receive are 5x, 4x, and 2x respectively, then:
+
+Given that Siam receives 180 taka, we can write:
+\[ 2x = 180 \]
+
+To find x, solve the equation:
+\[ x = \frac{180}{2} = 90 \]
+
+Now, find how much Labib will receive by calculating 5x:
+\[ 5x = 5 \times 90 = 450 \]
+
+**Answer: 450**"
+209,সলমন বেগুনি রঙের ৭.৭০ মি. লম্বা ও মদিনা আকশি রঙের ৩.২৬ মি. লম্বা ফিতে এনে দুই রঙের ফিতেই সমান দৈর্ঘ্যের সবচেয়ে বড়ো এমন কয়েকটি টুকরো করতে চায় যাতে টুকরো করার পরে দুই রঙের ফিতেই ০.০২ মি. করে পড়ে থাকে। হিসাব করে দেখি সমান দৈর্ঘ্যের সবচেয়ে বড়ো মাপের প্রতিটি টুকরোর দৈর্ঘ্য কত নেবে।,০.১২,"## Translation of the Problem:
+
+Salman has a purple ribbon that is 7.70 meters long and Madina has a sky-blue ribbon that is 3.26 meters long. They want to cut both ribbons into the largest possible equal-length pieces such that 0.02 meters are left over from each ribbon after cutting. Calculate the length of each of these equal-length pieces.
+
+## Solution:
+
+To determine the length of each piece, we need to consider the effective lengths of the ribbons after leaving the 0.02 meters out.
+
+1. **Calculate Effective Lengths:**
+   - For the purple ribbon:
+     \[
+     7.70 \, \text{m} - 0.02 \, \text{m} = 7.68 \, \text{m}
+     \]
+   
+   - For the sky-blue ribbon:
+     \[
+     3.26 \, \text{m} - 0.02 \, \text{m} = 3.24 \, \text{m}
+     \]
+
+2. **Greatest Common Divisor (GCD):**
+   - We now need to find the greatest length that will divide both 7.68 meters and 3.24 meters exactly.
+
+   - Convert the lengths into centimeters for easier handling:
+     \[
+     7.68 \, \text{m} = 768 \, \text{cm}
+     \]
+     \[
+     3.24 \, \text{m} = 324 \, \text{cm}
+     \]
+
+   - Find the GCD of 768 cm and 324 cm. Using the Euclidean algorithm:
+     - 768 ÷ 324 leaves a remainder of 120.
+     - 324 ÷ 120 leaves a remainder of 84.
+     - 120 ÷ 84 leaves a remainder of 36.
+     - 84 ÷ 36 leaves no remainder.
+
+   Hence, the GCD is 12 cm.
+
+3. **Convert GCD back to meters:**
+   \[
+   12 \, \text{cm} = 0.12 \, \text{m}
+   \]
+
+Therefore, the length of each of the equal-length pieces is **0.12 meters**.
+
+**Answer: 0.12**"
+291,২০২* এর * অঙ্কটি কী হলে সংখ্যাটি পূর্ণবর্গ হবে তা হিসাব করি।,৫ ,"## Problem Translation
+
+What digit should replace the asterisk in ২০২* for the number to be a perfect square?
+
+## Solution
+
+To solve this problem, we need to find a digit \( n \) such that the number \( 202n \) is a perfect square.
+
+1. First, let's find the approximate square root of 2020 (since 2020 is the number we get when the asterisk could be replaced with any digit from 0 to 9).
+   \[
+   \sqrt{2020} \approx 44.94
+   \]
+   Therefore, the perfect square has to be between \( 44^2 \) and \( 45^2 \).
+
+2. Calculate \( 44^2 \) and \( 45^2 \):
+   \[
+   44^2 = 1936
+   \]
+   \[
+   45^2 = 2025
+   \]
+
+3. From the calculations, it's clear that \( 2025 \) is within a plausible range for the last digit as 5 makes \( 202* \) closer to 2025, hence the final digit \( n = 5 \).
+
+Therefore, the number \( 2025 \) is a perfect square and it lies between the squares of 44 and 45.
+
+**Answer: 5**"
+321,"তানভিরের খামারে ৫০ টি ষাড় ও ৬০ টি গাভী আছে। প্রতিটি গাভী যদি বছরে ২ টা বাছুর জন্ম দেয়, তবে এক বছর পর তানভিরের খামারে মোট কয়টা পশু থাকবে?",২৩০,"## Translated Problem:
+Tanvir has 50 bulls and 60 cows on his farm. If each cow gives birth to 2 calves in a year, how many animals will there be on Tanvir's farm after one year?
+
+## Solution:
+1. **Initial number of bulls:** 50
+2. **Initial number of cows:** 60
+
+   Total initial animals = Bulls + Cows = 50 + 60 = 110
+
+3. **Calves born per cow per year:** 2
+4. **Total calves born in a year:**  
+   Number of cows × Calves per cow = 60 × 2 = 120
+
+5. **Total animals after one year:**  
+   Initial animals + Calves = 110 + 120 = 230
+
+Therefore, after one year, there will be a total of 230 animals on Tanvir's farm.
+
+**Answer: 230**"
+333,কোন সংখ্যাকে ৩ দিয়ে ভাগ করলে এর ভাগফল ৩ এবং ভাগশেষ ১ পাওয়া যায়। সংখ্যাটি কত?,১০,"Certainly! Let's solve the problem step by step.
+
+### 1. Translate the Bengali problem into English:
+""When a number is divided by 3, the quotient is 3 and the remainder is 1. What is the number?""
+
+### 2. Solve the problem:
+We know from the problem that when a number \( x \) is divided by 3, it produces a quotient of 3 and a remainder of 1. This situation can be expressed using the following division formula:
+
+\[ x = 3 \times \text{quotient} + \text{remainder} \]
+
+Substitute the given values:
+
+\[ x = 3 \times 3 + 1 \]
+
+\[ x = 9 + 1 \]
+
+\[ x = 10 \]
+
+Therefore, the original number is 10.
+
+### 3. Conclude with the final numerical answer:
+**Answer: 10**"
+193,"রসুলপুর গ্রামের জনসংখ্যা গত বছরের তুলনায় ১২% বেড়েছে। আগে ঐ গ্রামের জনসংখ্যা ৭৭৫ জন হলে, এখন জনসংখ্যা কত হয়েছে হিসাব করি।",৮৬৮,"1. **Translation of the Problem:**
+
+   The population of Rasulpur village has increased by 12% compared to last year. If the population of the village was 775 people before, let's calculate what the population is now.
+
+2. **Solution in English:**
+
+   To find the new population, we need to calculate the 12% increase on the original population of 775 people and then add that to the original population.
+
+   - First, find 12% of 775:  
+     \[
+     \text{Increase} = 775 \times \frac{12}{100} = 775 \times 0.12 = 93
+     \]
+
+   - Now add the increase to the original population:  
+     \[
+     \text{New Population} = 775 + 93 = 868
+     \]
+
+   Therefore, the new population of the village is 868 people.
+
+**Answer: 868**"
+610,"স্বর্ণ, পানির তুলনায় ১৯.৩ গুণ ভারী। আয়তাকার একটি স্বর্ণের বারের দৈর্ঘ্য ৭.৮ সে.মি. প্রস্থ ৬.৪ সে.মি. এবং উচ্চতা ২.৫ সে.মি। স্বর্ণের বারটির ওজন কত গ্রাম?",২৪০৮.৬৪,"## Translated Problem:
+Gold is 19.3 times heavier than water. A rectangular gold bar has a length of 7.8 cm, a width of 6.4 cm, and a height of 2.5 cm. What is the weight of the gold bar in grams?
+
+## Solution:
+
+To find the weight of the gold bar, we need to calculate its volume and then use the density of gold relative to water to find the weight.
+
+1. **Calculate the volume of the gold bar:**
+
+   The volume of a rectangular prism (or bar) is given by the formula:
+   \[
+   \text{Volume} = \text{length} \times \text{width} \times \text{height}
+   \]
+
+   Substituting the given dimensions:
+   \[
+   \text{Volume} = 7.8 \, \text{cm} \times 6.4 \, \text{cm} \times 2.5 \, \text{cm}
+   \]
+
+   \[
+   \text{Volume} = 124.8 \, \text{cm}^3
+   \]
+
+2. **Use the density of gold to find the weight:**
+
+   Since gold is 19.3 times heavier than water and the density of water is 1 gram per cubic centimeter, the density of gold is:
+   \[
+   \text{Density of gold} = 19.3 \, \text{g/cm}^3
+   \]
+
+   Using the density, we can calculate the weight of the gold bar:
+   \[
+   \text{Weight} = \text{Volume} \times \text{Density}
+   \]
+
+   \[
+   \text{Weight} = 124.8 \, \text{cm}^3 \times 19.3 \, \text{g/cm}^3
+   \]
+
+   \[
+   \text{Weight} = 2407.44 \, \text{grams}
+   \]
+
+Therefore, the weight of the gold bar is **2407.44 grams**.
+
+**Answer: 2407.44**"
+445,সোলায়মান ও সালমানের আয়ের অনুপাত ৫:৭। সালমান ও ইফসুফের আয়ের অনুপাত ৪:৫। সোলায়মানের আয় ১২০ টাকা হলে ইফসুফের আয় কত ?,২১০,"1. **Translation of the Bengali Problem:**
+   - The income ratio of Solaiman to Salman is 5:7.
+   - The income ratio of Salman to Ifsuf is 4:5.
+   - If Solaiman's income is 120 taka, what is Ifsuf's income?
+
+2. **Solution:**
+   - Let's denote Solaiman's income as \( S_o \), Salman's income as \( S_a \), and Ifsuf's income as \( I \).
+   - We know \( S_o : S_a = 5 : 7 \) and \( S_a : I = 4 : 5 \), and \( S_o = 120 \).
+
+   - From the ratio \( S_o : S_a = 5 : 7 \), we can express Salman's income in terms of Solaiman's as:
+     \[ S_a = \frac{7}{5} \times S_o \]
+     \[ S_a = \frac{7}{5} \times 120 = 168 \]
+
+   - Now, using the ratio \( S_a : I = 4 : 5 \), we express Ifsuf's income in terms of Salman's:
+     \[ I = \frac{5}{4} \times S_a \]
+     \[ I = \frac{5}{4} \times 168 = 210 \]
+
+3. **Conclusion:**
+   - Ifsuf's income is 210 taka.
+
+   **Answer: 210**"
+382,কোনো বিদ্যালয়ের ৫ম শ্রেণির মোট ৩০ জন শিক্ষার্থীর মধ্যে ১২ জন ছাত্রী। মোট শিক্ষার্থীর শতকরা কত জন ছাত্রী?,৪০,"### Problem Translation:
+In a certain school's 5th grade, there are a total of 30 students, among whom 12 are female students. What percentage of the total students are female students?
+
+### Solution:
+To find the percentage of female students, we need to calculate the ratio of female students to the total number of students and then multiply by 100 to get a percentage.
+
+The number of female students = 12  
+The total number of students = 30
+
+First, calculate the ratio:
+\[
+\text{Ratio of female students} = \frac{\text{Number of female students}}{\text{Total number of students}} = \frac{12}{30}
+\]
+
+Now, convert the ratio to a percentage by multiplying by 100:
+\[
+\text{Percentage of female students} = \left(\frac{12}{30}\right) \times 100\%
+\]
+
+Calculate the value:
+\[
+= 0.4 \times 100\%
+= 40\%
+\]
+
+**Answer: 40**"
+306,২ মিটার লম্বা বাঁশের দৈর্ঘ্যরে ৭৫ সে.মি.. দৈর্ঘ্যে লাল রং দিলাম। বাঁশের বাকি দৈর্ঘ্যে সাদা রং দিলাম। বাঁশের মোট দৈর্ঘ্য ও বাঁশে সাদা রং দেওয়া দৈর্ঘ্যের অনুপাত লিখি।,৮ঃ৫,"## Translation of the Problem:
+A bamboo stick is 2 meters long. We painted 75 cm of its length in red. The rest of the bamboo stick was painted in white. Write the ratio of the total length of the bamboo to the length painted in white.
+
+## Solution:
+1. First, convert the total length of the bamboo from meters to centimeters for consistency in units:  
+   \( 2 \text{ meters} = 200 \text{ centimeters} \).
+
+2. The length of the bamboo painted red is 75 cm. Therefore, the length painted white is:
+   \[
+   200 \text{ cm} - 75 \text{ cm} = 125 \text{ cm}.
+   \]
+
+3. We need to find the ratio of the total length of the bamboo to the length painted white:
+   \[
+   \text{Ratio} = \frac{\text{Total length of bamboo}}{\text{Length painted white}} = \frac{200 \text{ cm}}{125 \text{ cm}}.
+   \]
+
+4. Simplify the ratio:
+   \[
+   \frac{200}{125} = \frac{8}{5}.
+   \]
+
+Thus, the ratio of the total length of the bamboo to the length painted white is 8:5.
+
+**Answer: 8:5**"
+239,৫০ ও ১০০ -এর মধ্যবর্তী দু-জোড়া সংখ্যা খুঁজি যাদের গ.সা.গু ১৬ এবং যোগফল ১৪৪ মধ্যে বড় সংখ্যাটি কত?,৮০,"## Problem Translation
+
+Let's find two pairs of numbers between 50 and 100 whose greatest common divisor (GCD) is 16, and the sum of each pair is 144. What is the larger number in each pair?
+
+## Solution
+
+To solve this problem, follow these steps:
+
+1. **Understand the Properties**: 
+   - The two numbers, \(a\) and \(b\), have the following properties: 
+     - \(\text{GCD}(a, b) = 16\)
+     - \(a + b = 144\)
+
+2. **Assume the Numbers**: 
+   - Since GCD is 16, express \(a\) and \(b\) as multiples of 16:
+     - \(a = 16m\)
+     - \(b = 16n\)
+   - Thus, the equation becomes:
+     \[
+     16m + 16n = 144
+     \]
+
+3. **Simplify the Equation**:
+   - Divide the entire equation by 16:
+     \[
+     m + n = 9
+     \]
+
+4. **Find Integer Pairs (m, n)**:
+   - We need pairs \((m, n)\) such that \(m + n = 9\), where \(m\) and \(n\) are integers. The possible pairs are:
+     - \((1, 8)\)
+     - \((2, 7)\)
+     - \((3, 6)\)
+     - \((4, 5)\)
+
+5. **Calculate the Numbers \(a\) and \(b\)**:
+   - For \((1, 8)\):
+     - \(a = 16 \times 1 = 16\)
+     - \(b = 16 \times 8 = 128\) (128 is not between 50 and 100)
+   - For \((2, 7)\):
+     - \(a = 16 \times 2 = 32\)
+     - \(b = 16 \times 7 = 112\) (112 is not between 50 and 100)
+   - For \((3, 6)\):
+     - \(a = 16 \times 3 = 48\)
+     - \(b = 16 \times 6 = 96\) (Both 48 and 96; check the range: 96 is valid)
+   -"
+631,"দুইটি সংখ্যার যোগফল ১৬০ এবং একটি অপরটির তিনগুণ হলে,  বড় সংখ্যাটি নির্ণয় কর।",১২০,"### Translation of the Problem:
+The sum of two numbers is 160, and one is three times the other. Find the larger number.
+
+### Solution:
+
+Let's denote the two numbers as \( x \) and \( y \).
+
+According to the problem, we have the following two equations:
+1. \( x + y = 160 \)
+2. \( x = 3y \) (let's assume \( x \) is the larger number)
+
+Substitute the second equation into the first equation:
+\[ 3y + y = 160 \]
+\[ 4y = 160 \]
+
+Solving for \( y \):
+\[ y = \frac{160}{4} \]
+\[ y = 40 \]
+
+Now, substitute \( y = 40 \) back into the equation \( x = 3y \):
+\[ x = 3 \times 40 \]
+\[ x = 120 \]
+
+Therefore, the larger number is 120.
+
+**Answer: 120**"

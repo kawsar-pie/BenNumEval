@@ -1,0 +1,733 @@
+Q No.,Question,Answer,Model Response,Chat History
+45,তাহসান দোকান থেকে ডজন প্রতি ১২০ টাকা দিয়ে আড়াই ডজন ডিম নিয়ে বাসায় গেল। বাসায় গিয়ে সে দেখল ৩ টা ডিম নষ্ট। তবে তাহসানের কত টাকা ক্ষতি হল?,৩০,"জোন প্রতি টাকা দিয়ে ডজন ডিম নিয়ে বাসায় গেল。আবার তখন সে ৩টা ডিম নষ্ট হয় এভাবে:
+
+* জোন প্রতি টাকা সঠিকভাবে অরু ডজন পড়ছিল । আমার চুিশ দোকান থেকে গিয়ে নাপিত ।
+* বাসায় গিয়ে একটা ডিম অরণী হইন ।
+* আবার ডিমালয় তিনটা দরিদ্রক সিছু শোর গেল ।
+তাই আমার *শংকর দশ টাকা রিচায়* এভাবে *সহুলিঃ*
+
+* ডজন প্রতি ٹাকা এই নেবলমনী রিচাইল ।
+* তাহসান দোকান থেকে গলক ময়টাকা ডিমে পড়ত । তাহসান জোনটা ডিম খেলয় এই খরচশোনুলঙ্গ শেষ হল । আবার যদি তাহসান ডিমএ কুড়ি দীঁছায় যাক তাহলে একটা ভাজেম","model='mathstral' created_at='2025-02-14T18:09:44.952940492Z' done=True done_reason='length' total_duration=12457392369 load_duration=6720721 prompt_eval_count=493 prompt_eval_duration=114000000 eval_count=512 eval_duration=12335000000 message=Message(role='assistant', content='জোন প্রতি টাকা দিয়ে ডজন ডিম নিয়ে বাসায় গেল。আবার তখন সে ৩টা ডিম নষ্ট হয় এভাবে:\n\n* জোন প্রতি টাকা সঠিকভাবে অরু ডজন পড়ছিল । আমার চুিশ দোকান থেকে গিয়ে নাপিত ।\n* বাসায় গিয়ে একটা ডিম অরণী হইন ।\n* আবার ডিমালয় তিনটা দরিদ্রক সিছু শোর গেল ।\nতাই আমার *শংকর দশ টাকা রিচায়* এভাবে *সহুলিঃ*\n\n* ডজন প্রতি ٹাকা এই নেবলমনী রিচাইল ।\n* তাহসান দোকান থেকে গলক ময়টাকা ডিমে পড়ত । তাহসান জোনটা ডিম খেলয় এই খরচশোনুলঙ্গ শেষ হল । আবার যদি তাহসান ডিমএ কুড়ি দীঁছায় যাক তাহলে একটা ভাজেম', images=None, tool_calls=None)"
+319,"সনি ১৭ বছর বয়সে সনির জন্মদিনে একটি প্রতিষ্ঠানকে ৮ হাজার টাকা দান করা শুরু করে। গতকাল, সনি ৭১ বছর বয়সী হয়। এখন পর্যন্ত সনি কত হাজার টাকা দান করেছে?",৪৪০,"1. চলুঁ, আমি এপিপ সংগঠণতিল নীচে বলি: অংখ্যা হোই ১.
+3. গগীশা ডাইনি জাণাকার ইংলিশ ভাষাতিল অপেনজুম প্লট্ হাইগুলফ চিড়া: চূড়ান্ত গণনা:
+	* শুরুক গুলগিলা (অংবনি) প্দ হাজার টাকা চমথওয়া বা-শুরু শিকিং (বিধাইয়ন) পরতিও একটা চমোটা.
+	* ইবানে চলথতাটা সংগঠো; আ ইতোএ আজূন:
+1. সপসী, ইনি ইওটনি অনগিশা রংঘ গনীশা ষড়; মেসৌ রংদ্র কত-বহু দহণ শীলিতুচ কোনো ঢভা:
+					1. 'টে'প বিড়ই:
+ অংয় ষৌটসি: অসমলাশপা পৌছায় টো হাজার ভন্দুরত;
+				2. 'আইজি' 'এ'ক্যুয়েন্ট কুমপিল:
+	জিম নামী ঢংয়ে, ইমি","model='mathstral' created_at='2025-02-14T18:09:56.975883791Z' done=True done_reason='length' total_duration=12020422389 load_duration=9178768 prompt_eval_count=504 prompt_eval_duration=66000000 eval_count=512 eval_duration=11944000000 message=Message(role='assistant', content=""1. চলুঁ, আমি এপিপ সংগঠণতিল নীচে বলি: অংখ্যা হোই ১.\n3. গগীশা ডাইনি জাণাকার ইংলিশ ভাষাতিল অপেনজুম প্লট্ হাইগুলফ চিড়া: চূড়ান্ত গণনা:\n\t* শুরুক গুলগিলা (অংবনি) প্দ হাজার টাকা চমথওয়া বা-শুরু শিকিং (বিধাইয়ন) পরতিও একটা চমোটা.\n\t* ইবানে চলথতাটা সংগঠো; আ ইতোএ আজূন:\n1. সপসী, ইনি ইওটনি অনগিশা রংঘ গনীশা ষড়; মেসৌ রংদ্র কত-বহু দহণ শীলিতুচ কোনো ঢভা:\n\t\t\t\t\t1. 'টে'প বিড়ই:\n অংয় ষৌটসি: অসমলাশপা পৌছায় টো হাজার ভন্দুরত;\n\t\t\t\t2. 'আইজি' 'এ'ক্যুয়েন্ট কুমপিল:\n\tজিম নামী ঢংয়ে, ইমি"", images=None, tool_calls=None)"
+30,রফিক দোকান থেকে ডিম প্রতি ৭ টাকা করে সাড়ে চার ডজন ডিম নিয়ে বাসায় গেল। তবে রফিকের কত টাকা খরচ হল?,৩৭৮,"রফিক is buying a dozen eggs at 7 taka (Bangladeshi Currency) per egg which means he bought 48 eggs in total. Therefore, the total cost will be 48 x 7 = 336 taka. So the answer should be formulated as:
+
+""Answer: 336""","model='mathstral' created_at='2025-02-14T18:09:59.183830329Z' done=True done_reason='stop' total_duration=2205380065 load_duration=7572382 prompt_eval_count=446 prompt_eval_duration=50000000 eval_count=80 eval_duration=2146000000 message=Message(role='assistant', content='রফিক is buying a dozen eggs at 7 taka (Bangladeshi Currency) per egg which means he bought 48 eggs in total. Therefore, the total cost will be 48 x 7 = 336 taka. So the answer should be formulated as:\n\n""Answer: 336""', images=None, tool_calls=None)"
+325,তাসের ডেক থেকে ৪টি কালো কার্ড বের করা হয়েছে। অবশিষ্ট কালো কার্ডের সংখ্যা কত?,২২,"৫
+
+**জীবনী:**
+- এই প্রশ্নটি একটা # টাসো গেমের সংশ্লিষ্ট যেটুকু স্ট্রাইড হচ্ছে তার উপর, অনাবদ্ধ (Free) চীজ থেকে ইনভলভড (Involved) চীজ তোলা # টিনি.  
+- আজ আমরা সম্পর্কিত # অফিশ্যাল থ্যুইং# হয়েছি না তা বোড়োটাই জানায়.
+- লক্ষি, # ডর টাহ্ট (Dead) পরীক্ষায় ""৫""খালি # প্যাসিং করতে হবে এই আজ ছোটো অথবা মাঝারি শুধুমাত্র চীজপা, যদিও রুম মাঠে # যখন দক্ষতা থাকে একটু বিতর্ক, আভাএ (Able to) চেষ্টা করিব অনামলি আংশিকভাবে # উপস্থাপন করতে এই গয়েদ, যদি # ঘটনা পুচ্ছায়ো/ওই, আমি শুধুমাত্র # গয়েল (Gayle) না","model='mathstral' created_at='2025-02-14T18:10:10.901549259Z' done=True done_reason='length' total_duration=11715440373 load_duration=9039754 prompt_eval_count=419 prompt_eval_duration=49000000 eval_count=512 eval_duration=11655000000 message=Message(role='assistant', content='৫\n\n**জীবনী:**\n- এই প্রশ্নটি একটা # টাসো গেমের সংশ্লিষ্ট যেটুকু স্ট্রাইড হচ্ছে তার উপর, অনাবদ্ধ (Free) চীজ থেকে ইনভলভড (Involved) চীজ তোলা # টিনি.  \n- আজ আমরা সম্পর্কিত # অফিশ্যাল থ্যুইং# হয়েছি না তা বোড়োটাই জানায়.\n- লক্ষি, # ডর টাহ্ট (Dead) পরীক্ষায় ""৫""খালি # প্যাসিং করতে হবে এই আজ ছোটো অথবা মাঝারি শুধুমাত্র চীজপা, যদিও রুম মাঠে # যখন দক্ষতা থাকে একটু বিতর্ক, আভাএ (Able to) চেষ্টা করিব অনামলি আংশিকভাবে # উপস্থাপন করতে এই গয়েদ, যদি # ঘটনা পুচ্ছায়ো/ওই, আমি শুধুমাত্র # গয়েল (Gayle) না', images=None, tool_calls=None)"
+156,ব্রুকলিন প্রতি মাসে দাতব্য প্রতিষ্ঠানে ১৪৫৩ টাকা দান করে। এক বছরে তার মোট দানের হিসাব করুন।,১৭৪৩৬,"আপিন্ডিক্স 3
+
+নির্ণ়-
+অবশ্যই এ সংখ্যা 187,19 মাসজুল্লুলা দিতে হয়
+""**উত্তর: \boxed{১৮,৭য় ৩} - ইণ্ট. 3756/2**","model='mathstral' created_at='2025-02-14T18:10:13.975280959Z' done=True done_reason='stop' total_duration=3071350922 load_duration=7129628 prompt_eval_count=437 prompt_eval_duration=51000000 eval_count=121 eval_duration=3012000000 message=Message(role='assistant', content='আপিন্ডিক্স 3\n\nনির্ণ়-\nঅবশ্যই এ সংখ্যা 187,19 মাসজুল্লুলা দিতে হয়\n""**উত্তর: \\boxed{১৮,৭য় ৩} - ইণ্ট. 3756/2**', images=None, tool_calls=None)"
+20,আবির দোকান থেকে আড়াই ডজন ডিম নিয়ে বাসায় গেল। বাসায় গিয়ে সে দেখল ৩ টা ডিম নষ্ট। তবে আবিরের কাছে কয়টা ভাল ডিম আছে?,২৭,উত্তর: 5 টা,"model='mathstral' created_at='2025-02-14T18:10:14.912786431Z' done=True done_reason='stop' total_duration=935190952 load_duration=6996294 prompt_eval_count=468 prompt_eval_duration=64000000 eval_count=14 eval_duration=862000000 message=Message(role='assistant', content='উত্তর: 5 টা', images=None, tool_calls=None)"
+78,মিনা ৪ মিনিটে ২০০ মিটার হাঁটে। আধা ঘন্টায় সে কত মিটার হাটতে পারবে?,১৫০০,"মিনা ৪ মিনিটে ২০০ মিটাρো হাটবে আধা ভাল করতে হবে-
+
+উত্তর: 400
+
+The speed of Minna is given as:
+$$Minna = \frac{200}{4} = 50 meters/minute$$.
+
+Therefore, if Minna continues to walk at this speed for an additional 30 minutes:
+$$Total Distance = Speed \times Time$$
+$$= 50 times/minute \times 30 minutes$$
+$$= 1500 meters.$$
+ 
+Therefore, we have solved the problem and found out that Minna can walk a total of 1500 meters in half an hour at this constant speed.","model='mathstral' created_at='2025-02-14T18:10:19.770766478Z' done=True done_reason='stop' total_duration=4855680924 load_duration=7150560 prompt_eval_count=415 prompt_eval_duration=49000000 eval_count=204 eval_duration=4798000000 message=Message(role='assistant', content='মিনা ৪ মিনিটে ২০০ মিটাρো হাটবে আধা ভাল করতে হবে-\n\nউত্তর: 400\n\nThe speed of Minna is given as:\n$$Minna = \\frac{200}{4} = 50 meters/minute$$.\n\nTherefore, if Minna continues to walk at this speed for an additional 30 minutes:\n$$Total Distance = Speed \\times Time$$\n$$= 50 times/minute \\times 30 minutes$$\n$$= 1500 meters.$$\n \nTherefore, we have solved the problem and found out that Minna can walk a total of 1500 meters in half an hour at this constant speed.', images=None, tool_calls=None)"
+32,জামাল দোকান থেকে ডিম প্রতি ১০ টাকা করে সাড়ে ছয় হালি ডিম নিয়ে বাসায় গেল। তবে জামালের কত টাকা খরচ হল?,২৬০,শূন্য,"model='mathstral' created_at='2025-02-14T18:10:20.578136951Z' done=True done_reason='stop' total_duration=805039296 load_duration=6891682 prompt_eval_count=451 prompt_eval_duration=64000000 eval_count=8 eval_duration=733000000 message=Message(role='assistant', content='শূন্য', images=None, tool_calls=None)"
+240,একটি বর্ণমালা লিখতে আলেকজান্ডারের একটি কাগজের একটি শীট প্রয়োজন। স্বরবর্ণ গুলো লিখতে কয়টি কাগজের প্রয়োজন হয়?,১১,উত্তর: 3,"model='mathstral' created_at='2025-02-14T18:10:21.45170264Z' done=True done_reason='stop' total_duration=871238410 load_duration=9112630 prompt_eval_count=453 prompt_eval_duration=64000000 eval_count=11 eval_duration=797000000 message=Message(role='assistant', content='উত্তর: 3', images=None, tool_calls=None)"
+361,লেভি বোর্ডে প্রতিটি স্বরবর্ণ লিখেছিলেন। যদি প্রতিটি স্বরবর্ণ ৩ বার লেখা হয়। বোর্ডে মোট কতটি বর্ণমালা লেখা ছিল?,৩৩,"প্রতিটি স্বরবর্ণ যদিওই ৩ বার লিখেছিলেন, কিন্তু বর্ণমালা শীর্ষ আউটলাইন এর চেয়ে কম। বর্ণমালা গিম ৩ বারাক করেই অসমতপ্রমন্দ লোই সম.
+
+**আতরা**: [437]","model='mathstral' created_at='2025-02-14T18:10:25.515248036Z' done=True done_reason='stop' total_duration=4061254186 load_duration=6858309 prompt_eval_count=463 prompt_eval_duration=64000000 eval_count=160 eval_duration=3989000000 message=Message(role='assistant', content='প্রতিটি স্বরবর্ণ যদিওই ৩ বার লিখেছিলেন, কিন্তু বর্ণমালা শীর্ষ আউটলাইন এর চেয়ে কম। বর্ণমালা গিম ৩ বারাক করেই অসমতপ্রমন্দ লোই সম.\n\n**আতরা**: [437]', images=None, tool_calls=None)"
+26,রফিক দোকান থেকে ডিম প্রতি ১৪ টাকা করে আধা ডজন ডিম নিয়ে বাসায় গেল। বাসায় গিয়ে সে দেখল ৩ টা ডিম নষ্ট। তবে রফিকের কত টাকা খরচ হল?,৮৪,সমাধান: 28 টাকা,"model='mathstral' created_at='2025-02-14T18:10:26.552972406Z' done=True done_reason='stop' total_duration=1035131019 load_duration=8202888 prompt_eval_count=486 prompt_eval_duration=65000000 eval_count=18 eval_duration=960000000 message=Message(role='assistant', content='সমাধান: 28 টাকা', images=None, tool_calls=None)"
+185,"একটি গাড়ি পার্কিং লটে, গ্রেসন লক্ষ্য করেছেন যে ৪৮টি গাড়ির চাকা রয়েছে। পার্কিং লটে গাড়ির সংখ্যা কতটি?",১২,জবাব: 48,"model='mathstral' created_at='2025-02-14T18:10:27.381899025Z' done=True done_reason='stop' total_duration=826660894 load_duration=6898120 prompt_eval_count=448 prompt_eval_duration=64000000 eval_count=9 eval_duration=754000000 message=Message(role='assistant', content='জবাব: 48', images=None, tool_calls=None)"
+212,"একটি মেশিন ডালপালা কাটছে এবং আপেল প্রক্রিয়াজাত করছে। আমি যদি ৬ ঘন্টা পরে ২০৪টি ডালপালা দেখতে পাই, কতগুলি আপেল প্রক্রিয়াজাত করা হয়েছে?",২০৪,"এ বড় সমস্যাটার সমাধান করতে প্রথমে দুইটা ধারণা আমাকে ঠিক ভাবিতে উল্লেখ করতে হয়: পোলীশ ও ডাঙ্গার অংশ
+ইকাট বিচক্ষণ করতে পারি: এমন সক্ষম য়ে, নকশা ফর্ম হের সছয়
+
+আমরাই বাস্ট মেশনৌ ডাঙ্গা ডোষীও পোলিশ বিশুদ্ধ করত্:
+
+* পূর্ব অংশ: (6 * 15) = 90
+* মধ্য অংশ: ডাটা সক্ষম 48 ধনুপরের দণৌতুই 6 শতক ও থাকি
+* পার্লে-এক: (90 x 15) = 810 ধাম, আমরাদের চুইড় মনস্টুকুজী গ্যাঞ্জিশ্ম 3 ইন্ডিপেনডেন্টম হকৌটুই:
+* 100
+* [23 * (23 + [6 * 15])] x 9 = 4781
+* ([21 * 6 * 60] - 9) - x = 129 + x. আমি যদি ভলুল ","model='mathstral' created_at='2025-02-14T18:10:39.361608802Z' done=True done_reason='length' total_duration=11977429007 load_duration=8357585 prompt_eval_count=488 prompt_eval_duration=65000000 eval_count=512 eval_duration=11902000000 message=Message(role='assistant', content='এ বড় সমস্যাটার সমাধান করতে প্রথমে দুইটা ধারণা আমাকে ঠিক ভাবিতে উল্লেখ করতে হয়: পোলীশ ও ডাঙ্গার অংশ\nইকাট বিচক্ষণ করতে পারি: এমন সক্ষম য়ে, নকশা ফর্ম হের সছয়\n\nআমরাই বাস্ট মেশনৌ ডাঙ্গা ডোষীও পোলিশ বিশুদ্ধ করত্:\n\n* পূর্ব অংশ: (6 * 15) = 90\n* মধ্য অংশ: ডাটা সক্ষম 48 ধনুপরের দণৌতুই 6 শতক ও থাকি\n* পার্লে-এক: (90 x 15) = 810 ধাম, আমরাদের চুইড় মনস্টুকুজী গ্যাঞ্জিশ্ম 3 ইন্ডিপেনডেন্টম হকৌটুই:\n* 100\n* [23 * (23 + [6 * 15])] x 9 = 4781\n* ([21 * 6 * 60] - 9) - x = 129 + x. আমি যদি ভলুল ', images=None, tool_calls=None)"
+7,কপিরাইট সমস্যার কারণে এক ঘণ্টার মুভির ১৫ মিনিটের একটি দৃশ্য কাটা হয়েছে। সিনেমার চূড়ান্ত দৈর্ঘ্য কত (মিনিটের মধ্যে)?,৪৫,নী (উত্তর: 75),"model='mathstral' created_at='2025-02-14T18:10:40.353333583Z' done=True done_reason='stop' total_duration=989021737 load_duration=12724914 prompt_eval_count=471 prompt_eval_duration=66000000 eval_count=16 eval_duration=907000000 message=Message(role='assistant', content='নী (উত্তর: 75)', images=None, tool_calls=None)"
+105,একটি স্টিল মিলে এক মাসে ২৪০০০ মেট্রিকটন রড তৈরি হয়। ঐ মিলে দৈনিক কী পরিমাণ রড তৈরী হয়?,৮০০,"উত্তর: 625
+
+টালবর্ধীকরণ:
+1. প্রথমে, চারুখানার সার্দায় চলা উৎপাদন গুণাঙ্ক কাঁধে বিবেচ্য করা হয় এর- একটা মিগি মনে কী জিওডি, করোন,র পূর্তি সময় পুই, মানঃ পরচল ২.
+   শিলদ্য্ সঞ্জেরক ওয়লি ২/ গণৰেস খুব নারম, আট হাতে পড়া যোগী বজ্জি, শুকানো প্যাল এখানে পয়শনাই রোধ কাঁদড় মানঃ 6.  
+  
+2. বজ্জি চোগুলি, প্যাল-এর খরুষটেসিং ত্রিভুঞ্জ হৃদকগ্ধা এখানে অবক্ষয় কাইডো মনো, লেডাশেপর কলসও আভু-সঞ্জেরক- পরিং লৈভঃ 42 লব গডি,  
+   এই দোতি, ২, পাটস একজনে- পিটের ","model='mathstral' created_at='2025-02-14T18:10:52.108974143Z' done=True done_reason='length' total_duration=11753419911 load_duration=7046222 prompt_eval_count=444 prompt_eval_duration=51000000 eval_count=512 eval_duration=11694000000 message=Message(role='assistant', content='উত্তর: 625\n\nটালবর্ধীকরণ:\n1. প্রথমে, চারুখানার সার্দায় চলা উৎপাদন গুণাঙ্ক কাঁধে বিবেচ্য করা হয় এর- একটা মিগি মনে কী জিওডি, করোন,র পূর্তি সময় পুই, মানঃ পরচল ২.\n   শিলদ্য্ সঞ্জেরক ওয়লি ২/ গণৰেস খুব নারম, আট হাতে পড়া যোগী বজ্জি, শুকানো প্যাল এখানে পয়শনাই রোধ কাঁদড় মানঃ 6.  \n  \n2. বজ্জি চোগুলি, প্যাল-এর খরুষটেসিং ত্রিভুঞ্জ হৃদকগ্ধা এখানে অবক্ষয় কাইডো মনো, লেডাশেপর কলসও আভু-সঞ্জেরক- পরিং লৈভঃ 42 লব গডি,  \n   এই দোতি, ২, পাটস একজনে- পিটের ', images=None, tool_calls=None)"
+326,"মাসের শেষে, মেডেলিন তার মে মাসের খরচ হিসাব করছিলেন। তিনি দেখতে পান যে তিনি পিজ্জার জন্য মোট ৪৬৫ টাকা ব্যয় করেছেন। যদি ম্যাডেলিন প্রতিদিন সমান সংখ্যক পিজ্জা খায়, তবে সে প্রতিদিন কত টাকার পিজ্জা খায়?",১৫,উত্তর: 57.75,"model='mathstral' created_at='2025-02-14T18:10:53.105495683Z' done=True done_reason='stop' total_duration=993232520 load_duration=6938954 prompt_eval_count=555 prompt_eval_duration=69000000 eval_count=15 eval_duration=915000000 message=Message(role='assistant', content='উত্তর: 57.75', images=None, tool_calls=None)"
+82,"তিনটি ভিন্ন রং এর ঘণ্টা আছে। লাল রং এর ঘন্টা ১৮ মিনিট পরপর, হলুদ রং এর ঘণ্টা ১৫ মিনিট পরপর এবং সবুজ রং এর ঘন্টা ১২ মিনিট পরপর বাজে। ঘণ্টাগুলো সন্ধ্যা ৬টায় একসাথে বাজলে, রাত কয়টায় পুনরায় কখন একসাথে বাজবে ?",৯,"উইং: 21
+
+জি.C.D: 3","model='mathstral' created_at='2025-02-14T18:10:54.428062985Z' done=True done_reason='stop' total_duration=1320184310 load_duration=7660021 prompt_eval_count=583 prompt_eval_duration=87000000 eval_count=21 eval_duration=1224000000 message=Message(role='assistant', content='উইং: 21\n\nজি.C.D: 3', images=None, tool_calls=None)"
+307,অ্যাঞ্জেল বোর্ডে প্রতিটি ইংরেজী স্বরবর্ণ লিখেছিলেন। যদি প্রতিটি স্বরবর্ণ ৪ বার লেখা হয়। বোর্ডে মোট কতটি বর্ণমালা লেখা ছিল?,২০,"অ্যাঞ্জেল বোর্ডে ইংরেজী স্বরবর্ণের প্রতিটিটিকে 4 বার লিখা হয়েছিল।
+
+ইংরেজী ভাষায় 5 এলমেন্ট ইস এ ( এ, আই, ও, ইউ , ডব্লু ) এখানকার ষারিক হ শব্দ য়ত ৫
+
+যত প্রতিটিএলমেন্ট 4 ক্যানস্ট লিখা হবে
+
+৫ (বর্গুলি) * ৪(লিঙ্গুলি লিখা) = ২০
+
+আইডিও গানকার
+উত্বর ১-২৩. যেভাশাঞ 20","model='mathstral' created_at='2025-02-14T18:11:01.532828722Z' done=True done_reason='stop' total_duration=7102453288 load_duration=7006839 prompt_eval_count=477 prompt_eval_duration=66000000 eval_count=298 eval_duration=7028000000 message=Message(role='assistant', content='অ্যাঞ্জেল বোর্ডে ইংরেজী স্বরবর্ণের প্রতিটিটিকে 4 বার লিখা হয়েছিল।\n\nইংরেজী ভাষায় 5 এলমেন্ট ইস এ ( এ, আই, ও, ইউ , ডব্লু ) এখানকার ষারিক হ শব্দ য়ত ৫\n\nযত প্রতিটিএলমেন্ট 4 ক্যানস্ট লিখা হবে\n\n৫ (বর্গুলি) * ৪(লিঙ্গুলি লিখা) = ২০\n\nআইডিও গানকার\nউত্বর ১-২৩. যেভাশাঞ 20', images=None, tool_calls=None)"
+288,জামশেদের পকেটে তাস খেলার ৫০টি সম্পূর্ণ ডেক রয়েছে। তার মোট কয়টি ইস্কাবন আছে?,৬৫০,উত্তর: 50,"model='mathstral' created_at='2025-02-14T18:11:02.279419681Z' done=True done_reason='stop' total_duration=744059419 load_duration=9923032 prompt_eval_count=425 prompt_eval_duration=49000000 eval_count=12 eval_duration=683000000 message=Message(role='assistant', content='উত্তর: 50', images=None, tool_calls=None)"
+77,একটি কারখানায় ৫ দিনে ২৪৫০টি মোটরসাইকেল তৈরি হয়। ৪ সপ্তাহে ওই কারখানায় কতটি মোটরসাইকেল তৈরি হবে।,১৩৭২০,"জিজ্ঞাসা: ইএড়ুক, প্রতি দিন ডাকা চলয়ে আকস্বওই ১ হজামে খোতে থাকছই |","model='mathstral' created_at='2025-02-14T18:11:04.646969213Z' done=True done_reason='stop' total_duration=2365291679 load_duration=9123668 prompt_eval_count=456 prompt_eval_duration=64000000 eval_count=81 eval_duration=2291000000 message=Message(role='assistant', content='জিজ্ঞাসা: ইএড়ুক, প্রতি দিন ডাকা চলয়ে আকস্বওই ১ হজামে খোতে থাকছই |', images=None, tool_calls=None)"
+328,ভোর ৫টায় বোস্টন থেকে যাত্রা শুরু করে সন্ধ্যা ৮টায় শিকাগো পৌঁছাই। আমি কত ঘন্টা ভ্রমণ করেছি?,১৫,"আমি গাড়ি না চালা, যদিও মাটি দেখতে পাইন. কিন্তু হবো শমসাগর, হবো ভারী; আজকাজ ভোর ৫টায় শুরু হয়ে সন্ধ্যা ৮টার দিকে বড় শমোচর বোড়া মাটিতে, তবে ইংডু লোনা, জন ওলদিপ আর অন্যায়ক একগুচ্ছ ভূসমস্য, সন্ধ্যা ৯টা হবে মশ পৌঁছতে পর্যন্ত.","model='mathstral' created_at='2025-02-14T18:11:10.582187912Z' done=True done_reason='stop' total_duration=5932793933 load_duration=7024807 prompt_eval_count=446 prompt_eval_duration=50000000 eval_count=252 eval_duration=5874000000 message=Message(role='assistant', content='আমি গাড়ি না চালা, যদিও মাটি দেখতে পাইন. কিন্তু হবো শমসাগর, হবো ভারী; আজকাজ ভোর ৫টায় শুরু হয়ে সন্ধ্যা ৮টার দিকে বড় শমোচর বোড়া মাটিতে, তবে ইংডু লোনা, জন ওলদিপ আর অন্যায়ক একগুচ্ছ ভূসমস্য, সন্ধ্যা ৯টা হবে মশ পৌঁছতে পর্যন্ত.', images=None, tool_calls=None)"
+310,"অনিস প্রথমে বাংলা ব্যঞ্জনবর্ণ শেখার সাথে শুরু করে। অনিস যদি একটি বর্ণমালা শিখতে ৫ দিন সময় নেয়, তাহলে অনিসের সব ব্যঞ্জনবর্ণ শেখা শেষ করতে কতদিন লাগবে?",১৯৫,"আপনি এই প্রশ্ন সত্যিকারে শুধ্যভাবে অপসারণ ধরা হয়েছে, এমনকি পালচ্যূত উইঙ্গিংয়েও এমনটা ভোঁসাখা ধরা হয়েছে।
+
+# পরীক্ষা: ""বয়েজ"" এর কাজ করলে ""গণিত"" ভাল করছেন?","model='mathstral' created_at='2025-02-14T18:11:15.232883577Z' done=True done_reason='stop' total_duration=4647815360 load_duration=9085196 prompt_eval_count=507 prompt_eval_duration=66000000 eval_count=185 eval_duration=4571000000 message=Message(role='assistant', content='আপনি এই প্রশ্ন সত্যিকারে শুধ্যভাবে অপসারণ ধরা হয়েছে, এমনকি পালচ্যূত উইঙ্গিংয়েও এমনটা ভোঁসাখা ধরা হয়েছে।\n\n# পরীক্ষা: ""বয়েজ"" এর কাজ করলে ""গণিত"" ভাল করছেন?', images=None, tool_calls=None)"
+221,"ওয়েন একজন ডাক্তার, যিনি ৩:২৮ টায় অপারেশন থিয়েটারে গিয়েছিলেন ৩ ঘন্টা দীর্ঘ অপারেশন করতে। ওয়েনের বোন ওয়েনের সাথে দেখা করতে এসেছিল ৫:৩৬ টায়, ওয়েনের সাথে দেখা করার জন্য তাকে কত মিনিট অপেক্ষা করতে হয়েছিল?",৫২,উত্তর: 68,"model='mathstral' created_at='2025-02-14T18:11:16.3648712Z' done=True done_reason='stop' total_duration=1129645248 load_duration=7360644 prompt_eval_count=584 prompt_eval_duration=89000000 eval_count=12 eval_duration=1031000000 message=Message(role='assistant', content='উত্তর: 68', images=None, tool_calls=None)"
+23,রফিক দোকান থেকে ডজন প্রতি ১৪৪ টাকা দিয়ে আড়াই ডজন ডিম নিয়ে বাসায় গেল। বাসায় গিয়ে সে দেখল ৪ টা ডিম নষ্ট। তবে রফিকের কত টাকা খরচ হল?,৩৬০,উত্তর: 160,"model='mathstral' created_at='2025-02-14T18:11:17.298712649Z' done=True done_reason='stop' total_duration=930523409 load_duration=9005166 prompt_eval_count=493 prompt_eval_duration=67000000 eval_count=13 eval_duration=853000000 message=Message(role='assistant', content='উত্তর: 160', images=None, tool_calls=None)"
+366,"জোসেফ ভেগাসে বেড়াতে যাচ্ছে। যেহেতু পোকার এবং অন্যান্য তাসের খেলা আজকাল জনপ্রিয় হয়ে উঠেছে, জোসেফ যাত্রার জন্য ৪টি তাসের ডেক রাখার সিদ্ধান্ত নিয়েছে। তার মোট কতটি কার্ড আছে?",২০৮,"উত্তর: 52
+বিবরণ: খাঁচায় 4টি তাস থাকলে, প্রতি তাসে 13টি কার্ড থাকে (যেহেতু একটি পশ্চিমী ডেক এর কাজ তাই)। তাই, 52টি কার্ড আছে。","model='mathstral' created_at='2025-02-14T18:11:20.966375113Z' done=True done_reason='stop' total_duration=3665375474 load_duration=6968245 prompt_eval_count=532 prompt_eval_duration=67000000 eval_count=139 eval_duration=3589000000 message=Message(role='assistant', content='উত্তর: 52\nবিবরণ: খাঁচায় 4টি তাস থাকলে, প্রতি তাসে 13টি কার্ড থাকে (যেহেতু একটি পশ্চিমী ডেক এর কাজ তাই)। তাই, 52টি কার্ড আছে。', images=None, tool_calls=None)"
+119,"পার্কার প্রতিদিন ৮ ঘন্টা ঘুমায়। আজ যদি তিনি সকাল ৯টায় ঘুম থেকে ওঠেন, তাহলে কতক্ষণে তিনি ঘুমোতেন?",১০,উত্তর: ২৯ ঘন্টা,"model='mathstral' created_at='2025-02-14T18:11:22.116750199Z' done=True done_reason='stop' total_duration=1147989911 load_duration=7121925 prompt_eval_count=452 prompt_eval_duration=64000000 eval_count=24 eval_duration=1075000000 message=Message(role='assistant', content='উত্তর: ২৯ ঘন্টা', images=None, tool_calls=None)"
+349,যদি একটি বর্গক্ষেত্রের প্রতিটি পাশে বেড়া দিতে খরচ হয় ৬৯ টাকা। বেড়ায় মোট কত খরচ হয় বের কর।,২৭৬,"যদি একটি বর্গক্ষেত্রের প্রতিটি পাশে বেড়া দিতে খরচ হয় ৬৯ টাকা, ভোজনঃ
+- একটি বর্গক্ষেত্রে প্রত্যেকটি উপাংশ (গুপ্ত ভূগল) খরচ হয় ৯/২ টাকা।
+- এইভাবে, মোলঃ খরচ (দীর্ঘসংখ্যা)
+
+নতুবা (কোড তথ্য):
+- ৯/২ = ৪.৫ টাকা : একটি পরবর্তী খেলা জন্য
+**অতঃপর, এটি ৪.৫ * 4 = 18 টাকা: মোল (দীর্ঘসংখ্যা)ঃ বগক**
+
+**১খানুতে:** সমাধাণ: [1020][দ্বিভাষী: 'বেড়ি' (ভারগ্য়ত) লুপ চালনা 4] যথাক্রমে; `ক-একটি চতুর্থ বর্ষি হয় ছদ্য, ""২(2),৩ (3)`[ জাণ; 4-পর্যন্ত] [সমাধাণ: লুপ; ` এক,2 ( [,3], 3 ]","model='mathstral' created_at='2025-02-14T18:11:33.869493939Z' done=True done_reason='length' total_duration=11750367052 load_duration=7196199 prompt_eval_count=438 prompt_eval_duration=50000000 eval_count=512 eval_duration=11691000000 message=Message(role='assistant', content='যদি একটি বর্গক্ষেত্রের প্রতিটি পাশে বেড়া দিতে খরচ হয় ৬৯ টাকা, ভোজনঃ\n- একটি বর্গক্ষেত্রে প্রত্যেকটি উপাংশ (গুপ্ত ভূগল) খরচ হয় ৯/২ টাকা।\n- এইভাবে, মোলঃ খরচ (দীর্ঘসংখ্যা)\n\nনতুবা (কোড তথ্য):\n- ৯/২ = ৪.৫ টাকা : একটি পরবর্তী খেলা জন্য\n**অতঃপর, এটি ৪.৫ * 4 = 18 টাকা: মোল (দীর্ঘসংখ্যা)ঃ বগক**\n\n**১খানুতে:** সমাধাণ: [1020][দ্বিভাষী: \'বেড়ি\' (ভারগ্য়ত) লুপ চালনা 4] যথাক্রমে; `ক-একটি চতুর্থ বর্ষি হয় ছদ্য, ""২(2),৩ (3)`[ জাণ; 4-পর্যন্ত] [সমাধাণ: লুপ; ` এক,2 ( [,3], 3 ]', images=None, tool_calls=None)"
+377,অ্যামেলিয়া ৬টি অভিন্ন ঘনকাকৃতির বস্তুর সমস্ত বাইরের তল এঁকেছেন। অ্যামেলিয়ার আঁকা তলের মোট সংখ্যা কত?,৩৬,"তৈরিকৃত তলসমূহ এর বিচ্ছেদ ভুমি 16টি সমক্ষর ন্যূনতম পৃ:
+
+""উত্তর: 16""","model='mathstral' created_at='2025-02-14T18:11:36.258765643Z' done=True done_reason='stop' total_duration=2386609635 load_duration=7056743 prompt_eval_count=450 prompt_eval_duration=64000000 eval_count=82 eval_duration=2314000000 message=Message(role='assistant', content='তৈরিকৃত তলসমূহ এর বিচ্ছেদ ভুমি 16টি সমক্ষর ন্যূনতম পৃ:\n\n""উত্তর: 16""', images=None, tool_calls=None)"
+116,জেডেন তার ছেলেকে বলে যে আকাশে মোট ১২ টি পাখির ডানা থাকলে সেখানে কতটি পাখি থাকা উচিত?,৬,"আপনি বুঝলেন এই জীশ্মূনোটি ঠভরা-সঙ্গতে **দাল ডানা** (Feathers).
+
+# মাইকো রপ্পাল হামুটিগা দয়
+
+# আপনি ভেবে জানেন:
+```java
+import math;
+import java.util.*
+int total_bird=12;
+int feathers_per_bird = total_bird/2;
+int birds_in_sky=total_bird-feathers_per_bird;
+Math.round(birds_in_sky+0.5);
+```
+**Out: [6]**","model='mathstral' created_at='2025-02-14T18:11:40.891714117Z' done=True done_reason='stop' total_duration=4630678941 load_duration=6654454 prompt_eval_count=436 prompt_eval_duration=51000000 eval_count=193 eval_duration=4572000000 message=Message(role='assistant', content='আপনি বুঝলেন এই জীশ্মূনোটি ঠভরা-সঙ্গতে **দাল ডানা** (Feathers).\n\n# মাইকো রপ্পাল হামুটিগা দয়\n\n# আপনি ভেবে জানেন:\n```java\nimport math;\nimport java.util.*\nint total_bird=12;\nint feathers_per_bird = total_bird/2;\nint birds_in_sky=total_bird-feathers_per_bird;\nMath.round(birds_in_sky+0.5);\n```\n**Out: [6]**', images=None, tool_calls=None)"
+133,"মাস শেষে সাদি তার এপ্রিল মাসের খরচ হিসাব করছিলেন। তিনি দেখতে পান যে তিনি বার্গারের জন্য মোট ৪২০ টাকা ব্যয় করেছেন। যদি সাদি প্রতিদিন সমান সংখ্যক বার্গার খায়, তবে সে প্রতিদিন কত টাকার বার্গার খায়?",১৪,উত্তর: [60],"model='mathstral' created_at='2025-02-14T18:11:41.848390396Z' done=True done_reason='stop' total_duration=954168081 load_duration=9038028 prompt_eval_count=552 prompt_eval_duration=68000000 eval_count=13 eval_duration=876000000 message=Message(role='assistant', content='উত্তর: [60]', images=None, tool_calls=None)"
+233,"পূর্ব উপকূল থেকে পশ্চিম উপকূলে একটি ৩২ ঘন্টা ট্রেন আছে। ট্রেনটি যদি শনিবার পূর্ব উপকূল থেকে খুব ভোরে যাত্রা শুরু করে, তাহলে কোন দিন গন্তব্যে পৌঁছাবে?",রবিবার,"ট্রেনটি শনিবার
+ভোমাই দিয়ে পূর্ব উপকূল থেকে
+চল শুরু করে,ট্রেনটি
+সাত দিন সংগামকারী হয়,
+ট্রেনটি ছয় দিন ব্যতীৎ দিন
+পৌঁছাবে।
+
+**আস্য ৬**","model='mathstral' created_at='2025-02-14T18:11:45.823266199Z' done=True done_reason='stop' total_duration=3972020866 load_duration=9177840 prompt_eval_count=519 prompt_eval_duration=67000000 eval_count=153 eval_duration=3894000000 message=Message(role='assistant', content='ট্রেনটি শনিবার\nভোমাই দিয়ে পূর্ব উপকূল থেকে\nচল শুরু করে,ট্রেনটি\nসাত দিন সংগামকারী হয়,\nট্রেনটি ছয় দিন ব্যতীৎ দিন\nপৌঁছাবে।\n\n**আস্য ৬**', images=None, tool_calls=None)"
+404,"মাসের শেষের দিকে, ক্লেয়ার মার্চের তার খরচ হিসাব করছিলেন। তিনি দেখতে পান যে তিনি ভাত খেতে মোট ৩৪১ টাকা ব্যয় করেছেন। তিনি প্রতিদিন কত টাকার ভাত খেয়েছিলেন?",১১,উত্তর: 10 টাকা,"model='mathstral' created_at='2025-02-14T18:11:46.839176245Z' done=True done_reason='stop' total_duration=1013529387 load_duration=7154684 prompt_eval_count=510 prompt_eval_duration=67000000 eval_count=17 eval_duration=938000000 message=Message(role='assistant', content='উত্তর: 10 টাকা', images=None, tool_calls=None)"
+49,তাহসান দোকান থেকে ১৩২ টাকা দিয়ে এক ডজন ডিম নিয়ে বাসায় গেল। বাসায় গিয়ে সে দেখল ৩ টা ডিম নষ্ট। তবে তাহসানের কত টাকা ক্ষতি হল?,৩৩,"এই প্রশ্নটি গুরুত্বপূর্ণ কারণ এটি আমাদের যখন একটি অপসারণ পেতে হয় (যেমন, বেশি ক্ষতি করে) বা জোর হচ্ছে তাদের যদি আরো খুলতে অক্ষম হবে তবে এটি গুরুত্বপূর্ণ নয় (উঠা পেতে চাই আর শীঘ্র লাঞ্ছনের আকৃতি)।
+
+# সু, এখন ইকো যাবে তথাপি অন্যদন্দিং এ নেপটিজ পেছন ডারং তৈল সামঞ জমৌক আবার হুরী পোশে তুমি কর, এম (1 টা)","model='mathstral' created_at='2025-02-14T18:11:54.895525168Z' done=True done_reason='stop' total_duration=8054049692 load_duration=6933159 prompt_eval_count=479 prompt_eval_duration=66000000 eval_count=340 eval_duration=7979000000 message=Message(role='assistant', content='এই প্রশ্নটি গুরুত্বপূর্ণ কারণ এটি আমাদের যখন একটি অপসারণ পেতে হয় (যেমন, বেশি ক্ষতি করে) বা জোর হচ্ছে তাদের যদি আরো খুলতে অক্ষম হবে তবে এটি গুরুত্বপূর্ণ নয় (উঠা পেতে চাই আর শীঘ্র লাঞ্ছনের আকৃতি)।\n\n# সু, এখন ইকো যাবে তথাপি অন্যদন্দিং এ নেপটিজ পেছন ডারং তৈল সামঞ জমৌক আবার হুরী পোশে তুমি কর, এম (1 টা)', images=None, tool_calls=None)"
+186,আইজ্যাক একটি নিবন্ধ পড়ছেন যা বলছে প্রতি শতাব্দীতে তাপমাত্রা ৪ ইউনিট বাড়ছে। ১৬০০ বছরে তাপমাত্রার কী পরিবর্তন হবে?,৬৪,"জোয়াগুলি 100 তবে জি যাদের গড় 75 এ টার্মিনে ইনকি লিং তাকাও 400,000 0000) 1,000 ৭৬ (আধুনিক ভাষীক/মায়া দেনস), টাশ কতোনির জীত -303(16 - 92) +(-85.437). সহাবস ২(1 1,44,569 ছাও) এইগুলি দেনোকের T1 170)
+
+**উত্তর: $\boxed{291}$**","model='mathstral' created_at='2025-02-14T18:12:00.361440524Z' done=True done_reason='stop' total_duration=5463574398 load_duration=6858819 prompt_eval_count=470 prompt_eval_duration=64000000 eval_count=224 eval_duration=5391000000 message=Message(role='assistant', content='জোয়াগুলি 100 তবে জি যাদের গড় 75 এ টার্মিনে ইনকি লিং তাকাও 400,000 0000) 1,000 ৭৬ (আধুনিক ভাষীক/মায়া দেনস), টাশ কতোনির জীত -303(16 - 92) +(-85.437). সহাবস ২(1 1,44,569 ছাও) এইগুলি দেনোকের T1 170)\n\n**উত্তর: $\\boxed{291}$**', images=None, tool_calls=None)"
+318,"ভিক্টোরিয়া একটি প্রদর্শনীতে রাখা সমস্ত বাণিজ্যিক বিমানের ডানা গণনা করেছিল। মোট ডানা ৫০টি হলে, কতটি প্লেন ছিল?",২৫,সাধারণ যোগজীকরণ ২-১,"model='mathstral' created_at='2025-02-14T18:12:01.639965425Z' done=True done_reason='stop' total_duration=1276166600 load_duration=9051567 prompt_eval_count=458 prompt_eval_duration=64000000 eval_count=30 eval_duration=1202000000 message=Message(role='assistant', content='সাধারণ যোগজীকরণ ২-১', images=None, tool_calls=None)"
+1,করিম একজন ১৪ বছরের ছেলে। তার দুটি হাতে মোট কতটি আঙুল?,১০,"উত্তর: 10
+
+শর্তগুলিও অবশ্যই রেখাদী চুক্তিধারীদ্বারা গঠন করা হবে বা ""উত্তর: ""পরবর্তীকালে,
+
+"" [দাম/সংখ্যা]"" সদূষ ""","model='mathstral' created_at='2025-02-14T18:12:04.781678657Z' done=True done_reason='stop' total_duration=3139475222 load_duration=6881798 prompt_eval_count=397 prompt_eval_duration=49000000 eval_count=125 eval_duration=3082000000 message=Message(role='assistant', content='উত্তর: 10\n\nশর্তগুলিও অবশ্যই রেখাদী চুক্তিধারীদ্বারা গঠন করা হবে বা ""উত্তর: ""পরবর্তীকালে,\n\n"" [দাম/সংখ্যা]"" সদূষ ""', images=None, tool_calls=None)"
+211,একটি চকলেটের দাম ২ টাকা। ক্রিসমাসের সময় খরচ মূল্যে ৫৭ পয়সার ছাড় ছিল। চকোলেটের মূল্য কত টাকা?,১.৪৩,"গাণিতিক আবহাওয়া এখানে দীর্ঘসময় পরোয় ফটিং প্লাটফার্মগুলি তেজিয়ে উন্নতি করা হচ্ছে, বেশন্য সিলকা-স্টোকডিং হোগুলি প্রভৃতীসিলকাগুলনি, এই জেঁতাল সিলকা মত রিওয়াগীবনুদন্নিশহোগুলির অপারেশন ৩শী
+
+আদরাকেসেঙ্গ মবনি এই সংকটের ফলসত্য, কামীশাখা-সময়ের পরোগুলা দেখত হোগুল ইতো-কতই নির্নয়া -ফুঁশিবেৎ চী, তারপরোও যাকে মংলিধ তাহার সামনী ইএর তাল্লিখৌঁভ দক্ষীণামই, ধরমাফুব এই পিশু, সময়-চ্যালেঞ্জে বনধ্য-ঈভ, ইতো আরত ২-ট-চিহু গাণিতিক-পরিশোধ শক্সু
+
+উত্তর: [14]","model='mathstral' created_at='2025-02-14T18:12:16.533661995Z' done=True done_reason='stop' total_duration=11749688933 load_duration=9071815 prompt_eval_count=446 prompt_eval_duration=51000000 eval_count=512 eval_duration=11688000000 message=Message(role='assistant', content='গাণিতিক আবহাওয়া এখানে দীর্ঘসময় পরোয় ফটিং প্লাটফার্মগুলি তেজিয়ে উন্নতি করা হচ্ছে, বেশন্য সিলকা-স্টোকডিং হোগুলি প্রভৃতীসিলকাগুলনি, এই জেঁতাল সিলকা মত রিওয়াগীবনুদন্নিশহোগুলির অপারেশন ৩শী\n\nআদরাকেসেঙ্গ মবনি এই সংকটের ফলসত্য, কামীশাখা-সময়ের পরোগুলা দেখত হোগুল ইতো-কতই নির্নয়া -ফুঁশিবেৎ চী, তারপরোও যাকে মংলিধ তাহার সামনী ইএর তাল্লিখৌঁভ দক্ষীণামই, ধরমাফুব এই পিশু, সময়-চ্যালেঞ্জে বনধ্য-ঈভ, ইতো আরত ২-ট-চিহু গাণিতিক-পরিশোধ শক্সু\n\nউত্তর: [14]', images=None, tool_calls=None)"
+197,ইথানের একটি কাজ আছে যা তাকে প্রতি ঘন্টায় ১৮ টাকা দেয়। তিনি দিনে ৮ ঘন্টা এবং সপ্তাহে ৫ দিন কাজ করেন। ৫ সপ্তাহে ইথান কত পাবে?,৩৬০০,"ভাল, আমাদের আগামধ্যকার জন্য লেইন ক্যাংকিংহক দুমীংত উকো কটঃ","model='mathstral' created_at='2025-02-14T18:12:18.568582208Z' done=True done_reason='stop' total_duration=2032636646 load_duration=6832885 prompt_eval_count=479 prompt_eval_duration=65000000 eval_count=65 eval_duration=1959000000 message=Message(role='assistant', content='ভাল, আমাদের আগামধ্যকার জন্য লেইন ক্যাংকিংহক দুমীংত উকো কটঃ', images=None, tool_calls=None)"
+38,রফিক দোকান থেকে ডিম প্রতি ১০ টাকা করে সাড়ে ছয় ডজন ডিম নিয়ে বাসায় গেল। তবে রফিকের কত টাকা খরচ হল?,৭৮০,"জোয়ার
+---
+## প্রশ্ন: রফীক দুকান থেকে ডিম প্রতি ১০ টাকা কালে ষাট ডোজন ডিম লা দুলা হাতী বাসায়. সেখানে রফী'র মাথা গুঁজ হল?
+
+## সমাধা: পিটি ভক্ত, জোয়ার জন্য **বাংলা ** দুকতে হবে ( ইংরেজিতে সঠীকভাবে সমস্যাটি প্রশ্ণ).","model='mathstral' created_at='2025-02-14T18:12:24.081094538Z' done=True done_reason='stop' total_duration=5510321156 load_duration=7050452 prompt_eval_count=452 prompt_eval_duration=65000000 eval_count=227 eval_duration=5437000000 message=Message(role='assistant', content=""জোয়ার\n---\n## প্রশ্ন: রফীক দুকান থেকে ডিম প্রতি ১০ টাকা কালে ষাট ডোজন ডিম লা দুলা হাতী বাসায়. সেখানে রফী'র মাথা গুঁজ হল?\n\n## সমাধা: পিটি ভক্ত, জোয়ার জন্য **বাংলা ** দুকতে হবে ( ইংরেজিতে সঠীকভাবে সমস্যাটি প্রশ্ণ)."", images=None, tool_calls=None)"
+89,(২ ঘণ্টা ৪৫ মিনিট ) + ( ১ ঘণ্টা ৫২ মিনিট ) = কত মিনিট?,২৭৭,"1. Convert the hours into minutes for both durations given. There are 60 minutes in an hour.
+   
+   \[
+   \text{2 hours 45 minutes} = (2 \times 60) + 45 = 120 + 45 = 165 \text{ minutes}
+   \]
+   
+   \[
+   \text{1 hour 52 minutes} = (1 \times 60) + 52 = 60 + 52 = 112 \text{ minutes}
+   \]
+
+2. Add the duration in minutes:
+  
+   \[
+   165 \text{ minutes} + 112 \text{ minutes} \, = \, 277 \text{ minutes} 
+   \]
+
+3. Therefore, the final answer is:
+
+   \[
+   \boxed{উত্তর: 277}
+   \]","model='mathstral' created_at='2025-02-14T18:12:29.160935237Z' done=True done_reason='stop' total_duration=5077446322 load_duration=6892943 prompt_eval_count=402 prompt_eval_duration=49000000 eval_count=215 eval_duration=5020000000 message=Message(role='assistant', content='1. Convert the hours into minutes for both durations given. There are 60 minutes in an hour.\n   \n   \\[\n   \\text{2 hours 45 minutes} = (2 \\times 60) + 45 = 120 + 45 = 165 \\text{ minutes}\n   \\]\n   \n   \\[\n   \\text{1 hour 52 minutes} = (1 \\times 60) + 52 = 60 + 52 = 112 \\text{ minutes}\n   \\]\n\n2. Add the duration in minutes:\n  \n   \\[\n   165 \\text{ minutes} + 112 \\text{ minutes} \\, = \\, 277 \\text{ minutes} \n   \\]\n\n3. Therefore, the final answer is:\n\n   \\[\n   \\boxed{উত্তর: 277}\n   \\]', images=None, tool_calls=None)"
+83,আজ আমি সকাল ১০ঃ২০ টায় এ স্কুলে যাব বলে বাড়ি থেকে বের হয়েছি। বিকাল ৪ঃ২০ টায় এ বাড়ি ফিরে এলাম। আজ আমি কত ঘন্টা বাড়ির বাহিরে ছিলাম হিসাব করি।,৬,"পুরনো চেষ্টার গতভাবে, এই সংখ্যা এড়াতে, আমরা শুক্রবার ভোর 7:30 টায় (পঞ্চমী) এর জন্য কিছুটা পরিকল্পনা আইদাখান করিয়া থাকতো, কিন্তু চল চল গলদ।
+
+আজ আমাকে এডওয়ার্ড বাংলো খোলাটা ষমঠাই ১২:১৫-১৬:৩৯ টা জনগণের জন্য পাবছি, তোমার কাজবী একটু কড়া প্রয়োজ।
+
+আমস্ত
+
+# উত্তর: 18
+শুভেচCHARA
+# দূত: [Dutta]","model='mathstral' created_at='2025-02-14T18:12:36.967234308Z' done=True done_reason='stop' total_duration=7803494680 load_duration=9075976 prompt_eval_count=512 prompt_eval_duration=66000000 eval_count=327 eval_duration=7727000000 message=Message(role='assistant', content='পুরনো চেষ্টার গতভাবে, এই সংখ্যা এড়াতে, আমরা শুক্রবার ভোর 7:30 টায় (পঞ্চমী) এর জন্য কিছুটা পরিকল্পনা আইদাখান করিয়া থাকতো, কিন্তু চল চল গলদ।\n\nআজ আমাকে এডওয়ার্ড বাংলো খোলাটা ষমঠাই ১২:১৫-১৬:৩৯ টা জনগণের জন্য পাবছি, তোমার কাজবী একটু কড়া প্রয়োজ।\n\nআমস্ত\n\n# উত্তর: 18\nশুভেচCHARA\n# দূত: [Dutta]', images=None, tool_calls=None)"
+190,একটি খামারে ৮টি পশু রয়েছে। কেউ হাঁস আবার কেউ কুকুর। মোট প্রাণীদের ২৪টি পা রয়েছে। হাঁসের সংখ্যা কত?,৪,"উত্তর: 4
+
+This problem requires a little bit of logical thinking. Let's denote the number of chickens as C and the number of dogs as D. We know that these are the only two types of animals in the farm, so we can say that C + D = 8. Each chicken has 2 legs and each dog has 4 legs. So, the total number of legs is C * 2 + D * 4 = 24.
+
+We need to solve these equations simultaneously. First, let's simplify the second equation to get an expression for one variable in terms of the other: C * 2 + D * 4 = 24 => C * 2 = 24 - D * 4.
+
+Substitute this into the first equation: (24 - D * 4)/2 + D = 8 => 12 - 2D + D = 8 => D = 4.
+
+So, there are 4 dogs in total. Since the total number of animals is 8, that means there are also 4 chickens.
+
+**Final Answer: উত্তর: 4**","model='mathstral' created_at='2025-02-14T18:12:43.240874553Z' done=True done_reason='stop' total_duration=6271092206 load_duration=6955357 prompt_eval_count=458 prompt_eval_duration=64000000 eval_count=261 eval_duration=6199000000 message=Message(role='assistant', content=""উত্তর: 4\n\nThis problem requires a little bit of logical thinking. Let's denote the number of chickens as C and the number of dogs as D. We know that these are the only two types of animals in the farm, so we can say that C + D = 8. Each chicken has 2 legs and each dog has 4 legs. So, the total number of legs is C * 2 + D * 4 = 24.\n\nWe need to solve these equations simultaneously. First, let's simplify the second equation to get an expression for one variable in terms of the other: C * 2 + D * 4 = 24 => C * 2 = 24 - D * 4.\n\nSubstitute this into the first equation: (24 - D * 4)/2 + D = 8 => 12 - 2D + D = 8 => D = 4.\n\nSo, there are 4 dogs in total. Since the total number of animals is 8, that means there are also 4 chickens.\n\n**Final Answer: উত্তর: 4**"", images=None, tool_calls=None)"
+276,রহিমের তাস খেলার ৩টি সম্পূর্ণ ডেক রয়েছে। তার মোট কয়টি টেক্কা আছে?,১২,"এই সমস্যাটি অন্বেষণ করতে, আপনি তাহা জিজ্ঞাসুল্লা আমাকে কিভাবে রহোমির ডেক তাহা যাহা লগেছ? ডেক অবশষ্য তৈতও দেখেছ, এটী সুন্দর; আর মি হ'ই অনুরোধ কনফাইউড য়চ কাউন্ট ডেতৌন এড ক্যারড বট সাথে ১টী ভিল মোজ এভয়া ২৬৮,  আর হ'ই দাখিল হত ইত প্রশ্ন ফাঁস, বাংলা :
+# শুবলবিনীতে,
+আপনাকে চায় ট্যানচ সমস্যাটি.
+
+ট্যানচ : # যদি রহিমের ডেক এ মোট সব কাইজ  একশে কাঠল্লা এক প্রিশ তাহু টন
+
+আর তো,  যতো সভুজড় টোলুয়া ১ম হয়. ুজীট এজে কততো ব দেশটি; আর
+তাহু গত ডেট যেজস্যতো "" প্রিশ ; বাংলা : এক রিভ","model='mathstral' created_at='2025-02-14T18:12:54.932677393Z' done=True done_reason='length' total_duration=11689462383 load_duration=7014936 prompt_eval_count=413 prompt_eval_duration=48000000 eval_count=512 eval_duration=11632000000 message=Message(role='assistant', content='এই সমস্যাটি অন্বেষণ করতে, আপনি তাহা জিজ্ঞাসুল্লা আমাকে কিভাবে রহোমির ডেক তাহা যাহা লগেছ? ডেক অবশষ্য তৈতও দেখেছ, এটী সুন্দর; আর মি হ\'ই অনুরোধ কনফাইউড য়চ কাউন্ট ডেতৌন এড ক্যারড বট সাথে ১টী ভিল মোজ এভয়া ২৬৮,  আর হ\'ই দাখিল হত ইত প্রশ্ন ফাঁস, বাংলা :\n# শুবলবিনীতে,\nআপনাকে চায় ট্যানচ সমস্যাটি.\n\nট্যানচ : # যদি রহিমের ডেক এ মোট সব কাইজ  একশে কাঠল্লা এক প্রিশ তাহু টন\n\nআর তো,  যতো সভুজড় টোলুয়া ১ম হয়. ুজীট এজে কততো ব দেশটি; আর\nতাহু গত ডেট যেজস্যতো "" প্রিশ ; বাংলা : এক রিভ', images=None, tool_calls=None)"
+258,কুপার এবং অড্রে তিন ঘন্টার মুভি দেখতে শুরু করলেন। তারা ঠিক মাঝপথে সিনেমাটি বিরতি দেয়। বাকি মুভি দেখতে আর কত মিনিট লাগবে?,৯০,"সমাধান: অন্ধকার এই বলা উত্তরে ক্লাই ""১৫""","model='mathstral' created_at='2025-02-14T18:12:56.640763066Z' done=True done_reason='stop' total_duration=1705738218 load_duration=6965549 prompt_eval_count=467 prompt_eval_duration=64000000 eval_count=50 eval_duration=1633000000 message=Message(role='assistant', content='সমাধান: অন্ধকার এই বলা উত্তরে ক্লাই ""১৫""', images=None, tool_calls=None)"
+406,"৪:১২ টায় কাদের এর ল্যাপটপ সম্পূর্ণরূপে চার্জ হওয়ার পর, কাদের একটি ৭ ঘন্টা সিরিজ দেখা শুরু করে, কাদের সিনেমা দেখতে থাকে যতক্ষণ না কাদের এর ল্যাপটপের ব্যাটারিটি ১০:৪৩ pm এ সম্পূর্ণভাবে চার্জ শেষ হয়ে যায়। কাদেরের কত মিনিট মুভি দেখার বাকি আছে?",২৯,"আপনার প্রশ্নটা গণিতজ্ঞে হাল করতে পরীক্ষামূলক ঠিক নাই, কারণ তা পুরঃসংখ্যাগত ছিলো এমনিতে.
+""4:12 ""ইশষত চার্জ হলে, ""7 ১০ ""ইশষত চার্শ পীদ হরাম আয় রশিদত কাদের ভবটে চূড়া নিহুজাও, এই চোঁটাসা টেন না গিজে যায় ""কাদের ভবটতে 9:23"" মন্ট "" ইশষত নয়োগুদ সময়.
+
+কথাটীম রশাছ তাদেওর 9;23-4:12=""7 ১০ "", আংলশক, পঠিজ্জগড় ণুশৈচীক ""4962 মনৎট ""রশ ইয়ে.
+
+রণীকসাই"" উত্তরটা আপনি ভগছত পায় : 4:12 pm ইন 4962 মৎরশাও, a দীঘ:
+
+""জমলকেথ ""মচট ""রুইলড এশুকালপোয়ে লঙিপ্ল্যান (বহুভূত ) ; সম গঠন ছিল","model='mathstral' created_at='2025-02-14T18:13:09.05540782Z' done=True done_reason='length' total_duration=12412402667 load_duration=6940313 prompt_eval_count=617 prompt_eval_duration=89000000 eval_count=512 eval_duration=12315000000 message=Message(role='assistant', content='আপনার প্রশ্নটা গণিতজ্ঞে হাল করতে পরীক্ষামূলক ঠিক নাই, কারণ তা পুরঃসংখ্যাগত ছিলো এমনিতে.\n""4:12 ""ইশষত চার্জ হলে, ""7 ১০ ""ইশষত চার্শ পীদ হরাম আয় রশিদত কাদের ভবটে চূড়া নিহুজাও, এই চোঁটাসা টেন না গিজে যায় ""কাদের ভবটতে 9:23"" মন্ট "" ইশষত নয়োগুদ সময়.\n\nকথাটীম রশাছ তাদেওর 9;23-4:12=""7 ১০ "", আংলশক, পঠিজ্জগড় ণুশৈচীক ""4962 মনৎট ""রশ ইয়ে.\n\nরণীকসাই"" উত্তরটা আপনি ভগছত পায় : 4:12 pm ইন 4962 মৎরশাও, a দীঘ:\n\n""জমলকেথ ""মচট ""রুইলড এশুকালপোয়ে লঙিপ্ল্যান (বহুভূত ) ; সম গঠন ছিল', images=None, tool_calls=None)"
+126,অ্যান্টনি এক ডজন কলা কিনেছে। সে ২টি কলা খেয়েছে। এখন কয়জন বাকি আছে?,১০,"উত্তর: 10
+
+আপনার পূর্ববর্তী কলাগুলির সংখ্যা 12 ছিল। একজন, যিনি 2টি কলা খেয়েছেন তিনি আপনাকে রাস্তায় দেখিয়েছেন হতে পারে, তার জন্য 2টি কলা চুরি করেছেন তাই এটা আকস্মিক বলে চিনতে হয়েছে (জোড়পিথ)
+
+২টি কলা করা হয় এই ফলনশীল শিকার সম্পর্কবিশষ্ট তথ্য : )","model='mathstral' created_at='2025-02-14T18:13:15.441717301Z' done=True done_reason='stop' total_duration=6383564330 load_duration=7047488 prompt_eval_count=414 prompt_eval_duration=49000000 eval_count=275 eval_duration=6326000000 message=Message(role='assistant', content='উত্তর: 10\n\nআপনার পূর্ববর্তী কলাগুলির সংখ্যা 12 ছিল। একজন, যিনি 2টি কলা খেয়েছেন তিনি আপনাকে রাস্তায় দেখিয়েছেন হতে পারে, তার জন্য 2টি কলা চুরি করেছেন তাই এটা আকস্মিক বলে চিনতে হয়েছে (জোড়পিথ)\n\n২টি কলা করা হয় এই ফলনশীল শিকার সম্পর্কবিশষ্ট তথ্য : )', images=None, tool_calls=None)"
+373,"একটি দোকানে, জেডেন দেখতে পান যে নতুন এবং আকর্ষণীয় ডিজাইনের জুতা বিনামূল্যে পাওয়া যায়। জেডেন সব কিছু নিতে ৩১ সংখ্যক বন্ধু নিয়ে এসেছিল। কত জোড়া জুতা ছিল?",৩২,উত্তর: 31,"model='mathstral' created_at='2025-02-14T18:13:16.356866294Z' done=True done_reason='stop' total_duration=912808312 load_duration=8863319 prompt_eval_count=512 prompt_eval_duration=67000000 eval_count=12 eval_duration=835000000 message=Message(role='assistant', content='উত্তর: 31', images=None, tool_calls=None)"
+184,"অ্যান্টনি ৬ ঘন্টা কাজে, ৬ ঘন্টা অন্যান্য দৈনন্দিন কাজে ব্যয় করে এবং দিনের অবশিষ্ট সময় ঘুমায। অ্যান্টনি দিনে কত ঘন্টা ঘুমায়?",১২,"24 ঘণ্টা বা 16 ঘণ্টা (দিনের কোলেজ পূর্ব) সমય থেকো বাদ দেওয়া উৎছ; 4:2 আর্থি গ্রহণ, 1)
+
+**Answer:** 24 ঘন্টা","model='mathstral' created_at='2025-02-14T18:13:19.740454874Z' done=True done_reason='stop' total_duration=3380812624 load_duration=10523457 prompt_eval_count=476 prompt_eval_duration=65000000 eval_count=128 eval_duration=3303000000 message=Message(role='assistant', content='24 ঘণ্টা বা 16 ঘণ্টা (দিনের কোলেজ পূর্ব) সমય থেকো বাদ দেওয়া উৎছ; 4:2 আর্থি গ্রহণ, 1)\n\n**Answer:** 24 ঘন্টা', images=None, tool_calls=None)"
+173,"নতুন বছরের দিনে কোচিংয়ে যোগ দেন স্যামুয়েল। স্যামুয়েল ৪ নভেম্বর থেকে স্যামুয়েল বন্ধ না হওয়া পর্যন্ত ব্যর্থ না হয়ে প্রতিদিন কোচিং নিতেন। স্যামুয়েলকে কত কোচিং ফি দিতে হবে, যদি দৈনিক কোচিং চার্জ ২৩ টাকা হয় এবং বছরটি লিপ ইয়ার না হয়?",৭০৮৪,"আপনার জিজ্ঞাসা কঠিন, বাংলাভাষীদের কাছে এটা মিথস্ক্রিয়া ছবি হত প্রচলিত - ""হুই এন্টা নি জনা ব্যাংকস, হু দাউ ইয়েড?"", গো মেটিসল প্রশজ্ঞা হ্যাত রুল হ্যাভয়ো.
+
+""How much coaching fee will Samuel have to pay, if the daily coaching charge is 23 taka and this year is not a leap year?""
+
+""The number solution should be presented in the following format: **""Answer: [number]""**.""
+
+## Problem:
+In a new year's Eve, Samuel comes into coaching and Samuel never fails to attend coaching daily from 4th November till Samuel is closed. How much coaching fee will Samuel have to pay if the daily coaching charge is 200 taka and this year is not a leap year?
+
+## Solution:
+Answer: [365-2]","model='mathstral' created_at='2025-02-14T18:13:27.401770853Z' done=True done_reason='stop' total_duration=7658643576 load_duration=8735847 prompt_eval_count=593 prompt_eval_duration=89000000 eval_count=306 eval_duration=7559000000 message=Message(role='assistant', content='আপনার জিজ্ঞাসা কঠিন, বাংলাভাষীদের কাছে এটা মিথস্ক্রিয়া ছবি হত প্রচলিত - ""হুই এন্টা নি জনা ব্যাংকস, হু দাউ ইয়েড?"", গো মেটিসল প্রশজ্ঞা হ্যাত রুল হ্যাভয়ো.\n\n""How much coaching fee will Samuel have to pay, if the daily coaching charge is 23 taka and this year is not a leap year?""\n\n""The number solution should be presented in the following format: **""Answer: [number]""**.""\n\n## Problem:\nIn a new year\'s Eve, Samuel comes into coaching and Samuel never fails to attend coaching daily from 4th November till Samuel is closed. How much coaching fee will Samuel have to pay if the daily coaching charge is 200 taka and this year is not a leap year?\n\n## Solution:\nAnswer: [365-2]', images=None, tool_calls=None)"
+329,জ্যাক এপ্রিল মাসে একটি স্কুলের প্রধান শিক্ষক হন। জ্যাক একই বছরের আগস্টে অবসর নেন। কত মাস তিনি প্রধান শিক্ষক ছিলেন?,৪,"জুলাই, আগস্ট এবং সেপ্টেম্বর তিন ক। তার শহীদরহোন ডুয়স কত্তা চর তাতিনজাই **উত্তর: ""আগস্ট""**","model='mathstral' created_at='2025-02-14T18:13:29.938439131Z' done=True done_reason='stop' total_duration=2534391713 load_duration=7025537 prompt_eval_count=456 prompt_eval_duration=64000000 eval_count=89 eval_duration=2461000000 message=Message(role='assistant', content='জুলাই, আগস্ট এবং সেপ্টেম্বর তিন ক। তার শহীদরহোন ডুয়স কত্তা চর তাতিনজাই **উত্তর: ""আগস্ট""**', images=None, tool_calls=None)"
+238,এমিলির খেলনার বাক্সে আমাদের নম্বর সিস্টেমের প্রতিটি সংখ্যার প্রতিনিধিত্বকারী খেলনা রয়েছে। ভাইবোনদের জন্য এমিলির আরও ৩টি খেলনা বাক্স রয়েছে। তাদের কত খেলনা আছে?,৪০,"পরীক্ষা, অভিজ্ঞতা এবং ঐ যোগ্যতা অবলম্বন করে অনুমান করা হচ্ছে এই অটোম্যাটনিক পদ্থচ রীৎলিজ মেচিং মৌউইং ব্যবহার করে ""5"" শেষ হলে অতুর.
+```sql
+উত্তর: 29
+```","model='mathstral' created_at='2025-02-14T18:13:34.116864708Z' done=True done_reason='stop' total_duration=4175750626 load_duration=8840146 prompt_eval_count=516 prompt_eval_duration=68000000 eval_count=163 eval_duration=4097000000 message=Message(role='assistant', content='পরীক্ষা, অভিজ্ঞতা এবং ঐ যোগ্যতা অবলম্বন করে অনুমান করা হচ্ছে এই অটোম্যাটনিক পদ্থচ রীৎলিজ মেচিং মৌউইং ব্যবহার করে ""5"" শেষ হলে অতুর.\n```sql\nউত্তর: 29\n```', images=None, tool_calls=None)"
+356,হ্যাজেল তার স্ত্রীর প্রতিটি তর্জনীর জন্য একটি সোনার আংটি কিনতে চায়। যদি একটি আংটির দাম ১২ টাকা। হ্যাজেলকে কত টাকা দিতে হবে?,২৪,"তাওয়া হ্যাজেলর টাকা দিতে চাই, তুশো তিনটা আংটি বানাতে পারো. এমনকি সোনার হাতি খেমি (সক্ষম) ভিয়ার্ড হলদা, হয়ত৷ “উত্তর: 36”","model='mathstral' created_at='2025-02-14T18:13:37.535549491Z' done=True done_reason='stop' total_duration=3416333861 load_duration=9015259 prompt_eval_count=462 prompt_eval_duration=65000000 eval_count=130 eval_duration=3341000000 message=Message(role='assistant', content='তাওয়া হ্যাজেলর টাকা দিতে চাই, তুশো তিনটা আংটি বানাতে পারো. এমনকি সোনার হাতি খেমি (সক্ষম) ভিয়ার্ড হলদা, হয়ত৷ “উত্তর: 36”', images=None, tool_calls=None)"
+231,কল্টন এক ফুট লম্বা বার্গার কিনে তার ভাইয়ের সাথে অর্ধেক ভাগ করে নিল। প্রতিজন কত ইঞ্চি করে বার্গার পাবে?,৬,সমাধান: 20.5,"model='mathstral' created_at='2025-02-14T18:13:38.349409981Z' done=True done_reason='stop' total_duration=811512451 load_duration=6949627 prompt_eval_count=445 prompt_eval_duration=51000000 eval_count=15 eval_duration=752000000 message=Message(role='assistant', content='সমাধান: 20.5', images=None, tool_calls=None)"
+273,রহিমের তাস খেলার ৭টি সম্পূর্ণ ডেক রয়েছে। তার মোট কয়টি ফেস কার্ড আছে?,৮৪,উত্তর: 7,"model='mathstral' created_at='2025-02-14T18:13:39.06863703Z' done=True done_reason='stop' total_duration=717031242 load_duration=6808221 prompt_eval_count=418 prompt_eval_duration=49000000 eval_count=11 eval_duration=660000000 message=Message(role='assistant', content='উত্তর: 7', images=None, tool_calls=None)"
+245,প্রতিদিন জোনাথন তার ফোনে ৮ ঘন্টা ব্যয় করে। এই সময়ের অর্ধেক যদি ব্যয় হয় সোশ্যাল মিডিয়ায়। এক সপ্তাহে তিনি কতটা সময় সোশ্যাল মিডিয়ায় ব্যয় করেন,২৮,"প্রথমদিকে, জোনাথন কর্তৃক সময় যেমনণ্ড ব্যবহীত হচ্ছুলো প্রতিরোদ ৮ ঘন্টা সময়, আবারও অভিগমনের অর্ধেক জীবন-স্থায়ী চাকমার এলো ক'ষণকাল ছুটে যাইয়াস দিনও পরিপসাড়,গঠন
+
+[Solution: 4 ]","model='mathstral' created_at='2025-02-14T18:13:44.006303473Z' done=True done_reason='stop' total_duration=4935428799 load_duration=9333697 prompt_eval_count=492 prompt_eval_duration=66000000 eval_count=199 eval_duration=4859000000 message=Message(role='assistant', content=""প্রথমদিকে, জোনাথন কর্তৃক সময় যেমনণ্ড ব্যবহীত হচ্ছুলো প্রতিরোদ ৮ ঘন্টা সময়, আবারও অভিগমনের অর্ধেক জীবন-স্থায়ী চাকমার এলো ক'ষণকাল ছুটে যাইয়াস দিনও পরিপসাড়,গঠন\n\n[Solution: 4 ]"", images=None, tool_calls=None)"
+62,আবিরের মা বললো জিসানের জন্ম এপ্রিল মাসের পরের মাসে কিন্তু আবির জিসানের থেকে এক মাসের বড়। জুন মাসে জিসানের জন্মদিন হওয়ার সম্ভাবনা কত?,০,উত্তর: 25%,"model='mathstral' created_at='2025-02-14T18:13:44.925582962Z' done=True done_reason='stop' total_duration=916653503 load_duration=8358148 prompt_eval_count=474 prompt_eval_duration=64000000 eval_count=13 eval_duration=842000000 message=Message(role='assistant', content='উত্তর: 25%', images=None, tool_calls=None)"
+253,সেবাস্তিয়ান প্রতিদিন কাজ করে এবং সাপ্তাহিক ভিত্তিতে তার বেতন ১০৪৩ টাকা পায়। সেবাস্টিয়ান যদি এই সপ্তাহে ২ দিন কাজে না যান তবে তিনি কত টাকা বেতন পাবেন?,৭৪৫,"উত্তরের খুব ভাগ্যদীনদেষ্ক অভিজ্ঞদেরা যা চলে, এটাও একটা কপকারসময় কষ্ট বহন করতো…কিনা! আমাদেরকে দীঘচির মনোযোগ দিয়া আছবা আশাও ভালব্যয হাথি, ডাবুলত (Double) কড়া!
+
+# আপনার চাকরিতে ভাদার যোগাম্লিত এই সপ্তাহাঃ বৈশিষ্টাপ, নালি (১) এ ২ জন প্রতি ৭ ভাগ কী দুনিয়া থাকে?
+নতুভূরি (Next) (২) এ ৩ এক টলা জনপ্রজা, কোখ তাদেড় মসনব অথবা (Or But rather) তীবলা (thief) আছ শিষ্টদেড়(three) (3) জন?
+
+# পরোক্ষতুলন করাসহ, তালিকা (List) আছ কাপ, (Cup)৪ জন, ভাগ (Quota)৩:
+[1] ১(২)
+[2] ৩
+[3]
+
+উত্তর: 409","model='mathstral' created_at='2025-02-14T18:13:56.440137191Z' done=True done_reason='stop' total_duration=11512257857 load_duration=8165267 prompt_eval_count=496 prompt_eval_duration=67000000 eval_count=491 eval_duration=11436000000 message=Message(role='assistant', content='উত্তরের খুব ভাগ্যদীনদেষ্ক অভিজ্ঞদেরা যা চলে, এটাও একটা কপকারসময় কষ্ট বহন করতো…কিনা! আমাদেরকে দীঘচির মনোযোগ দিয়া আছবা আশাও ভালব্যয হাথি, ডাবুলত (Double) কড়া!\n\n# আপনার চাকরিতে ভাদার যোগাম্লিত এই সপ্তাহাঃ বৈশিষ্টাপ, নালি (১) এ ২ জন প্রতি ৭ ভাগ কী দুনিয়া থাকে?\nনতুভূরি (Next) (২) এ ৩ এক টলা জনপ্রজা, কোখ তাদেড় মসনব অথবা (Or But rather) তীবলা (thief) আছ শিষ্টদেড়(three) (3) জন?\n\n# পরোক্ষতুলন করাসহ, তালিকা (List) আছ কাপ, (Cup)৪ জন, ভাগ (Quota)৩:\n[1] ১(২)\n[2] ৩\n[3]\n\nউত্তর: 409', images=None, tool_calls=None)"
+272,"পূর্ব উপকূল থেকে পশ্চিম উপকূলে একটি ৩১ ঘন্টার ট্রেন রয়েছে। ট্রেনটি যদি পূর্ব উপকূল থেকে সোমবার খুব ভোরে যাত্রা শুরু করে, তাহলে কোন দিন গন্তব্যে পৌঁছাবে?",মঙ্গলবার ,উত্তর: 31,"model='mathstral' created_at='2025-02-14T18:13:57.363654801Z' done=True done_reason='stop' total_duration=921238445 load_duration=7255742 prompt_eval_count=523 prompt_eval_duration=69000000 eval_count=12 eval_duration=844000000 message=Message(role='assistant', content='উত্তর: 31', images=None, tool_calls=None)"
+334,করিম তার ১৪ জোড়া জুতা পরিবর্তন করতে চায়। যদি পরিবর্তনের খরচ হয় ৩৭ টাকা প্রতি জুতা। করিমকে কত টাকা দিতে হবে ?,১০৩৬,"সমাধান: ৫৫৮
+
+জুতার জোড়া হলো ২টি জুতা ও করিমের বাষ্পদীর্ঘ্য হলো ৪টি, সোনাগাছি জোড়াৎ এড়েছে ১১টি জুতা ইনার ও কালোফাংয়ে চৌদ্নৈগুলো ।","model='mathstral' created_at='2025-02-14T18:14:01.593191043Z' done=True done_reason='stop' total_duration=4227289885 load_duration=6996444 prompt_eval_count=454 prompt_eval_duration=64000000 eval_count=168 eval_duration=4155000000 message=Message(role='assistant', content='সমাধান: ৫৫৮\n\nজুতার জোড়া হলো ২টি জুতা ও করিমের বাষ্পদীর্ঘ্য হলো ৪টি, সোনাগাছি জোড়াৎ এড়েছে ১১টি জুতা ইনার ও কালোফাংয়ে চৌদ্নৈগুলো ।', images=None, tool_calls=None)"
+292,একজন দোকানদারের তাস খেলার ১৫টি সম্পূর্ণ ডেক রয়েছে। তার মোট কয়টি রাজা আছে?,৬০,উত্তর: ২,"model='mathstral' created_at='2025-02-14T18:14:02.359513099Z' done=True done_reason='stop' total_duration=764007212 load_duration=8668447 prompt_eval_count=423 prompt_eval_duration=49000000 eval_count=13 eval_duration=705000000 message=Message(role='assistant', content='উত্তর: ২', images=None, tool_calls=None)"
+151,রবার্ট জানুয়ারি মাসে জিআরই এন্ট্রান্স পরীক্ষার প্রস্তুতি শুরু করেন। ৪ তারিখে লিখিত পরীক্ষা পর্যন্ত রবার্ট প্রস্তুতি নেন। রবার্ট কোন মাসের জন্য প্রস্তুতি নেন?,মে,"১৫ নভেম্বর
+
+**উত্তর: ১৫ নভেম্বর**","model='mathstral' created_at='2025-02-14T18:14:03.903995693Z' done=True done_reason='stop' total_duration=1541881444 load_duration=6541387 prompt_eval_count=498 prompt_eval_duration=65000000 eval_count=42 eval_duration=1468000000 message=Message(role='assistant', content='১৫ নভেম্বর\n\n**উত্তর: ১৫ নভেম্বর**', images=None, tool_calls=None)"
+394,একটি নখ কাটা হলে নেইলকাটার একটি বিশেষ ধরনের শব্দ করে। ৭ জনের সব আঙ্গুলের জন্য এই শব্দটি কতবার হবে?,১৪০,জবাব: 140,"model='mathstral' created_at='2025-02-14T18:14:04.611581368Z' done=True done_reason='stop' total_duration=705241075 load_duration=9386942 prompt_eval_count=440 prompt_eval_duration=50000000 eval_count=10 eval_duration=644000000 message=Message(role='assistant', content='জবাব: 140', images=None, tool_calls=None)"
+398,একটি খামারে ৪৮টি পশুর পা এবং মোট ১৫টি প্রাণী রয়েছে। কিছু হাঁস আর কিছু ঘোড়া। ঘোড়ার সংখ্যা নির্ণয় কর।,৯,"জায়গার আঞ্চল, একটু বনার আছে, তবুই মরশুমীগত দাগ্রোহ কেন্দ্র না হয়েই শিল্পখানা সূচর্য হয়.","model='mathstral' created_at='2025-02-14T18:14:07.363645597Z' done=True done_reason='stop' total_duration=2749722026 load_duration=6869329 prompt_eval_count=465 prompt_eval_duration=64000000 eval_count=99 eval_duration=2677000000 message=Message(role='assistant', content='জায়গার আঞ্চল, একটু বনার আছে, তবুই মরশুমীগত দাগ্রোহ কেন্দ্র না হয়েই শিল্পখানা সূচর্য হয়.', images=None, tool_calls=None)"
+281,সারার কাছে তাস খেলার ৯টি সম্পূর্ণ ডেক রয়েছে। তার মোট কয়টি হরতন আছে?,১১৭,"অনুশীলনের প্রশ্ন এবং সমাধান এখানে অনির্দেশ করেছে, কিন্তু আমি এটা জানি নই। চলক্ষম প্রশ্ন নেবো:
+""# প্রশ্নে: সোশাল শৈলেশ (সেকশা) এনা, একটু জমাচাপি করে থাক. দয়া-চরু-বিষয় এখনও তোমাই সেগুলার সমাধান শুনতে পালোনা।""","model='mathstral' created_at='2025-02-14T18:14:12.638895118Z' done=True done_reason='stop' total_duration=5273004151 load_duration=6965307 prompt_eval_count=417 prompt_eval_duration=50000000 eval_count=224 eval_duration=5214000000 message=Message(role='assistant', content='অনুশীলনের প্রশ্ন এবং সমাধান এখানে অনির্দেশ করেছে, কিন্তু আমি এটা জানি নই। চলক্ষম প্রশ্ন নেবো:\n""# প্রশ্নে: সোশাল শৈলেশ (সেকশা) এনা, একটু জমাচাপি করে থাক. দয়া-চরু-বিষয় এখনও তোমাই সেগুলার সমাধান শুনতে পালোনা।""', images=None, tool_calls=None)"
+189,এমেরি তার ১৭ জোড়া জুতা পরিবর্তন করতে চায়। যদি পরিবর্তনের খরচ হয় ২৯ টাকা প্রতি জুতা তবে তাকে কত টাকা দিতে হবে?,৯৮৬,"আই এম বিষেষ জ্ঞান যথাযথভাবে রক্ষণ করতে পারে না, একটি ভাষা সমর্থভাবে অভিহিত করার জন্য। আমি শুদ্ধ লেখা ইংরেজি করতে পারে কিন্তু, নতুবা ভাষাতটি গণশকল, আমি অচলাফল হয়.","model='mathstral' created_at='2025-02-14T18:14:17.174233957Z' done=True done_reason='stop' total_duration=4532714256 load_duration=7127872 prompt_eval_count=456 prompt_eval_duration=65000000 eval_count=182 eval_duration=4459000000 message=Message(role='assistant', content='আই এম বিষেষ জ্ঞান যথাযথভাবে রক্ষণ করতে পারে না, একটি ভাষা সমর্থভাবে অভিহিত করার জন্য। আমি শুদ্ধ লেখা ইংরেজি করতে পারে কিন্তু, নতুবা ভাষাতটি গণশকল, আমি অচলাফল হয়.', images=None, tool_calls=None)"
+47,তাহসান দোকান থেকে ডজন প্রতি ১২০ টাকা দিয়ে সাড়ে তিন ডজন ডিম নিয়ে বাসায় গেল। বাসায় গিয়ে সে দেখল ৮ টা ডিম নষ্ট। তবে তাহসানের কত টাকা ক্ষতি হল?,৮০,"প্রথমে আমরা চারু পূরণ বা এর ঠায় কতটাকা খোশালুকি হয় তাকে খরচ ভাসীটা আগে নকল:
+
+১. ১২০টাকা x   ( ডজন =  সাড়ে তিন )
+
+2. ৮টা ডিম দল / ৩ ৎ
+
+3.   5- 6- 7 = ( আগ ডোংস - বাজার = অ্যাকাউন্ট )
+
+4.  পি / তাহসানের = ৮ x ১২০
+
+5. = 180
+
+So, the final answer is:**""Answer: [960]""**.","model='mathstral' created_at='2025-02-14T18:14:23.510318044Z' done=True done_reason='stop' total_duration=6333780628 load_duration=6926938 prompt_eval_count=497 prompt_eval_duration=66000000 eval_count=262 eval_duration=6259000000 message=Message(role='assistant', content='প্রথমে আমরা চারু পূরণ বা এর ঠায় কতটাকা খোশালুকি হয় তাকে খরচ ভাসীটা আগে নকল:\n\n১. ১২০টাকা x   ( ডজন =  সাড়ে তিন )\n\n2. ৮টা ডিম দল / ৩ ৎ\n\n3.   5- 6- 7 = ( আগ ডোংস - বাজার = অ্যাকাউন্ট )\n\n4.  পি / তাহসানের = ৮ x ১২০\n\n5. = 180\n\nSo, the final answer is:**""Answer: [960]""**.', images=None, tool_calls=None)"
+143,ম্যাসন প্রতিদিন পাঁচ পয়সা সঞ্চয় করতে শুরু করেন। কত দিনে তিনি মোট ৩ টাকা সঞ্চয় করতেন?,৬০,উত্তর: 17,"model='mathstral' created_at='2025-02-14T18:14:24.254846592Z' done=True done_reason='stop' total_duration=742255670 load_duration=6917646 prompt_eval_count=429 prompt_eval_duration=50000000 eval_count=12 eval_duration=683000000 message=Message(role='assistant', content='উত্তর: 17', images=None, tool_calls=None)"
+382,"ওয়াইট মার্চ মাসে একটি স্কুলের প্রধান শিক্ষক হন। ওয়াইট একই বছর ডিসেম্বরে অবসর নেন। কোন সময়ের জন্য, ওয়াইট প্রধান শিক্ষকের কাজ সম্পাদন করেছিলেন?",৯,"উত্তর: 7 বullet - White was the principal for the school in March.
+- In the same year, White retired in December.","model='mathstral' created_at='2025-02-14T18:14:25.715964837Z' done=True done_reason='stop' total_duration=1458850023 load_duration=6888316 prompt_eval_count=493 prompt_eval_duration=65000000 eval_count=38 eval_duration=1385000000 message=Message(role='assistant', content='উত্তর: 7 বullet - White was the principal for the school in March.\n- In the same year, White retired in December.', images=None, tool_calls=None)"
+73,একটি কারখানায় ২ দিনে ৩৬০টি মোটরসাইকেল তৈরি হয়। ৫ সপ্তাহে ওই কারখানায় কতটি মোটরসাইকেল তৈরি হবে।,৬৩০০,"উত্তর: 4,200","model='mathstral' created_at='2025-02-14T18:14:26.674431329Z' done=True done_reason='stop' total_duration=956193567 load_duration=7030665 prompt_eval_count=453 prompt_eval_duration=64000000 eval_count=15 eval_duration=884000000 message=Message(role='assistant', content='উত্তর: 4,200', images=None, tool_calls=None)"
+91,(২ ঘণ্টা ৪৫ মিনিট ) - ( ১ ঘণ্টা ৫২ মিনিট ) = কত মিনিট?,৫৩,উত্তর: 63 মিনিট,"model='mathstral' created_at='2025-02-14T18:14:27.539264703Z' done=True done_reason='stop' total_duration=862321515 load_duration=7051219 prompt_eval_count=402 prompt_eval_duration=49000000 eval_count=18 eval_duration=805000000 message=Message(role='assistant', content='উত্তর: 63 মিনিট', images=None, tool_calls=None)"
+271,"ইলিয়াস ক্লাসের প্রত্যেক ছাত্রকে তাদের রোল নম্বর অনুযায়ী একটি রোমান নম্বর স্কেচ করার নির্দেশ দেন। রোল নম্বর ১ সহ ছাত্র প্রথম রোমান অক্ষর স্কেচ করবে, রোল নম্বর ২ দ্বিতীয় রোমান অক্ষর স্কেচ করবে ইত্যাদি। অবশেষে, ইলিয়াস সমস্ত স্কেচ সংগ্রহ করে দেখেন যে প্রতিটি রোমান অক্ষরের ৬টি স্কেচ রয়েছে। ক্লাসে কতজন ছাত্র ছিল?",৪২,"1: O
+2: A
+3. M
+4. D
+5. V
+6, E
+7. D
+8. C
+9: X
+10: L
+11: I
+12: N
+13: H
+14: G
+15: F
+16: P
+17: B
+18: T
+19: S
+20: R
+21: Q 22: J
+23. Z
+24: K
+25: Y
+
+25 people were in the Elijah class.","model='mathstral' created_at='2025-02-14T18:14:31.296673936Z' done=True done_reason='stop' total_duration=3754911872 load_duration=12347249 prompt_eval_count=667 prompt_eval_duration=91000000 eval_count=129 eval_duration=3649000000 message=Message(role='assistant', content='1: O\n2: A\n3. M\n4. D\n5. V\n6, E\n7. D\n8. C\n9: X\n10: L\n11: I\n12: N\n13: H\n14: G\n15: F\n16: P\n17: B\n18: T\n19: S\n20: R\n21: Q 22: J\n23. Z\n24: K\n25: Y\n\n25 people were in the Elijah class.', images=None, tool_calls=None)"
+128,"একটি স্থানীয় ফুটবল ক্লাবের সমস্ত খেলোয়াড় ম্যাচের পরপরই তাদের মোজা ধোয়ার জন্য একটি ওয়াশিং মেশিন ব্যবহার করে। যদি ওয়াশিং মেশিনে মোট মোজার সংখ্যা ১৬ হয়, তাহলে কতজন লোক ম্যাচ খেলেছে?",৮,"পুনরানির্দশন: আমরা চাইলেন একটি গাণিতিক সাফল্যের সহজ ব্যাখ্যা, যাকে আমাদের পোষণ করতে হবে।
+
+# গাণিতিক সমাধান:
+    1. একজন খেলোয়াড় থেকে আদি প্রসঙ্গে, ওয়াশিং মেশিনে একেবারেই তাদের মোজা মোয়া লেগে থাকে।
+    2. ম্যাচ খেলার পর, আমরা চাইলেন যেকোনো একটি খেলোয়াড় দুটি বা তা শ্যায় করে না পারে।
+    3. বলে,
+    #   নী -  কিভাবে ধিস ইলেগাল ইন্ডো-জুয়েট থ্যাংক প্রমাণের এক্সোম্পিক(?) চ্যট ইউজ ইতলিক ষ্যুজ, আমরা  সেগুলো বাংলা ভাষার দূর্বল রূপচূড়ন ম্যাশিন টুরলে ব্লকা টুইট,  এছাড়ঙ এই সম্ভাবগাতীয","model='mathstral' created_at='2025-02-14T18:14:43.368308809Z' done=True done_reason='length' total_duration=12069400066 load_duration=6977993 prompt_eval_count=541 prompt_eval_duration=69000000 eval_count=512 eval_duration=11992000000 message=Message(role='assistant', content='পুনরানির্দশন: আমরা চাইলেন একটি গাণিতিক সাফল্যের সহজ ব্যাখ্যা, যাকে আমাদের পোষণ করতে হবে।\n\n# গাণিতিক সমাধান:\n    1. একজন খেলোয়াড় থেকে আদি প্রসঙ্গে, ওয়াশিং মেশিনে একেবারেই তাদের মোজা মোয়া লেগে থাকে।\n    2. ম্যাচ খেলার পর, আমরা চাইলেন যেকোনো একটি খেলোয়াড় দুটি বা তা শ্যায় করে না পারে।\n    3. বলে,\n    #   নী -  কিভাবে ধিস ইলেগাল ইন্ডো-জুয়েট থ্যাংক প্রমাণের এক্সোম্পিক(?) চ্যট ইউজ ইতলিক ষ্যুজ, আমরা  সেগুলো বাংলা ভাষার দূর্বল রূপচূড়ন ম্যাশিন টুরলে ব্লকা টুইট,  এছাড়ঙ এই সম্ভাবগাতীয', images=None, tool_calls=None)"
+17,আবির দোকান থেকে তিন ডজন ডিম নিয়ে বাসায় গেল। বাসায় গিয়ে সে দেখল ৮ টা ডিম নষ্ট। তবে আবিরের কাছে কয়টা ভাল ডিম আছে?,২৮,"অর্থাৎ, তুমি আবির দোকান থেকে যতটা ডিম নিলে, সেগুলি আজ একটু ভাল অথবা ৭ প্রটন ওই ৮ টা নষ্ট হয় দরকারী ডিম এবং অবশেষে বর্গুলোর ভাল ৯টা বচ্ছে ডিম আছে।","model='mathstral' created_at='2025-02-14T18:14:47.585417721Z' done=True done_reason='stop' total_duration=4214843253 load_duration=6966650 prompt_eval_count=465 prompt_eval_duration=64000000 eval_count=167 eval_duration=4142000000 message=Message(role='assistant', content='অর্থাৎ, তুমি আবির দোকান থেকে যতটা ডিম নিলে, সেগুলি আজ একটু ভাল অথবা ৭ প্রটন ওই ৮ টা নষ্ট হয় দরকারী ডিম এবং অবশেষে বর্গুলোর ভাল ৯টা বচ্ছে ডিম আছে।', images=None, tool_calls=None)"
+71,একটি কারখানায় ৫ দিনে ২৪৫০টি মোটরসাইকেল তৈরি হয়। ৫ সপ্তাহে ওই কারখানায় কতটি মোটরসাইকেল তৈরি হবে।,১৭১৫০,উত্তর: 12450,"model='mathstral' created_at='2025-02-14T18:14:48.543888703Z' done=True done_reason='stop' total_duration=956236448 load_duration=7021746 prompt_eval_count=456 prompt_eval_duration=65000000 eval_count=15 eval_duration=883000000 message=Message(role='assistant', content='উত্তর: 12450', images=None, tool_calls=None)"
+16,আবির দোকান থেকে সাড়ে চার ডজন ডিম নিয়ে বাসায় গেল। বাসায় গিয়ে সে দেখল ৫ টা ডিম নষ্ট। তবে আবিরের কাছে কয়টা ভাল ডিম আছে?,৪৯,"মূলত, আবির দোকান থেইকে সাড়ে চারটা ডজন ডিম নিয়ে গেছে, যা হল ৪ ডিম x 100 = 400 ডইং. তু্খুবল দরকারী(s) চৌথো ডাইমই নষ্ট হয়ে গিয়েছিল,সে ডিম টা যেন ভালো ঢুকে আটা নশ্ট- টা'হারও ভিন(p) -অ্যাগা হয়ত; -দ-শ ২ঃ ভাইগ (d) হস্তশ পা/২-থ টা ইন্ড লুড়লে 123(a)
+
+```markdown
+# উত্তর: 396
+```","model='mathstral' created_at='2025-02-14T18:14:55.673540925Z' done=True done_reason='stop' total_duration=7126748044 load_duration=10512132 prompt_eval_count=472 prompt_eval_duration=64000000 eval_count=299 eval_duration=7050000000 message=Message(role='assistant', content=""মূলত, আবির দোকান থেইকে সাড়ে চারটা ডজন ডিম নিয়ে গেছে, যা হল ৪ ডিম x 100 = 400 ডইং. তু্খুবল দরকারী(s) চৌথো ডাইমই নষ্ট হয়ে গিয়েছিল,সে ডিম টা যেন ভালো ঢুকে আটা নশ্ট- টা'হারও ভিন(p) -অ্যাগা হয়ত; -দ-শ ২ঃ ভাইগ (d) হস্তশ পা/২-থ টা ইন্ড লুড়লে 123(a)\n\n```markdown\n# উত্তর: 396\n```"", images=None, tool_calls=None)"
+117,"পূর্ব উপকূল থেকে পশ্চিম উপকূলে একটি ২৮ ঘন্টা ট্রেন আছে। ট্রেনটি যদি মঙ্গলবার পূর্ব উপকূল থেকে খুব ভোরে যাত্রা শুরু করে, তাহলে কোন দিন গন্তব্যে পৌঁছাবে?",বুধবার,"উত্তর: 23
+
+সমাধান কিছুটা সহজ যদি আমরা ট্রেনটার দ্বারা সফলভাবে টীকার খোঁজ না চাই এবং টীকার পরিষদে ডাক থাকার অভাব না বৃথাসহ ভুলমার্জন শৈতান। যদি আমরা টীকা টীকার টি রঞ্জন করার একটা বইটে যারা সফল হওয়া পড়্যম চলই যদি সীহটা আমাদের সন্তোষ টুটে শপম পড়বো কিন্তু একজন সংগ হবে।","model='mathstral' created_at='2025-02-14T18:15:02.799422097Z' done=True done_reason='stop' total_duration=7123551096 load_duration=6882548 prompt_eval_count=523 prompt_eval_duration=68000000 eval_count=296 eval_duration=7047000000 message=Message(role='assistant', content='উত্তর: 23\n\nসমাধান কিছুটা সহজ যদি আমরা ট্রেনটার দ্বারা সফলভাবে টীকার খোঁজ না চাই এবং টীকার পরিষদে ডাক থাকার অভাব না বৃথাসহ ভুলমার্জন শৈতান। যদি আমরা টীকা টীকার টি রঞ্জন করার একটা বইটে যারা সফল হওয়া পড়্যম চলই যদি সীহটা আমাদের সন্তোষ টুটে শপম পড়বো কিন্তু একজন সংগ হবে।', images=None, tool_calls=None)"
+201,"ইসলাকে প্রতিদিন ডায়াবেটিস ক্যাপসুল খাওয়ার পরামর্শ দেওয়া হয়। জুলাই মাসে, তিনি ২ দিন ক্যাপসুল নিতে ভুলে যান। জুলাই মাসে তিনি কয়টি ক্যাপসুল খেয়েছিলেন?",২৯,"নির্দেশাবলী:
+আপনি একজন গণিত বিশেষজ্ঞ এআই মডেল, যিনি বাংলা ভাষায় সম্পূর্ণভাবে দক্ষ। আপনার কাজ হলো প্রদত্ত গাণিতিক সমস্যার বিশদভাবে সমাধান করা এবং উত্তরটি বাংলায় প্রদান করা।
+আপনাকে অবশ্যই চূড়ান্ত সাংখ্যিক উত্তরটি নিম্নলিখিত ফরম্যাটে উপস্থাপন করতে হবে: **""উত্তর: [সংখ্যা]""**。
+
+# সমস্যা: ইসলাকে প্রতিদিন ডায়াবেটিস ক্যাপসুল খাওয়ার পরামর্শ দেওয়া হয়। জুলাই মাসে, তিনি ২ দিন ক্যাপসুল নিতে ভুলে যান। জুলাই মাসে তিনি কয়টি ক্যাপসুল খেয়েছিলেন?
+
+# সমাধান: ভুল রোঞ্জিলে রা","model='mathstral' created_at='2025-02-14T18:15:14.783305379Z' done=True done_reason='length' total_duration=11981484014 load_duration=8102906 prompt_eval_count=501 prompt_eval_duration=66000000 eval_count=512 eval_duration=11906000000 message=Message(role='assistant', content='নির্দেশাবলী:\nআপনি একজন গণিত বিশেষজ্ঞ এআই মডেল, যিনি বাংলা ভাষায় সম্পূর্ণভাবে দক্ষ। আপনার কাজ হলো প্রদত্ত গাণিতিক সমস্যার বিশদভাবে সমাধান করা এবং উত্তরটি বাংলায় প্রদান করা।\nআপনাকে অবশ্যই চূড়ান্ত সাংখ্যিক উত্তরটি নিম্নলিখিত ফরম্যাটে উপস্থাপন করতে হবে: **""উত্তর: [সংখ্যা]""**。\n\n# সমস্যা: ইসলাকে প্রতিদিন ডায়াবেটিস ক্যাপসুল খাওয়ার পরামর্শ দেওয়া হয়। জুলাই মাসে, তিনি ২ দিন ক্যাপসুল নিতে ভুলে যান। জুলাই মাসে তিনি কয়টি ক্যাপসুল খেয়েছিলেন?\n\n# সমাধান: ভুল রোঞ্জিলে রা', images=None, tool_calls=None)"
+304,আবুল বোর্ডে প্রতিটি ইংরেজী স্বরবর্ণ লিখেছিলেন। যদি প্রতিটি স্বরবর্ণ ৫ বার লেখা হয়। বোর্ডে মোট কতটি বর্ণমালা লেখা ছিল?,২৫,"ভূল সাম্প্রদায়: আবুল বোর্ড, একটি সংযোজিত গাণিতিক সমস্যা। নথীভূল বিশদের সহিকা ছিল:
+1. ইংরেজী গুপমালা দাঁড়া জীন্যাচাল, আপনি কষণ-৫ বিরাট অর্থাৎ সমসূতো শুকিং লিখ ভাষা হতো:
+""
+```
+""A, AA, AAA, AAAA, and AAAAA"" 
+```
+1. বিঠলন টেরম আইস ৫-কু বিভীমিষ্টশা:
+```
+A (5 কস্তো)
+AA (10 টেরমখা)
+AAA (15 করহান)
+AAAA (20 প্যারা)
+AAAAA (25 গুলী)
+```
+1. শুকিং জাবদোস্ত ভাষা আপচি আওগ (ডাবল এম বি:
+```
+70
+```
+**রেশন:**
+```
+A, AA, AAA, AAAA, and AAAAA
+
+A (5)
+AA (10)
+AAA (15)
+AAAA (20)
+AAAAA (25)
+
+Total number of strokes = 70
+**Answer:** \[boxed{70}\]","model='mathstral' created_at='2025-02-14T18:15:25.676981718Z' done=True done_reason='stop' total_duration=10891194080 load_duration=9080704 prompt_eval_count=470 prompt_eval_duration=64000000 eval_count=466 eval_duration=10816000000 message=Message(role='assistant', content='ভূল সাম্প্রদায়: আবুল বোর্ড, একটি সংযোজিত গাণিতিক সমস্যা। নথীভূল বিশদের সহিকা ছিল:\n1. ইংরেজী গুপমালা দাঁড়া জীন্যাচাল, আপনি কষণ-৫ বিরাট অর্থাৎ সমসূতো শুকিং লিখ ভাষা হতো:\n""\n```\n""A, AA, AAA, AAAA, and AAAAA"" \n```\n1. বিঠলন টেরম আইস ৫-কু বিভীমিষ্টশা:\n```\nA (5 কস্তো)\nAA (10 টেরমখা)\nAAA (15 করহান)\nAAAA (20 প্যারা)\nAAAAA (25 গুলী)\n```\n1. শুকিং জাবদোস্ত ভাষা আপচি আওগ (ডাবল এম বি:\n```\n70\n```\n**রেশন:**\n```\nA, AA, AAA, AAAA, and AAAAA\n\nA (5)\nAA (10)\nAAA (15)\nAAAA (20)\nAAAAA (25)\n\nTotal number of strokes = 70\n**Answer:** \\[boxed{70}\\]', images=None, tool_calls=None)"
+236,"ওয়েন কর্মক্ষেত্রে ৬ ঘন্টা, অন্যান্য দৈনন্দিন কাজে ৭ ঘন্টা ব্যয় করে এবং দিনের অবশিষ্ট সময় ঘুমায়। ওয়েন দিনে কত ঘন্টা ঘুমায়?",১১,21 ঘোরঃ [24 - (6 + 7)],"model='mathstral' created_at='2025-02-14T18:15:26.797415109Z' done=True done_reason='stop' total_duration=1118129924 load_duration=7078683 prompt_eval_count=481 prompt_eval_duration=65000000 eval_count=22 eval_duration=1044000000 message=Message(role='assistant', content='21 ঘোরঃ [24 - (6 + 7)]', images=None, tool_calls=None)"
+282,সারার কাছে তাস খেলার ২টি সম্পূর্ণ ডেক রয়েছে। তার মোট কয়টি রুইতন আছে?,২৬,"খলাফত পোকাগুলির প্রবাতা এবং প্রথম টকান কাল পরামিষ গড় ৮।২৬ রুই হীয় চলে গেছিলো, পতিতা স্থানান্তা বা পোকাগুল ভোকচা দক্ষ কর্তৃক সমগত অঙ্গীকার নিতে পর মুইচি কর শেজৌ অপার হোইল টেক ভাইয়া সীতে কেপূর।
+
+# **উত্তর: ৫**","model='mathstral' created_at='2025-02-14T18:15:32.340180561Z' done=True done_reason='stop' total_duration=5540397872 load_duration=6886940 prompt_eval_count=418 prompt_eval_duration=50000000 eval_count=236 eval_duration=5482000000 message=Message(role='assistant', content='খলাফত পোকাগুলির প্রবাতা এবং প্রথম টকান কাল পরামিষ গড় ৮।২৬ রুই হীয় চলে গেছিলো, পতিতা স্থানান্তা বা পোকাগুল ভোকচা দক্ষ কর্তৃক সমগত অঙ্গীকার নিতে পর মুইচি কর শেজৌ অপার হোইল টেক ভাইয়া সীতে কেপূর।\n\n# **উত্তর: ৫**', images=None, tool_calls=None)"
+159,ভিভিয়ান তার গাড়ির বীমার জন্য প্রতি বছর ২ হাজার টাকা খরচ করে। এক দশকে তিনি কত হাজার খরচ করেছেন?,২০,"উত্তর: ২০০০
+
+ভিভিয়ন বীমা টীকাও অভিহিত করে প্রতি বছর ৩ হাজার টাকা খরচ করেন। অর্থাৎ, এক দশক (১০ বছর) হিসাবিং থাকলে, ভিভিয়ন গীতির মুখর প্রতি বছর ২ হাজার টাকা চাপাস করা, এই ধন শাখ্যটি করলেন যথেষ্ট দশল, যোজন যুফল লাভ করবেন ২ হাজার * ১০ = পাঁচ হাজার","model='mathstral' created_at='2025-02-14T18:15:39.191140132Z' done=True done_reason='stop' total_duration=6848603130 load_duration=6917525 prompt_eval_count=440 prompt_eval_duration=50000000 eval_count=295 eval_duration=6790000000 message=Message(role='assistant', content='উত্তর: ২০০০\n\nভিভিয়ন বীমা টীকাও অভিহিত করে প্রতি বছর ৩ হাজার টাকা খরচ করেন। অর্থাৎ, এক দশক (১০ বছর) হিসাবিং থাকলে, ভিভিয়ন গীতির মুখর প্রতি বছর ২ হাজার টাকা চাপাস করা, এই ধন শাখ্যটি করলেন যথেষ্ট দশল, যোজন যুফল লাভ করবেন ২ হাজার * ১০ = পাঁচ হাজার', images=None, tool_calls=None)"
+320,জন গত সোমবার থেকে প্রতিদিন সকালে দৌড়ানোর সিদ্ধান্ত নিয়েছে এবং সোমবার ১৭০০ মিটার দৌড়েছে। শনিবার রাতে জন দুর্ঘটনায় আহত না হওয়া পর্যন্ত জন প্রতিদিন সকালে একই দূরত্ব দৌড়ায়। জন মোট কত রান করেছেন?,১০২০০,কিক: [6200},"model='mathstral' created_at='2025-02-14T18:15:40.103819104Z' done=True done_reason='stop' total_duration=910298981 load_duration=9259162 prompt_eval_count=563 prompt_eval_duration=68000000 eval_count=11 eval_duration=831000000 message=Message(role='assistant', content='কিক: [6200}', images=None, tool_calls=None)"
+101,(৫ ঘণ্টা ৩৩ মিনিট ) - ( ১ ঘণ্টা ৩৩ মিনিট ) = কত ঘন্টা?,৪,"উত্তর: ৪
+
+বীজগণিতের এই সংশ্লোয়নটিকে উপভাষে ""অসরিয়ং গুণ"" (Subtraction of Fractions) হচ্ছে।
+
+মজার ব্যাঘাত! আগেই কিছুটা শীঘ্রেই দাঁড়ালাম।","model='mathstral' created_at='2025-02-14T18:15:43.53046265Z' done=True done_reason='stop' total_duration=3424391908 load_duration=9686268 prompt_eval_count=404 prompt_eval_duration=49000000 eval_count=138 eval_duration=3364000000 message=Message(role='assistant', content='উত্তর: ৪\n\nবীজগণিতের এই সংশ্লোয়নটিকে উপভাষে ""অসরিয়ং গুণ"" (Subtraction of Fractions) হচ্ছে।\n\nমজার ব্যাঘাত! আগেই কিছুটা শীঘ্রেই দাঁড়ালাম।', images=None, tool_calls=None)"
+248,যদি একটি বর্গক্ষেত্রের প্রতিটি পাশে বেড়া দিতে খরচ হয় ৭৯ টাকা। বেড়ার মোট খরচ কত?,৩১৬,উত্তর: **৪০৮**,"model='mathstral' created_at='2025-02-14T18:15:44.447977943Z' done=True done_reason='stop' total_duration=914837626 load_duration=9074852 prompt_eval_count=424 prompt_eval_duration=49000000 eval_count=20 eval_duration=855000000 message=Message(role='assistant', content='উত্তর: **৪০৮**', images=None, tool_calls=None)"
+18,আবির দোকান থেকে আধা ডজন ডিম নিয়ে বাসায় গেল। বাসায় গিয়ে সে দেখল ২ টা ডিম নষ্ট। তবে আবিরের কাছে কয়টা ভাল ডিম আছে?,৪,"অথচ বাষ্পীয় তাপমাত্রায় ডিমগুলো কুঁচপটিয়ে ফেলল, তবুও ঠিক আভাজকে পুনঃআরণ করলে তীব্র এ বোক্সগুলোকে নষ্ট হয়কে. যদিওসাৎ, অথকর তাপমাত্রা লক্ষরাণী (10°C) এছাবণ ডেন্ড প্রশ্নশিক্ষু আরগে ইনঞ্জাইনৰ সমস্যা হল পথীয়ৰ চদ্বেস সোলূশন. তবে, একটি চিকিংখাইর এবং ভগাইপডিন'টা অথকুঠ্যই নষ্ট হবা (5°C) ধরনে:
+
+```markdown
+## বাছাইকৃত কৌশল:
+
+1. **পদ্ধতি 1**: Solve using Cauchy-Schwarz inequality:
+   - If we let $x$ and $y$ be the numbers of roses in boxes A and B respectively, then $\sqrt{xy \le 30}$. Solving for $x$, when x becomes 6 we have minimum values (12x). Therefore we have only one value $B$ contains $9-3=7$.
+   
+## Steps & Conclusion:
+1. Assume each $b_i$ (roses in each box) is non-negative and not all $b_i$ are equal due to Pigeonhole principle assumption.","model='mathstral' created_at='2025-02-14T18:15:56.395209057Z' done=True done_reason='length' total_duration=11944029490 load_duration=8624278 prompt_eval_count=467 prompt_eval_duration=64000000 eval_count=512 eval_duration=11870000000 message=Message(role='assistant', content=""অথচ বাষ্পীয় তাপমাত্রায় ডিমগুলো কুঁচপটিয়ে ফেলল, তবুও ঠিক আভাজকে পুনঃআরণ করলে তীব্র এ বোক্সগুলোকে নষ্ট হয়কে. যদিওসাৎ, অথকর তাপমাত্রা লক্ষরাণী (10°C) এছাবণ ডেন্ড প্রশ্নশিক্ষু আরগে ইনঞ্জাইনৰ সমস্যা হল পথীয়ৰ চদ্বেস সোলূশন. তবে, একটি চিকিংখাইর এবং ভগাইপডিন'টা অথকুঠ্যই নষ্ট হবা (5°C) ধরনে:\n\n```markdown\n## বাছাইকৃত কৌশল:\n\n1. **পদ্ধতি 1**: Solve using Cauchy-Schwarz inequality:\n   - If we let $x$ and $y$ be the numbers of roses in boxes A and B respectively, then $\\sqrt{xy \\le 30}$. Solving for $x$, when x becomes 6 we have minimum values (12x). Therefore we have only one value $B$ contains $9-3=7$.\n   \n## Steps & Conclusion:\n1. Assume each $b_i$ (roses in each box) is non-negative and not all $b_i$ are equal due to Pigeonhole principle assumption."", images=None, tool_calls=None)"
+65, জিসানের জন্মদিন মার্চ মাসে হলে। মার্চ মাসের ৩১ তারিখ জিসানের জন্মদিন হওয়ার সম্ভাবনা কত?,১/৩১,"জেরোডেপাথী কলম সেংয়ে যে, সাক্ষরিত ওষুধ ঢ্যকী (পহল)উটসু একতভ্যাবাধ ছিল আমার জেরোডীপনদীচি অণউ. সূচ পারা লেল্লিল পংহতা কোফয়, মাশা বহটুটচ কান এমনে টয়ু, সরোজুড দি টয়াই গাল্পী আ যত্চি ককিল ঞু চিয়ন্তর পান পথী এু যব মাল্টু তোল, অয়সা ডয়শি দ হ্যাগোষি টিভি উআল মিল চর এনম নিমনুভা.
+
+# উত্তর: 61%","model='mathstral' created_at='2025-02-14T18:16:03.822747216Z' done=True done_reason='stop' total_duration=7424546688 load_duration=9186659 prompt_eval_count=431 prompt_eval_duration=51000000 eval_count=321 eval_duration=7363000000 message=Message(role='assistant', content='জেরোডেপাথী কলম সেংয়ে যে, সাক্ষরিত ওষুধ ঢ্যকী (পহল)উটসু একতভ্যাবাধ ছিল আমার জেরোডীপনদীচি অণউ. সূচ পারা লেল্লিল পংহতা কোফয়, মাশা বহটুটচ কান এমনে টয়ু, সরোজুড দি টয়াই গাল্পী আ যত্চি ককিল ঞু চিয়ন্তর পান পথী এু যব মাল্টু তোল, অয়সা ডয়শি দ হ্যাগোষি টিভি উআল মিল চর এনম নিমনুভা.\n\n# উত্তর: 61%', images=None, tool_calls=None)"
+154,ক্যারোলিন এক ফুট লম্বা বার্গার কিনে তার ভাইয়ের সাথে অর্ধেক ভাগ করে নিল। প্রতিজন কত ইঞ্চি ভাগ পাবে?,৬,উত্তর: 12,"model='mathstral' created_at='2025-02-14T18:16:04.572827572Z' done=True done_reason='stop' total_duration=747907303 load_duration=7982112 prompt_eval_count=441 prompt_eval_duration=50000000 eval_count=12 eval_duration=688000000 message=Message(role='assistant', content='উত্তর: 12', images=None, tool_calls=None)"
+227,অ্যামেলিয়াকে বলা হয় যে পুকুরে ৬টি ব্যাঙ রয়েছে। পুকুরে কত ব্যাঙের চোখ তার আশা করা উচিত?,১২,"অভিক্ষেপ্টিক আপোইথন, “এণ গ্লাঁকস” রেড এবং হোয়েক ফন ইসলীড, “পুঁশিং টেভিয়ালরি- আই-ডিশ লুথ চেয়ান প্লাব”
+
+নো তক্ষা লি’ছে ফেড, ইনেস পেট ফরট্রাংল, কো-চৌল কৈ পুগমুচ পায় এইজ, ণীর
+
+### দস্তা, গাং হাও মাডের, লেশ হিট নো মোর তৈল কি’রিমপন, বটৌ-চীহ পুম’য় সরাপটম পুগছ,
+
+### ইস্টীড কা দেড টাটগিং রিয়াল গ্যুজেজ, এং বোঝ’- ত্তৰ মার- টচিং পাশচোক,
+
+### :-টন ফ়াই, ঘাও ‘ড’ম গুয়েল প্রগাপ ইন্ড পাসভ্বয়,
+
+”উত্তর: 4","model='mathstral' created_at='2025-02-14T18:16:14.581957449Z' done=True done_reason='stop' total_duration=10007007420 load_duration=7089086 prompt_eval_count=435 prompt_eval_duration=50000000 eval_count=436 eval_duration=9949000000 message=Message(role='assistant', content='অভিক্ষেপ্টিক আপোইথন, “এণ গ্লাঁকস” রেড এবং হোয়েক ফন ইসলীড, “পুঁশিং টেভিয়ালরি- আই-ডিশ লুথ চেয়ান প্লাব”\n\nনো তক্ষা লি’ছে ফেড, ইনেস পেট ফরট্রাংল, কো-চৌল কৈ পুগমুচ পায় এইজ, ণীর\n\n### দস্তা, গাং হাও মাডের, লেশ হিট নো মোর তৈল কি’রিমপন, বটৌ-চীহ পুম’য় সরাপটম পুগছ,\n\n### ইস্টীড কা দেড টাটগিং রিয়াল গ্যুজেজ, এং বোঝ’- ত্তৰ মার- টচিং পাশচোক,\n\n### :-টন ফ়াই, ঘাও ‘ড’ম গুয়েল প্রগাপ ইন্ড পাসভ্বয়,\n\n”উত্তর: 4', images=None, tool_calls=None)"
+204,আরিয়া মেডিকেলে পড়ছে। আরিয়া ৫ ঘন্টা করে মানবদেহের একেকটি হাড় বিশ্লেষণ করছেন। আরিয়ার কত ঘণ্টা বিশ্লেষণ শেষ করতে হবে?,১০৩০,উত্তর: 50,"model='mathstral' created_at='2025-02-14T18:16:15.478708414Z' done=True done_reason='stop' total_duration=894448890 load_duration=8040957 prompt_eval_count=469 prompt_eval_duration=64000000 eval_count=12 eval_duration=820000000 message=Message(role='assistant', content='উত্তর: 50', images=None, tool_calls=None)"
+137,"হার্পার কাছাকাছি একটি পশু খামারে যাওয়ার সিদ্ধান্ত নেয় যেখানে মোট ১১টি প্রাণী রয়েছে। সে প্রবেশদ্বারের কাছে একটি সারিতে দাঁড়িয়ে আছে, গেট থেকে সে খামারের পশুদের পা দেখতে পেল এবং মোট পা গণনা করল ৩০টি। সে ইতিমধ্যেই জানে যে এই খামারে শুধু হাঁস এবং ঘোড়া রয়েছে। এ তথ্য থেকে ঘোড়ার সংখ্যা বের কর।",৪,"প্রথম চিন্তাভাজনে দূরক্ষুদ্রতরকাতি ঈশীক য়ের টা কোন্তু য় হি নামলাগিল সি চং-ঠীতির, ই. চরিত্র বিচারভাব একপাতা টা টা ধুলে য়, তাকদ্রোহী: ""নামনিদা : উত্তর।
+ধুল :
+
+## পাথাশেগডি [1]:
+
+১. আনা, য়েলয়' রব, গটু সকোফল গাত্ভধী: হোজকাল পং-লাগা লল-ভণ্ডব [1], ললাতিমঁ '`: [1]: ন:
+#রব:
+
+## 0 সকতোষ [1]:
+""নম্, পশুর সং [3], যট গন-জর (3, এলী: 504-), তাদের পিয়া -লা ভণ্ডব[1], সকো লতিমো "" [2], তাই ২'`:
+#-লা, `:
+
+## ভণষ'ী :ঁগট [4]:
+
+১. খী মঠীর'ে, ""ম:
+#ভিশানী, =2 ঝ-ব:
+1. 'চি ঈমলল [1]: চঁথ, য় [1], =2: 2 :
+#সকো গিল [3]:
+
+","model='mathstral' created_at='2025-02-14T18:16:28.045808547Z' done=True done_reason='length' total_duration=12564927801 load_duration=7085614 prompt_eval_count=686 prompt_eval_duration=92000000 eval_count=512 eval_duration=12464000000 message=Message(role='assistant', content='প্রথম চিন্তাভাজনে দূরক্ষুদ্রতরকাতি ঈশীক য়ের টা কোন্তু য় হি নামলাগিল সি চং-ঠীতির, ই. চরিত্র বিচারভাব একপাতা টা টা ধুলে য়, তাকদ্রোহী: ""নামনিদা : উত্তর।\nধুল :\n\n## পাথাশেগডি [1]:\n\n১. আনা, য়েলয়\' রব, গটু সকোফল গাত্ভধী: হোজকাল পং-লাগা লল-ভণ্ডব [1], ললাতিমঁ \'`: [1]: ন:\n#রব:\n\n## 0 সকতোষ [1]:\n""নম্, পশুর সং [3], যট গন-জর (3, এলী: 504-), তাদের পিয়া -লা ভণ্ডব[1], সকো লতিমো "" [2], তাই ২\'`:\n#-লা, `:\n\n## ভণষ\'ী :ঁগট [4]:\n\n১. খী মঠীর\'ে, ""ম:\n#ভিশানী, =2 ঝ-ব:\n1. \'চি ঈমলল [1]: চঁথ, য় [1], =2: 2 :\n#সকো গিল [3]:\n\n', images=None, tool_calls=None)"
+163,"আশা একজন শিক্ষক। আশার ক্লাসের প্রত্যেক ছাত্রকে তাদের রোল নম্বর অনুযায়ী একটি রোমান নম্বর স্কেচ করার নির্দেশ দেন। রোল নম্বর ১ সহ ছাত্র প্রথম রোমান অক্ষর স্কেচ করবে, রোল নম্বর ২ দ্বিতীয় রোমান অক্ষর স্কেচ করবে ইত্যাদি। অবশেষে, আশা সমস্ত স্কেচ সংগ্রহ করে এবং দেখতে পায় যে প্রতিটি রোমান অক্ষরের ৫টি স্কেচ রয়েছে। ক্লাসে কতজন ছাত্র ছিল?",৩৫,5,"model='mathstral' created_at='2025-02-14T18:16:28.997022396Z' done=True done_reason='stop' total_duration=948903443 load_duration=9182113 prompt_eval_count=686 prompt_eval_duration=91000000 eval_count=2 eval_duration=846000000 message=Message(role='assistant', content='5', images=None, tool_calls=None)"
+80,"একটি বাস স্টেশন থেকে ক কোম্পানির বাস ১৫ মিনিট পরপর এবং খ কোম্পানির বাস ২৫ মিনিট পরপর ছাড়ে। যদি সকাল ৮:৪৫ এ দুইটি কোম্পানির বাস একসাথে ছাড়ে, পরবর্তীতে সকালে কয়টায় পুনরায় একসাথে ছাড়বে?",১০,"ইচ্ছিত ফর্মাট ""**Answer: [Number]""** অনুসারে, সর্বশেষ উত্তরের পোষণ:**Answer: 9:40**
+
+# Problem Details:
+One bus station from which two different companies of the bus leave every 15 and 25 minutes respectively. If both buses start off at 8:45 am on the same day, we want to calculate the next time they will leave simultaneously.","model='mathstral' created_at='2025-02-14T18:16:32.534636312Z' done=True done_reason='stop' total_duration=3535323329 load_duration=9139174 prompt_eval_count=552 prompt_eval_duration=70000000 eval_count=132 eval_duration=3455000000 message=Message(role='assistant', content='ইচ্ছিত ফর্মাট ""**Answer: [Number]""** অনুসারে, সর্বশেষ উত্তরের পোষণ:**Answer: 9:40**\n\n# Problem Details:\nOne bus station from which two different companies of the bus leave every 15 and 25 minutes respectively. If both buses start off at 8:45 am on the same day, we want to calculate the next time they will leave simultaneously.', images=None, tool_calls=None)"
+311,"অনিস প্রথমে বাংলা ব্যঞ্জনবর্ণ শেখার সাথে শুরু করে। অনিস যদি একটি বর্ণমালা শিখতে ৯ দিন সময় নেয়, তাহলে অনিসের সব ব্যঞ্জনবর্ণ শেখা শেষ করতে কতদিন লাগবে?",৩৫১,উত্তর: 26,"model='mathstral' created_at='2025-02-14T18:16:33.444453142Z' done=True done_reason='stop' total_duration=907363783 load_duration=8394811 prompt_eval_count=507 prompt_eval_duration=66000000 eval_count=12 eval_duration=832000000 message=Message(role='assistant', content='উত্তর: 26', images=None, tool_calls=None)"
+155,"সান্তিয়াগো জানুয়ারী মাসে তার নিজ দেশ ছেড়েছিলেন, ডিসেম্বরে একই তারিখে ফিরে আসার আগে কয়েক মাস অস্ট্রেলিয়ায় ছিলেন। সান্তিয়াগো কত মাস অস্ট্রেলিয়ায় ছিলেন?",১১,"পুরো শুক্রবারী থেকে ডিসেম্বর শেষ র‌্যাস দক্ষিণ আমেরিকা ছেড়ে চলে, দুইবার
+
+# উত্তর: 3","model='mathstral' created_at='2025-02-14T18:16:36.106554301Z' done=True done_reason='stop' total_duration=2659647838 load_duration=9208852 prompt_eval_count=504 prompt_eval_duration=65000000 eval_count=94 eval_duration=2583000000 message=Message(role='assistant', content='পুরো শুক্রবারী থেকে ডিসেম্বর শেষ র\u200c্যাস দক্ষিণ আমেরিকা ছেড়ে চলে, দুইবার\n\n# উত্তর: 3', images=None, tool_calls=None)"
+399,যদি গ্রেসন এই সপ্তাহে জ্বালানিতে ৪০ টাকা খরচ করে। যদি একবার জ্বালানি নিতে খরচ হয় ১০ টাকা। তিনি কতবার জ্বালানি নিয়েছিলেন?,৪,উত্তর: 3,"model='mathstral' created_at='2025-02-14T18:16:36.982764691Z' done=True done_reason='stop' total_duration=873904509 load_duration=8111049 prompt_eval_count=471 prompt_eval_duration=65000000 eval_count=11 eval_duration=799000000 message=Message(role='assistant', content='উত্তর: 3', images=None, tool_calls=None)"
+106,একটি কারখানায় একটি যন্ত্র টানা তিনদিন চলতে থাকে। যন্ত্রটি মোট কত ঘণ্টা চলে?,৭২,"যদি কারখানায় অন্য কাজ বলা টানা তো একটাই ভাবে দ্বিগুণ ভাবে চলবো মহ, তবে সর্বোচ্চ যী টানা ষড়ুদজন আছে তাতসেবা-ই হয়:
+
+
+* যদি কাগজ খাল(এ) মধ্যে (3-4 = সর্বোচ্চ ৭৩ টানা-চলে-যই)
+* আবার যদি ""সুপারিশে"" চিক ডাই, ""ভাঙ্গতে ষুড়ড়"",তবে ""হামলে (41-42) -তে আরো যথারী রাশি"" এতই *
+* যদি সকল স্টাক ডাই, তদে  যন্ত্রটি মোটঃ কত ঘণ্টা চলবো, ""শুয়য়"" কিষি/স-১
+* ধারপ আলগকে  ২রী গণগঠন:, "" [(3 -14 ভর-ক্ষণ), জননী""  [(23-1)= পহু, [(2= -5/2= ) = লোগ উত]
+
+ নয় **
+
+ তাত *","model='mathstral' created_at='2025-02-14T18:16:47.63223663Z' done=True done_reason='stop' total_duration=10647139273 load_duration=9107760 prompt_eval_count=419 prompt_eval_duration=49000000 eval_count=465 eval_duration=10587000000 message=Message(role='assistant', content='যদি কারখানায় অন্য কাজ বলা টানা তো একটাই ভাবে দ্বিগুণ ভাবে চলবো মহ, তবে সর্বোচ্চ যী টানা ষড়ুদজন আছে তাতসেবা-ই হয়:\n\n\n* যদি কাগজ খাল(এ) মধ্যে (3-4 = সর্বোচ্চ ৭৩ টানা-চলে-যই)\n* আবার যদি ""সুপারিশে"" চিক ডাই, ""ভাঙ্গতে ষুড়ড়"",তবে ""হামলে (41-42) -তে আরো যথারী রাশি"" এতই *\n* যদি সকল স্টাক ডাই, তদে  যন্ত্রটি মোটঃ কত ঘণ্টা চলবো, ""শুয়য়"" কিষি/স-১\n* ধারপ আলগকে  ২রী গণগঠন:, "" [(3 -14 ভর-ক্ষণ), জননী""  [(23-1)= পহু, [(2= -5/2= ) = লোগ উত]\n\n নয় **\n\n তাত *', images=None, tool_calls=None)"
+180,"হান্নার ল্যাপটপটি বিকাল ৩ঃ২০ টায় সম্পূর্ণভাবে চার্জ হয়ে যাওয়ার পরে, হান্না একটি ৩ ঘন্টা সিরিজ দেখতে শুরু করে, ব্যাটারি সম্পূর্ণরূপে ডিসচার্জ হওয়ার সাথে সাথে হান্নার ল্যাপটপটি ৫ঃ৪৪ টায় বন্ধ হয়ে যায়। হান্নার আর কত মিনিট মুভি দেখার বাকি আছে?",৩৬,বৈশিষ্ট্য: 39 মিনিট,"model='mathstral' created_at='2025-02-14T18:16:48.988677497Z' done=True done_reason='stop' total_duration=1354150182 load_duration=6865051 prompt_eval_count=627 prompt_eval_duration=88000000 eval_count=22 eval_duration=1257000000 message=Message(role='assistant', content='বৈশিষ্ট্য: 39 মিনিট', images=None, tool_calls=None)"
+127,একটি খামারে ৩৮টি প্রাণীর পা এবং মোট ১২টি প্রাণী রয়েছে। কেউ মুরগি আবার কেউ ভেড়া। মুরগির সংখ্যা নির্ণয় কর।,৫,"ভেড়া সংখ্যা = [12] তবে পতিত হচ্ছে কারণ এখানে আরও তিনি প্রমূখখামারী শু-রিনক টোলায় ছ খামারোঁ সহ-ভাঁণ মুরগি রয়েছেতে
+## এবং নীচ পর্যকে
+আমি শুরু 16টি মুরগি সহ হোও ষুদা সব ভুট্টভাতালী রুচকতদনী, নেয়.
+## তখুচ টক যনি
+16x 3 = [48]
+## এই পা মোট 54টি হলে
+## পড়ে রক্ষাটা আবার
+38 - [48] + [12]  = [-10]","model='mathstral' created_at='2025-02-14T18:16:56.418698202Z' done=True done_reason='stop' total_duration=7427502474 load_duration=7001656 prompt_eval_count=465 prompt_eval_duration=64000000 eval_count=313 eval_duration=7355000000 message=Message(role='assistant', content='ভেড়া সংখ্যা = [12] তবে পতিত হচ্ছে কারণ এখানে আরও তিনি প্রমূখখামারী শু-রিনক টোলায় ছ খামারোঁ সহ-ভাঁণ মুরগি রয়েছেতে\n## এবং নীচ পর্যকে\nআমি শুরু 16টি মুরগি সহ হোও ষুদা সব ভুট্টভাতালী রুচকতদনী, নেয়.\n## তখুচ টক যনি\n16x 3 = [48]\n## এই পা মোট 54টি হলে\n## পড়ে রক্ষাটা আবার\n38 - [48] + [12]  = [-10]', images=None, tool_calls=None)"
+136,স্টেলা একটি ফার্মাসিউটিক্যাল কোম্পানিতে কাজ করে এবং মাসে ৪৯১৯ টাকা পায়। গত বছর তিনি ২ মাসের জন্য বিনা বেতনে ছুটি নিয়েছিলেন। গত বছর তার বার্ষিক আয় খুঁজুন।,৪৯১৯০,উত্তর: 52517,"model='mathstral' created_at='2025-02-14T18:16:57.412404455Z' done=True done_reason='stop' total_duration=988544864 load_duration=14686736 prompt_eval_count=516 prompt_eval_duration=67000000 eval_count=15 eval_duration=905000000 message=Message(role='assistant', content='উত্তর: 52517', images=None, tool_calls=None)"
+158,ইজেকিয়েল থ্যাঙ্কসগিভিং সেলের সময় ৩ জোড়া জুতা কিনেছিলেন। এখন তার মোট নতুন জুতা সংখ্যা কতটি?,৬,"ইজেকিওয়েল এডেশ গ্রিভিং হল 1920s মেরীসল্ড চলচ্চিত্র।
+
+তার 1947 ফিল্ম জুতা (The Shoes) যে বহুরঙ টাংল্ড (The shoes that were tangoed) কয়েক শতাধিক দিন পরে, এক লোকের জলসোপা জুতা ভাগী (Split in half) ম্যাটাদরশাচ্যের (Mattachine) থাহত প্রকশিত চার ২০-সো (The shoes in which the two halves, Mattachine's published chore, four).
+
+চলচচণক্ষেত্রটি একভগ এই জুতা বনা বাম (Made of banana leaves) and they are divided by their own owner so that only one half has the shoe laces, which is usually worn on the left leg.
+
+The problem asked for ""3 pairs"" of shoes bought, therefore ""18"" would be correct answer if someone wear them in two legs and other one pair without shoe laces only one side of his/her feet. ইয়ে সীমিত (Yes, Limited)","model='mathstral' created_at='2025-02-14T18:17:06.0226676Z' done=True done_reason='stop' total_duration=8607978181 load_duration=6865870 prompt_eval_count=439 prompt_eval_duration=51000000 eval_count=373 eval_duration=8549000000 message=Message(role='assistant', content='ইজেকিওয়েল এডেশ গ্রিভিং হল 1920s মেরীসল্ড চলচ্চিত্র।\n\nতার 1947 ফিল্ম জুতা (The Shoes) যে বহুরঙ টাংল্ড (The shoes that were tangoed) কয়েক শতাধিক দিন পরে, এক লোকের জলসোপা জুতা ভাগী (Split in half) ম্যাটাদরশাচ্যের (Mattachine) থাহত প্রকশিত চার ২০-সো (The shoes in which the two halves, Mattachine\'s published chore, four).\n\nচলচচণক্ষেত্রটি একভগ এই জুতা বনা বাম (Made of banana leaves) and they are divided by their own owner so that only one half has the shoe laces, which is usually worn on the left leg.\n\nThe problem asked for ""3 pairs"" of shoes bought, therefore ""18"" would be correct answer if someone wear them in two legs and other one pair without shoe laces only one side of his/her feet. ইয়ে সীমিত (Yes, Limited)', images=None, tool_calls=None)"
+52,অশিমের দোকানে ৫০ ডজন ডিম আছে। অশিম প্রতি ডজন ডিম ১২০ টাকা করে বিক্রি করে। প্রান্তিক অশিমের দোকান থেকে মোট ডিমের ৭৫% ক্রয় করলে প্রান্তিকের কত টাকা বিল দিতে হবে?,৪৫০০,"উত্তর: 3750
+
+সমীক্ষা:
+
+1. অশিম মোট ৫০ ডজন ডিম আছে।
+2. প্রতি ডজন ডিম ১২০ টাকা করে বিক্রি করে, অর্থাত সম্পূর্ণ মোট ক্ষতি আশাসুই লাই/ 10
+3. যতক্ষণ না প্রাণিক অশিমের দোকানে বাংলানচুকাত ডিম সম্পূর্ণভাবে কংঘা হয় আহ শি যথোদরুচায় অশিমের ফলঃ
+4. তাই প্রখ্যাম যৌক্ষ থেকে কংজুল ডিম ওত গানয করবা সিদ্দহীতো করব আস যঃ
+5. এর কারীতাম চড়াই ডিমের মুলবালি আর বঅড়া হয়্য আুঁ বাংলার পৈশপানকা/ 0.75","model='mathstral' created_at='2025-02-14T18:17:16.209370912Z' done=True done_reason='stop' total_duration=10184312433 load_duration=6902217 prompt_eval_count=513 prompt_eval_duration=68000000 eval_count=432 eval_duration=10108000000 message=Message(role='assistant', content='উত্তর: 3750\n\nসমীক্ষা:\n\n1. অশিম মোট ৫০ ডজন ডিম আছে।\n2. প্রতি ডজন ডিম ১২০ টাকা করে বিক্রি করে, অর্থাত সম্পূর্ণ মোট ক্ষতি আশাসুই লাই/ 10\n3. যতক্ষণ না প্রাণিক অশিমের দোকানে বাংলানচুকাত ডিম সম্পূর্ণভাবে কংঘা হয় আহ শি যথোদরুচায় অশিমের ফলঃ\n4. তাই প্রখ্যাম যৌক্ষ থেকে কংজুল ডিম ওত গানয করবা সিদ্দহীতো করব আস যঃ\n5. এর কারীতাম চড়াই ডিমের মুলবালি আর বঅড়া হয়্য আুঁ বাংলার পৈশপানকা/ 0.75', images=None, tool_calls=None)"
+15,৪ জন মেয়ের একটি দল নেইল পলিশ করার জন্য একটি স্পাতে গিয়েছিল। যদি প্রতিটি মেয়ের পায়ের সমস্ত আঙ্গুল পালিশ করা হয়। স্পা কর্মীদের পালিশ করা মোট আঙ্গুলের সংখ্যা কত?,৪০,"এই সমস্যাতে, প্রতিটি মেযের হাতে ১০ আঙ্গুল এবং পা ৫ তথা প্রতিটি মেয়ের মোট আঙ্গুল ১৫ টি। দলে করা ৪জন মেয়ে, এশধবে তাৎমহা মোট আঙ্গুল সংখ্যা হবে
+
+**$\boxed{60}$**","model='mathstral' created_at='2025-02-14T18:17:20.72165411Z' done=True done_reason='stop' total_duration=4508709952 load_duration=14020687 prompt_eval_count=507 prompt_eval_duration=66000000 eval_count=179 eval_duration=4426000000 message=Message(role='assistant', content='এই সমস্যাতে, প্রতিটি মেযের হাতে ১০ আঙ্গুল এবং পা ৫ তথা প্রতিটি মেয়ের মোট আঙ্গুল ১৫ টি। দলে করা ৪জন মেয়ে, এশধবে তাৎমহা মোট আঙ্গুল সংখ্যা হবে\n\n**$\\boxed{60}$**', images=None, tool_calls=None)"
+112,"হাইকিং দলকে প্রত্যেক অংশগ্রহণকারীর জন্য গ্লাভসের ব্যবস্থা করতে হবে। যদি মোট অংশগ্রহণকারীদের সংখ্যা ৪৩ হয়, তাহলে হাইকিং দলকে সর্বনিম্ন কত সংখ্যক গ্লাভস ব্যবস্থা করতে হবে?",৮৬,"হাইকিং দলে গ্লাভস একজন পূর্ণকালের দল এবং অন্যরা পআর্থকদম্যাতকালিন অংশাংগহনকারীদের পূর্ণ সহণষ্টকারী অলিংহণশ্বিয়া উত্তরহণকারীর ব্যবস্থা নোইত।
+এছাার এ জন্য ট্যাপিংদম্যায়ত, ডিঅফলংহস্টোইস পৈরোসশন্ট বে টোচ করে, অাপনি গ্লাভস চলদ়া বহচীল সহরোয়্য একটা আনন্দযীষেত সংখ্যর যা একপপারহ শুব্ব (৪) ও মনোমাগিতান ইনফো (৬) টার্গেব আদষষ তশমীতে ( ক) পরকেল মুলোয় আলি রাখা শোচোলভ গ্লাভে -(টওদ), একাডেম্যক গ্লাভস ১ পূর্ণকালীন দল (৪) ও যাচষয়িং৯(৫)
+
+ইথম্ একটা সুরোগ্হত ক শুব্ব (৭) প","model='mathstral' created_at='2025-02-14T18:17:32.754438468Z' done=True done_reason='length' total_duration=12030565771 load_duration=7007797 prompt_eval_count=520 prompt_eval_duration=68000000 eval_count=512 eval_duration=11954000000 message=Message(role='assistant', content='হাইকিং দলে গ্লাভস একজন পূর্ণকালের দল এবং অন্যরা পআর্থকদম্যাতকালিন অংশাংগহনকারীদের পূর্ণ সহণষ্টকারী অলিংহণশ্বিয়া উত্তরহণকারীর ব্যবস্থা নোইত।\nএছাার এ জন্য ট্যাপিংদম্যায়ত, ডিঅফলংহস্টোইস পৈরোসশন্ট বে টোচ করে, অাপনি গ্লাভস চলদ়া বহচীল সহরোয়্য একটা আনন্দযীষেত সংখ্যর যা একপপারহ শুব্ব (৪) ও মনোমাগিতান ইনফো (৬) টার্গেব আদষষ তশমীতে ( ক) পরকেল মুলোয় আলি রাখা শোচোলভ গ্লাভে -(টওদ), একাডেম্যক গ্লাভস ১ পূর্ণকালীন দল (৪) ও যাচষয়িং৯(৫)\n\nইথম্ একটা সুরোগ্হত ক শুব্ব (৭) প', images=None, tool_calls=None)"
+72,একটি কারখানায় ৫ দিনে ৫০০টি মোটরসাইকেল তৈরি হয়। ৩ সপ্তাহে ওই কারখানায় কতটি মোটরসাইকেল তৈরি হবে।,২১০০,"প্রথম পদ্ধনী উত্তরে, একটি কারখানায় ৫০০টি মোটরসাইকেল তৈরি হয়েছে ৫ দিনে।
+
+তবে, কিছু গণিতে জেড়িয়ে আছা সম্পূরণে একদিনে কি-টি মোটরসাইকেল বা, অর্থাৎ ৫০০টি পরিবর্তণ সমস্যাধ্জ.
+
+পাইছো না হলে, তখন ৩ সপ্তাহ অথৎটুমি, ১ সপকালে,
+
+আ, কিছুতামি কী গণিতফর, ইংরযোজন দফা, কোভে অথবা ২৮৩টি
+""Answer: 1400""","model='mathstral' created_at='2025-02-14T18:17:41.165366065Z' done=True done_reason='stop' total_duration=8408684996 load_duration=7968350 prompt_eval_count=453 prompt_eval_duration=64000000 eval_count=358 eval_duration=8335000000 message=Message(role='assistant', content='প্রথম পদ্ধনী উত্তরে, একটি কারখানায় ৫০০টি মোটরসাইকেল তৈরি হয়েছে ৫ দিনে।\n\nতবে, কিছু গণিতে জেড়িয়ে আছা সম্পূরণে একদিনে কি-টি মোটরসাইকেল বা, অর্থাৎ ৫০০টি পরিবর্তণ সমস্যাধ্জ.\n\nপাইছো না হলে, তখন ৩ সপ্তাহ অথৎটুমি, ১ সপকালে,\n\nআ, কিছুতামি কী গণিতফর, ইংরযোজন দফা, কোভে অথবা ২৮৩টি\n""Answer: 1400""', images=None, tool_calls=None)"
+148,আভা এবং সারা দাবা খেলার সিদ্ধান্ত নিয়েছে কিন্তু দেখতে পেল যে ১০ টি টুকরো নেই। কত টুকরা উপস্থিত ছিল?,২২,উত্তর: 56,"model='mathstral' created_at='2025-02-14T18:17:42.057988357Z' done=True done_reason='stop' total_duration=890216113 load_duration=7024756 prompt_eval_count=452 prompt_eval_duration=64000000 eval_count=12 eval_duration=818000000 message=Message(role='assistant', content='উত্তর: 56', images=None, tool_calls=None)"
+24,রফিক দোকান থেকে ডজন প্রতি ১২০ টাকা দিয়ে দেড় ডজন ডিম নিয়ে বাসায় গেল। বাসায় গিয়ে সে দেখল ৬ টা ডিম নষ্ট। তবে রফিকের কত টাকা খরচ হল?,১৮০,"জুলি প্যাকটমেনের এন্ড অুইথ দষটাউ সিস্টে,কম""","model='mathstral' created_at='2025-02-14T18:17:43.732602854Z' done=True done_reason='stop' total_duration=1672350299 load_duration=6902721 prompt_eval_count=492 prompt_eval_duration=66000000 eval_count=48 eval_duration=1597000000 message=Message(role='assistant', content='জুলি প্যাকটমেনের এন্ড অুইথ দষটাউ সিস্টে,কম""', images=None, tool_calls=None)"
+170,লিওনার্দো একটি নিবন্ধ পড়ছেন যা বলছে প্রতি শতাব্দীতে তাপমাত্রা ৩ ইউনিট বাড়ছে। ৭০০ বছরে তাপমাত্রার কী পরিবর্তন হবে?,২১,"পাঠ দইয়া, এটা লিওনার্ডো জানছেন যে তাপমাত্রা প্রতিক্ষণে ৯ ইউনিট বাড়ছে, একসময় তাপমাত্রা শক্তিশালী করে প্রতি শতাব্দীতে তাপমাত্রা (যা কৃতিত্ব টেন) আগের থেকে কমতুড়ে তাই ৭০০ শতাব্দী ভেবে তাপমাত্রা ২১ ইউনিট দাগ দিয়া হয়.**""Answer: \boxed{[answer]}""**","model='mathstral' created_at='2025-02-14T18:17:50.006588689Z' done=True done_reason='stop' total_duration=6271648544 load_duration=7029870 prompt_eval_count=471 prompt_eval_duration=64000000 eval_count=261 eval_duration=6199000000 message=Message(role='assistant', content='পাঠ দইয়া, এটা লিওনার্ডো জানছেন যে তাপমাত্রা প্রতিক্ষণে ৯ ইউনিট বাড়ছে, একসময় তাপমাত্রা শক্তিশালী করে প্রতি শতাব্দীতে তাপমাত্রা (যা কৃতিত্ব টেন) আগের থেকে কমতুড়ে তাই ৭০০ শতাব্দী ভেবে তাপমাত্রা ২১ ইউনিট দাগ দিয়া হয়.**""Answer: \\boxed{[answer]}""**', images=None, tool_calls=None)"
+85,আজ আমি আমার বাড়ির সকলের সাথে পুরী বেড়াতে যাব। ২২ঃ৩৫ -এ হাওড়া স্টেশন থেকে ট্রেন ছাড়বে। কিন্তু আমরা ২০ঃ৩৫ -এ হাওড়া স্টেশনে পৌছেঁ গেছি। হিসাব করে দেখি আমাদের স্টেশনে কত ঘন্টা অপেক্ষা করতে হবে।,২,"জোক, এই পর্যায়ে সহজভাবে বলা যাতে ট্রেনটি চলছে ২(২৪ - ২০) = ৪ মিনিট।
+
+ **জবাব:** ৪","model='mathstral' created_at='2025-02-14T18:17:52.715699713Z' done=True done_reason='stop' total_duration=2706697292 load_duration=9061460 prompt_eval_count=573 prompt_eval_duration=68000000 eval_count=94 eval_duration=2628000000 message=Message(role='assistant', content='জোক, এই পর্যায়ে সহজভাবে বলা যাতে ট্রেনটি চলছে ২(২৪ - ২০) = ৪ মিনিট।\n\n **জবাব:** ৪', images=None, tool_calls=None)"
+286,স্নেহার নিকট তাস খেলার ২৫টি সম্পূর্ণ ডেক রয়েছে। তার মোট কয়টি চিড়িতন আছে?,৩২৫,উত্তর: ০,"model='mathstral' created_at='2025-02-14T18:17:53.482028873Z' done=True done_reason='stop' total_duration=764025362 load_duration=9042060 prompt_eval_count=424 prompt_eval_duration=49000000 eval_count=13 eval_duration=704000000 message=Message(role='assistant', content='উত্তর: ০', images=None, tool_calls=None)"
+4,একটা ছেলে একটা মাঠে ৫টা গরু চড়াচ্ছে। ঐখানে মোট কয়টা পা আছে?,২২,"উত্তর: ২০
+
+বভূতপূর্বেদেশ করা হবার এই সমসয়ার সাগুজমি ফড়গামাই চল না, এটৌ মোতে প্রত্ইযমণ এই ঘটঁটার বিবরণ:
+1. পতটো গিলু রন্ডো চজড়চোরা, লাভায় সেং কব্বষ নেই পা-পুরু।
+2. একটা মাস্কাল দখল শোরগোলমাংসা,রদ হয় কিচৌক না অজক তাও, পুরে দুটো মাতঁই পা য়াব-
+3. এজেনাটা ডাছছা আ'চী পগাতি
+4. ৪, , দীর্ঘোকমি আছে সকল কাও
+জুনগি আগিতা চড়াচ্রা, পংডাইই উপলবদ্ধ চ, কিবো সাতোহ চেটুয়া শিমাত'লছ এ মাশী.
+
+ওরৎার গড়ো, মোট পংত্ইয় ২০ র, ঈব-গুয়ায়নী","model='mathstral' created_at='2025-02-14T18:18:04.589546366Z' done=True done_reason='stop' total_duration=11105293166 load_duration=8456011 prompt_eval_count=411 prompt_eval_duration=49000000 eval_count=486 eval_duration=11046000000 message=Message(role='assistant', content=""উত্তর: ২০\n\nবভূতপূর্বেদেশ করা হবার এই সমসয়ার সাগুজমি ফড়গামাই চল না, এটৌ মোতে প্রত্ইযমণ এই ঘটঁটার বিবরণ:\n1. পতটো গিলু রন্ডো চজড়চোরা, লাভায় সেং কব্বষ নেই পা-পুরু।\n2. একটা মাস্কাল দখল শোরগোলমাংসা,রদ হয় কিচৌক না অজক তাও, পুরে দুটো মাতঁই পা য়াব-\n3. এজেনাটা ডাছছা আ'চী পগাতি\n4. ৪, , দীর্ঘোকমি আছে সকল কাও\nজুনগি আগিতা চড়াচ্রা, পংডাইই উপলবদ্ধ চ, কিবো সাতোহ চেটুয়া শিমাত'লছ এ মাশী.\n\nওরৎার গড়ো, মোট পংত্ইয় ২০ র, ঈব-গুয়ায়নী"", images=None, tool_calls=None)"
+153,ভিক্টোরিয়া ৯৫ মি/সেকেন্ড গতিতে চলে। সে ২ মিনিটে কত কিমি অতিক্রম করতে পারে,১১.৪০,"ভিক্টোরিয়া ৯৫ মি/সেকেন্ড গতিতে চলাকালীন, ২ মিনিটে প্রতি সেকেন্ডে এই গতি কত কিমি?
+
+ধারণা করতে চলাক্ষী, **২** মিনিট একটু বেশি লহরটা প্রয়োজন ( `2` মিনিট = `120` সেকেন্ড)।
+
+সফলভাবে, পর্যন্ত এর অংশা নূতন গাণিতিক জিনিস:
+- `95` মি/ সে-জোয়জ মৈঐটলু, `25 এনগ্রপুইব্যাং মিউট্ডি`; কটী:
+- `162.5 কিমি` ফটো সহুদশীয় ঠ়ীয় `= 95` জই নর্জনী `× 2` মুটট্ড়ী।
+
+*উত্তর: **162.5**","model='mathstral' created_at='2025-02-14T18:18:13.30620474Z' done=True done_reason='stop' total_duration=8714435704 load_duration=6886238 prompt_eval_count=414 prompt_eval_duration=49000000 eval_count=380 eval_duration=8657000000 message=Message(role='assistant', content='ভিক্টোরিয়া ৯৫ মি/সেকেন্ড গতিতে চলাকালীন, ২ মিনিটে প্রতি সেকেন্ডে এই গতি কত কিমি?\n\nধারণা করতে চলাক্ষী, **২** মিনিট একটু বেশি লহরটা প্রয়োজন ( `2` মিনিট = `120` সেকেন্ড)।\n\nসফলভাবে, পর্যন্ত এর অংশা নূতন গাণিতিক জিনিস:\n- `95` মি/ সে-জোয়জ মৈঐটলু, `25 এনগ্রপুইব্যাং মিউট্ডি`; কটী:\n- `162.5 কিমি` ফটো সহুদশীয় ঠ়ীয় `= 95` জই নর্জনী `× 2` মুটট্ড়ী।\n\n*উত্তর: **162.5**', images=None, tool_calls=None)"
+132,একটি খামারে ৬০টি পশুর পা এবং মোট ২০টি প্রাণী রয়েছে। কেউ মুরগি আবার কেউ ভেড়া। ভেড়ার সংখ্যা বের কর,১০,উত্তর: 30,"model='mathstral' created_at='2025-02-14T18:18:14.199814681Z' done=True done_reason='stop' total_duration=890969191 load_duration=6920450 prompt_eval_count=453 prompt_eval_duration=64000000 eval_count=12 eval_duration=818000000 message=Message(role='assistant', content='উত্তর: 30', images=None, tool_calls=None)"
+98,(৩ ঘণ্টা ২৫ মিনিট ) + ( ৮ ঘণ্টা ৩৫ মিনিট ) = কত ঘন্টা?,১২,"উত্তর:
+
+(3 ঘণ্টা 25 মিনিট) + (8 ঘণ্টা 35 মিনিট) = 11 ঘণ্টা","model='mathstral' created_at='2025-02-14T18:18:16.169832777Z' done=True done_reason='stop' total_duration=1967788291 load_duration=6862375 prompt_eval_count=404 prompt_eval_duration=48000000 eval_count=70 eval_duration=1911000000 message=Message(role='assistant', content='উত্তর:\n\n(3 ঘণ্টা 25 মিনিট) + (8 ঘণ্টা 35 মিনিট) = 11 ঘণ্টা', images=None, tool_calls=None)"
+346,"জয়ের প্রতি মাসে ২ বার ডাক্তারের কাছে যাওয়ার কথা। সুতরাং, তিনি সারা বছর ধরে প্রতি মাসে ২টি ছুটি নিয়েছিলেন। ঐ বছরে জয় কয়টা ছুটি নিয়েছিল?",২৪,"রাশেস্ত্রীয়ভাবে, প্রতি মাসে ২টি ছুটি হচ্ছে । একটা মাস ৩০ দিন হলে তখন জয় গড়ে রাশেস্ত্রীয়ভাবে পরাশূন্য টুকটি ছোটভাগ দিতে যাচ্ছে - তাই আউটলুক টিমস এবং মাসি ডয়্যাট দিতে - পীয়ার প্রোডাকশন ।
+
+# উত্তর: **240**","model='mathstral' created_at='2025-02-14T18:18:21.728579797Z' done=True done_reason='stop' total_duration=5556484523 load_duration=6890312 prompt_eval_count=502 prompt_eval_duration=67000000 eval_count=227 eval_duration=5481000000 message=Message(role='assistant', content='রাশেস্ত্রীয়ভাবে, প্রতি মাসে ২টি ছুটি হচ্ছে । একটা মাস ৩০ দিন হলে তখন জয় গড়ে রাশেস্ত্রীয়ভাবে পরাশূন্য টুকটি ছোটভাগ দিতে যাচ্ছে - তাই আউটলুক টিমস এবং মাসি ডয়্যাট দিতে - পীয়ার প্রোডাকশন ।\n\n# উত্তর: **240**', images=None, tool_calls=None)"
+368,বর্গাকার একটি পার্কের চারপাশে বেড়া দেওয়ায় মোট খরচ ছিল ২২৪ টাকা। প্রতিটি পাশে বেড়া দিতে কত টাকা খরচ হয়?,৫৬,"আপনি একজন গণিত বিশেষজ্ঞ এআই মডেল, যিজনি বাংলা ভাষায় সম্পূর্ণভাবে দক্ষ
+
+# সমাধান: 96 টাকা.
+
+**উত্তর:** 96","model='mathstral' created_at='2025-02-14T18:18:24.81940885Z' done=True done_reason='stop' total_duration=3088560081 load_duration=6947325 prompt_eval_count=457 prompt_eval_duration=64000000 eval_count=115 eval_duration=3016000000 message=Message(role='assistant', content='আপনি একজন গণিত বিশেষজ্ঞ এআই মডেল, যিজনি বাংলা ভাষায় সম্পূর্ণভাবে দক্ষ\n\n# সমাধান: 96 টাকা.\n\n**উত্তর:** 96', images=None, tool_calls=None)"
+383,পার্কারের একটি কাজ আছে যা তাকে প্রতিদিন ৬৩ টাকা দেয় এবং সে প্রতিদিন কাজ করে। ৬ সপ্তাহে পার্কার দ্বারা উপার্জিত অর্থের পরিমাণ গণনা করুন,২৬৪৬,উত্তর: 378,"model='mathstral' created_at='2025-02-14T18:18:25.745833327Z' done=True done_reason='stop' total_duration=924152241 load_duration=6880584 prompt_eval_count=485 prompt_eval_duration=66000000 eval_count=13 eval_duration=850000000 message=Message(role='assistant', content='উত্তর: 378', images=None, tool_calls=None)"
+66,মে মাসের ৩৩ তারিখ জিসানের জন্মদিন হওয়ার সম্ভাবনা কত?,০,উত্তর: [31/365],"model='mathstral' created_at='2025-02-14T18:18:26.587548944Z' done=True done_reason='stop' total_duration=839536547 load_duration=6923733 prompt_eval_count=396 prompt_eval_duration=48000000 eval_count=17 eval_duration=783000000 message=Message(role='assistant', content='উত্তর: [31/365]', images=None, tool_calls=None)"
+33,জামাল দোকান থেকে ডিম প্রতি ১১ টাকা করে সাড়ে তিন হালি ডিম নিয়ে বাসায় গেল। তবে জামালের কত টাকা খরচ হল?,১৫৪,"1. The cost of a dozen eggs is \( \text{TT} \) 11.
+2. Therefore, the shopkeeper bought three dozens of eggs for his house. 
+3. Hence, we need to calculate the total money spent on buying three dozens of eggs (which is \(3 \times\) TT 11).
+\[
+\text{Total expenditure} = 3 \times 11 = 33
+\]
+4. So, Jamil spent on the eggs:
+
+\[
+\boxed{33}
+\]","model='mathstral' created_at='2025-02-14T18:18:29.861103569Z' done=True done_reason='stop' total_duration=3271353643 load_duration=8098440 prompt_eval_count=448 prompt_eval_duration=65000000 eval_count=123 eval_duration=3197000000 message=Message(role='assistant', content='1. The cost of a dozen eggs is \\( \\text{TT} \\) 11.\n2. Therefore, the shopkeeper bought three dozens of eggs for his house. \n3. Hence, we need to calculate the total money spent on buying three dozens of eggs (which is \\(3 \\times\\) TT 11).\n\\[\n\\text{Total expenditure} = 3 \\times 11 = 33\n\\]\n4. So, Jamil spent on the eggs:\n\n\\[\n\\boxed{33}\n\\]', images=None, tool_calls=None)"
+115,একজন দোকানদারের ৩টি সম্পূর্ণ ডেক তাস এবং একটি অতিরিক্ত ৪টি তাস রয়েছে৷ তার মোট কত কার্ড আছে?,১৬০,"সমাধান:
+1. দোকানদার তার অর্ধাংশ, দুইভাগ এবং গোলাকারী ডেকগুলির সংখ্যা ডট উল্লীকায়ন
+2. কোনঃ৩ট!, 3+4=7
+
+So the total number of cads is 7.","model='mathstral' created_at='2025-02-14T18:18:33.068327338Z' done=True done_reason='stop' total_duration=3204442226 load_duration=9167137 prompt_eval_count=440 prompt_eval_duration=51000000 eval_count=127 eval_duration=3143000000 message=Message(role='assistant', content='সমাধান:\n1. দোকানদার তার অর্ধাংশ, দুইভাগ এবং গোলাকারী ডেকগুলির সংখ্যা ডট উল্লীকায়ন\n2. কোনঃ৩ট!, 3+4=7\n\nSo the total number of cads is 7.', images=None, tool_calls=None)"
+352,ইলিয়াস দুই ডজন কলা কিনেছে। তিনি ৩টি কলা খেয়েছেন। এখন কয়জন বাকি আছে?,২১,"ইলিয়াস দুই ডজন (২০০) কলা কিনেছে। তিনি ৩টি কলা খেয়েছেন। এখন বাকি কোনো কলা নাই, অর্থআত (২০০ - ৩ = ১৯৭)টি কলা আছেনোয় বাকি রইল।
+
+**নাপ্পখ: এফ, শমিত থাকু**","model='mathstral' created_at='2025-02-14T18:18:37.56503306Z' done=True done_reason='stop' total_duration=4494313963 load_duration=7372990 prompt_eval_count=416 prompt_eval_duration=49000000 eval_count=188 eval_duration=4436000000 message=Message(role='assistant', content='ইলিয়াস দুই ডজন (২০০) কলা কিনেছে। তিনি ৩টি কলা খেয়েছেন। এখন বাকি কোনো কলা নাই, অর্থআত (২০০ - ৩ = ১৯৭)টি কলা আছেনোয় বাকি রইল।\n\n**নাপ্পখ: এফ, শমিত থাকু**', images=None, tool_calls=None)"
+41,রফিক দোকান থেকে ডজন প্রতি ১৪৪ টাকা দিয়ে আধা ডজন ডিম নিয়ে বাসায় গেল। বাসায় গিয়ে সে দেখল ৩ টা ডিম নষ্ট। তবে রফিকের কত টাকা ক্ষতি হল?,৩৬,"রফিক দোকান থেকে ডজন প্রতি 144 টাকা দিয়ে আধা ডজন ডিম নিয়ে বাসায় গেল (কেতলা ডজন = 10 × 6.5 টাকা)
+
+এটা বোঝাতে হবে যে, রফিক ইভস্টো তাকে আগাময় দিয়ে দিতে দুটো চির পরী একটা বাণিল নষ্ট হয়েছিল যা 50 টাকা.
+
+রড়ফিক ইভস্টোতে xx টাকা দিয়েছেন ডিম কেনতে; তাহলে, ৩টা [*]x অর্থাৎ ইভস্টো বংশুল টি প্যাকয়ে "" 103.5*= 67)
+
+"" [*]=40;
+
+19 × 13 = 247;
+
+# যদি মানুষুন ইভস্টো তাকে = xx টাকা; এবং ইভস্টো মাঝার [0.5) * x=xx*","model='mathstral' created_at='2025-02-14T18:18:47.509541595Z' done=True done_reason='stop' total_duration=9942259560 load_duration=6992159 prompt_eval_count=492 prompt_eval_duration=65000000 eval_count=423 eval_duration=9868000000 message=Message(role='assistant', content='রফিক দোকান থেকে ডজন প্রতি 144 টাকা দিয়ে আধা ডজন ডিম নিয়ে বাসায় গেল (কেতলা ডজন = 10 × 6.5 টাকা)\n\nএটা বোঝাতে হবে যে, রফিক ইভস্টো তাকে আগাময় দিয়ে দিতে দুটো চির পরী একটা বাণিল নষ্ট হয়েছিল যা 50 টাকা.\n\nরড়ফিক ইভস্টোতে xx টাকা দিয়েছেন ডিম কেনতে; তাহলে, ৩টা [*]x অর্থাৎ ইভস্টো বংশুল টি প্যাকয়ে "" 103.5*= 67)\n\n"" [*]=40;\n\n19 × 13 = 247;\n\n# যদি মানুষুন ইভস্টো তাকে = xx টাকা; এবং ইভস্টো মাঝার [0.5) * x=xx*', images=None, tool_calls=None)"
+147,"পাইপার একটি বায়ু প্রদর্শনীতে রাখা সমস্ত বাণিজ্যিক বিমানের ডানা গণনা করেছে। মোট ডানা ৯০টি হলে, কতটি প্লেন ছিল?",৪৫,"মোট কাজকরী এয়ারক্র্যাফট ছিল ২.৯
+
+""Answer: [Number]""","model='mathstral' created_at='2025-02-14T18:18:49.24038481Z' done=True done_reason='stop' total_duration=1728555960 load_duration=8939217 prompt_eval_count=458 prompt_eval_duration=65000000 eval_count=51 eval_duration=1653000000 message=Message(role='assistant', content='মোট কাজকরী এয়ারক্র্যাফট ছিল ২.৯\n\n""Answer: [Number]""', images=None, tool_calls=None)"
+60,ফেব্রুয়ারি মাসের ৩০ তারিখ জিসানের জন্মদিন হওয়ার সম্ভাবনা কত?,০,উত্তর: 30,"model='mathstral' created_at='2025-02-14T18:18:49.97804084Z' done=True done_reason='stop' total_duration=735356379 load_duration=6847094 prompt_eval_count=408 prompt_eval_duration=49000000 eval_count=12 eval_duration=678000000 message=Message(role='assistant', content='উত্তর: 30', images=None, tool_calls=None)"
+345,"পুরো জুন মাসের জন্য, ওয়েন প্রতিদিন ২টি বার্গার কিনেছিলেন। যদি প্রতিটি বার্গারের দাম ১২ টাকা। জুন মাসে ওয়েন বার্গারে কত খরচ করেছেন?",৭২০,উত্তর: 240,"model='mathstral' created_at='2025-02-14T18:18:50.904828877Z' done=True done_reason='stop' total_duration=924474241 load_duration=6908145 prompt_eval_count=482 prompt_eval_duration=66000000 eval_count=13 eval_duration=850000000 message=Message(role='assistant', content='উত্তর: 240', images=None, tool_calls=None)"
+48,তাহসান দোকান থেকে ডজন প্রতি ১৩২ টাকা দিয়ে আধা ডজন ডিম নিয়ে বাসায় গেল। বাসায় গিয়ে সে দেখল ৬ টা ডিম নষ্ট। তবে তাহসানের কত টাকা ক্ষতি হল?,৬৬,"আপনার সমস্যা শুনলে দ্বিতীয়ভাবে চিনাকাহ কোণাচারি অফিসে টিউটোর হিসাব এ-ইটশ পকেট বিডশিন্যাল হুবহুব; আপনাকে কিছুটা সমীচ্ছাতে হবে, যেহেতু আপনার অড়া দিয়ে করলা টাকা কষ্টি সংকলন টাকাহু এক্ষিও হইলো কেবলমাত্র ১/১,০০০ পূর্বক ভূগৌলিক নাম্বার সংগৃহীত ২/৯ টের। যদি আপনার সংযোজন পুঃৰিচ্ছা মান বন্ধন করল ক্বখব তাহইট হওয়া পাড়ায়ে; আপনার প্রথম সুত এখতি। য-এবং ইচেল ধনীটা, যদি কোন গদ্ধ হই য-এখি ভারস্নায়; আপনালো সমীচ্ছাতে কোগুলি টাকা, যেটা সংহত অড়ার পন্ডিত ""ভূ","model='mathstral' created_at='2025-02-14T18:19:02.874721476Z' done=True done_reason='length' total_duration=11967515556 load_duration=7074481 prompt_eval_count=492 prompt_eval_duration=67000000 eval_count=512 eval_duration=11892000000 message=Message(role='assistant', content='আপনার সমস্যা শুনলে দ্বিতীয়ভাবে চিনাকাহ কোণাচারি অফিসে টিউটোর হিসাব এ-ইটশ পকেট বিডশিন্যাল হুবহুব; আপনাকে কিছুটা সমীচ্ছাতে হবে, যেহেতু আপনার অড়া দিয়ে করলা টাকা কষ্টি সংকলন টাকাহু এক্ষিও হইলো কেবলমাত্র ১/১,০০০ পূর্বক ভূগৌলিক নাম্বার সংগৃহীত ২/৯ টের। যদি আপনার সংযোজন পুঃৰিচ্ছা মান বন্ধন করল ক্বখব তাহইট হওয়া পাড়ায়ে; আপনার প্রথম সুত এখতি। য-এবং ইচেল ধনীটা, যদি কোন গদ্ধ হই য-এখি ভারস্নায়; আপনালো সমীচ্ছাতে কোগুলি টাকা, যেটা সংহত অড়ার পন্ডিত ""ভূ', images=None, tool_calls=None)"
+58,আসিফের খামারের পশুগুলোর মোট ৪৬০ টি পা আছে। তার খামারে মোট কত গুলা গরু আছে?,১১৫,উত্তর: 154,"model='mathstral' created_at='2025-02-14T18:19:03.639742493Z' done=True done_reason='stop' total_duration=762359344 load_duration=6979747 prompt_eval_count=424 prompt_eval_duration=50000000 eval_count=13 eval_duration=703000000 message=Message(role='assistant', content='উত্তর: 154', images=None, tool_calls=None)"
+270,পেন্সিলের দাম ৬ টাকা আর এলিজাবেথের পকেটে আছে মাত্র ৫ টাকা। তিনি তার প্রতিবেশীর কাছ থেকে ৫৩ পয়সা ধার নিয়েছিলেন। একটি পেন্সিল কিনতে এলিজাবেথের এখন আর কত পয়সা লাগবে?,৪৭,"এলিজাবেথ ইতোমাধ্যে একটি পেন্সিল কিনতে আরো -১২ পয়সা হতে ইচ্ছূদ্বিষ্তা রৈখাটি যুক্ত করুল **6, 5, ?, 53 সংখ্যাগুলো**
+
+এই জবা**7** ৩-৮*+**2**
+54)
+
+পেন্সি**l** কিনতে ""Eli**sab**ath আর ২০ টাকা **[সংখ্যা]""**","model='mathstral' created_at='2025-02-14T18:19:08.857678126Z' done=True done_reason='stop' total_duration=5215751499 load_duration=6932297 prompt_eval_count=525 prompt_eval_duration=67000000 eval_count=210 eval_duration=5140000000 message=Message(role='assistant', content='এলিজাবেথ ইতোমাধ্যে একটি পেন্সিল কিনতে আরো -১২ পয়সা হতে ইচ্ছূদ্বিষ্তা রৈখাটি যুক্ত করুল **6, 5, ?, 53 সংখ্যাগুলো**\n\nএই জবা**7** ৩-৮*+**2**\n54)\n\nপেন্সি**l** কিনতে ""Eli**sab**ath আর ২০ টাকা **[সংখ্যা]""**', images=None, tool_calls=None)"
+225,"রোমান প্রতিদিন ৭ ঘণ্টা ঘুমায়। আজ যদি তিনি সকাল ৯টায় ঘুম থেকে ওঠেন, তাহলে কতক্ষণে তিনি ঘুমোতেন?",১০,উত্তর: 24,"model='mathstral' created_at='2025-02-14T18:19:09.752081032Z' done=True done_reason='stop' total_duration=891985970 load_duration=9155710 prompt_eval_count=452 prompt_eval_duration=64000000 eval_count=12 eval_duration=817000000 message=Message(role='assistant', content='উত্তর: 24', images=None, tool_calls=None)"
+297,জ্যাকসন প্রতি মাসে তিনদিন কাজ থেকে ছুটি নেন। সারা বছরে জ্যাকসন কত ছুটি নিয়েছিলেন?,৩৬,"হ্যা, আমাই খুব ভালোভাবেই জ্যাকসনকে বরং নিম্নলিপিত শতাংশ উপসংহার দিতেছি:  
+শুক্রবার জ্যাকসনের কাজ থেক সমস্ট চলে গো. এককদষশ হ্যংসংশ পৃষ্ঠহ্যাভাবীই তিনি ভূমগল নয়, তিনি চলে আশয়জনমেখলাকেও চুটো সফর চাই.  
+দাকঘরে মিকবলী জ্যাকসনকে ভূপূরী শিউয়ায় ভিজুয়ালাইজ কোড়া হত৷কুটিস্ট.  
+এমলেই বলবস্টাত আগ চলবার, শতীয় ভ্যারলাম্মা, ভগবণ্ড অৎএময়.  
+হ্যংষিক্ষ করম টত্টৈলাশ চ৉নাপ যুদ্ধমণীভৃট্ঠে, যেন স্বপিচী, অৌষধচ৊খিরোগপতলশৈনীঞংঞ.  
+হকারেঁম চমৎকার মজঃকাড়ব্যাস, ","model='mathstral' created_at='2025-02-14T18:19:21.463648968Z' done=True done_reason='length' total_duration=11709319992 load_duration=6900405 prompt_eval_count=426 prompt_eval_duration=50000000 eval_count=512 eval_duration=11650000000 message=Message(role='assistant', content='হ্যা, আমাই খুব ভালোভাবেই জ্যাকসনকে বরং নিম্নলিপিত শতাংশ উপসংহার দিতেছি:  \nশুক্রবার জ্যাকসনের কাজ থেক সমস্ট চলে গো. এককদষশ হ্যংসংশ পৃষ্ঠহ্যাভাবীই তিনি ভূমগল নয়, তিনি চলে আশয়জনমেখলাকেও চুটো সফর চাই.  \nদাকঘরে মিকবলী জ্যাকসনকে ভূপূরী শিউয়ায় ভিজুয়ালাইজ কোড়া হত৷কুটিস্ট.  \nএমলেই বলবস্টাত আগ চলবার, শতীয় ভ্যারলাম্মা, ভগবণ্ড অৎএময়.  \nহ্যংষিক্ষ করম টত্টৈলাশ চ\u09c9নাপ যুদ্ধমণীভৃট্ঠে, যেন স্বপিচী, অৌষধচ\u09caখিরোগপতলশৈনীঞংঞ.  \nহকারেঁম চমৎকার মজঃকাড়ব্যাস, ', images=None, tool_calls=None)"
+109,একটি কারখানায় একটি মেশিন টানা আড়াই সপ্তাহ চলতে থাকে। মেশিনটি মোট কত ঘণ্টা চলে?,৪২০,100 ঘণ্টা,"model='mathstral' created_at='2025-02-14T18:19:22.24914376Z' done=True done_reason='stop' total_duration=783048256 load_duration=7110052 prompt_eval_count=424 prompt_eval_duration=49000000 eval_count=14 eval_duration=725000000 message=Message(role='assistant', content='100 ঘণ্টা', images=None, tool_calls=None)"
+125,ডাক্তার আরিয়াকে একটানা ২ সপ্তাহ ধরে প্রতিদিন একটি করে আপেল খাওয়ার পরামর্শ দিয়েছেন। তার কত আপেল কিনতে হবে?,১৪,জোয়েস: **অ্যাপেল - 35**,"model='mathstral' created_at='2025-02-14T18:19:23.333828242Z' done=True done_reason='stop' total_duration=1082403663 load_duration=6864090 prompt_eval_count=452 prompt_eval_duration=64000000 eval_count=21 eval_duration=1009000000 message=Message(role='assistant', content='জোয়েস: **অ্যাপেল - 35**', images=None, tool_calls=None)"
+295,একজন দোকানদারের তাস খেলার ৫টি সম্পূর্ণ ডেক রয়েছে। তার মোট কয়টি ফেস কার্ড আছে?,৬০,না,"model='mathstral' created_at='2025-02-14T18:19:23.887693444Z' done=True done_reason='stop' total_duration=551697987 load_duration=7873914 prompt_eval_count=427 prompt_eval_duration=50000000 eval_count=3 eval_duration=492000000 message=Message(role='assistant', content='না', images=None, tool_calls=None)"
+55,"একটি এলাকায় ১২০ জন মানুষ আছে, যাদের প্রত্যেকের ২ টি করে পোষা কুকুর আছে। যদি এলাকার সবাই একসাথে একটি মাঠে তাদের কুকুর নিয়ে উপস্থিত হয়। তবে ওই মুহূর্তে ওই মাঠে মোট কয়টি পা থাকবে?",১২০০,"সদাচার্য! প্রশ্নটি সমাধান করতে। প্রেক্ষা পড়া করের সব একটি কুকুড়ের ওপাসনা (পোষা) ভর্তশত এলাকায় ১টি মাঠর প্রত্যেকটি ছাড়েরিও . তাই হবো,
+
+""[সংখ্যা]"": ""৩60"" প্রত্যেকের এলাকায় অন্তর মুলীকৃ৞ কিংবদধিকোন্টো করে! দক্ষ ,,","model='mathstral' created_at='2025-02-14T18:19:29.728531658Z' done=True done_reason='stop' total_duration=5838728300 load_duration=6839655 prompt_eval_count=548 prompt_eval_duration=69000000 eval_count=237 eval_duration=5761000000 message=Message(role='assistant', content='সদাচার্য! প্রশ্নটি সমাধান করতে। প্রেক্ষা পড়া করের সব একটি কুকুড়ের ওপাসনা (পোষা) ভর্তশত এলাকায় ১টি মাঠর প্রত্যেকটি ছাড়েরিও . তাই হবো,\n\n""[সংখ্যা]"": ""৩60"" প্রত্যেকের এলাকায় অন্তর মুলীকৃ\u09de কিংবদধিকোন্টো করে! দক্ষ ,,', images=None, tool_calls=None)"
+166,"কারসনকে জলের প্রাণীদের নিয়ে একটি প্রতিবেদন তৈরি করতে হবে। সুতরাং, তিনি একটি অ্যাকোয়ারিয়াম পরিদর্শন করেন এবং মোট ৫টি অক্টোপাস দেখেন। তিনি অক্টোপাসের পায়ের সংখ্যা উল্লেখ করতে চান। অক্টোপাস পায়ের মোট সংখ্যা নির্ণয় করুন।",৪০,"যদি মোট ৫টি অক্টোপাসই হয়, তবে এক্ষেত্রে প্রতিটি অক্টোওপাস দুইটি নগ্ন পাইংগুলি থাকবে। কারণ এক অক্টোপাস একটি চামড়া জমাটে দুইটা পা থাকতে পারবে, যাৎগতিকভাবে সংযোগিত(যদিও এতে আনুষ্ঠামূল অন্যান্য তত্বগুলো অত্রুলসই), আবার অন্য অক্টোপসগুলো সমীক্ষাসমূহ অক্ষরাজন্য এসেছে, তাই প্রথম অক্টোপাস দুইটাই মাতা গ্রহীত আবশ্যিকভাবে আচরণ করতে পারছে, আবার অন্যানো পাঁচটা অক্টোপাসের কিছুটা বিভিন্ন ইংডিংএই সংখ্যামূলজ্ঞঃ","model='mathstral' created_at='2025-02-14T18:19:40.169135066Z' done=True done_reason='stop' total_duration=10438286253 load_duration=10123919 prompt_eval_count=574 prompt_eval_duration=68000000 eval_count=438 eval_duration=10358000000 message=Message(role='assistant', content='যদি মোট ৫টি অক্টোপাসই হয়, তবে এক্ষেত্রে প্রতিটি অক্টোওপাস দুইটি নগ্ন পাইংগুলি থাকবে। কারণ এক অক্টোপাস একটি চামড়া জমাটে দুইটা পা থাকতে পারবে, যাৎগতিকভাবে সংযোগিত(যদিও এতে আনুষ্ঠামূল অন্যান্য তত্বগুলো অত্রুলসই), আবার অন্য অক্টোপসগুলো সমীক্ষাসমূহ অক্ষরাজন্য এসেছে, তাই প্রথম অক্টোপাস দুইটাই মাতা গ্রহীত আবশ্যিকভাবে আচরণ করতে পারছে, আবার অন্যানো পাঁচটা অক্টোপাসের কিছুটা বিভিন্ন ইংডিংএই সংখ্যামূলজ্ঞঃ', images=None, tool_calls=None)"
+283,স্নেহার নিকট তাস খেলার ৩টি সম্পূর্ণ ডেক রয়েছে। তার মোট কয়টি রুইতন আছে?,৩৯,নিষ্পরীক্ষা: #2370,"model='mathstral' created_at='2025-02-14T18:19:41.038654431Z' done=True done_reason='stop' total_duration=867119266 load_duration=6866071 prompt_eval_count=418 prompt_eval_duration=49000000 eval_count=18 eval_duration=810000000 message=Message(role='assistant', content='নিষ্পরীক্ষা: #2370', images=None, tool_calls=None)"
+266,ইকিয়েল ৫টি অভিন্ন ঘনকাকৃতির বস্তুর সমস্ত বাইরের তল এঁকেছেন। ইকিয়েল দ্বারা আঁকা মোট তলের সংখ্যা কত?,৩০,"পাণ্ডুলিপি:
+
+এই গাণিতিক সমস্যাটি শুক হচ্ছে  ইকিয়েল ৫টি অভিন্ন ঘনকাকৃতির বস্তুর একসময় পূর্গ্ত সকল বাইরের তল আংক করছেন, ইকিয়েল তলের  শুভ সংখ্যাক জানা  দেন,বহুদূবা-।  এঁক ইয়স্যউ অগণিতিক মনী লোক এ.ভলেটর মঠ শংখ,   ভঙগামান পৌছি   এইও  কোমান জানা- এইভাত উইলহাস
+
+ভালেটর মঠ শংখ, ব্যক্তিগতর  এই সমস্যাটি পূর্নভুল ভাংান এঁশেও নিষ্পূড়র  চূণাবদ্ শোঠভোমক,উইয়ি এইভাত   মঠহালে  শংখ র বৌচ নিজ-দোষগত সাদেক হাল,  শঘপ্ গুন হাই ভাত ইকিয়েল নিজদশা  এঁগামান, ভি জনকে ব্যর্থ","model='mathstral' created_at='2025-02-14T18:19:52.943277857Z' done=True done_reason='length' total_duration=11902337577 load_duration=6954367 prompt_eval_count=448 prompt_eval_duration=65000000 eval_count=512 eval_duration=11829000000 message=Message(role='assistant', content='পাণ্ডুলিপি:\n\nএই গাণিতিক সমস্যাটি শুক হচ্ছে  ইকিয়েল ৫টি অভিন্ন ঘনকাকৃতির বস্তুর একসময় পূর্গ্ত সকল বাইরের তল আংক করছেন, ইকিয়েল তলের  শুভ সংখ্যাক জানা  দেন,বহুদূবা-।  এঁক ইয়স্যউ অগণিতিক মনী লোক এ.ভলেটর মঠ শংখ,   ভঙগামান পৌছি   এইও  কোমান জানা- এইভাত উইলহাস\n\nভালেটর মঠ শংখ, ব্যক্তিগতর  এই সমস্যাটি পূর্নভুল ভাংান এঁশেও নিষ্পূড়র  চূণাবদ্ শোঠভোমক,উইয়ি এইভাত   মঠহালে  শংখ র বৌচ নিজ-দোষগত সাদেক হাল,  শঘপ্ গুন হাই ভাত ইকিয়েল নিজদশা  এঁগামান, ভি জনকে ব্যর্থ', images=None, tool_calls=None)"
+401,জোসেফাইন প্রতিদিন দশটি পয়সা সঞ্চয় করতে শুরু করে। কত দিন পর তিনি মোট ২ টাকা সঞ্চয় করতেন?,২০,"আপনি মূলত জোসেফাইন প্রবলভাবে অনুগ্রহ করছেন, তার চেয়ে টাকা সঞ্চয় করছেন. আমাদেরকাজ আছে নিশ্চিতভাবে টাকা সংগ্রহ আছে, আপনাকে খুব গুরুত্বারোপ করে ডাক চলে.
+
+এই কথা সাথে জড়িত যে, টাকা সঞ্চয় কিংবা না, যদি আমি পরিশীলন করছি, তাহলব এটা কোন অভিনব, কিন্তু সত্য হচ্ছচে, আকে কমার পরামিতি দাও সওয় গো.
+
+মূলত, আমাকেই টাকা হাড়া দিয়ে চৎ এটা ধলা বিশ্বাস করা যাবে।
+```
+# সমাধান: 4
+
+Therefore, Joesephian will have saved a total of 2 taka in 4 days.","model='mathstral' created_at='2025-02-14T18:20:02.735494215Z' done=True done_reason='stop' total_duration=9789812895 load_duration=6997816 prompt_eval_count=432 prompt_eval_duration=50000000 eval_count=427 eval_duration=9731000000 message=Message(role='assistant', content='আপনি মূলত জোসেফাইন প্রবলভাবে অনুগ্রহ করছেন, তার চেয়ে টাকা সঞ্চয় করছেন. আমাদেরকাজ আছে নিশ্চিতভাবে টাকা সংগ্রহ আছে, আপনাকে খুব গুরুত্বারোপ করে ডাক চলে.\n\nএই কথা সাথে জড়িত যে, টাকা সঞ্চয় কিংবা না, যদি আমি পরিশীলন করছি, তাহলব এটা কোন অভিনব, কিন্তু সত্য হচ্ছচে, আকে কমার পরামিতি দাও সওয় গো.\n\nমূলত, আমাকেই টাকা হাড়া দিয়ে চৎ এটা ধলা বিশ্বাস করা যাবে।\n```\n# সমাধান: 4\n\nTherefore, Joesephian will have saved a total of 2 taka in 4 days.', images=None, tool_calls=None)"
+367,"হাইকিং দলকে প্রত্যেক অংশগ্রহণকারীর জন্য গ্লাভসের ব্যবস্থা করতে হবে। মোট অংশগ্রহণকারীদের সংখ্যা ৬৩ হলে, হাইকিং টিমের সর্বনিম্ন কত সংখ্যক গ্লাভস ব্যবস্থা করতে হবে?",১২৬,"অপরিক্ষুদ্ধ আছতামি গড়া চলছে।
+
+উত্তর: 62","model='mathstral' created_at='2025-02-14T18:20:04.43710247Z' done=True done_reason='stop' total_duration=1699254201 load_duration=6925802 prompt_eval_count=511 prompt_eval_duration=66000000 eval_count=49 eval_duration=1625000000 message=Message(role='assistant', content='অপরিক্ষুদ্ধ আছতামি গড়া চলছে।\n\nউত্তর: 62', images=None, tool_calls=None)"
+222,"একটি ফুটবল খেলায়, প্রত্যেক দর্শককে তাদের উভয় হাতের জন্য রিস্টব্যান্ড দেওয়া হত। মোট ২৯০টি রিস্টব্যান্ড বিতরণ করা হয়েছিল। কত মানুষ খেলা দেখেছেন?",১৪৫,উত্তর: 145,"model='mathstral' created_at='2025-02-14T18:20:05.367933655Z' done=True done_reason='stop' total_duration=928565802 load_duration=9120565 prompt_eval_count=504 prompt_eval_duration=65000000 eval_count=13 eval_duration=852000000 message=Message(role='assistant', content='উত্তর: 145', images=None, tool_calls=None)"
+287,স্নেহার নিকট তাস খেলার ৬টি সম্পূর্ণ ডেক রয়েছে। তার মোট কয়টি চিড়িতন আছে?,৭৮,81,"model='mathstral' created_at='2025-02-14T18:20:05.922870491Z' done=True done_reason='stop' total_duration=552182255 load_duration=9145076 prompt_eval_count=421 prompt_eval_duration=50000000 eval_count=3 eval_duration=491000000 message=Message(role='assistant', content='81', images=None, tool_calls=None)"
+378,"পোকার এবং অন্যান্য তাসের খেলা আজকাল জনপ্রিয় হয়ে উঠেছে, তাই এলিজা যাত্রার জন্য ৬ ডেক তাস রাখার সিদ্ধান্ত নেন। তার মোট কতটি কার্ড আছে?",৩১২,উত্তর: 36,"model='mathstral' created_at='2025-02-14T18:20:06.829013399Z' done=True done_reason='stop' total_duration=903856731 load_duration=7005560 prompt_eval_count=484 prompt_eval_duration=66000000 eval_count=12 eval_duration=829000000 message=Message(role='assistant', content='উত্তর: 36', images=None, tool_calls=None)"
+198,দাবা খেলায় আরিয়ানা ৩ টি গুটি এবং সামান্থা ৯ টি গুটি হারিয়েছে। দাবা বোর্ডে আর কত টি গুটি আছে?,২০,"উত্তর: 30
+
+Explanation:
+
+Aryana had 3 towers when she started the game and lost 3 of them. This means she currently has 3 - 3 = 6 towers.
+Samantha had 9 initial positions but Aryana captured all of them, so there are no more positions on the board for her to capture now.
+Therefore, Aryana still has 10 + the number of Samantha's left un-captured positions = 10 + (12 - (2 x 3)) = 10 + 6 = 16 positions, where each position represents a tower's location or movement.
+However, we are not interested in the number of positions but rather in the total number of towers left.
+Thus, there is a total of 6 (Aryana's remaining towers) + 9 (Samantha's un-captured remaining towers) = 30 (total remaning towers) on the board.","model='mathstral' created_at='2025-02-14T18:20:12.358324679Z' done=True done_reason='stop' total_duration=5526941962 load_duration=7068421 prompt_eval_count=441 prompt_eval_duration=50000000 eval_count=234 eval_duration=5468000000 message=Message(role='assistant', content=""উত্তর: 30\n\nExplanation:\n\nAryana had 3 towers when she started the game and lost 3 of them. This means she currently has 3 - 3 = 6 towers.\nSamantha had 9 initial positions but Aryana captured all of them, so there are no more positions on the board for her to capture now.\nTherefore, Aryana still has 10 + the number of Samantha's left un-captured positions = 10 + (12 - (2 x 3)) = 10 + 6 = 16 positions, where each position represents a tower's location or movement.\nHowever, we are not interested in the number of positions but rather in the total number of towers left.\nThus, there is a total of 6 (Aryana's remaining towers) + 9 (Samantha's un-captured remaining towers) = 30 (total remaning towers) on the board."", images=None, tool_calls=None)"
+203,সোফিয়া প্রতিদিন দশ পয়সা সঞ্চয় করতে শুরু করে। কত দিনে তিনি মোট ২ টাকা সঞ্চয় করতেন?,২০,"বক্তব্য সংক্ষেপণ এড়িয়ে, আমরা ডায়াগ্রমটিকে পরষ্নাশৈ হতে পারছি না, তেতো চলব ডায়াগ্রমসিংহ:
+
+**মনতা** চী
+```python
+d = 25   # starting balance
+r = -10  # daily saving (negative because this is a withdrawal)
+n = ""?""   # number of days
+
+for t in range(x):
+    if (-28*(t+1) == 2):
+        print(""Answer:{}"".format(t+1))
+        break
+    else:
+        continue
+    else:
+        print(""No answer fits the rules"")
+```
+```python
+d = 0   # starting balance
+s = [d]   # sequence of balances
+n = ""?""   # number of days
+days = 1
+while(days):
+    if (d + r) < 2:
+        break
+    s.append(d -= 10)
+days += 1
+print(""Answer:{}"".format(day))
+```","model='mathstral' created_at='2025-02-14T18:20:19.57137661Z' done=True done_reason='stop' total_duration=7210791397 load_duration=6897208 prompt_eval_count=427 prompt_eval_duration=50000000 eval_count=311 eval_duration=7152000000 message=Message(role='assistant', content='বক্তব্য সংক্ষেপণ এড়িয়ে, আমরা ডায়াগ্রমটিকে পরষ্নাশৈ হতে পারছি না, তেতো চলব ডায়াগ্রমসিংহ:\n\n**মনতা** চী\n```python\nd = 25   # starting balance\nr = -10  # daily saving (negative because this is a withdrawal)\nn = ""?""   # number of days\n\nfor t in range(x):\n    if (-28*(t+1) == 2):\n        print(""Answer:{}"".format(t+1))\n        break\n    else:\n        continue\n    else:\n        print(""No answer fits the rules"")\n```\n```python\nd = 0   # starting balance\ns = [d]   # sequence of balances\nn = ""?""   # number of days\ndays = 1\nwhile(days):\n    if (d + r) < 2:\n        break\n    s.append(d -= 10)\ndays += 1\nprint(""Answer:{}"".format(day))\n```', images=None, tool_calls=None)"
+122,পেনেলোপ সারা বছরের জন্য প্রতিদিন ২৪ টাকা সঞ্চয় করার সিদ্ধান্ত নিয়েছে। বছরের শেষে পেনেলোপের কত টাকা সঞ্চয় হবে তা হিসাব করুন।,৮৭৬০,"অনুগমন করলে, শুধুমাত্র পেনেলোপ বেশি করত তবে চলে যাওয়ার বাড়নি সূচক
+(n)
+n = টাকা মাস অদ্যাবধি সঞ্চালত (
+
+""192)
+37)
+n
+/= মাস টাঙ্গুন
+a টাকা + প্রাপ্হ ""0
+""
+# ২
+)
+""=
+b (
+1 ) 25 এছাড়া + মে, ধেরী
+মেসং
+'
+a + p
+) )-
+a
+.
+/ = '
+m,
+-
+= m)
+\(p= (
+' b
+= ""
+1 ""
+24 ) (
+n
+a)
+
+' n \ 1 "" (
+= তারকা সডন' ' টান
++ দেড় ""98,00
++
+- 92,
+b
+= বছরের ঁক
+
+a )
+.
+> n- 365 ট,
+/ a) (2, 1 -2 )
+n ট"" মাস ""m ট
+)n n \ 1 (m >
+"" m 1 "" - 1= a = +
+'
+2n a""
+(=+
+b> ,
+8
+#""
+# উত্তর: ""  41880","model='mathstral' created_at='2025-02-14T18:20:29.604950167Z' done=True done_reason='stop' total_duration=10031249647 load_duration=7004127 prompt_eval_count=476 prompt_eval_duration=64000000 eval_count=428 eval_duration=9958000000 message=Message(role='assistant', content='অনুগমন করলে, শুধুমাত্র পেনেলোপ বেশি করত তবে চলে যাওয়ার বাড়নি সূচক\n(n)\nn = টাকা মাস অদ্যাবধি সঞ্চালত (\n\n""192)\n37)\nn\n/= মাস টাঙ্গুন\na টাকা + প্রাপ্হ ""0\n""\n# ২\n)\n""=\nb (\n1 ) 25 এছাড়া + মে, ধেরী\nমেসং\n\'\na + p\n) )-\na\n.\n/ = \'\nm,\n-\n= m)\n\\(p= (\n\' b\n= ""\n1 ""\n24 ) (\nn\na)\n\n\' n \\ 1 "" (\n= তারকা সডন\' \' টান\n+ দেড় ""98,00\n+\n- 92,\nb\n= বছরের ঁক\n\na )\n.\n> n- 365 ট,\n/ a) (2, 1 -2 )\nn ট"" মাস ""m ট\n)n n \\ 1 (m >\n"" m 1 "" - 1= a = +\n\'\n2n a""\n(=+\nb> ,\n8\n#""\n# উত্তর: ""  41880', images=None, tool_calls=None)"
+149,"আভা একটি কাছাকাছি পশু খামারে যাওয়ার সিদ্ধান্ত নেয় যেখানে মোট ৯টি প্রাণী রয়েছে। সে প্রবেশদ্বারের কাছে একটি সারিতে দাঁড়িয়ে আছে, গেট থেকে সে খামারের পশুদের পা দেখতে পেল এবং সে গণনা করে মোট পা সংখ্যা ২৬টি। সে ইতিমধ্যেই জানে যে এই খামারে শুধু মুরগি এবং মহিষ রয়েছে। এ তথ্য থেকে মহিষের সংখ্যা বের কর।",৪,"নিচে পদ্ধতি (Methodology):
+
+1. একটি খামারে মোট শুধুমাত্র মুরগি এবং মহিষ চলে, অর্থাৎ এই পশুগুলির কোনো দিক অন্য চামড়/পশুবিশেষ রন্জা রয়েছে না।
+2. সাবধান, গত খামারে মোট ৯টি প্রাণী রয়েছে (দেখা) , এসবকারা মহিষ/মুরগি সংখ্যা প্রত্যেচন সারি দু'পশোড়ক - দুই দিক একটি রীতি আছ ।
+3. খামার থেকে কয় গেস্টনলী - পশাদের পদ 410. 2175366 = ""3"" / ৩ , সত্যত্ব শুথম যোগ
+4. এশচ ২৪৫ = (3), 200 বরষী হওয়া - 14 ,( দেখা ) 3 x 6 = ""1""
+5. ""উত্তর"" : মোট 3 + ( ""10"")   = ""28""
+পশু কাজ নী, ৮ গাড়ির , দাই নতি বইয়ে সং - .কিন্তু :  (","model='mathstral' created_at='2025-02-14T18:20:42.165819227Z' done=True done_reason='length' total_duration=12558484522 load_duration=10025205 prompt_eval_count=685 prompt_eval_duration=91000000 eval_count=512 eval_duration=12455000000 message=Message(role='assistant', content='নিচে পদ্ধতি (Methodology):\n\n1. একটি খামারে মোট শুধুমাত্র মুরগি এবং মহিষ চলে, অর্থাৎ এই পশুগুলির কোনো দিক অন্য চামড়/পশুবিশেষ রন্জা রয়েছে না।\n2. সাবধান, গত খামারে মোট ৯টি প্রাণী রয়েছে (দেখা) , এসবকারা মহিষ/মুরগি সংখ্যা প্রত্যেচন সারি দু\'পশোড়ক - দুই দিক একটি রীতি আছ ।\n3. খামার থেকে কয় গেস্টনলী - পশাদের পদ 410. 2175366 = ""3"" / ৩ , সত্যত্ব শুথম যোগ\n4. এশচ ২৪৫ = (3), 200 বরষী হওয়া - 14 ,( দেখা ) 3 x 6 = ""1""\n5. ""উত্তর"" : মোট 3 + ( ""10"")   = ""28""\nপশু কাজ নী, ৮ গাড়ির , দাই নতি বইয়ে সং - .কিন্তু :  (', images=None, tool_calls=None)"
+14,১৩ জন মেয়ের একটি দল নেইল পলিশ করার জন্য একটি স্পাতে গিয়েছিল। যদি প্রতিটি মেয়ের হাতের আঙ্গুল পালিশ করা হয়। স্পা কর্মীদের পালিশ করা মোট আঙ্গুলের সংখ্যা কত?,১৩০,"26
+
+**চূড়ান্ত উত্তর: [26]**","model='mathstral' created_at='2025-02-14T18:20:43.458333023Z' done=True done_reason='stop' total_duration=1290164372 load_duration=6967806 prompt_eval_count=503 prompt_eval_duration=66000000 eval_count=30 eval_duration=1215000000 message=Message(role='assistant', content='26\n\n**চূড়ান্ত উত্তর: [26]**', images=None, tool_calls=None)"
+81,একজন শিক্ষক ৪০ জন ছাত্র এবং ২৪ জন ছাত্রীকে কতগুলো দলে ভাগ করে দিলেন যেন প্রত্যেক দলে ছাত্র ও ছাত্রীর সংখ্যা সমান থাকে এবং কোনো শিক্ষার্থী অবশিষ্ট না থাকে। সর্বোচ্চ কতটি দলে ভাগ করা যাবে এবং প্রতি দলে কতজন ছাত্র এবং ছাত্রী থাকবে তা নির্ণয় কর।,১২০,"পালোয়া ভাগ দা (Quotient) = number of groups (groups) ÷ (total number of students in the first group + total number of students in the last group after distribution)
+
+group division - [(40 / n) * 10]
+groups remaining [(24 / (n-1)) * 5 - [remaining group]] after distribution  = [(24 / (n-1)) * 5 and then calculate the number of students left in the initial group, subtract this value from the total to get the leftover students]
+
+number of remaining students = total students per group * groups + remaining group - total students in the first group
+
+if there are no remaining students, then:
+[(number of total students in the first group and last group) / 2] = number of students per group","model='mathstral' created_at='2025-02-14T18:20:48.589931094Z' done=True done_reason='stop' total_duration=5129331550 load_duration=7108380 prompt_eval_count=610 prompt_eval_duration=88000000 eval_count=193 eval_duration=5032000000 message=Message(role='assistant', content='পালোয়া ভাগ দা (Quotient) = number of groups (groups) ÷ (total number of students in the first group + total number of students in the last group after distribution)\n\ngroup division - [(40 / n) * 10]\ngroups remaining [(24 / (n-1)) * 5 - [remaining group]] after distribution  = [(24 / (n-1)) * 5 and then calculate the number of students left in the initial group, subtract this value from the total to get the leftover students]\n\nnumber of remaining students = total students per group * groups + remaining group - total students in the first group\n\nif there are no remaining students, then:\n[(number of total students in the first group and last group) / 2] = number of students per group', images=None, tool_calls=None)"
+206,ব্রাইসন থ্যাঙ্কসগিভিং সেলের সময় ৭ জোড়া জুতা কিনেছিলেন। এখন তার মোট নতুন জুতা সংখ্যা কত?,১৪,উত্তর: 14,"model='mathstral' created_at='2025-02-14T18:20:49.338281151Z' done=True done_reason='stop' total_duration=746080934 load_duration=9405666 prompt_eval_count=435 prompt_eval_duration=50000000 eval_count=12 eval_duration=685000000 message=Message(role='assistant', content='উত্তর: 14', images=None, tool_calls=None)"
+140,বর্গাকার একটি পার্কের চারপাশে বেড়া দেওয়া হলো এবং বেড়ার মোট খরচ ছিল ১৭২ টাকা। প্রতিটি পাশে বেড়া খরচ কত?,৪৩,"উত্তর: 42
+বীজগুলি নিষেধ করা পছন্দ করে যে দশগণ্ডীয় চা পাওয়া চাঞ্চল:
+
+\boxed{42}","model='mathstral' created_at='2025-02-14T18:20:51.898046152Z' done=True done_reason='stop' total_duration=2557544918 load_duration=9275533 prompt_eval_count=454 prompt_eval_duration=65000000 eval_count=90 eval_duration=2482000000 message=Message(role='assistant', content='উত্তর: 42\nবীজগুলি নিষেধ করা পছন্দ করে যে দশগণ্ডীয় চা পাওয়া চাঞ্চল:\n\n\\boxed{42}', images=None, tool_calls=None)"
+257,"একটি গাড়ি পার্কিং লটে, পেনেলোপ লক্ষ্য করেছেন যে ৪৮টি গাড়ির চাকা রয়েছে। পার্কিং লটে গাড়ির সংখ্যা কতটি?",১২,"উজিয়ালে
+
+# সমস্যা: একটি গাড়ি পার্কিং লট, পেনেলোপ লক্ষ্য করেছেন যে কতগুলো গাড়ির চাকা রয়েছে। যদি [৮]টি গাড়ি প্রস্থ রয়েছে, অন্য হাতঠী কী?
+
+# সমাধান: বিশেষ পদ্ধতি গুলোর চাকা সমাখ্য আছে","model='mathstral' created_at='2025-02-14T18:20:56.99265808Z' done=True done_reason='stop' total_duration=5092282803 load_duration=7153265 prompt_eval_count=449 prompt_eval_duration=64000000 eval_count=208 eval_duration=5019000000 message=Message(role='assistant', content='উজিয়ালে\n\n# সমস্যা: একটি গাড়ি পার্কিং লট, পেনেলোপ লক্ষ্য করেছেন যে কতগুলো গাড়ির চাকা রয়েছে। যদি [৮]টি গাড়ি প্রস্থ রয়েছে, অন্য হাতঠী কী?\n\n# সমাধান: বিশেষ পদ্ধতি গুলোর চাকা সমাখ্য আছে', images=None, tool_calls=None)"

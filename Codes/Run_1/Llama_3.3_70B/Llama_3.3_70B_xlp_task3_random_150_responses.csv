@@ -1,0 +1,2311 @@
+Q No.,Question,Answer,option1,option2,Model Response
+210,জরিনা লক্ষ্য করেছেন যে মটর নুড়ির উপর ঘূর্ণায়মান পেন্সিলটি ৭৬ জুল তাপ এবং ২৫ ক্যালোরি তাপ উৎপন্ন করে যখন এটিকে কার্পেটের উপর গড়িয়েছিল। পেন্সিল কি ধীর গতিতে চলে গেল?,Option 1,কার্পেট,মটর নুড়ি,"1. Translation of the Bengali question and options into English for clarity:
+The question translates to: ""Jarina noticed that the rotating pencil produces 76 joules of heat and 25 calories of heat when it was rolled on the carpet. On which surface did the pencil move slower?""
+Options:
+- Option 1: Carpet
+- Option 2: Motor oil (referred to as 'মটর নুড়ি' in Bengali, which translates more accurately to 'motor oil' than 'motor noodle')
+
+2. To solve this, we need to understand that the production of heat is related to the friction encountered by the pencil as it moves. More friction generates more heat. 
+- Since 1 calorie = 4.184 joules, 25 calories = 25 * 4.184 joules = 104.6 joules. 
+- The total energy (heat) produced is 76 joules + 104.6 joules = 180.6 joules.
+- The question indirectly asks us to compare the friction (and thus the heat generated) when the pencil is rolled on the carpet versus on the motor oil.
+
+Given that more heat is generated on the carpet, it implies there's more friction on the carpet. 
+Friction is inversely related to the speed of the object (more friction means less speed if the same force is applied). Therefore, the pencil moves slower on the surface with more friction.
+
+**Answer: Option 1**"
+281,"ডিলান জানালার বাইরে একটি নুড়ি, (যার ভর ০.২ কেজি) এবং একটি খেলনা বাস্কেটবল, (যার ভর ১০০ গ্রাম), ছুড়ে মারেন। _____ এর একটি শক্তিশালী মাধ্যাকর্ষণ টান ছিল কারণ এর ভর বেশি?",Option 1,নুড়ি,বাস্কেটবল,"## Step 1: Translate the Bengali question and options into English for clarity.
+The question translates to: ""Dylan throws a pebble (which weighs 0.2 kg) and a toy basketball (which weighs 100 grams) out the window. _____ had a stronger gravitational pull because it had more mass?""
+The options are:
+Option 1: Pebble
+Option 2: Basketball
+
+## Step 2: Convert the weights into the same unit for comparison.
+First, let's convert the weight of the pebble into grams for easier comparison. Since 1 kg = 1000 grams, 0.2 kg = 200 grams.
+
+## Step 3: Compare the masses of the pebble and the basketball to determine which has a stronger gravitational pull.
+The pebble weighs 200 grams, and the basketball weighs 100 grams. According to the law of universal gravitation, every point mass attracts every other point mass by a force acting along the line intersecting both points. The force is proportional to the product of their masses and inversely proportional to the square of the distance between their centers. Since the distance (from the center of the Earth) is the same for both objects when dropped, the one with the greater mass will experience a stronger gravitational pull.
+
+## Step 4: Select the correct option based on the comparison.
+Given that the pebble has a greater mass (200 grams) than the basketball (100 grams), the pebble will have a stronger gravitational pull.
+
+The final answer is: **Option 1**"
+34,আমার বাসা থেকে ২০০ ফুট দূরত্ব থেকে পুলিশের সাইরেন আমার বাসা থেকে ১৭৫ ফুট দূরত্বে চলে যাওয়ায় সাইরেনের শব্দ?,Option 1,বেড়ে গেল,কমে গেল,"To solve this problem, let's first translate the question and options into English for clarity:
+
+**Translation:**
+The question is asking whether the sound of a police siren increases or decreases when it moves from 200 feet away from your house to 175 feet away from your house.
+
+**Options:**
+- **Option 1:** Increased
+- **Option 2:** Decreased
+
+When the police siren moves closer to your house (from 200 feet to 175 feet), the sound of the siren would become louder because the distance between you and the source of the sound has decreased. This is based on the principle that the intensity of sound is inversely proportional to the square of the distance from the source of the sound. Therefore, as the siren comes closer, the sound becomes louder.
+
+**Answer: Option 1**"
+211,লিসা দুটি মডেলের রকেট নিয়ে খেলছিল। তিনি একই সময়ে রকেট দুটি আঁকাশে নিক্ষেপ করলে ৩০ সেকেন্ড পরে কালোটি মাটি থেকে ৪৫ মিটার উপরে এবং লালটি মাটি থেকে ৩১ মিটার উপরে ছিল। কোনটির গতি বেশি ছিল?,Option 2,লালটা,কালোটা,"1. Translation of the Bengali question and options into English for clarity:
+The question translates to: ""Lisa was playing with two model rockets. When she launched the two rockets into the sky at the same time, 30 seconds later, the black one was 45 meters above the ground and the red one was 31 meters above the ground. Which one had a higher speed?""
+The options are:
+- **Option 1**: The red one
+- **Option 2**: The black one
+
+2. To determine which rocket had a higher speed, we need to calculate the speed of each rocket. Speed is calculated as distance divided by time. Since both rockets were launched at the same time and we are considering their positions after the same amount of time (30 seconds), the one that has traveled the greater distance in that time has the higher speed.
+
+Given:
+- Distance traveled by the black rocket = 45 meters
+- Distance traveled by the red rocket = 31 meters
+- Time taken = 30 seconds
+
+Speed of the black rocket = Distance / Time = 45 meters / 30 seconds = 1.5 meters/second
+Speed of the red rocket = Distance / Time = 31 meters / 30 seconds = 1.0333 meters/second
+
+Since 1.5 meters/second (speed of the black rocket) is greater than 1.0333 meters/second (speed of the red rocket), the black rocket had a higher speed.
+
+**Answer: Option 2**"
+94,জোশ লক্ষ্য করেছেন যে তার ভাগ্নিকে (ওজন ৪৫ পাউন্ড) তার ছেলের (৬০ পাউন্ড ওজন) তুলনায় তাকে তোলা কঠিন। তার ভাগ্নির _____ মাধ্যাকর্ষণ টান আছে?,Option 2,বেশি,কম,"## Step 1: Translate the Bengali question and options into English for clarity.
+The English translation of the question is: ""Josh noticed that his niece (weight 45 pounds) is harder to lift compared to his son (weight 60 pounds). His niece has _____ gravitational pull?""
+The options are:
+- Option 1: More
+- Option 2: Less
+
+## Step 2: Understand the concept of gravitational pull in relation to the given scenario.
+Gravitational pull is directly related to the mass of an object. The more massive an object is, the stronger its gravitational pull. However, in the context of this question, we're comparing the gravitational pull exerted on Josh's niece and son by the Earth, which depends on their masses.
+
+## Step 3: Compare the masses of Josh's niece and son to determine their gravitational pull.
+Josh's son weighs 60 pounds, which is more than his niece, who weighs 45 pounds. Since gravitational pull is directly proportional to mass, the person with more mass will experience a greater gravitational pull.
+
+## Step 4: Apply the understanding of gravitational pull to the given options.
+Given that Josh's niece weighs less than his son, she will experience less gravitational pull compared to his son.
+
+The final answer is: **Answer: Option 2**"
+85,টিমের রিংটি মাঠে ৪.৫ সেন্টিমিটার এবং তার মেঝেতে ১.২ সেন্টিমিটার গড়িয়ে যায়। টিমের _____ বেশী মসৃণ।,Option 2,মেঝে,মাঠ,"To solve this, let's first translate the question and options into English for clarity:
+
+Translation: Tim's ring slides 4.5 centimeters on the field and 1.2 centimeters on the floor. Tim's _____ is smoother.
+
+Options:
+1. floor
+2. field
+
+Given that the ring slides further on the field (4.5 cm) than on the floor (1.2 cm), it indicates that less friction is encountered on the field, suggesting the field is smoother.
+
+**Answer: Option 2**"
+330,আমি একটি গাড়িতে ৫৬ মি/সে গতিতে এবং একটি সাইকেলে ১২ মি/সে গতিতে ভ্রমণ করতে পারি। কোনটি ধীর?,Option 1,সাইকেল,গাড়ী,"1. Translation of the Bengali question and options into English for clarity:
+   - Question: I can travel at a speed of 56 m/s in a car and at a speed of 12 m/s on a cycle. Which one is slower?
+   - Options:
+     - Option 1: Cycle
+     - Option 2: Car
+
+2. To determine which one is slower, we compare the speeds given for the car and the cycle. The speed of the car is 56 m/s, and the speed of the cycle is 12 m/s. Since 12 m/s is less than 56 m/s, the cycle is slower than the car.
+
+**Answer: Option 1**"
+95,"টেড পার্কে তার বাইক চালাচ্ছিলেন। যখন তিনি সিমেন্টের পথে ছিলেন, তখন তিনি ৫০ সেকেন্ডে পার্কের চারপাশে জিপ করতে সক্ষম হন এবং ঘাসের উপর তিনি ৪ মিনিট সময় নেন। বাইকটি কোথায় বেশি গরম হয়ে যাবে?",Option 2,সিমেন্ট পথে,ঘাসে,"1. Translation of the question and options into English for clarity:
+The question translates to: ""Ted was riding his bike in the park. When he was on the cement path, he was able to zip around the park in 50 seconds, and on the grass, it took him 4 minutes."" 
+The options are:
+Option 1: Cement path
+Option 2: Grass
+
+2. To determine where the bike would get hotter, we need to consider the factors that contribute to the bike's temperature. Generally, the more resistance and the longer the duration of riding, the more heat is generated due to friction in the bike's mechanisms.
+
+Given that it takes Ted significantly longer (4 minutes vs 50 seconds) to ride around the park on the grass compared to the cement path, it indicates that there is more resistance on the grass. This increased resistance would generate more heat due to the additional friction in the bike's moving parts as Ted has to exert more effort to ride through the grass.
+
+Therefore, considering the longer time and higher resistance on the grass, the bike would get hotter on the grass.
+
+**Answer: Option 2**"
+267,"কেট সিনেমায় আছে এবং ঘটনাক্রমে তার কাপ মেঝেতে ফেলে দেয়। কাপটি কংক্রিটের মেঝে দিয়ে ৩ সেকেন্ডের মধ্যে গড়িয়ে যায় যা ২৫ সেন্টিমিটার দীর্ঘ, কিন্তু এটি কার্পেটেড মেঝেতে আঘাত করার পরে ৩ সেকেন্ড সেকেন্ডে ০.১৮ মিটার যায়। কাপটি কংক্রিটের মেঝেতে দ্রুত ছিল কারণ কংক্রিটের মেঝে ছিল?",Option 2,বেশী ঘর্ষণ,কম ঘর্ষণ।,"1. Translation of the question and options into English for clarity:
+The question translates to: ""Kate is at the cinema and accidentally drops her cup. The cup rolls across the concrete floor in 3 seconds which is 25 centimeters long, but after hitting the carpeted floor it goes 0.18 meters in 3 seconds. Why was the cup faster on the concrete floor?""
+Options:
+- Option 1: More friction
+- Option 2: Less friction
+
+2. Selection of the correct option:
+To determine why the cup was faster on the concrete floor, we need to consider the factors affecting its motion. The primary factor here is friction, which opposes motion. On the carpeted floor, the cup travels a shorter distance in the same amount of time compared to the concrete floor, indicating that its speed is reduced due to increased friction. This means the concrete floor offered less resistance to the cup's motion compared to the carpeted floor.
+
+**Answer: Option 2**"
+127,"যদি একটি গাড়ি এবং একটি পিকআপ উভয়ই ৬০ মাইল বেগে ভ্রমণ করে, কিন্তু গাড়িটি ১.৩ ঘন্টা পরে থামে যেখানে পিকআপটি ১৮৬ মিনিট পরে থামে, কোনটি কম দূরত্ব অতিক্রম করেছে?",Option 1,গাড়ী,পিকআপ,"## Step 1: Translate the Bengali question and options into English for clarity.
+The question translates to: ""If a car and a pickup both travel at 60 miles per hour, but the car stops 1.3 hours later where the pickup stops 186 minutes later, which one traveled a shorter distance?""
+The options are:
+- Option 1: Car
+- Option 2: Pickup
+
+## Step 2: Convert 186 minutes into hours for consistent comparison.
+To convert 186 minutes into hours, divide by 60 since there are 60 minutes in an hour. 186 minutes / 60 = 3.1 hours.
+
+## Step 3: Calculate the distance each vehicle traveled.
+Distance = Speed * Time. For the car, the distance traveled is 60 miles/hour * 1.3 hours. For the pickup, the distance traveled is 60 miles/hour * 3.1 hours.
+
+## Step 4: Perform the calculations for each vehicle.
+- Car distance = 60 * 1.3 = 78 miles
+- Pickup distance = 60 * 3.1 = 186 miles
+
+## Step 5: Compare the distances traveled by each vehicle to determine which one traveled a shorter distance.
+Since 78 miles (distance traveled by the car) is less than 186 miles (distance traveled by the pickup), the car traveled a shorter distance.
+
+The final answer is: **Answer: Option 1**"
+10,"একটি ম্যামথ পানির গর্তের মধ্য দিয়ে ঘণ্টায় ১৮ কিলোমিটার গতিতে এগোয়, কিন্তু শক্ত ময়লার উপর ঘন্টায় ১৮ মাইল গতিতে চলে যায় কারণ শক্ত ময়লা ছিল? ",Option 2,বেশী প্রতিরোধী,কম প্রতিরোধী,"To solve this, let's first translate the question and options into English for better clarity.
+
+**Translation:**
+A mammoth moves at a speed of 18 kilometers per hour through a water hole, but it moves at a speed of 18 miles per hour on hard soil because the hard soil was?
+**Options:**
+1. More resistant
+2. Less resistant
+
+Given the context, the question seems to be asking why the mammoth's speed differs between moving through a water hole and moving on hard soil. The speed mentioned for both scenarios is the same but in different units (kilometers per hour and miles per hour), which suggests a potential misunderstanding or misinterpretation in the question as presented. However, focusing on the core of the question regarding the resistance of the surfaces:
+
+Moving through water generally offers more resistance compared to moving on solid ground due to the viscosity and density of water. Thus, if a mammoth can move at a certain speed through water and then achieves the same speed (considering the unit discrepancy as a potential error in the question) on hard soil, it implies that hard soil offers less resistance compared to water. This allows the mammoth to maintain or achieve a comparable speed with less effort.
+
+**Answer: Option 2**"
+362,"ইয়ান এবং অ্যাভেরি একই স্টেশন থেকে ট্রেন ধরছে। ইয়ানের ট্রেন লাল, এবং চল্লিশ মাইল দূরে একটি গন্তব্যে ৩৯ কিমি প্রতি ঘন্টা যাচ্ছে। অ্যাভেরি এর ট্রেন সবুজ এবং চল্লিশ মাইল দূরে একটি গন্তব্যে ২৩ কিমি প্রতি ঘন্টা যাচ্ছে। ট্রেন যে ধীরগতির হয়?",Option 2,লাল,সবুজ,"1. Translation of the question and options into English for clarity:
+The question translates to: ""Ian and Avery are catching trains from the same station. Ian's train is red and is going to a destination forty miles away at 39 km per hour. Avery's train is green and is going to a destination forty miles away at 23 km per hour. Which train is slower?""
+The options are:
+- Option 1: Red
+- Option 2: Green
+
+2. To determine which train is slower, we need to compare their speeds. Since both trains are traveling the same distance (40 miles), the train with the lower speed will take longer to reach its destination.
+
+Speed of Ian's (red) train: 39 km/h
+Speed of Avery's (green) train: 23 km/h
+
+Since 23 km/h is less than 39 km/h, Avery's train (green) is slower.
+
+**Answer: Option 2**"
+57,মার্কাসের ছেলে পুল টেবিল থেকে পুল বল নিয়ে গেল ঘরের চারপাশে খেলার জন্য। ছেলেটি লক্ষ্য করল যে পুল বলটি মার্বেল মেঝেতে ১৮০ সেন্টিমিটার এবং বালিতে ২৭ সেন্টিমিটার দূরত্ব যায়। কোনটি বেশী মসৃণ তল?,Option 1,মার্বেল মেঝে,বালি,"To solve this, let's break down the information provided:
+
+1. **Translation of the Question and Options:**
+   - Question: Marcus's son took pool balls from the pool table to play around the house. The boy noticed that the pool ball went 180 centimeters on the marble floor and 27 centimeters on the sand.
+   - Option 1: Marble floor
+   - Option 2: Sand
+
+2. **Analysis:**
+   - The question essentially asks which surface is smoother based on the distance a pool ball travels on each.
+   - A smoother surface would offer less resistance, allowing the ball to travel further.
+
+3. **Conclusion:**
+   - Given that the pool ball travels 180 centimeters on the marble floor but only 27 centimeters on the sand, it indicates that the marble floor offers less resistance, thus it is smoother.
+
+**Answer: Option 1**"
+73,এলিয়ট লক্ষ্য করেন যে তিনি একটি হ্যান্ডকার্টকে সিমেন্টের উপর ১৯ মি/সেকেন্ড এবং কার্পেটে ২৩ মি/সেকেন্ড গতিতে ধাক্কা দিতে সক্ষম। হ্যান্ডকার্টটি কোথায় বেশী তাপ উৎপন্ন করবে?,Option 2,কার্পেটে,সিমেন্টে,"To solve this problem, let's first translate the Bengali question and options into English for clarity:
+
+Translation: Elliot notices that he can push a handcart at a speed of 19 m/s on cement and 23 m/s on carpet. Where will the handcart produce more heat?
+
+Options:
+1. On the carpet
+2. On the cement
+
+When considering where more heat will be produced, we should think about the relationship between friction, speed, and heat generation. Generally, the more friction there is between two surfaces, the more heat will be generated when they move against each other, assuming the same force is applied. However, in this scenario, since Elliot is pushing the handcart at different speeds on different surfaces, we also need to consider the role of speed in heat generation through friction.
+
+Given that friction (and thus heat generation due to friction) is higher when the coefficient of friction is higher, and knowing that carpet typically has a higher coefficient of friction than smooth cement, we might initially think that the carpet would generate more heat due to higher friction. However, the speeds given also play a role in how much work is done (and thus how much heat can be generated due to friction) over a given period.
+
+The formula for kinetic friction is F = μk * N, where μk is the coefficient of kinetic friction, and N is the normal force. The work done (and thus the heat generated) by friction over a distance can be related to the force of friction and the distance over which it acts. However, since the question asks about heat generation in relation to the speed of the handcart on different surfaces, and given that the handcart moves faster on carpet, we must consider how these speeds and the inherent properties of the surfaces (like friction coefficients) interact.
+
+In general, for the same force applied, a higher speed might imply less time for heat to build up in a specific spot (since the cart is moving faster), but the total energy dissipated as heat over a given distance could still be greater due to the higher speed covering more distance in less time. However, the critical factor here is the friction coefficient and how it affects the force of friction, which directly influences heat generation.
+
+Given these considerations and the fact that the handcart's speed on carpet is higher, we might still expect more heat generation on the carpet due to its typically higher friction coefficient compared to cement. But let's clarify: the actual heat generation is more directly related to the force of friction and the distance over which the friction acts"
+133,জিম একটি ট্রাক এবং একটি গাড়ি উভয়েরই মালিক। ট্রাকের ওজন গাড়ির থেকে ১৩০২৫ কেজি বেশি। গ্যাসের প্যাডেলে চাপ দিলে কোন গাড়িটি বেশি গতিতে ত্বরান্বিত হবে?,Option 2,ট্রাক,গাড়ী,"1. Translation of the question and options into English for clarity:
+The question translates to: ""Jim owns both a truck and a car. The truck weighs 13025 kg more than the car. When the gas pedal is pressed, which vehicle will accelerate faster?""
+The options are:
+Option 1: The truck
+Option 2: The car
+
+2. Analysis of the problem: 
+According to Newton's second law of motion, acceleration (a) is directly proportional to the net force (F) acting on an object and inversely proportional to its mass (m): a = F/m. 
+Given that the truck weighs significantly more than the car, when the gas pedal is pressed (applying a force), the car, being less massive, will have a greater acceleration due to the same force applied compared to the truck.
+
+3. Conclusion:
+Based on the principle that the less massive object (in this case, the car) will accelerate faster when the same force is applied (such as pressing the gas pedal), the correct option is:
+
+**Answer: Option 2**"
+43,আজমীরা স্কুলে হাতের কাজ দেখিয়ে ৫০ এর মধ্যে ২৫ নম্বর পেয়েছে। কিন্তু আলির স্কুলে আলি হাতের কাজে ২৫ এর মধ্যে ১০ নম্বর পেয়েছে। কে বেশি অংশ নম্বর পেয়েছে হিসাব করি।,Option 1,আজমীরা ,আলি ,"To determine who scored a higher percentage, we need to calculate the percentage of marks each person received.
+
+1. Translation of the question and options into English for clarity:
+   - Question: Azmira got 25 marks out of 50 in her school's handwork. But Ali got 10 marks out of 25 in his school's handwork. Who scored a higher percentage?
+   - Options: 
+     - Option 1: Azmira
+     - Option 2: Ali
+
+2. Calculating percentages:
+   - Azmira's percentage = (25/50) * 100 = 50%
+   - Ali's percentage = (10/25) * 100 = 40%
+
+Since 50% is greater than 40%, Azmira scored a higher percentage than Ali.
+
+**Answer: Option 1**"
+279,রড তার কুকুরের কাছে একটি বল ঘুরিয়ে দিচ্ছিল। তিনি সিমেন্টের উপর ৫ মিটার দূরত্ব এবং ঘাসের উপর ২ মিটার দূরত্বে বলটি রোল করতে সক্ষম হন। এর কারণ কি সিমেন্ট?,Option 2,রুক্ষ,মসৃণ,"1. Translation of the Bengali question and options into English for clarity:
+The question translates to: ""Rod was rolling a ball towards his dog. He was able to roll the ball a distance of 5 meters on cement and a distance of 2 meters on grass. Why is it that the ball went further on the cement?""
+The options provided are:
+Option 1: Rough
+Option 2: Smooth
+
+2. Conclusion:
+To determine why the ball rolled further on cement, we need to consider the properties of the surfaces. Generally, a smooth surface allows for less friction, enabling objects to move further with the same amount of initial force compared to a rough surface, where friction is higher, causing the object to stop sooner.
+
+Given that the ball rolled 5 meters on cement and only 2 meters on grass, it suggests that the cement surface offered less resistance to the ball's movement compared to the grass. Grass is typically rougher than cement, which means it has more friction. Cement, being smoother, has less friction, allowing the ball to roll further.
+
+Therefore, the reason the ball went further on the cement is that cement is smoother than grass.
+
+**Answer: Option 2**"
+377,জিম সার্ভার থেকে ১০০ কিমি দূরে থাকে। জরিনা সার্ভার থেকে ৯৭০০ মাইল দূরে বাস করে। উভয়ের ইন্টারনেট গতি একই। কার পিং বেশি হবে?,Option 2,জিম,জরিনা,"To solve this problem, we first need to understand the relationship between distance and ping (latency) in the context of internet connections. Generally, the farther the distance between the user and the server, the higher the latency (ping) will be. This is because the signal takes longer to travel greater distances.
+
+1. **Translation of the question and options into English:**
+   - Question: Jim lives 100 km away from the server. Zarina lives 9700 miles away from the server. Whose ping will be higher?
+   - Option 1: Jim
+   - Option 2: Zarina
+
+2. **Analysis:**
+   - To compare the distances effectively, we need to convert them into the same unit. Since we're comparing kilometers to miles, let's convert miles to kilometers (1 mile = 1.60934 kilometers).
+   - Zarina's distance from the server in kilometers = 9700 miles * 1.60934 kilometers/mile ≈ 15603.048 kilometers.
+   - Now, comparing Jim's distance (100 km) to Zarina's distance (approximately 15603 kilometers), it's clear that Zarina is much farther away from the server than Jim.
+
+3. **Conclusion:**
+   Given that distance is a significant factor in determining internet latency (with greater distances generally resulting in higher latency), and considering Zarina lives much farther away from the server compared to Jim, Zarina will have a higher ping.
+
+**Answer: Option 2**"
+232,"শেপ এবং ক্রিস একই রাস্তায় গাড়ি চালাচ্ছে এবং একই গতিতে যাচ্ছে। যাইহোক, শেপ ১২০ সেকেন্ডের জন্য ভ্রমণ করেছে এবং ক্রিস ১ মিনিটের জন্য ভ্রমণ করেছে। ফলে?",Option 1,শেপ ক্রিসের চেয়ে আরও বেশি ভ্রমণ করেছে,শেপ ক্রিসের চেয়ে বেশি ভ্রমণ করেনি,"To solve this problem, let's first translate the question and options into English for clarity:
+
+**Translation:**
+Shep and Chris are driving on the same road and traveling at the same speed. However, Shep has been traveling for 120 seconds, and Chris has been traveling for 1 minute. What is the result?
+
+**Options:**
+1. Shep has traveled more than Chris
+2. Shep has not traveled more than Chris
+
+Now, let's analyze the situation:
+- Shep travels for 120 seconds.
+- Chris travels for 1 minute, which equals 60 seconds.
+
+Since they are traveling at the same speed, the distance each travels is directly proportional to the time they have been traveling. Given that Shep has been traveling for 120 seconds and Chris for 60 seconds, Shep has been traveling for twice the time Chris has. Therefore, Shep has traveled more than Chris.
+
+**Answer: Option 1**"
+386,"পুকুরে কচ্ছপের সাঁতারের গতি ১২ মিটার/সেকেন্ড, যখন সাগরে ২.৮ মিটার/সেকেন্ড, কারণ _____ বেশী মসৃণ?",Option 1,পুকুর,মহাসাগর,"To solve this problem, we first need to translate the given Bengali question and options into English for clarity.
+
+Translation of the question: 
+The swimming speed of a turtle in a pond is 12 meters/second, when in the sea it is 2.8 meters/second, because _____ is smoother?
+
+Translation of the options:
+Option 1: Pond
+Option 2: Ocean
+
+Now, analyzing the given information, the speed of the turtle is significantly higher in the pond (12 meters/second) compared to the sea (2.8 meters/second). This suggests that the environment where the turtle can swim faster is likely to be smoother, as less resistance would allow for higher speeds.
+
+Given this logic, the correct option would be related to the smoother environment, which, based on the speed of the turtle, is the pond. Therefore, the reason for the difference in speed is because the pond is smoother than the sea.
+
+**Answer: Option 1**"
+78,"গাড়ি চালিয়ে, মেরি জানতে পেরেছিলেন যে জঙ্গলের ঘর্ষণ সহগ ০.৮, যেখানে রাস্তার সহগ ০.৪ আছে। কথা তার গাড়ি উপর দ্রুত চালানো যায়?",Option 2,জঙ্গলে,রাস্তায়,"To answer this question, let's first translate it into English for better understanding:
+
+""Driving a car, Mary found out that the jungle has a friction coefficient of 0.8, where the road has a coefficient of 0.4. On which can her car be driven faster?""
+
+Given the context, the friction coefficient is inversely related to the speed at which a car can be driven, because higher friction means more resistance and thus potentially slower speeds for safety. 
+
+- A higher friction coefficient (like 0.8 in the jungle) means there's more grip but also more resistance, which could necessitate slower driving for control.
+- A lower friction coefficient (like 0.4 on the road) means less grip but less resistance, allowing for potentially faster driving.
+
+Therefore, considering the basic principles of physics and the information given:
+
+**Answer: Option 2**"
+16,৬৭৮০৯০ সংখ্যাটি ৯৮৭৬৫০ সংখ্যাটি থেকে ?,Option 2,বড়,ছোট,"To solve this problem, we first need to compare the two given numbers: 678090 and 987650.
+
+1. Translate the Bengali question and options into English for clarity:
+   - The question translates to ""The number 678090 is _______ than the number 987650.""
+   - Option 1 translates to ""larger""
+   - Option 2 translates to ""smaller""
+
+2. Comparing the numbers:
+   - 678090 is smaller than 987650 because because because when comparing the numbers from left to right, the first difference is in the first digit from the left (6 vs. 9), and since 6 is less than 9, 678090 is less than 987650.
+
+Therefore, the correct option is the one stating that 678090 is smaller than 987650.
+
+**Answer: Option 2**"
+392,"যদি একটি গাড়ি এবং একটি পিকআপ উভয়ই ৬০ মাইল বেগে ভ্রমণ করে, কিন্তু গাড়ি ২ ঘন্টা পরে থামে যেখানে পিকআপ ৬ ঘন্টা পরে থামে, কোনটি কম দূরত্ব অতিক্রম করেছে?",Option 1,গাড়ী,পিকআপ,"To clarify the given problem, let's break it down step by step.
+
+1. **Translation**: The question and options translated into English are as follows:
+   - Question: If a car and a pickup both travel at 60 miles per hour, but the car stops after 2 hours where the pickup stops after 6 hours, which one has traveled a shorter distance?
+   - Options: 
+     - Option 1: The car
+     - Option 2: The pickup
+
+2. **Analysis**: To find out which vehicle has traveled a shorter distance, we need to calculate the distance each has traveled. The formula for distance is Distance = Speed × Time.
+
+   - For the car: Distance = 60 miles/hour × 2 hours = 120 miles
+   - For the pickup: Distance = 60 miles/hour × 6 hours = 360 miles
+
+   Given that the car travels for 2 hours and the pickup for 6 hours at the same speed, the car will have traveled a shorter distance because it travels for less time.
+
+3. **Conclusion**: Based on the calculation, the car has traveled a shorter distance than the pickup.
+
+**Answer: Option 1**"
+272,"ময়লার উপর একটি ঘূর্ণায়মান মার্বেল বালির তুলনায় ৫ নিউটন প্রতিরোধ ক্ষমতা তৈরি করে, বালির উপর এটি ৭৩ নিউটন প্রতিরোধের সৃষ্টি করে। মার্বেল কোথায় বেশি যেতে পারবে?",Option 1,বালি,ময়লা,"## Step 1: Translate the Bengali question and options into English for clarity.
+The question translates to: ""A rotating marble creates 5 Newtons of resistance on mud, whereas it creates 73 Newtons of resistance on sand. Where can the marble go further?""
+The options are:
+Option 1: Sand
+Option 2: Mud
+
+## Step 2: Analyze the resistance on both surfaces to determine where the marble can go further.
+The marble experiences less resistance on mud (5 Newtons) compared to sand (73 Newtons). Less resistance means the marble can move more easily and potentially go further.
+
+## Step 3: Conclude by selecting the correct option based on the analysis.
+Since the marble experiences less resistance on mud, it can go further on mud compared to sand.
+
+The final answer is: **Answer: Option 2**"
+1,"একটি পিকআপ এবং একটি ভ্যান উভয়ই মহাসড়কে ৬০ মাইল বেগে চলছে। 
+যদি পিকআপটি প্রস্থানের দিকে চলে যায় এবং ভ্যানটি তাড়াতাড়ি থামে, 
+তবে কোন গাড়িটি কম দূরত্ব অতিক্রম করবে?",Option 1,পিকআপ,ভ্যান,"To solve this, let's translate the question and options into English for clarity:
+
+**Translation of the Question:** A pickup and a van are both traveling at 60 miles per hour on the highway. If the pickup continues on its way and the van stops as soon as possible, which vehicle will cover less distance?
+
+**Options:**
+1. **Option 1:** The pickup
+2. **Option 2:** The van
+
+Given the scenario, the pickup is continuing to move at a constant speed of 60 miles per hour, while the van is stopping as soon as possible. The key point here is the time it takes for the van to stop. Since the van is decelerating from 60 miles per hour to 0 miles per hour, it will cover a certain distance during this deceleration phase before it comes to a complete stop.
+
+The pickup, however, continues to travel at 60 miles per hour without stopping. The question essentially asks which vehicle covers less distance after the van starts to stop. 
+
+Considering the van has to stop, it means it will cover less distance than the pickup after the point where the van begins to decelerate because the pickup continues to move at full speed. The van's distance will be limited by its deceleration and stop, while the pickup's distance will continuously increase as it does not stop.
+
+**Answer: Option 2**"
+397,"ম্যামথটি ওয়াটারিং হোল দিয়ে ঘন্টায় ৩ কিমি বেগে চলেছিল, কিন্তু শক্ত ময়লার উপর ঘন্টায় ৯ কিমি বেগে চলেছিল কারণ শক্ত ময়লা ছিল?",Option 1,কম প্রতিরোধী,বেশী প্রতিরোধী,"## Step 1: Translate the Bengali question and options into English for clarity.
+The question translates to: ""Mammoth was moving at a speed of 3 km/h through the watering canals, but was moving at a speed of 9 km/h on hard soil because the hard soil was?""
+And the options are:
+- Option 1: Less resistant
+- Option 2: More resistant
+
+## Step 2: Analyze the given information to determine why the mammoth's speed increased on hard soil.
+The mammoth's speed increased from 3 km/h to 9 km/h when moving from watering holes (likely muddy or soft terrain) to hard soil. This increase in speed suggests that the mammoth faced less resistance or obstruction on the hard soil compared to the softer, possibly muddy ground.
+
+## Step 3: Choose the correct option based on the analysis.
+Given that the mammoth's speed increased on hard soil, it implies that hard soil offered less resistance to the mammoth's movement compared to the softer ground. Therefore, the correct option is the one stating that hard soil is less resistant.
+
+The final answer is: **Answer: Option 1**"
+115,একটি ছোট ছেলে হলওয়ের নিচে তার দুটি রাবারের বল গড়িয়েছে। লাল বল ৭০ সেকেন্ড পরে থামল। নীলটি ২ মিনিট ৩৪ সেকেন্ড পরে থামল। কোনটি বেশি দূরে গেলো?,Option 2,লাল বল,নীল বল।,"## Step 1: Translate the Bengali question and options into English for clarity.
+The question translates to: ""A little boy rolled his two rubber balls under the hallway. The red ball stopped after 70 seconds. The blue one stopped after 2 minutes 34 seconds. Which one went farther?""
+The options are:
+- Option 1: The red ball
+- Option 2: The blue ball
+
+## Step 2: Analyze the given information to determine which ball went farther.
+To determine which ball went farther, we need to consider the time each ball was in motion. Assuming both balls were rolled with the same initial force and there are no other factors affecting their motion (like friction), the ball that rolls for a longer time will travel a greater distance.
+
+## Step 3: Compare the times the balls were in motion.
+The red ball stopped after 70 seconds. The blue ball stopped after 2 minutes 34 seconds, which is equivalent to 154 seconds (since 1 minute = 60 seconds, 2 minutes = 120 seconds, and adding 34 seconds gives 154 seconds).
+
+## Step 4: Determine which ball traveled farther based on the time in motion.
+Since the blue ball was in motion for 154 seconds, which is longer than the 70 seconds the red ball was in motion, the blue ball would have traveled farther under the assumption that both balls started with the same velocity and experienced the same deceleration due to friction.
+
+The final answer is: **Option 2**"
+226,"ইয়ান এবং অ্যাভেরি একই স্টেশন থেকে ট্রেন ধরছে। ইয়ানের ট্রেন লাল, এবং চল্লিশ মাইল দূরে একটি গন্তব্যে ৮ মাইল প্রতি ঘন্টা যাচ্ছে। অ্যাভেরি এর ট্রেন সবুজ এবং চল্লিশ মাইল দূরে একটি গন্তব্যে ১৪ মাইল প্রতি ঘন্টা যাচ্ছে।কোন ট্রেনটি ধীরগতির হয়?",Option 1,লাল,সবুজ,"To determine which train is slower, we need to compare the time it takes for each train to reach its destination.
+
+1. Translate the Bengali question and options into English for clarity:
+The question is: Ian and Avery are taking trains from the same station. Ian's train is red and is going to a destination 40 miles away at 8 miles per hour. Avery's train is green and is going to a destination 40 miles away at 14 miles per hour. Which train is slower?
+Options:
+- Option 1: Red
+- Option 2: Green
+
+2. Calculate the time for each train to reach its destination:
+- Time for the red train = Distance / Speed = 40 miles / 8 miles per hour = 5 hours
+- Time for the green train = Distance / Speed = 40 miles / 14 miles per hour = 2.86 hours (approximately)
+
+Since 5 hours is greater than 2.86 hours, the red train is slower.
+
+**Answer: Option 1**"
+263,খালি সিমেন্ট ট্রাকের ওজন প্রায় ৮০০০ পাউন্ড। পরে ট্রাকে ৫ কেজি ওজনের ৫ ব্যাগ সিমেন্ট রাখা হয়। এটি বেশী _____ চলে যখন সিমেন্টের ব্যাগ ছাড়াই চলছিল?,Option 1,দ্রুত,ধীর,"1. Translation of the Bengali question and options into English for clarity:
+The question translates to: ""The empty cement truck weighs about 8,000 pounds. After that, 5 bags of cement, each weighing 5 kg, are placed in the truck. It moves _______ when it was moving without the bags of cement.""
+The options are:
+- Option 1: Faster
+- Option 2: Slower
+
+2. Conclusion:
+Given that the weight of the truck increases with the addition of the cement bags, and considering the basic principle of physics that more mass requires more force to achieve the same acceleration (according to Newton's second law of motion, F = ma, where F is force, m is mass, and a is acceleration), the truck would require more force to move at the same speed once the cement bags are added. Since the question implies a constant force applied (e.g., the engine's power), adding more weight (the cement bags) would result in the truck moving slower than it did without the additional weight.
+
+**Answer: Option 2**"
+105,জিম ৪৬ মিটার/সেকেন্ড গতিতে দৌড়াতে পারত এবং তার বোন জেন ৫২ মি/সেকেন্ড বেগে দৌড়াতে পারত। একটি বিপজ্জনক ভাইরাসের বিস্তার বন্ধ করার জন্য তাদের পরবর্তী শহরে কিছু জরুরি ভ্যাকসিন সরবরাহ করতে হয়েছিল। স্বল্প সময়ে সেখানে পৌঁছানোর জন্য টিকা নিয়ে কাকে যাওয়া উচিত?,Option 2,জিম,জেন,"To solve this problem, we first need to translate the given Bengali question and options into English for clarity.
+
+Translation:
+""Jim could run at a speed of 46 meters/second and his sister Jane could run at a speed of 52 meters/second. They had to deliver some emergency vaccines to the next town to stop the spread of a deadly virus. Who should go with the vaccines to reach there in the shortest time?
+Option 1: Jim
+Option 2: Jane""
+
+Given that speed is the determining factor for reaching the destination in the shortest time, the person with the higher speed should be chosen for the task.
+
+Since Jane runs at 52 meters/second, which is faster than Jim's speed of 46 meters/second, Jane should be the one to go with the vaccines.
+
+**Answer: Option 2**"
+396,"টেরি তার সাইকেলটি যাত্রার জন্য নিয়ে যায়, প্রথমে ১ সেকেন্ডে ৭ মিটার ঘাসের মাঠের মধ্য দিয়ে, তারপর ২ সেকেন্ডে ১২ মিটারের পাকা রাস্তা। পাকা রাস্তা ছিল?",Option 1,বেশী প্রতিরোধী,কম প্রতিরোধী,"1. Translation of the Bengali question and options into English for clarity:
+The question translates to: ""Terry takes his cycle for a trip, first through a grass field for 7 meters in 1 second, then through a paved road for 12 meters in 2 seconds. Which road was...""
+The options translate to:
+- Option 1: ""More resistant""
+- Option 2: ""Less resistant""
+
+To determine which road was more or less resistant, we need to calculate the speed at which Terry traveled through each segment.
+
+2. Calculation:
+- Speed through the grass field = Distance / Time = 7 meters / 1 second = 7 m/s
+- Speed through the paved road = Distance / Time = 12 meters / 2 seconds = 6 m/s
+
+Since Terry's speed was higher on the grass field (7 m/s) than on the paved road (6 m/s), it indicates that the paved road offered more resistance to his movement than the grass field.
+
+3. Conclusion:
+Given the calculations, the paved road, where Terry had a lower speed, would be considered more resistant to his travel compared to the grass field.
+
+**Answer: Option 1**"
+194,একটি ট্রেন শহরের ট্র্যাকে ১২০ কিমি/ঘন্টা এবং গ্রামের ট্র্যাকে ৯৮ কিমি/ঘন্টা বেগে চলে। এর মানে কি ট্রেন চলার জন্য বেশী গরম হয়?,Option 2,শহরের ট্র্যাক,গ্রামের ট্র্যাক,"To solve this problem, we'll first translate the given Bengali question and options into English for better understanding.
+
+**English Translation:**
+The question is about a train's speed in two different locations: 
+- In the city, the train travels at 120 km/h.
+- In the village (or rural area), the train travels at 98 km/h.
+The question asks which track (city or village) causes the train to heat up more.
+
+**Options:**
+1. **Option 1:** City track
+2. **Option 2:** Village track
+
+Now, let's consider the factors that could cause a train to heat up more. Generally, the primary factor related to speed that could cause increased heat would be friction, assuming we're talking about the general heat generated by the train's movement and its systems (like brakes, when applied, or engine heat). However, the question seems to imply a simpler interpretation related to the environment or the tracks themselves.
+
+Given the speeds:
+- The train travels faster in the city (120 km/h) than in the village (98 km/h).
+
+However, without specific context about what ""heating up"" refers to (whether it's engine heat, friction heat, or environmental factors), we might interpret the question in a few ways. If we consider ""heating up"" in a very general sense, such as engine effort or friction (which could be loosely related to speed, though not directly), the faster speed in the city might suggest more ""heating up"" due to potentially more engine effort or friction over time. Yet, this isn't directly addressed by the speeds alone without more context.
+
+But considering a straightforward interpretation related to speed and potential for heating due to increased friction or engine workload, the city, with its higher speed, might be where the train experiences conditions that could lead to more heat generation due to these factors.
+
+**Answer: Option 1**"
+262,"সারা এবং জেনি দুজনেই যদি একই গতিতে দৌড়ায়, সারাহ ৭৮ মিনিট দৌড়ায় এবং জেনি সারার চেয়ে ২৭ মিনিট দৌড়ায়, তাহলে কে বেশি দূর ভ্রমণ করেছে?",Option 1,সারাহ,জেনি,"To solve this, let's first translate the question and options into English for clarity:
+
+**Translation:**
+Sarah and Jenny both run at the same speed. Sarah runs for 78 minutes, and Jenny runs for 27 minutes more than Sarah. Who traveled a greater distance?
+
+**Options:**
+1. Sarah
+2. Jenny
+
+Given that both Sarah and Jenny run at the same speed, the distance each of them travels is directly proportional to the time they spend running. Since Jenny runs for 27 minutes more than Sarah, and Sarah runs for 78 minutes, Jenny runs for 78 + 27 = 105 minutes.
+
+Because Jenny runs for more minutes than Sarah at the same speed, she covers a greater distance.
+
+**Answer: Option 2**"
+58,রেঞ্জার এবং রাস্টলার উভয়েই ঘোড়ায় চড়ছিল যেগুলি একই গতিতে ছুটছিল। রাস্টলার ০২:০০ এ চলে যায় যেখানে রেঞ্জার ০১ঃ০০ টায় চলে যায়। কে বেশি ভ্রমণ করেছেন?,Option 1,রেঞ্জার,রাস্টলার,"To solve this, let's break down the information provided in the question.
+
+1. **Translation of the Question and Options into English:**
+   - Question: Ranger and Rastler were both riding horses that were running at the same speed. Rastler left at 02:00 where Ranger left at 01:00. Who traveled more?
+   - Options:
+     - Option 1: Ranger
+     - Option 2: Rastler
+
+2. **Analysis:**
+   - Since both horses are moving at the same speed, the distance each person travels depends on the time they spend riding.
+   - Ranger starts at 01:00 and leaves at 02:00, meaning he rides for 1 hour.
+   - Rastler starts at 02:00, but the question doesn't specify when he leaves. However, given that Ranger leaves at 02:00 after riding for 1 hour and assuming Rastler rides for the same duration as the basis for comparison (since specific details about Rastler's departure time are not provided), we must infer based on the information given that both are traveling at the same speed and presumably for the same amount of time if we are to compare distances directly.
+
+3. **Conclusion:**
+   - However, the question asks who traveled more but does not provide enough context for a definitive numerical comparison without assuming Rastler's ride duration. If both ride for the same amount of time (1 hour, as implied for Ranger), then they travel the same distance because their speeds are equal.
+   - But, considering Rastler starts at 02:00 and without a specified end time, if we assume he also rides for 1 hour (to 03:00), both have the same travel time and thus would travel the same distance under the assumption of constant speed.
+   - Given this, the question seems to lack sufficient detail for a direct comparison based on the provided times alone. However, the key insight here is recognizing the missing detail about Rastler's end time and understanding the question might imply a comparison based on equal ride durations or some other factor not explicitly stated.
+
+Given the explicit times and assuming both ride for the same duration (1 hour) based on Ranger's departure:
+- Both would travel the same distance because they are moving at the same speed.
+
+However, the question specifically asks ""who traveled more?"" without providing Rastler's end time, which might imply an incorrect assumption in our analysis. The critical detail we lack is Rast"
+233,একটি ছোট ছেলে হলওয়ের নিচে তার দুটি রাবারের বল গড়িয়েছে। লাল বল ৮ সেকেন্ড পর থামল। নীলটি ৯ সেকেন্ড পরে থামল। কোনটি বেশী দূরে গেলো?,Option 2,লাল বল,নীল বল,"To answer this question, let's first translate it into English for clarity:
+
+""A small boy rolled his two rubber balls under the hallway. The red ball stopped after 8 seconds. The blue one stopped after 9 seconds. Which one went farther?""
+
+Given the information, we can infer that the ball that stopped later (after more seconds) traveled farther because it had more time to roll before coming to a stop, assuming the force applied to both balls was the same and there were no other external factors affecting their motion differently.
+
+Now, comparing the two:
+- The red ball stopped after 8 seconds.
+- The blue ball stopped after 9 seconds.
+
+Since the blue ball stopped after a longer period, it implies that the blue ball rolled for a longer duration and, therefore, covered a greater distance compared to the red ball.
+
+**Answer: Option 2**"
+117,যদি একজন স্কেটার একটি মাঠে ২৩ মি/সে গতিতে এবং একটি স্কেট পার্কে ১৭ মি/সে গতিতে রাইড করে তাহলে এর মানে হল _____ মসৃণ?,Option 2,স্কেট পার্কে,মাঠে,"## Step 1: Translate the Bengali question and options into English for clarity.
+The Bengali question translates to: ""If a skater rides at a speed of 23 m/s on a field and at a speed of 17 m/s on a skate park, then it means ______ is smoother?""
+The options translate to:
+- Option 1: ""the skate park""
+- Option 2: ""the field""
+
+## Step 2: Analyze the meaning of the speeds given for the skater on different surfaces.
+The speed of the skater on the field is 23 m/s, and on the skate park, it is 17 m/s. Generally, a higher speed on a surface indicates less resistance or friction, implying the surface is smoother.
+
+## Step 3: Determine which surface is smoother based on the speeds.
+Since the skater achieves a higher speed on the field (23 m/s) compared to the skate park (17 m/s), it suggests that the field offers less resistance, making it smoother for the skater.
+
+## Step 4: Select the correct option based on the analysis.
+Given the information and analysis, the correct answer is the field, as it allows the skater to achieve a higher speed, indicating it is smoother.
+
+The final answer is: **Option 2**"
+114,"একটি স্লেগ একটি ছাদের উপর ২২.৯৬৫৯ গজ এবং ১৫ মিটার ঠান্ডা মাটির উপরে স্লাইড করেছে, উভয় পৃষ্ঠে একই গতিতে শুরু হয়েছে। এর মানে _____ আরো রুক্ষ?",Option 2,ছাদ,ঠান্ডা মাটি,"To answer this question, let's first translate it into English for clarity:
+
+""A slug slid 22.9659 yards and 15 meters on cold soil and a roof, starting at the same speed on both surfaces. This means _____ is rougher.
+
+Options:
+1. The roof
+2. The cold soil
+
+Given the context, the question implies that the rougher surface would cause more resistance, thereby potentially affecting the distance the slug could travel if it started at the same speed on both surfaces. However, without explicit information on the speed or the exact conditions (like the presence of lubrication or specific types of soil/roof material), we must interpret the question based on general principles.
+
+In general, cold soil can be expected to be more absorbent and possibly softer than a roof, which could be made of harder materials like wood, metal, or tile. However, the roughness and the frictional force exerted by these surfaces on the slug also depend on the microscopic and macroscopic texture of the surfaces.
+
+The key factor here is not just the distance traveled but how the surfaces interact with the slug. A roof, being generally smoother and possibly harder, might offer less resistance to the slug's movement compared to cold soil, which could be softer and more absorbent, potentially offering more resistance due to increased friction between the slug and the slightly damp or soft soil.
+
+However, the provided distances (22.9659 yards and 15 meters) don't directly indicate which surface is rougher without knowing more about the conditions under which the slug slid (like the initial speed, the exact nature of the surfaces, etc.). 
+
+But considering the principle of friction and assuming all else is equal, the surface that allows for less distance traveled under the same initial conditions would be considered rougher due to higher friction. Since we don't have direct comparisons of distance under the same conditions (the distances given are in different units and for different types of surfaces without a direct basis for comparison), the question seems to lack sufficient information for a definitive answer based on the distances alone.
+
+Given this interpretation challenge and sticking strictly to the instruction for response format, we might consider the nature of surfaces generally:
+
+**Answer: Option 2**"
+343,একটি বোলিং বলের ভর ১৯ পাউন্ড এবং একটি বেসবলের ওজন ৬ পাউন্ড। কোনটির শক্তিশালী মাধ্যাকর্ষণ আছে?,Option 2,বেসবল,বোলিং বল,"## Step 1: Translate the Bengali question and options into English for clarity.
+The question translates to: ""A bowling ball weighs 19 pounds and a baseball weighs 6 pounds. Which one has stronger gravity?""
+Option 1 translates to: ""Baseball""
+Option 2 translates to: ""Bowling ball""
+
+## Step 2: Understand the concept of gravity in relation to the mass of objects.
+Gravity is a force that attracts two bodies towards each other. The strength of gravity between two objects depends on their masses and the distance between them. According to Newton's law of universal gravitation, every point mass attracts every other point mass by a force acting along the line intersecting both points. The force of attraction is proportional to the product of the two masses and inversely proportional to the square of the distance between their centers.
+
+## Step 3: Apply the concept to the given objects.
+Since the question asks about the strength of gravity, and assuming we're comparing the gravitational pull of each object towards the Earth (or any other constant reference point), the object with the greater mass will have a stronger gravitational attraction. This is because the force of gravity is directly proportional to the mass of the objects.
+
+## Step 4: Compare the masses of the bowling ball and the baseball.
+The bowling ball weighs 19 pounds, and the baseball weighs 6 pounds. The bowling ball has a greater mass than the baseball.
+
+## Step 5: Determine which object has stronger gravity based on its mass.
+Given that the bowling ball has a greater mass, it will experience a stronger gravitational pull towards the Earth compared to the baseball.
+
+The final answer is: **Option 2**"
+159,বব ইউএসপিএস এর মাধ্যমে একটি প্যাকেজ এবং ইউপিএস এর মাধ্যমে একটি প্যাকেজ পাঠিয়েছে। তিনি যে প্যাকেজটি ইউপিএসের মাধ্যমে পাঠিয়েছিলেন তা ৪ দিনের মধ্যে পৌঁছেছে এবং ইউএসপিএসের মাধ্যমে ২ সপ্তাহের মধ্যে পৌঁছেছে। কোন পার্সেল পরিষেবা ধীর ছিল?,Option 1,ইউএসপিএস ধীর ছিল,ইউপিএস ধীর ছিল,"1. Translation of the question and options into English for clarity:
+The question translates to: ""Bob sent a package through USPS and a package through UPS. The package he sent through UPS arrived in 4 days, and the package he sent through USPS arrived in 2 weeks. Which parcel service was slower?""
+The options translate to:
+- Option 1: USPS was slower
+- Option 2: UPS was slower
+
+2. Analyzing the information given:
+- The package sent through UPS arrived in 4 days.
+- The package sent through USPS arrived in 2 weeks, which is equivalent to 14 days.
+
+Since 14 days (the time it took for the USPS package to arrive) is greater than 4 days (the time it took for the UPS package to arrive), USPS is the slower service in this scenario.
+
+**Answer: Option 1**"
+142,একটি ঘোড়দৌড়ের ঘোড়া এবং একটি ঘোড়ার গাড়ি উভয়ই একই সময়ে সেলুন থেকে প্রস্থান করে। ঘোড়ার গাড়ির গতি ২১ মি/সে এবং ঘোড়দৌড়ের ঘোড়ার গতি ৩৪ মি/সে। পরবর্তী শহরে কোনটি শেষে পৌঁছাবে?,Option 1,ঘোড়ার গাড়িটি পরবর্তী শহরে পৌঁছতে বেশী সময় নেবে,ঘোড়দৌড়ের ঘোড়াটি পরবর্তী শহরে পৌঁছাতে বেশী সময় নেবে,"1. Translation of the Bengali question and options into English for clarity:
+The question translates to: ""A horse and a horse carriage both leave the salon at the same time. The speed of the horse carriage is 21 m/s and the speed of the racing horse is 34 m/s. Which one will reach the next city last?""
+The options translate to:
+- Option 1: ""The horse carriage will take more time to reach the next city.""
+- Option 2: ""The racing horse will take more time to reach the next city.""
+
+2. To determine which one will reach the next city last, we need to compare their speeds. The racing horse has a speed of 34 m/s, while the horse carriage has a speed of 21 m/s. Since the racing horse is moving faster than the horse carriage, it will cover the same distance in less time compared to the horse carriage.
+
+Therefore, **Answer: Option 1**"
+382,টড সোমবার তার গাড়িতে ওঠে এবং ১২ ঘন্টা গাড়ি চালায়। তিনি মঙ্গলবার একই কাজ করেন কিন্তু সেদিন ৯ ঘন্টা পরে থামেন। কোন দিন সে কম দূর যাবে?,Option 2,সোমবার,মঙ্গলবার,"## Step 1: Translate the Bengali question and options into English for clarity.
+The question translates to: ""Todd gets in his car on Monday and drives for 12 hours. He does the same thing on Tuesday but stops 9 hours later that day. On which day will he travel the least distance?""
+The options are:
+- Option 1: Monday
+- Option 2: Tuesday
+
+## Step 2: Determine the distance traveled on each day based on the hours driven.
+Since distance equals speed multiplied by time, and assuming Todd drives at a constant speed on both days, the distance traveled is directly proportional to the time spent driving.
+
+## Step 3: Calculate the time spent driving on each day.
+On Monday, Todd drives for 12 hours.
+On Tuesday, Todd drives for 12 - 9 = 3 hours less than Monday, so he drives for 12 - 9 = 3 hours.
+
+## Step 4: Compare the time spent driving to determine on which day Todd travels the least distance.
+Since Todd drives for 12 hours on Monday and 3 hours on Tuesday, he drives less on Tuesday.
+
+The final answer is: **Option 2**"
+56,বিউটি কুইন ১৫ মিটার/সেকেন্ড গতিতে মার্বেল মেঝে জুড়ে কিন্তু কাঠের মেঝেতে ১০০০ সেমি/সেকেন্ড গতিতে হেঁটেছিলেন কারণ এটি ছিল?,Option 1,বেশী প্রতিরোধী,কম প্রতিরোধী,"1. Translation of the question and options into English for clarity:
+The question translates to: ""Beauty Queen walked at a speed of 15 meters/second across the marble floor but at a speed of 1000 cm/second on the wooden floor because it was?""
+The options translate to:
+- Option 1: ""More resistant""
+- Option 2: ""Less resistant""
+
+To compare the speeds properly, we should convert them into the same units. 
+- 15 meters/second is equivalent to 1500 cm/second (since 1 meter = 100 cm).
+- 1000 cm/second is the speed on the wooden floor.
+
+Given that the speed on the wooden floor (1000 cm/second) is less than the speed on the marble floor (1500 cm/second), it implies that there is more resistance on the wooden floor, which caused the Beauty Queen to walk slower.
+
+2. Conclusion:
+Based on the information provided and the translation, the correct option is **""Option 1""** because the wooden floor offered more resistance compared to the marble floor, resulting in a lower speed.
+
+**Answer: Option 1**"
+77,একজন প্রশিক্ষক প্রতিদিন তার ঘোড়া দৌড়াতে দেখেছেন। ঘোড়াটি ৬ সেকেন্ডের মধ্যে বেশি গতিতে উঠতে সক্ষম হয়েছিল যখন কেউ তাকে চড়ছিল না এবং যখন কেউ তাকে চড়েছিল তখন এটি ১২ সেকেন্ড সময় নেয়।ঘোড়ার ওজন কম ছিল যখন?,Option 2,এর একজন রাইডার ছিল,যখন কেউ তাকে চড়ছিল না,"1. Translation of the Bengali question and options into English for clarity:
+The question translates to: ""A trainer has seen his horse run every day. The horse was able to gain speed in more than 6 seconds when no one was riding it, and it took 12 seconds when someone was riding it. When was the horse's weight less?""
+The options translate to:
+- Option 1: ""When it had a rider""
+- Option 2: ""When no one was riding it""
+
+2. To solve this problem, let's analyze the given information. The horse gains speed faster when no one is riding it compared to when someone is riding it. This implies that the horse's acceleration is greater without the added weight of a rider.
+
+Given that the horse can accelerate more quickly without a rider (taking more than 6 seconds to gain speed) than with a rider (taking 12 seconds), we can infer the horse's performance is better when it has less weight to carry. Therefore, the time it takes to gain speed is indirectly related to the weight it is carrying - the less weight, the faster it can accelerate.
+
+Since the question asks when the horse's weight was less, and considering the context provided, the answer is related to the situation where the horse's acceleration is better, which would be when it is carrying less weight, i.e., when it has a rider, its own weight remains constant, but the overall weight it needs to move (including the rider) is more when a rider is present. However, the question seems to be asking about the horse's weight itself, not the combined weight of the horse and rider.
+
+The correct interpretation of the question should focus on the fact that the horse's ability to accelerate is affected by the weight it carries. The horse itself does not change weight based on whether it is being ridden or not; what changes is the total load (horse + rider). Thus, the question might seem confusing as it asks about the horse's weight being less, which doesn't directly relate to the scenario described.
+
+However, based on the logical approach to the given scenario:
+- The horse accelerates faster without a rider, indicating better performance without the added weight of a rider. But this does not imply the horse itself weighs less; rather, the overall system (horse + rider) has less weight when there is no rider.
+
+So, following the logic that the horse's weight does not actually change but its performance does based on the rider, the question's aim seems to be about understanding the impact"
+26,১২৩৪৫৬৭৮০৯০ থেকে  ৯৮৭৬৫৪৩২১ সংখ্যাটি?,Option 1,ছোট,বড়,"To compare the two numbers, let's first translate them into English for better understanding:
+
+The given numbers in Bengali are: 
+- ১২৩৪৫৬৭৮০৯০
+- ৯৮৭৬৫৪৩২১
+
+Translated into English, these numbers are:
+- 1234567890
+- 987654321
+
+To determine which number is larger, we compare them digit by digit from left to right:
+- The first number starts with ""1"" and the second with ""9"". Since ""9"" is greater than ""1"", we don't need to look further.
+
+Thus, 987654321 is larger than 1234567890.
+
+**Answer: Option 2**"
+83,লিন্ডা এবং মেলিন্ডা একটি হ্রদ জুড়ে কায়াক করার সিদ্ধান্ত নিয়েছে। লিন্ডা এটি ৪ মিলিসেকেন্ডে লেক জুড়ে তৈরি করেছিলেন এবং মেলিন্ডা ৯৮ মিলিসেকেন্ডে এটি করেছিলেন। তাদের মধ্যে কে অন্যের মতো দ্রুত যায় নি?,Option 2,লিন্ডা,মেলিন্ডা,"1. Translation of the Bengali question and options into English for clarity:
+The question translates to: ""Linda and Melinda decided to kayak across a lake. Linda made it across the lake in 4 milliseconds, and Melinda did it in 98 milliseconds. Who among them does not go as fast as the other?""
+The options are:
+**""Option 1: Linda""**
+**""Option 2: Melinda""**
+
+2. To answer the question, we compare the time taken by Linda and Melinda to cross the lake. The person who took less time is faster. Since 4 milliseconds (Linda's time) is less than 98 milliseconds (Melinda's time), Melinda does not go as fast as Linda.
+
+**Answer: Option 2**"
+383,"জন এবং রিতা দৌড়ে যাচ্ছে। রীতা ক্লান্ত হয়ে পড়ে এবং ৪৫ মিনিট জগিং করার পরে পার্কের বেঞ্চে বিরতি নেয়। জন পার্কে ৩৮ মিনিটের জন্য দৌড়াচ্ছে, কে বেশি দৌড়েছে?",Option 2,জন,রিতা,"To determine who ran more, let's analyze the information given:
+
+1. Translate the Bengali question and options into English for clarity:
+   - The question translates to: ""John and Rita are running. Rita gets tired and takes a break on a park bench after jogging for 45 minutes. John runs in the park for 38 minutes, who ran more?""
+   - Option 1 translates to: ""John""
+   - Option 2 translates to: ""Rita""
+
+2. Since the speed at which John and Rita run is not provided, we can only compare the duration for which they ran. However, the actual distance covered (which determines who ran more) depends on their speeds. But assuming their speeds are constant and the same (since no information is given about their speeds), the one who ran for the longer time would have covered more distance.
+
+Given:
+- Rita ran for 45 minutes.
+- John ran for 38 minutes.
+
+Since Rita ran for 45 minutes and John for 38 minutes, and assuming their running speeds are equal, Rita would have covered more distance because she ran for a longer duration.
+
+**Answer: Option 2**"
+149,"টেড পার্কে তার বাইক চালাচ্ছিলেন। যখন তিনি সিমেন্টের পথে ছিলেন, তিনি ২৮ মিনিটে পার্কের চারপাশে জিপ করতে সক্ষম হন এবং ঘাসের উপর তিনি ১৭ মিনিট সময় নেন। বাইকটি বেশি গরম হয়ে যাবে কোথায়?",Option 1,সিমেন্ট পথ,ঘাস,"1. Translation of the Bengali question and options into English for clarity:
+The question translates to: ""Ted was riding his bike in the park. When he was on the cement path, he was able to zip around the park in 28 minutes, and on the grass, it took him 17 minutes. Where will the bike get hotter?""
+The options are:
+Option 1: Cement path
+Option 2: Grass
+
+2. To solve this, we need to understand that the bike getting hotter is related to the effort or friction generated, which in turn is related to the speed and the surface it's riding on. Generally, more friction and slower speeds generate more heat due to the increased effort and resistance. 
+
+Given that it takes Ted longer to ride around the park on the cement path (28 minutes) compared to the grass (17 minutes), it suggests that the cement path is where he encounters more resistance or where he has to exert more effort to cover the same distance, possibly because the grass, being a softer surface, might absorb some of the bike's momentum or make the ride slightly easier due to its softer resistance compared to hard cement.
+
+However, this interpretation might seem counterintuitive since one might expect the softer surface (grass) to generate more friction and thus heat. But considering the times given and assuming the question implies that less time means less heat generated (due to less overall friction or resistance), we have to reconsider based on the principles of heat generation in relation to friction and the efficiency of the ride.
+
+Bikes generate heat mainly through friction in the mechanical parts and through the tires' contact with the surface. A softer surface like grass might actually generate less rolling resistance for the tires compared to a harder surface like cement, under certain conditions. However, the question seems to be about where the bike would get hotter, implying the surface that causes more friction or resistance, which would typically be associated with a harder surface where the bike moves slower due to possibly having to pedal more or work harder against the resistance.
+
+Given Ted takes longer on the cement path, one might argue that the cement path, being harder, should generate less heat due to less rolling resistance compared to grass. But, if we consider the premise that the bike gets hotter where it has to work harder or generate more power to move (which could be due to several factors including the surface's impact on the bike's mechanics and the rider's effort), then the interpretation of the question becomes more about the conditions under which the bike operates rather than just the surface type.
+
+"
+182,টিনা তার দুটি কুকুরের দৌড় দিচ্ছে। গ্রেহাউন্ডের ওজন ৬০ পাউন্ড এবং রটওয়েলারের ওজন ১০০ পাউন্ড। কোনটি বেশী দ্রুত যেতে পারবে?,Option 2,রটওয়েলার,গ্রেহাউন্ড,"## Step 1: Translate the Bengali question and options into English for clarity.
+The question translates to: ""Tina is racing her two dogs. The Greyhound weighs 60 pounds and the Rottweiler weighs 100 pounds. Which one will be able to run faster?""
+The options are:
+- Option 1: Rottweiler
+- Option 2: Greyhound
+
+## Step 2: Analyze the characteristics of the dogs mentioned.
+Generally, Greyhounds are known for their speed, built for short-distance sprinting, and are often referred to as the fastest dog breed. Rottweilers, while powerful and strong, are not typically known for their speed in the same way Greyhounds are.
+
+## Step 3: Consider the factors that influence a dog's running speed.
+Factors such as breed characteristics, muscle structure, weight, and body composition play a role in determining a dog's speed. However, the question simplifies to comparing the inherent speed capabilities of two breeds based on their typical characteristics.
+
+## Step 4: Determine which breed is likely to be faster based on general knowledge.
+Given that Greyhounds are bred for speed and are renowned for their ability to reach high velocities, it is reasonable to conclude that the Greyhound would be faster than the Rottweiler, regardless of the weight difference mentioned.
+
+The final answer is: **Answer: Option 2**"
+23,২২২২২২২ থেকে  ৫৫৫৫৫৫ সংখ্যাটি?,Option 2,বড়,ছোট,"To address this problem, let's first translate the question and options into English for clarity:
+
+Question: Which number is larger, 2222222 or 5555555?
+Options:
+- Option 1: Larger
+- Option 2: Smaller
+
+Now, comparing the two numbers:
+- The number 2222222
+- The number 5555555
+
+It's evident that 5555555 is larger than 2222222 because each digit in 5555555 is larger than the corresponding digit in 2222222.
+
+**Answer: Option 1**"
+174,আমি একটি গাড়িতে ৩৯ সেমি/সেকেন্ড গতিতে এবং সাইকেলে ২ মি/সেকেন্ড গতিতে ভ্রমণ করতে পারি। কোনটি ধীর?,Option 2,সাইকেল,গাড়ী,"To compare the speeds, we first need to ensure both are in the same units. The speed of the car is given in centimeters per second (cm/s), and the speed of the bicycle is given in meters per second (m/s).
+
+1. Translate the question and options into English for clarity:
+   - Question: I can travel at a speed of 39 cm/s in a car and 2 m/s on a bicycle. Which one is slower?
+   - Option 1: Bicycle
+   - Option 2: Car
+
+2. Convert both speeds into the same unit for comparison. Let's convert meters per second into centimeters per second since the car's speed is given in cm/s. Knowing that 1 meter equals 100 centimeters:
+   - Speed of the car = 39 cm/s
+   - Speed of the bicycle = 2 m/s = 2 * 100 cm/s = 200 cm/s
+
+3. Compare the speeds:
+   - The car travels at 39 cm/s.
+   - The bicycle travels at 200 cm/s.
+
+Since 39 cm/s is less than 200 cm/s, the car is traveling slower than the bicycle.
+
+**Answer: Option 2**"
+47,"একজন ট্রেন কন্ডাক্টর একটি ট্র্যাক থেকে মাটিতে চাকায় গতিপথ পরিবর্তন করে
+ লক্ষ্য করেন যে তিনি ৫৮ কি.মি./ঘণ্টা গতিতে ভ্রমণ করছেন, যেখানে তিনি
+ একই পরিমাণ শক্তি দিয়ে ৩৯ কি.মি./ঘণ্টা গতিতে ভ্রমণ করছেন। কোনটি বেশী মসৃণ ছিল।",Option 2,ট্র্যাক,চাকা,"To solve this, we first translate the Bengali question and options into English for clarity:
+
+The question translates to: ""A train conductor changes the path of a wheel from a track to the ground and observes that he is traveling at a speed of 58 km/h, where he is traveling at a speed of 39 km/h with the same amount of energy. Which one was smoother?""
+
+The options are:
+1. ট্র্যাক translates to ""Track""
+2. চাকা translates to ""Wheel"" or in this context, ""Ground"" or the surface the wheel is on when not on the track.
+
+Given that the conductor is using the same amount of energy but is moving faster on the track, it indicates less energy is being lost to friction when on the track. The smoother the surface, the less friction there is, and thus, the faster one can travel with the same amount of energy.
+
+Therefore, since the conductor can travel faster on the track with the same amount of energy compared to on the ground, it implies that the track is smoother.
+
+**Answer: Option 1**"
+322,একটি ঝিঁঝিঁপোকা সেকেন্ডে ১৫ মিটার এবং একটি মুরগি সেকেন্ডে ৭৮ মিটার কভার করতে পারে। যদি উভয়ই একই যাত্রা করে তবে কোনটি পরে আসবে?,Option 2,মুরগি,ঝিঁঝিঁপোকা,"## Step 1: Translate the Bengali question and options into English for clarity.
+The question translates to: ""A snail covers 15 meters in a second, and a chicken covers 78 meters in a second. If both of them make the same journey, which one will come later?""
+The options are:
+- Option 1: Chicken
+- Option 2: Snail
+
+## Step 2: Determine which option will come later based on their speeds.
+Given that the snail covers 15 meters per second and the chicken covers 78 meters per second, the snail is significantly slower than the chicken.
+
+## Step 3: Choose the correct option.
+Since the snail is slower, it will take longer to cover the same distance as the chicken, meaning it will come later.
+
+The final answer is: **Answer: Option 2**"
+339,"কেট সিনেমায় আছে এবং ঘটনাক্রমে তার কাপ মেঝেতে ফেলে দেয়। কাপটি কংক্রিটের মেঝে দিয়ে ৪ সেকেন্ডে গড়িয়ে যায় যা ৩ মিটার দীর্ঘ, কিন্তু কার্পেটেড মেঝেতে আঘাত করার পরে এটি ৭ সেকেন্ডে ২ মিটার যায়। কাপটি কংক্রিটের মেঝেতে দ্রুত ছিল কারণ কংক্রিটের মেঝে ছিল?",Option 2,বেশী ঘর্ষণ,কম ঘর্ষণ,"To solve this problem, let's first translate the question and options into English for clarity.
+
+**Translation:**
+Kate is at the movies and accidentally drops her cup. The cup rolls across the concrete floor for 4 seconds which is 3 meters long, but after hitting the carpeted floor, it travels 2 meters in 7 seconds. Why was the cup faster on the concrete floor?
+
+**Options:**
+1. More friction
+2. Less friction
+
+Now, let's analyze the situation. The cup travels a certain distance on the concrete floor in less time compared to traveling on the carpeted floor. This indicates that the speed of the cup is higher on the concrete floor than on the carpeted floor.
+
+The reason for this difference in speed is the amount of friction on each type of floor. Friction is a force that opposes motion between two surfaces that are in contact. There are different types of friction, but in this context, we're dealing with kinetic (sliding) friction and possibly some rolling friction since the cup is rolling.
+
+Concrete floors typically have less friction compared to carpeted floors because they are smoother. On the other hand, carpeted floors have more friction due to the fibers that can catch and slow down objects.
+
+Given this information:
+
+- **Option 1: More friction** would imply that the concrete floor has more friction than the carpeted floor, which contradicts the general properties of these surfaces and does not explain why the cup would be faster on the concrete.
+- **Option 2: Less friction** suggests that the concrete floor has less friction than the carpeted floor. Less friction means less opposition to motion, allowing the cup to move faster on the concrete floor compared to the carpeted floor. This aligns with the observed behavior of the cup and the typical frictional properties of concrete and carpeted surfaces.
+
+**Answer: Option 2**"
+71,কেটের নৌকার প্রপেলারটি সমুদ্রে ১৩০০ ঘূর্ণন গতিতে এবং নদীতে প্রতি সেকেন্ডে ১৩০ ঘূর্ণন গতিতে চলেছিল। এর মানে কোথায় প্রপেলার কম গরম হয়?,Option 2,সাগর,নদী,"1. Translation of the Bengali question and options into English for clarity:
+The question translates to: ""Katy's boat propeller was running at 1300 revolutions per minute in the sea and 130 revolutions per minute in the river. This means where the propeller is less hot?""
+Options:
+- Option 1: Sea
+- Option 2: River
+
+2. Analysis of the situation:
+When the propeller runs at a higher revolutions per minute (RPM), it generates more friction and heat due to the increased resistance it encounters. Conversely, when it runs at a lower RPM, it generates less friction and heat. The propeller running at 1300 RPM in the sea encounters more resistance compared to running at 130 RPM in the river, primarily due to the difference in viscosity and density between sea water and fresh river water, as well as potential differences in flow rates.
+
+3. Conclusion:
+Given the lower RPM of the propeller in the river, it indicates less friction and heat generation compared to the higher RPM in the sea.
+
+**Answer: Option 2**"
+375,কেভিন নিউইয়র্ক থেকে শিকাগোতে ০৮ঃ০০ ঘন্টায় একটি প্লেন নিয়েছিলেন এবং ইস্টার ০৭ঃ০০ এ নিউইয়র্ক থেকে লস এঞ্জেলস যাওয়ার একটি বিমান নিয়েছিলেন। তারা উভয়ই একই ধরণের বিমান থেকে ভ্রমণ করছে তাই তাদের ভ্রমণের গতি একই। দুজনেই একই সাথে তাদের গন্তব্যে পৌঁছে গেল। কে বেশী সময় ভ্রমণ করেছেন?,Option 2,কেভিন,ইস্টার,"## Step 1: Translate the Bengali question and options into English for clarity.
+The question translates to: Kevin took a plane from New York to Chicago at 08:00, and Easter took a plane from New York to Los Angeles at 07:00. They are both traveling from the same type of plane, so their travel speeds are the same. Both of them reached their destinations at the same time. Who traveled for a longer time?
+
+## Step 2: Analyze the situation to determine who traveled for a longer time.
+Since Kevin and Easter are traveling at the same speed and reach their destinations at the same time, the determining factor for who traveled longer is the distance to their respective destinations and their departure times.
+
+## Step 3: Consider the distances and departure times.
+New York to Los Angeles is significantly farther than New York to Chicago. However, Easter departed 1 hour before Kevin. To determine who traveled longer, we need to consider if the extra hour Easter had before departing would offset the difference in distances, given that they both arrived at the same time.
+
+## Step 4: Determine the impact of the 1-hour difference in departure time.
+Since they arrived at the same time and are traveling at the same speed, the fact that Easter departed an hour earlier than Kevin means Easter had an extra hour of travel time before Kevin even started. This extra hour is crucial because, regardless of the distance, this head start in time means Easter was traveling for a longer period overall.
+
+## Step 5: Conclusion based on the analysis.
+Given that Easter had a 1-hour head start and they both arrived at their destinations at the same time, it indicates Easter was traveling for a longer duration, despite the difference in distances to their destinations.
+
+The final answer is: **Option 2**"
+40,মোহিত এক দোকান থেকে ২০ টাকায় ৬টি কলা কিনে আনল। কিন্তু রাজু অন্য দোকন থেকে ২ ডজন কলা ৭২ টাকায় কিনল। কে কলা কিনতে বেশি টাকা দিয়েছে।,Option 2,রাজু ,মোহিত ,"## Step 1: Translate the Bengali question and options into English for clarity.
+The question translates to: ""Mohit bought 6 bananas for 20 rupees from one shop. But Raju bought 2 dozen bananas for 72 rupees from another shop. Who paid more for the bananas?""
+The options are:
+- Option 1: Raju
+- Option 2: Mohit
+
+## Step 2: Calculate the cost per banana for Mohit.
+Mohit bought 6 bananas for 20 rupees. So, the cost per banana for Mohit is 20 / 6 = 3.33 rupees per banana.
+
+## Step 3: Calculate the cost per banana for Raju.
+Raju bought 2 dozen bananas, which is 2 * 12 = 24 bananas, for 72 rupees. So, the cost per banana for Raju is 72 / 24 = 3 rupees per banana.
+
+## Step 4: Compare the cost per banana for Mohit and Raju to determine who paid more.
+Since 3.33 rupees per banana (Mohit) is more than 3 rupees per banana (Raju), Mohit paid more for the bananas.
+
+The final answer is: **Option 2**"
+224,"একটি রেস কার এবং একটি পিকআপ উভয়ই একই গতিতে হাইওয়েতে চলেছিল। রেস কারের চালক ক্লান্ত হয়ে ৫ মিনিট পরে পার্ক করে, যখন পিকআপের চালক ১০ মিনিট ধরে চলছিলো। কোন যানটি শেষ পর্যন্ত বেশি দূরত্ব অতিক্রম করেছে?",Option 2,রেস গাড়ী,পিকআপ,"1. Translation of the Bengali question and options into English for clarity:
+The question translates to: ""A race car and a pickup were both moving at the same speed on the highway. The driver of the race car got tired and parked after 5 minutes, while the driver of the pickup continued for 10 minutes. Which vehicle ultimately covered more distance?""
+The options are:
+- Option 1: The race car
+- Option 2: The pickup
+
+2. To determine which vehicle covered more distance, we need to consider the time each vehicle was moving and their speeds. Since both vehicles were moving at the same speed, the distance covered by each vehicle is directly proportional to the time it was moving.
+
+Given that the pickup continued for 10 minutes and the race car only moved for 5 minutes, the pickup was moving for twice the amount of time as the race car.
+
+Therefore, since distance = speed × time, and the speed of both vehicles was the same, the vehicle that was moving for the longer period (the pickup) would cover more distance.
+
+**Answer: Option 2**"
+173,"জো রাতে শহরে ফিরে আসছে। ১৪ কিমি দূরে থেকে জো শহরের কাছাকাছি ২.৫ কিমি দূরে গেলে, তার কাছে শহরের লাইটগুলোকে মনে হবে আরো _____।",Option 2,অনুজ্জ্বল,উজ্জ্বল,"1. Translation of the Bengali question and options into English:
+The question translates to: ""Joe is returning to the city at night. As Joe moves from 14 km away to 2.5 km closer to the city, the city lights will appear _______ to him.""
+The options are:
+- Option 1: Dimmer (অনুজ্জ্বল)
+- Option 2: Brighter (উজ্জ্বল)
+
+2. Conclusion:
+As Joe moves closer to the city, the distance between him and the city lights decreases. According to the inverse square law of light intensity, as the distance decreases, the perceived brightness of the lights increases. Therefore, the city lights will appear brighter to Joe as he gets closer.
+
+**Answer: Option 2**"
+31,আমার বাসা থেকে ১০০ ফুট দূরত্ব থেকে পুলিশের সাইরেন আমার বাসা থেকে ১৭৫ ফুট দূরত্বে চলে যাওয়ায় সাইরেনের শব্দ?,Option 2,বেড়ে গেল,কমে গেল,"## Step 1: Translate the Bengali question and options into English for clarity.
+The question translates to: ""What happens to the sound of the police siren when it moves from 100 feet away from my house to 175 feet away?""
+Option 1 translates to: ""Increased""
+Option 2 translates to: ""Decreased""
+
+## Step 2: Analyze the situation to determine the effect on the sound of the siren.
+When the police siren moves further away from the listener (in this case, from 100 feet to 175 feet), the sound of the siren will become fainter due to the increased distance. This is because sound intensity decreases with the square of the distance from the source.
+
+## Step 3: Conclude by selecting the correct option based on the analysis.
+Given that the sound intensity decreases as the distance from the source increases, the correct option regarding what happens to the sound of the siren when it moves further away is that it decreases.
+
+The final answer is: **Answer: Option 2**"
+153,"বব রাস্তার বাতি থেকে ২৯০ সেমি দূরে ছিল। তিনি একটু সরেছেন এবং এখন তিনি ১৫ মিটার দূরে, তিনি লক্ষ্য করেছেন যে বাতিটি _____ দেখাচ্ছে?",Option 2,উজ্জ্বল,অনুজ্জ্বল,"To solve this problem, let's break it down:
+
+1. **Translation**: The question translates to ""Bob was 290 cm away from the streetlight. He moved a bit and now he is 15 meters away, he noticed the light is _____?""
+   - **Note**: 1 meter = 100 cm. Therefore, 15 meters = 1500 cm.
+   - The options translate to:
+     - **Option 1**: Brighter
+     - **Option 2**: Dimmer
+
+2. **Analysis**: initially, Bob was 290 cm away from the streetlight. After moving, he is now 15 meters (or 1500 cm) away from it. 
+   - The distance increased from 290 cm to 1500 cm.
+   - When the distance from a light source increases, the light appears dimmer due to the inverse square law of light intensity, which states that the intensity of light is inversely proportional to the square of the distance from the source.
+
+3. **Conclusion**: Since Bob increased his distance from the streetlight significantly (from 290 cm to 1500 cm), the light would appear dimmer to him.
+
+**Answer: Option 2**"
+125,কর্মক্ষেত্রে গাড়ি চালিয়ে যেতে ২ ঘন্টা এবং বাসে চড়ে যেতে ৪ ঘন্টা সময় লাগে৷ কোন গাড়ি বেশি গতিতে চলে?,Option 2,বাস,গাড়ী,"To determine which vehicle travels at a higher speed, we need to consider the time it takes for each to cover the same distance. The question doesn't specify the distance, but since we're comparing the time taken to reach the workplace, we can assume the distance to be constant for both modes of transportation.
+
+Let's denote the distance to the workplace as D.
+
+1. For the car, it takes 2 hours to reach the workplace. Thus, the speed of the car can be represented as D/2.
+2. For the bus, it takes 4 hours to reach the workplace. Thus, the speed of the bus can be represented as D/4.
+
+Speed is calculated as distance/time. The higher the speed, the less time it takes to cover the same distance.
+
+Comparing the speeds:
+- The speed of the car is D/2.
+- The speed of the bus is D/4.
+
+Since D/2 > D/4, the car travels at a higher speed than the bus.
+
+Translating the question and options into English for clarity:
+- Question: Which vehicle travels at a higher speed, the car or the bus, given that it takes 2 hours to drive to work and 4 hours to take the bus?
+- Option 1: The bus
+- Option 2: The car
+
+**Answer: Option 2**"
+295,"ম্যামথটি জলের গর্তের মধ্য দিয়ে ঘন্টায় ১৮ কিমি বেগে চলেছিল, কিন্তু শক্ত ময়লার উপর ঘন্টায় ২৭ কিমি বেগে চলেছিল কারণ শক্ত ময়লা ছিল?",Option 1,কম প্রতিরোধী,বেশী প্রতিরোধী,"## Step 1: Translate the Bengali question and options into English for clarity.
+The question translates to: ""Mammoth was moving at a speed of 18 km/h through the water hole, but was moving at a speed of 27 km/h on solid soil because the solid soil was?""
+And the options are:
+- Option 1: Less resistant
+- Option 2: More resistant
+
+## Step 2: Analyze the situation to determine why the mammoth's speed differed between the two surfaces.
+The mammoth's speed increased when moving from the water hole to solid soil. This implies that the solid soil offered less resistance compared to the water hole, allowing the mammoth to move faster.
+
+## Step 3: Conclude by selecting the correct option based on the analysis.
+Given that the mammoth could move faster on solid soil, it indicates that solid soil provided less resistance to the mammoth's movement compared to the water hole.
+
+The final answer is: **Answer: Option 1**"
+256,"ময়লার উপর একটি ঘূর্ণায়মান মার্বেল ৫ নিউটন প্রতিরোধের সৃষ্টি করে, যেখানে বালির উপর এটি ১৭ নিউটন প্রতিরোধের সৃষ্টি করে। মার্বেল কোথায় বেশি দূর যেতে পারবে?",Option 2,বালি,ময়লা,"## Step 1: Translate the Bengali question and options into English for clarity.
+The question translates to: ""A rotating marble creates 5 Newtons of resistance on dust, whereas it creates 17 Newtons of resistance on sand. Where can the marble travel further?""
+The options are:
+- Option 1: Sand
+- Option 2: Dust
+
+## Step 2: Analyze the relationship between resistance and distance traveled.
+The distance an object can travel is inversely related to the resistance it encounters. Less resistance means the object can travel further, as there is less force opposing its motion.
+
+## Step 3: Compare the resistance on dust and sand.
+On dust, the marble encounters 5 Newtons of resistance, which is less than the 17 Newtons of resistance it encounters on sand.
+
+## Step 4: Determine where the marble can travel further based on the resistance.
+Given that less resistance allows for greater distance traveled, the marble can travel further on the surface with less resistance.
+
+## Step 5: Select the correct option based on the analysis.
+Since the marble encounters less resistance on dust (5 Newtons) compared to sand (17 Newtons), it can travel further on dust.
+
+The final answer is: **Answer: Option 2**"
+79,"ডগ তার বাড়ি থেকে তার বাইসাইকেলে বন্ধুর বাড়িতে যান এবং তিনি এক ঘন্টায় ৭ মিটার যেতে পারেন এবং যখন তিনি পায়ে হেঁটে একই ট্রিপ করেন, তখন তিনি এক ঘন্টায় ২ মাইল অতিক্রম করেন। কীভাবে ডগ তাড়াতাড়ি তার বন্ধুর বাড়িতে যাবে?",Option 1,হেঁটে,সাইকেলে,"1. Translation of the question and options into English for clarity:
+The question translates to: ""Doug goes from his house to his friend's house by bicycle and he can go 7 miles in one hour and when he makes the same trip on foot, he goes 2 miles in one hour. How will Doug get to his friend's house sooner?""
+The options are:
+- Option 1: On foot
+- Option 2: By bicycle
+
+2. Analysis of the situation:
+To determine how Doug can get to his friend's house sooner, we need to compare the speed at which he travels by bicycle and on foot. The speed is given as 7 miles per hour by bicycle and 2 miles per hour on foot.
+
+3. Comparison:
+Since 7 miles per hour is greater than 2 miles per hour, Doug will cover the same distance in less time when traveling by bicycle compared to walking.
+
+4. Conclusion:
+Given the higher speed of traveling by bicycle (7 miles per hour) compared to walking (2 miles per hour), the faster method for Doug to get to his friend's house is by bicycle.
+
+**Answer: Option 2**"
+102,একটি বিলিয়ার্ড বলের ভর ৬ আউন্স এবং বাস্কেটবলের ভর ০.৫ আউন্স হয়। কোন বলের মাধ্যাকর্ষণ ক্ষেত্র বেশি?,Option 1,বিলিয়ার্ড বল,বাস্কেটবল,"## Step 1: Translate the Bengali question and options into English for clarity.
+The question translates to: ""A billiard ball weighs 6 ounces and a basketball weighs 0.5 ounces. Which ball has a stronger gravitational field?""
+The options are:
+- Option 1: Billiard ball
+- Option 2: Basketball
+
+## Step 2: Recall the formula for gravitational force.
+The gravitational force between two objects is given by the formula F = G * (m1 * m2) / r^2, where F is the gravitational force, G is the gravitational constant, m1 and m2 are the masses of the two objects, and r is the distance between the centers of the two objects.
+
+## Step 3: Apply the formula to the given situation.
+Since we are comparing the gravitational fields of the two balls, we can consider the mass of the Earth (or any other large object) as m1 and the mass of the ball as m2. The distance r would be the same for both balls if we consider their distance from the center of the Earth. The gravitational constant G is also the same in both cases.
+
+## Step 4: Determine which ball has a stronger gravitational field.
+Given that the mass of the billiard ball (6 ounces) is greater than the mass of the basketball (0.5 ounces), the billiard ball will have a stronger gravitational field according to the formula F = G * (m1 * m2) / r^2, because the mass of the billiard ball (m2) is larger.
+
+The final answer is: **Option 1**"
+32,এক টুকরো চুলের ব্যাস ০.০৬ মি.মি. যেখানে একটি দড়ির ব্যাস ১১ মি.মি. তাই চুল?,Option 2,শক্তিশালী,দুর্বল,"1. Translation of the Bengali question and options into English for clarity:
+The question translates to: ""A piece of hair has a diameter of 0.06 mm, whereas a rope has a diameter of 11 mm. So, the hair is?""
+Options:
+- Option 1: Strong
+- Option 2: Weak
+
+2. Analysis:
+Given the significant difference in diameter between the hair (0.06 mm) and the rope (11 mm), it's reasonable to infer that the question is comparing their strength or resilience based on their sizes. Generally, a larger diameter (or thickness) in materials like ropes contributes to greater strength due to the increased cross-sectional area, which can withstand more force before breaking. In contrast, a hair, being much thinner, would have less strength.
+
+3. Conclusion:
+Based on the typical relationship between the size (diameter) of an object and its strength, where thicker objects tend to be stronger than thinner ones due to their greater cross-sectional area, the hair would be weaker compared to the rope.
+
+**Answer: Option 2**"
+353,একটি বাজপাখি তার খাদ্য পেতে ৬০০০ ন্যানোসেকেন্ড সময় নেয় এবং একটি স্লথ ১০০ মিলিসেকেন্ড সময় নেয়। কেন?,Option 2,বাজপাখি স্লথের চেয়ে দ্রুত,বাজপাখি স্লথের চেয়ে ধীর,"1. Translation of the Bengali question and options into English for clarity:
+The question translates to: ""A hummingbird takes 6000 nanoseconds to get its food, and a sloth takes 100 milliseconds. Why?""
+Options:
+- Option 1: The hummingbird is faster than the sloth.
+- Option 2: The hummingbird is slower than the sloth.
+
+2. To compare the speeds, we first need to convert both times into the same unit. Let's convert milliseconds to nanoseconds since 1 millisecond = 1,000,000 nanoseconds.
+- The sloth takes 100 milliseconds, which is 100,000,000 nanoseconds.
+- The hummingbird takes 6000 nanoseconds.
+
+Given that 6000 nanoseconds is significantly less than 100,000,000 nanoseconds, it's clear that the hummingbird takes much less time than the sloth to get its food. This indicates the hummingbird is indeed faster than the sloth in this context.
+
+**Answer: Option 1**"
+269,রড তার কুকুরের কাছে একটি বল ঘুরিয়ে দিচ্ছিল। তিনি সিমেন্টের উপর ১২ মিটার দূরত্ব এবং ঘাসের উপর ১০ মিটার দূরত্বে বলটি রোল করতে সক্ষম হন। এর কারণ কি সিমেন্ট?,Option 2,রুক্ষ,মসৃণ,"1. Translation of the Bengali question and options into English for clarity:
+The question translates to: ""Rod was rolling a ball towards his dog. He was able to roll the ball 12 meters on cement and 10 meters on grass. Why is this the case for the cement?""
+The options translate to:
+- Option 1: Rough
+- Option 2: Smooth
+
+2. Explanation and selection of the correct option:
+The reason Rod was able to roll the ball further on cement than on grass is due to the surface characteristics. Cement is generally smoother than grass, which means it offers less resistance to the rolling ball. On a smooth surface like cement, the ball can travel farther because there is less friction to slow it down. In contrast, grass is rougher and has more friction, causing the ball to stop shorter. Therefore, the correct option that explains why the ball traveled farther on cement is that cement is smoother.
+
+**Answer: Option 2**"
+395,"একটি কাউবয় এবং একটি হিপ্পি উভয়ই সান ফ্রান্সিসকোতে হাঁটছিল, এবং তারা একই উচ্চতা হওয়ায় একই গতিতে হাঁটছিল। যাইহোক, কাউবয় ভোরবেলা উঠেছিল এবং ৫ টায় হাঁটা শুরু করেছিল যেখানে হিপ্পি দুপুর ১ টায় হাঁটা শুরু করেছিল। এখন সন্ধ্যা ৭টা, অর্থাৎ?",Option 2,কাউবয় কম দূরত্ব ভ্রমণ করেছে,হিপ্পি কম দূরত্ব ভ্রমণ করেছে,"1. Translation of the Bengali question and options into English for clarity:
+The question translates to: ""A cowboy and a hippie were both walking in San Francisco, and they were walking at the same speed since they were of the same height. However, the cowboy got up early and started walking at 5 am, while the hippie started walking at 1 pm. Now it's 7 pm, meaning?""
+The options translate to:
+- Option 1: The cowboy has traveled less distance.
+- Option 2: The hippie has traveled less distance.
+
+2. Solution:
+Since the cowboy started walking at 5 am and it is now 7 pm, the cowboy has been walking for 14 hours. The hippie, on the other hand, started walking at 1 pm, so the hippie has been walking for 6 hours. Given that they walk at the same speed, the distance traveled is directly proportional to the time spent walking. Therefore, the cowboy, who has been walking for 14 hours, has traveled more distance than the hippie, who has been walking for 6 hours.
+
+**Answer: Option 2**"
+74,"একটি রেস কার এবং একটি পিকআপ উভয়ই একই গতিতে হাইওয়েতে চলেছিল। রেস কারের চালক ক্লান্ত হয়ে পড়েন এবং ২৯ মিনিট পরে পার্ক করেন, যখন পিকআপের চালক ৪৩ মিনিট ধরে গাড়ি চালিয়েছিলেন। কোন গাড়িটি শেষ পর্যন্ত বেশি দূরত্ব অতিক্রম করেছে?",Option 2,রেস গাড়ী,পিকআপ,"1. Translation of the Bengali question and options into English for clarity:
+The question translates to: ""A racing car and a pickup were both traveling at the same speed on the highway. The racing car driver became tired and parked after 29 minutes, while the pickup driver drove for 43 minutes. Which vehicle ultimately covered more distance?""
+The options are:
+- Option 1: The racing car
+- Option 2: The pickup
+
+2. Since both vehicles are traveling at the same speed, the distance covered by each vehicle is directly proportional to the time it traveled. The pickup driver drove for 43 minutes, while the racing car driver drove for 29 minutes. 
+
+Given that 43 minutes is greater than 29 minutes, the pickup would have covered more distance than the racing car.
+
+**Answer: Option 2**"
+321,মেরির স্কিফ খোলা সমুদ্রে ৪ মাইলের তুলনায় উপসাগরে জ্বালানি শেষ হওয়ার আগে ১০ মাইল দূরত্ব অতিক্রম করতে সক্ষম। এর মানে এই যে _____ বেশী রুক্ষ?,Option 2,উপসাগর,খোলা সমুদ্র,"1. Translation of the question and options into English for clarity:
+The question translates to: ""Mary's ski can cover 10 miles in the bay before running out of fuel, as opposed to 4 miles in the open sea. This means that _____ is rougher.""
+The options translate to:
+- Option 1: ""The bay""
+- Option 2: ""The open sea""
+
+2. Reasoning to select the correct option:
+Given that Mary's ski can cover a greater distance in the bay (10 miles) than in the open sea (4 miles) before running out of fuel, it indicates that the ski consumes more fuel per mile in the open sea than in the bay. This implies that the open sea is more turbulent or requires more energy to travel through, which likely due to rougher conditions.
+
+3. Conclusion:
+Based on the information provided and the reasoning that the area requiring more fuel to cover a shorter distance is rougher due to increased resistance or difficulty in traveling, the open sea is rougher.
+
+**Answer: Option 2**"
+141,একই শস্যাগার থেকে দুটি ঘোড়া চড়ে বের হচ্ছে। সাদা ঘোড়া ধূসর ঘোড়ার মতোই গতিতে যাচ্ছে। ধূসর ঘোড়াটি ১ ঘন্টা ৩০ মিনিটের জন্য ভ্রমণ করেছিল এবং সাদা ঘোড়াটি ৩ ঘন্টা ৪৮ মিনিটের জন্য ভ্রমণ করেছিল। কোন ঘোড়া বেশী দূর গেল?,Option 1,সাদা ঘোড়া,ধূসর ঘোড়া,"## Step 1: Translate the Bengali question and options into English for clarity.
+The question translates to: ""Two horses are coming out of the same barn. The white horse is going at the same speed as the gray horse. The gray horse traveled for 1 hour 30 minutes, and the white horse traveled for 3 hours 48 minutes. Which horse went farther?""
+The options are:
+- Option 1: The white horse
+- Option 2: The gray horse
+
+## Step 2: Determine the distance each horse traveled based on the time given.
+Since both horses are traveling at the same speed, the distance each travels is directly proportional to the time they spend traveling. The gray horse travels for 1 hour 30 minutes, which is 1.5 hours. The white horse travels for 3 hours 48 minutes, which is 3.8 hours.
+
+## Step 3: Compare the times to determine which horse went farther.
+Given that the white horse traveled for 3.8 hours and the gray horse for 1.5 hours, and knowing they travel at the same speed, the white horse must have covered more distance because it traveled for a longer time.
+
+The final answer is: **Answer: Option 1**"
+6,জন ১০ ইঞ্চি পুরু বরফ এবং এক ইঞ্চি পুরু বরফের উপর দাঁড়িয়ে আছে। কোন ধরনের বরফের  ভাঙ্গার সম্ভাবনা সবচেয়ে কম?,Option 1,১০ ইঞ্চি পুরু বরফ, ১ ইঞ্চি পুরু বরফ,"## Step 1: Translate the Bengali question and options into English for clarity.
+The translation of the Bengali question is: ""John is standing on 10 inches of solid ice and one inch of solid ice. What type of ice is less likely to break?""
+The options are:
+- Option 1: 10 inches of solid ice
+- Option 2: 1 inch of solid ice
+
+## Step 2: Analyze the situation to determine the likelihood of the ice breaking.
+The likelihood of ice breaking depends on its thickness and the weight it supports. Thicker ice is generally stronger and less likely to break under the same weight compared to thinner ice.
+
+## Step 3: Apply the analysis to the given situation.
+Given that John is standing on both 10 inches and 1 inch of solid ice, the 10 inches of solid ice is thicker and thus stronger than the 1 inch of solid ice. Therefore, the 1 inch of solid ice has a higher likelihood of breaking under John's weight compared to the 10 inches of solid ice.
+
+## Step 4: Determine which type of ice is less likely to break based on the analysis.
+Since thicker ice is stronger, the 10 inches of solid ice is less likely to break compared to the 1 inch of solid ice.
+
+The final answer is: **Answer: Option 1**"
+46,"দুইটা পাত্রে কিছু পানি আছে। একটি তে পানির সাথে সোডিয়াম ক্লোরাইড এবং
+ অপরটিতে পানির সাথে সালফিউরিক এসিড মিশ্রিত আছে। 
+এখানে কোন মিশ্রিত পানিটি পান করা নিরাপদ।",Option 2,সালফিউরিক এসিড মিশ্রিত পানি,সোডিয়াম ক্লোরাইড পানি,"1. Translation of the Bengali question and options into English for clarity:
+The question translates to: ""There is some water in two vessels. One contains water mixed with sodium chloride, and the other contains water mixed with sulfuric acid. Which of the mixed waters is safe to drink?""
+The options are:
+- Option 1: Sulfuric acid mixed water
+- Option 2: Sodium chloride mixed water
+
+2. Analysis:
+Sodium chloride (NaCl) is common table salt, which in small quantities mixed with water is safe for drinking. On the other hand, sulfuric acid (H2SO4) is highly corrosive and toxic, making water mixed with it unsafe for consumption.
+
+3. Conclusion:
+Given the information and analysis, the safer option to drink would be the water mixed with sodium chloride, as sulfuric acid is highly dangerous for consumption.
+
+**Answer: Option 2**"
+389,"দুটি বিমান একই এয়ারফিল্ড থেকে উড্ডয়ন করে এবং উচ্চতায় পৌঁছলে একই বেগে উড়ে যায়। লাল বিমানটি ৫৭ মিনিটের জন্য উড়ে যায় এবং কাছাকাছি একটি শহরে অবতরণ করে, যখন সবুজ বিমানটি ৩৮ মিনিটের জন্য ফ্লাইটে থাকে এবং আগের শহরে অবতরণ করে। এর মানে কি?",Option 1,লাল বিমান আরও বেশি দূরত্বে উড়ে গেল,সবুজ বিমান একটি বেশী দূরত্ব উড়ে গেল,"1. Translation of the Bengali question and options into English for clarity:
+The question translates to: ""Two planes take off from the same airfield and fly at the same speed when they reach altitude. The red plane flies for 57 minutes and lands in a nearby city, while the green plane stays in flight for 38 minutes and lands in the previous city. What does this mean?""
+The options translate to:
+* Option 1: ""The red plane flew a greater distance""
+* Option 2: ""The green plane flew a greater distance""
+
+2. Since both planes are flying at the same speed and the red plane flies for 57 minutes while the green plane flies for 38 minutes, the red plane covers a greater distance due to the longer flight time.
+
+**Answer: Option 1**"
+247,আগাছার মধ্য দিয়ে গড়িয়ে যাওয়ার সময় মেরির ওয়াগন গরম হয় ৩৭ ডিগ্রি সেলসিয়াস তাপমাত্রায় এবং নুড়ির মধ্য দিয়ে গড়িয়ে যাওয়ার সময় ১১১.৩ ডিগ্রি ফারেনহাইট। এর মানে তার ওয়াগন ধীর গতিতে যেতে বাধ্য হয়?,Option 2,আগাছা,নুড়ি,"To solve this problem, we first need to understand the relationship between the temperature and the speed of Mary's wagon when it is moving through mud and gravel.
+
+1. Translate the Bengali question and options into English for clarity:
+   - The question translates to: ""While Mary's wagon is passing through weeds, it heats up to a temperature of 37 degrees Celsius, and while passing through gravel, it heats up to 111.3 degrees Fahrenheit. Which means her wagon is forced to move slowly through?""
+   - Option 1 translates to: ""Weeds""
+   - Option 2 translates to: ""Gravel""
+
+2. Convert temperatures to the same scale for comparison:
+   - 37 degrees Celsius is equivalent to 98.6 degrees Fahrenheit (using the conversion formula: °F = °C × 9/5 + 32).
+   - The temperature when passing through gravel is given as 111.3 degrees Fahrenheit.
+
+3. Analyze the situation:
+   - The higher temperature (111.3°F) when passing through gravel compared to when passing through weeds (98.6°F) indicates more friction or resistance, which typically slows down the wagon. This is because friction generates heat, and more friction (as when moving through a more resistant material like gravel) would generate more heat.
+
+4. Conclusion:
+   - Given that more heat is generated when the wagon passes through gravel, it implies that the wagon encounters more resistance or friction in the gravel. This increased resistance would require the wagon to move more slowly to overcome the friction without overheating or to prevent damage.
+
+**Answer: Option 2**"
+228,এফ-১৬ এর ওজন সাধারণত ৩৪৭৮৬ পাউন্ড এবং জাম্বো জেটের ওজন ৪৩৯৯৮৭ কেজি। তাই এফ-১৬ ছিল?,Option 2,ধীর গতিশীল,দ্রুত গতিশীল,"To answer this question, we first need to translate it into English and understand the context:
+
+**Translation:**
+The weight of an F-16 is generally 34,786 pounds, and the weight of a Jumbo Jet is 439,987 kg. So, the F-16 was?
+
+**Options:**
+1. Slower
+2. Faster
+
+To determine if the F-16 is slower or faster than the Jumbo Jet based on the given weights, we first need to convert the weights into the same units for a fair comparison. However, the question doesn't directly ask for a comparison of weights but rather implies a comparison of capabilities (possibly speed) based on weight. 
+
+Given weights:
+- F-16: 34,786 pounds
+- Jumbo Jet: 439,987 kg
+
+Convert F-16 weight to kilograms for comparison:
+1 pound = 0.453592 kilograms
+So, 34,786 pounds = 34,786 * 0.453592 ≈ 15,766 kilograms
+
+The Jumbo Jet is significantly heavier than the F-16. Generally, the weight of an aircraft can influence its speed, maneuverability, and overall performance, but the actual speed depends on many factors including engine power, design, and purpose of the aircraft.
+
+The F-16 is a fighter jet designed for speed, agility, and maneuverability, with a top speed over Mach 2 (twice the speed of sound). Jumbo Jets, on the other hand, are commercial airliners designed for cargo and passenger transport, with cruising speeds typically around Mach 0.8-0.9.
+
+**Conclusion:**
+Given the design purposes and typical performance characteristics of fighter jets like the F-16 and commercial airliners like the Jumbo Jet, the F-16 is generally faster than a Jumbo Jet due to its design for military operations requiring high speed and agility.
+
+**Answer: Option 2**"
+370,একটি গলফ বলের ভর ৭৮ গ্রাম এবং একটি বেসবলের ভর ০.১৫৯ কেজি। কোনটির তুলনামূলক দুর্বল মহাকর্ষীয় ক্ষেত্র আছে?,Option 1,গলফ বলের,বেসবলের,"To compare the gravitational fields of the golf ball and the baseball, we first need to understand that the strength of a gravitational field around an object is directly proportional to its mass. The more massive the object, the stronger its gravitational field.
+
+1. **Translation of the Question and Options into English:**
+   - Question: Which one has a relatively weaker gravitational field?
+   - Option 1: The golf ball's
+   - Option 2: The baseball's
+
+2. **Understanding the Mass of Each Object:**
+   - The mass of the golf ball is given as 78 grams.
+   - The mass of the baseball is given as 0.159 kilograms. To compare it directly with the golf ball's mass in grams, we convert 0.159 kilograms to grams: 0.159 kg * 1000 grams/kg = 159 grams.
+
+3. **Comparing the Masses:**
+   - The golf ball has a mass of 78 grams.
+   - The baseball has a mass of 159 grams.
+   - Since 78 grams is less than 159 grams, the golf ball is less massive than the baseball.
+
+4. **Conclusion on Gravitational Field Strength:**
+   - Given that gravitational field strength is directly proportional to mass, the object with the smaller mass will have a weaker gravitational field.
+   - Therefore, the golf ball, being less massive than the baseball, has a relatively weaker gravitational field.
+
+**Answer: Option 1**"
+177,যদি একটি ট্রেন ০.৪ কিমি প্রতি ঘন্টা এবং একটি বাইক ০.১২ কিমি ঘন্টা বেগে চলে তাহলে বাইকটি যাবে?,Option 2,বেশী দূরত্ব,কম দূরত্ব,"1. Translation of the Bengali question and options into English for clarity:
+The question translates to: ""If a train runs at 0.4 km per hour and a bike runs at 0.12 km per hour, then the bike will travel?""
+The options are:
+Option 1: ""More distance""
+Option 2: ""Less distance""
+
+2. Analysis:
+Given the speeds of the train and the bike, we can compare their speeds to determine which one will travel more distance in the same amount of time. The train's speed is 0.4 km/h, and the bike's speed is 0.12 km/h. Since 0.4 km/h is greater than 0.12 km/h, the train will travel more distance than the bike in the same amount of time. Therefore, the bike will travel less distance compared to the train.
+
+3. Conclusion:
+**Answer: Option 2**"
+290,"দুটি বিমান একই এয়ারফিল্ড থেকে উড্ডয়ন করে এবং উচ্চতায় পৌঁছলে একই বেগে উড়ে যায়। লাল বিমানটি ৪২ মিনিটের জন্য উড়ে যায় এবং কাছাকাছি একটি শহরে অবতরণ করে, যখন সবুজ বিমান আরও ১৯ মিনিটের জন্য উড়তে থাকে এবং আরও দূরে পরবর্তী শহরে অবতরণ করে। এর মানে কি?",Option 2,লাল বিমান আরও বেশি দূরত্বে উড়ে গেল,সবুজ বিমান আরও বেশি দূরত্বে উড়ে গেল,"## Step 1: Translate the Bengali question and options into English for clarity.
+The question translates to: ""Two planes take off from the same airfield and fly at the same speed when they reach altitude. The red plane flies for 42 minutes and lands in a nearby city, while the green plane continues to fly for another 19 minutes and lands in the next city further away. What does this mean?""
+Option 1 translates to: ""The red plane flew a longer distance.""
+Option 2 translates to: ""The green plane flew a longer distance.""
+
+## Step 2: Analyze the situation based on the given information.
+Both planes are flying at the same speed. The red plane flies for 42 minutes, and the green plane flies for 42 minutes + 19 minutes = 61 minutes.
+
+## Step 3: Determine the relationship between flight time and distance traveled.
+Since both planes are flying at the same speed, the distance each travels is directly proportional to the time it spends flying. The plane that flies for a longer time will travel a longer distance.
+
+## Step 4: Compare the flight times of the two planes to conclude which one traveled a longer distance.
+The green plane flies for 61 minutes, which is longer than the 42 minutes the red plane flies.
+
+## Step 5: Choose the correct option based on the analysis.
+Given that the green plane flies for a longer duration, it will cover a greater distance compared to the red plane.
+
+The final answer is: **Answer: Option 2**"
+4,পৃথিবীর দ্রুততম স্থল প্রাণী চিতা একটি খরগোশের বিরুদ্ধে ১০০ মিটার দৌড় করছিল। এই দৌড়ে কে জিতবে?,Option 1,চিতা ,খরগোশ,"## Step 1: Translation of the Question and Options
+The question translates to: ""The fastest land animal on Earth, the cheetah, is racing against a rabbit in a 100-meter dash. Who will win this race?""
+The options are:
+- Option 1: Cheetah
+- Option 2: Rabbit
+
+## Step 2: Analyzing the Speed of the Cheetah and the Rabbit
+Cheetahs are known for their incredible speed, reaching up to 70 mph (113 km/h), making them the fastest land animal on Earth. Rabbits, while fast for their size, cannot compare to the cheetah's speed, with most rabbits reaching speeds of up to 25-30 mph (40-48 km/h).
+
+## Step 3: Conclusion Based on Speed
+Given the significant difference in speed between cheetahs and rabbits, it is logical to conclude that in a 100-meter dash, the cheetah would easily outpace the rabbit.
+
+The final answer is: **Answer: Option 1**"
+19,১২৩৪৫৬৭৮৯০ সংখ্যাটি ৯৮৭৬৫৪৩২১০ সংখ্যাটি থেকে ?,Option 1,ছোট,বড়,"To solve this problem, we first need to translate the given Bengali question and options into English for clarity.
+
+Translation of the question: ""The number 1234567890 is _______ than the number 9876543210.""
+
+Translation of the options:
+- Option 1: ""Smaller""
+- Option 2: ""Larger""
+
+Now, comparing the two numbers:
+- The first number is 1234567890.
+- The second number is 9876543210.
+
+To determine which number is larger, we compare them digit by digit from left to right:
+- The first digit of the first number is 1, and the first digit of the second number is 9. Since 9 is greater than 1, the second number (9876543210) is larger than the first number (1234567890).
+
+Therefore, the correct option is:
+**Answer: Option 1**"
+203,আগাছার মধ্যে দিয়ে ঘূর্ণায়মান হওয়ার সময় মেরির ওয়াগনটি ৪০ ডিগ্রি সেলসিয়াস তাপমাত্রায় এবং নুড়ির মধ্য দিয়ে গড়িয়ে যাওয়ার সময় ৫০ ডিগ্রি সেলসিয়াস তাপমাত্রায় পৌঁছায়। এর মানে তার ওয়াগন ধীর গতিতে রোল করতে বাধ্য হয়?,Option 2,আগাছা,নুড়ি,"1. Translation of the Bengali question and options into English for clarity:
+   - Question: While rolling through the weeds, Mary's wagon reaches a temperature of 40 degrees Celsius, and while rolling through the mud, it reaches a temperature of 50 degrees Celsius. This means her wagon is forced to roll at a slower pace through the:
+   - Option 1: Weeds
+   - Option 2: Mud
+
+2. Analysis: 
+   - The question implies that the increased temperature (from 40 degrees Celsius to 50 degrees Celsius) when rolling through the mud is due to increased friction or resistance. 
+   - Friction generates heat, so the higher temperature when rolling through the mud suggests that there is more resistance in the mud than in the weeds.
+   - More resistance would require more effort to move through, which typically means moving at a slower pace to overcome the increased friction without gaining too much speed or losing control.
+
+3. Conclusion: 
+   - Given the information about the temperature increase and its relation to friction and resistance, it makes sense that the wagon would be forced to roll at a slower pace through the more resistant medium.
+   - Therefore, the correct option is the one that presents the condition (mud) where the wagon experiences higher resistance, as indicated by the higher temperature reached.
+
+**Answer: Option 2**"
+251," একজন ভলিবল খেলোয়াড় জিমের মেঝেতে ১.২ মিটার লাফ দিয়েছিলেন, কিন্তু সাগরের তীরে বালির চেয়ে ৮ সেমি বেশী লাফ দিয়েছিলেন। কারণ এটি ছিল?",Option 2,বেশী প্রতিরোধী,কম প্রতিরোধী,"1. Translation of the Bengali question and options into English for clarity:
+The question translates to: ""A volleyball player jumped 1.2 meters on the gym floor, but jumped 8 cm higher on the beach sand. What was the reason?""
+The options translate to:
+- Option 1: ""More resistant""
+- Option 2: ""Less resistant""
+
+2. Conclusion:
+The correct option can be deduced by understanding the concept of resistance or friction and its effect on the height of a jump. When a person jumps, the force they exert downward is counteracted by the resistance or friction from the surface they are jumping from. A surface with less resistance (or friction) will result in a higher jump because less of the person's energy is absorbed by the surface, allowing more energy to be converted into upward motion.
+
+Given that the volleyball player jumped higher on the beach sand, it suggests that the sand offered less resistance compared to the gym floor. This is because sand can be more forgiving and allows for a slight sinking effect, which can actually help in reducing the immediate impact and allowing for a bit more spring in the jump, although the primary factor would still be the difference in friction.
+
+Therefore, the reason for the higher jump on the beach is due to the sand being less resistant than the gym floor.
+
+**Answer: Option 2**"
+275,লিন্ডা এবং মেলিন্ডা একটি হ্রদ জুড়ে কায়াক করার সিদ্ধান্ত নিয়েছে। লিন্ডা এটি ৪০০০ মিলিসেকেন্ডে লেক জুড়ে এবং মেলিন্ডা ২ সেকেন্ডে এটি করেছিলেন। তাদের মধ্যে কে অন্যের মতো দ্রুত যায় নি?,Option 1,লিন্ডা,মেলিন্ডা,"To answer this question, we first need to translate it into English for clarity and then compare the speeds of Linda and Melinda.
+
+Translation:
+Linda and Melinda decided to kayak across a lake. Linda did it in 4000 milliseconds, and Melinda did it in 2 seconds. Who went slower than the other?
+
+Now, we need to compare the times taken by both. 
+1 second = 1000 milliseconds.
+
+- Linda's time: 4000 milliseconds = 4 seconds (since 4000 / 1000 = 4).
+- Melinda's time: 2 seconds.
+
+Since 4 seconds (Linda's time) is greater than 2 seconds (Melinda's time), Linda is slower.
+
+**Answer: Option 1**"
+64,একটি ঘোড়দৌড়ের ঘোড়া এবং একটি ঘোড়ার গাড়ি উভয়ই একই সময়ে সেলুন থেকে প্রস্থান করে। ঘোড়ার গাড়ি ৮ মিটার যেতে পারে এবং ঘোড়দৌড়ের ঘোড়া একই সময়ে ১৯ মিটার যেতে পারে। পরবর্তী শহরে কোনটি শেষে পৌঁছাবে?,Option 1,ঘোড়ার গাড়িটি পরবর্তী শহরে পৌঁছতে আরও সময় নেবে,ঘোড়দৌড়ের ঘোড়াটি পরবর্তী শহরে পৌঁছাতে আরও সময় নেবে,"## Step 1: Translate the Bengali question and options into English for clarity.
+The question translates to: ""A racehorse and a horse carriage both leave from the salon at the same time. The horse carriage can go 8 meters and the racehorse can go 19 meters in the same amount of time. Which one will reach the next city last?""
+Option 1 translates to: ""The horse carriage will take more time to reach the next city.""
+Option 2 translates to: ""The racehorse will take more time to reach the next city.""
+
+## Step 2: Determine the speed relationship between the two.
+Since the racehorse can go 19 meters in the same time the horse carriage goes 8 meters, the racehorse is faster than the horse carriage.
+
+## Step 3: Conclude based on the speed relationship.
+Given that the racehorse is faster, it will cover longer distances in the same amount of time compared to the horse carriage. Therefore, when traveling to the next city, the horse carriage, being slower, will take more time to reach the destination compared to the racehorse.
+
+The final answer is: **Option 1**"
+249,"ডায়ানা এবং ডেভ একই স্টেশনে ওঠার পর একই ট্রেনে চড়েছেন। যদি ডায়ানা ৭৫ মিনিটের পরে ট্রেন থেকে নেমে যায় এবং ডেভ ৮৮ মিনিটের জন্য ভ্রমণ করে এবং তারপরে নেমে যায়, তাহলে কে কম দূরত্ব ভ্রমণ করেছিল?",Option 1,ডায়ানা,ডেভ।,"## Step 1: Translate the Bengali question and options into English for clarity.
+The question translates to: ""Diana and Dave got on the same train after getting off at the same station. If Diana got off the train 75 minutes later and Dave traveled for 88 minutes before getting off, who traveled the shorter distance?""
+The options are:
+- Option 1: Diana
+- Option 2: Dave
+
+## Step 2: Analyze the situation to determine who traveled the shorter distance.
+Since both Diana and Dave started at the same station and took the same train, the speed of the train is constant for both of them. The distance traveled is directly proportional to the time spent traveling if the speed is constant.
+
+## Step 3: Compare the travel times of Diana and Dave.
+Diana traveled for 75 minutes, while Dave traveled for 88 minutes. Given that the speed of the train remains constant, the person who traveled for the shorter time would have covered the shorter distance.
+
+## Step 4: Determine who traveled the shorter distance based on the travel times.
+Since 75 minutes (Diana's travel time) is less than 88 minutes (Dave's travel time), Diana traveled the shorter distance.
+
+The final answer is: **Answer: Option 1**"
+302,মেরির একটি বিড়াল আছে যার সাথে সে খেলতে পছন্দ করে। কখনও কখনও সে বিড়ালের খেলনাটিকে মেঝেতে টেনে নিয়ে যায় যাতে বিড়ালটি এটিকে তাড়া করতে পারে। যখন সে বিড়ালের খেলনাটিকে খেলার ঘরের মেঝেতে টেনে নিয়ে যায় তখন এটি ৪৯ সেন্টিমিটার দূরত্বে যায়। যখন তিনি এটিকে রম্পাস রুমের মেঝেতে টেনে নিয়ে যান তখন এটি ২১ সেন্টিমিটার সরে যায়। কোনটি বেশী মসৃণ?,Option 1,খেলার ঘরের মেঝে,রাম্পাস রুমের মেঝে,"1. Translation of the question and options into English for clarity:
+The question is: ""Mary has a cat that she likes to play with. Sometimes she pulls the cat's toy across the floor so the cat can chase it. When she pulls the toy across the playroom floor, it travels 49 centimeters. When she pulls it across the ramp room floor, it travels 21 centimeters. Which one is smoother?""
+The options are:
+**""Option 1: The playroom floor""**
+**""Option 2: The ramp room floor""**
+
+2. To determine which floor is smoother, we need to consider the distance the toy travels when pulled with the same force. A smoother floor would allow the toy to travel farther with less resistance.
+
+Since the toy travels 49 centimeters in the playroom and only 21 centimeters in the ramp room, the playroom floor has less resistance, indicating it is smoother.
+
+**Answer: Option 1**"
+109,জিম রায়ট সার্ভার থেকে ১০ মাইল বাস করে। জরিনা রায়ট সার্ভার থেকে ২০০০ মাইল দূরে বাস করে। উভয়ের ইন্টারনেট গতি একই। কার পিং বেশি হবে?,Option 2,জিম,জরিনা,"## Step 1: Translate the Bengali question and options into English for clarity.
+The question translates to: ""Jim lives 10 miles from the Ryte server. Zarina lives 2000 miles away from the Ryte server. Both have the same internet speed. Whose ping will be higher?""
+The options are:
+- Option 1: Jim
+- Option 2: Zarina
+
+## Step 2: Understand the concept of ping in the context of internet speed and distance from a server.
+Ping refers to the latency or delay in the communication between a user's device and a server. It is measured in milliseconds (ms) and is affected by the distance between the user and the server, as well as the speed of the internet connection. Generally, the farther away a user is from a server, the higher their ping will be because it takes longer for data to travel.
+
+## Step 3: Apply the understanding of ping to the problem.
+Given that Jim lives 10 miles from the Ryte server and Zarina lives 2000 miles away, and considering that both have the same internet speed, the distance from the server becomes the critical factor affecting their ping times. Since Zarina is much farther away from the server than Jim, her ping will be higher due to the increased distance her data has to travel.
+
+## Step 4: Select the correct option based on the analysis.
+Based on the analysis, Zarina's ping will be higher because she is significantly farther away from the Ryte server compared to Jim.
+
+The final answer is: **Option 2**"
+91,একটি রোবট ৭ মিনিটে টাইলস এবং ১০০ সেকেন্ডে প্লাশ কার্পেট পরিষ্কার করে কারণ এটি আছে?,Option 1,বেশী ঘর্ষণ,কম ঘর্ষণ,"## Step 1: Translate the Bengali question and options into English for clarity.
+The question translates to: ""A robot cleans tiles in 7 minutes and plush carpet in 100 seconds, because it has?""
+And the options are:
+- Option 1: More friction
+- Option 2: Less friction
+
+## Step 2: Analyze the situation to determine the correct option.
+Given that the robot cleans tiles in 7 minutes but cleans plush carpet in just 100 seconds, we need to consider why there's such a significant difference in cleaning time. The key factor here is the type of surface being cleaned: tiles versus plush carpet.
+
+## Step 3: Consider the properties of tiles and plush carpet in relation to friction and cleaning.
+Tiles are typically smooth and hard, offering less resistance or friction to the robot's cleaning mechanism. On the other hand, plush carpet is soft and has fibers that can entangle or catch on the robot's parts, potentially offering more resistance or friction.
+
+## Step 4: Apply the concept of friction to the given situation.
+However, considering the robot cleans the plush carpet much faster than the tiles, it suggests that the robot is designed to take advantage of the properties of each surface. If the robot had more friction, it would likely struggle more with the plush carpet due to its fibrous nature, taking longer to clean. Conversely, if it had less friction, it could potentially glide over the plush carpet more easily, cleaning it faster.
+
+## Step 5: Determine the relationship between friction and cleaning speed.
+The correct interpretation hinges on understanding that less friction allows the robot to clean the plush carpet quickly, as it faces less resistance moving across the surface. This implies that the robot's ability to clean the plush carpet faster is due to its design or mode of operation that results in less friction when interacting with the carpet.
+
+## Step 6: Choose the correct option based on the analysis.
+Given the faster cleaning time on plush carpet, which would intuitively seem to offer more resistance due to its texture, the robot's efficiency on the carpet suggests it operates with less friction. This allows it to move more freely and clean the carpet quickly.
+
+The final answer is: **Answer: Option 2**"
+234,একটি বাদামী ইঁদুর এবং একটি কালো ইঁদুর প্রত্যেকে ৫০ ফুট সুড়ঙ্গের মধ্য দিয়ে যত দ্রুত সম্ভব ছুটে যায়। কালো ইঁদুরটি ১৮ সেকেন্ডে অন্য প্রান্তে এবং বাদামী ইঁদুরটি ৪৫ সেকেন্ডে সুড়ঙ্গের মধ্য দিয়ে গিয়েছিল। কোন ইঁদুরটি বেশী দ্রুত দৌড়াতে পারে না?,Option 1,বাদামী মাউস,কালো মাউস,"## Step 1: Translate the Bengali question and options into English for clarity.
+The question translates to: ""A brown mouse and a black mouse each run as fast as possible through a 50-foot tunnel. The black mouse reaches the other end in 18 seconds, and the brown mouse reaches the end of the tunnel in 45 seconds. Which mouse cannot run faster?""
+The options are:
+- Option 1: Brown mouse
+- Option 2: Black mouse
+
+## Step 2: Calculate the speed of each mouse.
+To determine which mouse cannot run faster, we first calculate the speed of each mouse. Speed is calculated as distance divided by time. For the black mouse, the speed is 50 feet / 18 seconds. For the brown mouse, the speed is 50 feet / 45 seconds.
+
+## Step 3: Compare the speeds of the two mice.
+Calculate the speed of the black mouse: 50 feet / 18 seconds ≈ 2.78 feet/second.
+Calculate the speed of the brown mouse: 50 feet / 45 seconds ≈ 1.11 feet/second.
+Comparing the speeds, the black mouse runs faster than the brown mouse.
+
+## Step 4: Determine which mouse cannot run faster based on the given information.
+Given that the black mouse is faster, the question of which mouse cannot run faster is essentially asking which mouse has reached its limit or is less capable of increasing its speed. Since the black mouse is already faster and has completed the tunnel in less time, it implies the brown mouse has more room for improvement or is less efficient in its running. However, the question seems to be asking based on the premise of their current performance, which mouse is less capable of running faster, not which one has more potential to improve.
+
+The final answer is: **Option 1**"
+336,"সারা এবং জেনি দুজনেই যদি একই গতিতে দৌড়ায়, সারাহ ৪৮ মিনিট দৌড়ায় এবং জেনি সারার চেয়ে ৫৬ মিনিট বেশী দৌড়ায়, তাহলে কে বেশি দূর ভ্রমণ করেছে?",Option 2,সারাহ,জেনি,"1. Translation of the Bengali question and options into English for clarity:
+The question translates to: ""If Sarah and Jenny both run at the same speed, Sarah runs for 48 minutes and Jenny runs 56 minutes more than Sarah, then who travels more distance?""
+The options are:
+Option 1: Sarah
+Option 2: Jenny
+
+2. Since speed is the same for both Sarah and Jenny, the distance covered will be directly proportional to the time spent running. 
+Given that Jenny runs 56 minutes more than Sarah, and Sarah runs for 48 minutes, Jenny runs for 48 + 56 = 104 minutes.
+As Jenny runs for more minutes than Sarah at the same speed, Jenny covers more distance.
+
+Answer: **Option 2**"
+119,মহসিনের কয়েন তার সিরামিক প্লেটে ২ সেমি/মিনিট গতিতে এবং কাগজের প্লেটে ১ সেমি/মিনিট গতিতে ঘুরছে বলে মনে হচ্ছে। এর মানে তার কয়েন বেশী গরম হয়ে যায়?,Option 1,কাগজের প্লেট,সিরামিক প্লেট,"## Step 1: Translate the Bengali question and options into English for clarity.
+The question translates to: ""It seems that Mahsin's coin is spinning at a rate of 2 cm/minute on his ceramic plate and 1 cm/minute on his paper plate. Which means his coin gets hotter on?""
+The options are:
+- Option 1: Paper Plate
+- Option 2: Ceramic Plate
+
+## Step 2: Understand the concept of heat generation due to friction.
+When two surfaces are in contact and move relative to each other, friction generates heat. The amount of heat generated can depend on the speed of the movement and the properties of the surfaces.
+
+## Step 3: Analyze the information given in the question.
+The coin is moving at two different speeds on two different surfaces: 2 cm/minute on the ceramic plate and 1 cm/minute on the paper plate. Assuming the coin and the plates are the only surfaces in contact, the faster movement on the ceramic plate could potentially generate more heat due to increased friction compared to the slower movement on the paper plate.
+
+## Step 4: Determine which surface would cause the coin to get hotter.
+Given that frictional heat is generally proportional to the speed of the moving surfaces (among other factors like the coefficient of friction), the faster the coin moves, the more heat it is likely to generate due to friction. Therefore, the coin would get hotter on the surface where it moves faster.
+
+## Step 5: Select the correct option based on the analysis.
+Since the coin moves faster on the ceramic plate (2 cm/minute) compared to the paper plate (1 cm/minute), it would generate more heat on the ceramic plate.
+
+The final answer is: **Answer: Option 2**"
+221,শেরি তার বলকে দুই লেনের নিচে নিয়ে যায়। বলটি লাল লেনে ৩২ মি/সে গতিতে এবং সবুজ লেনে ২৭ মি/সে গতিতে চলে। বলের গতি লাল লেনে কেনো বেশী?,Option 2,বেশী ঘর্ষণ,কম ঘর্ষণ।,"1. Translation of the question and options into English for clarity:
+   - Question: Shery takes her ball down two lanes. The ball rolls at a speed of 32 m/s on the red lane and at a speed of 27 m/s on the green lane. Why is the ball's speed greater on the red lane?
+   - Options:
+     - Option 1: More friction
+     - Option 2: Less friction
+
+2. To solve this, we need to understand the relationship between friction and the speed of an object. Generally, more friction means more resistance to motion, which would slow down an object, while less friction means less resistance, allowing an object to move faster.
+
+3. Given that the ball moves faster on the red lane (32 m/s) than on the green lane (27 m/s), it implies that there is less resistance or friction on the red lane compared to the green lane. This is because, for the ball to achieve a higher speed on the red lane, it must experience less opposition to its motion.
+
+4. Conclusion: The ball's speed is greater on the red lane because there is less friction, which allows it to move faster.
+
+**Answer: Option 2**"
+181,"যদি একটি নৌকার গতি ৪ মিটার/সেকেন্ড হয় এবং একটি সাবমেরিনের গতি ৪৭ মিটার/সেকেন্ড হয়, তাহলে কোন নৌযানটির একই যাত্রা করতে বেশি সময় লাগবে?",Option 1,নৌকা,সাবমেরিন,"1. Translation of the question and options into English for clarity:
+   - Question: If the speed of a boat is 4 meters/second and the speed of a submarine is 47 meters/second, then which vehicle will take more time to cover the same distance?
+   - Option 1: Boat
+   - Option 2: Submarine
+
+2. Analysis: 
+   - The speed of the boat is 4 meters/second.
+   - The speed of the submarine is 47 meters/second.
+   - Since speed = distance/time, time = distance/speed. Thus, the vehicle with the lower speed will take more time to cover the same distance.
+
+3. Conclusion: 
+   - Given that the boat has a significantly lower speed (4 meters/second) compared to the submarine (47 meters/second), it will take more time for the boat to cover the same distance as the submarine.
+
+**Answer: Option 1**"
+315,একজন সাঁতারু ৫ মিনিটে একটি হ্রদ অতিক্রম করে এবং ৩০ সেকেন্ডে ভিজা কাদা অতিক্রম করে কোনটি কম মসৃণ?,Option 1,হ্রদ,ভিজা কাদা,"## Step 1: Translate the Bengali question and options into English for clarity.
+The question translates to: ""A swimmer crosses a lake in 5 minutes and crosses muddy water in 30 seconds, which is less smooth?""
+Option 1 translates to: ""The lake""
+Option 2 translates to: ""The muddy water""
+
+## Step 2: Analyze the situation to determine which option is less smooth.
+Given that the swimmer crosses the lake in 5 minutes and the muddy water in 30 seconds, we need to consider what ""less smooth"" implies in this context. Smoothness in this scenario could refer to the ease or speed of crossing, but more likely, it refers to the physical properties of the surface or the difficulty of traversing it.
+
+## Step 3: Determine the correct option based on the analysis.
+Muddy water is generally less smooth or more difficult to traverse than a lake because of its viscosity and the resistance it offers to movement. The fact that the swimmer crosses the muddy water quickly does not necessarily imply it is smoother; rather, it might suggest the swimmer had to push through it quickly due to its density or because they were trying to minimize their time in it.
+
+## Step 4: Choose the correct option.
+Based on the logical interpretation that ""less smooth"" refers to the physical characteristics and the difficulty of crossing, the muddy water would typically be considered less smooth than the lake.
+
+The final answer is: **Option 2**"
+374,"মিতা এবং রিতা দৌড়ে যাচ্ছে। রিতা ক্লান্ত হয়ে পড়ে এবং ২৫ মিনিট জগিং করার পরে পার্কের বেঞ্চে বিরতি নেয়। মিতা পার্কে ৩৫ মিনিটের জন্য দৌড়াচ্ছে, কে বেশি দৌড়েছে?",Option 1,মিতা,রিতা,"## Step 1: Translate the Bengali question and options into English for clarity.
+The question translates to: ""Mita and Rita are running. Rita gets tired and takes a break on a park bench after jogging for 25 minutes. Mita runs in the park for 35 minutes, who ran more?""
+The options are:
+- Option 1: Mita
+- Option 2: Rita
+
+## Step 2: Analyze the information given in the question.
+Mita runs for 35 minutes, while Rita jogs for 25 minutes before taking a break. The key information here is the duration each person spent running or jogging.
+
+## Step 3: Compare the durations to determine who ran more.
+Since Mita runs for 35 minutes and Rita jogs for 25 minutes, without any additional information suggesting a difference in their speeds or distances covered per minute, the comparison can be made directly based on the time spent running.
+
+## Step 4: Determine the correct option based on the analysis.
+Given that 35 minutes (Mita's running time) is greater than 25 minutes (Rita's jogging time), Mita has spent more time running than Rita.
+
+The final answer is: **Answer: Option 1**"
+381,জিম সার্ভার থেকে ৩৭ মাইল বাস করে। জরিনা সার্ভার থেকে ৬৮০০ মাইল দূরে বাস করে। উভয়ের ইন্টারনেট গতি একই। কার পিং বেশি হবে?,Option 2,জিম,জরিনা,"To solve this problem, let's first understand the situation and then apply the relevant concepts.
+
+1. **Translation of the Question and Options:**
+   - The question translates to: ""Jim lives 37 miles from the server. Zarina lives 6800 miles away from the server. Both have the same internet speed. Who will have a higher ping?""
+   - **Option 1:** Jim
+   - **Option 2:** Zarina
+
+2. **Understanding the Concept of Ping:**
+   - Ping refers to the latency or delay in the communication over the internet. It is the time it takes for a packet of data to travel from your computer to a server and back. Several factors can affect ping, including the distance between the user and the server, as data takes longer to travel farther distances.
+
+3. **Applying the Concept:**
+   - Given that Jim lives 37 miles from the server and Zarina lives 6800 miles away, the distance Zarina is from the server is significantly greater than Jim's.
+   - Since both have the same internet speed, the primary factor affecting their ping time would be the distance from the server. The farther away one is from the server, the longer it takes for data packets to travel back and forth, thus resulting in a higher ping.
+
+4. **Conclusion:**
+   - Considering Zarina lives much farther away from the server compared to Jim, her ping time will be higher due to the increased distance her data packets have to travel.
+
+**Answer: Option 2**"
+240,একজন সাঁতারু ১২ মিনিটে একটি হ্রদ অতিক্রম করে এবং ৩১ মিনিটে ভেজা কাদা অতিক্রম করে কারণ _____ বেশী মসৃণ?,Option 1,হ্রদ,ভিজা কাদা,"## Step 1: Translate the Bengali question into English for clarity.
+The question translates to: ""A swimmer crosses a lake in 12 minutes and crosses wet mud in 31 minutes because _____ is smoother?""
+
+## Step 2: Translate the Bengali options into English for clarity.
+Option 1 translates to: ""the lake""
+Option 2 translates to: ""the wet mud""
+
+## Step 3: Analyze the situation to determine which option is correct.
+Given that the swimmer crosses the lake in 12 minutes and the wet mud in 31 minutes, it indicates that the swimmer can move more quickly through the lake than through the wet mud. This suggests that the lake is smoother than the wet mud, as smoother surfaces typically allow for faster movement.
+
+## Step 4: Choose the correct option based on the analysis.
+Since the lake allows for faster crossing, it implies that the lake is smoother than the wet mud. Therefore, the correct option is the one that states the lake is smoother.
+
+The final answer is: **Answer: Option 1**"
+76,মার্কাসের ছেলে পুল টেবিল থেকে পুল বল নিয়ে গেল ঘরের চারপাশে খেলার জন্য। ছেলেটি লক্ষ্য করলো যে পুল বলটি মার্বেল মেঝেতে ৫ মিটার এবং শ্যাগ রাগের উপর ২ মিটার দূরত্বে গড়িয়েছে। বেশী মসৃণ পৃষ্ঠ কোনটি?,Option 1,মার্বেল মেঝে,শাগ পাটি,"To determine which surface is smoother, we need to analyze the information given in the question.
+
+1. Translation of the question and options into English for clarity:
+   - Question: Marcus's son took pool balls from the pool table to play around the house. The boy noticed that the pool ball rolled 5 meters on the marble floor and 2 meters on the shag rug.
+   - Option 1: Marble floor
+   - Option 2: Shag rug
+
+2. Analysis of the situation:
+   - The pool ball rolled 5 meters on the marble floor.
+   - The pool ball rolled 2 meters on the shag rug.
+
+Given that the pool ball rolled a greater distance on the marble floor (5 meters) than on the shag rug (2 meters), it implies that the marble floor offers less resistance to the rolling ball compared to the shag rug. This suggests that the marble floor is smoother than the shag rug, as a smoother surface would allow the ball to travel further due to less friction.
+
+**Answer: Option 1**"
+248,মহসিন একটি লণ্ঠন থেকে ৪০ সেমি এবং একটি রাস্তার আলো থেকে ৮৯ সেমি দূরত্বে দাঁড়িয়ে আছে। কোন আলোর উৎস তার কাছে উজ্জ্বল মনে হয়?,Option 1,লণ্ঠন,রাস্তার আলো,"## Step 1: Translate the Bengali question and options into English for clarity.
+The question translates to: ""Mahsin is standing 40 cm away from a lantern and 89 cm away from a street light. Which light source appears brighter to him?""
+The options for the answer are:
+- Option 1: The lantern
+- Option 2: The street light
+
+## Step 2: Determine the relationship between distance and perceived brightness.
+The perceived brightness of a light source is inversely proportional to the square of the distance from the observer. This means that as the distance from the light source increases, the perceived brightness decreases, and it does so more rapidly as the distance increases.
+
+## Step 3: Compare the distances to determine which light source appears brighter.
+Given that Mahsin is 40 cm away from the lantern and 89 cm away from the street light, we can compare these distances to determine which light source would appear brighter. Since the lantern is significantly closer than the street light, its light will appear brighter due to the inverse square law of light intensity and distance.
+
+## Step 4: Choose the correct option based on the comparison.
+Based on the distances provided and the principle that the closer light source will appear brighter, the correct option is the one indicating that the lantern appears brighter.
+
+The final answer is: **Answer: Option 1**"
+111,বিল ৩০০ গ্রাম ভরের একটি ছোট পাথর এবং ৪০০ গ্রাম ভরের একটি নুড়ি নিক্ষেপ করে। নুড়িটি পাথরের চেয়ে দ্রুত পড়ে তার মানে?,Option 1,ওজন বেশি,ওজন কম,"To address this problem, let's first translate the given Bengali question and options into English for clarity:
+
+**Translation of the Question:** Bill throws a small rock weighing 300 grams and a pea weighing 400 grams. The statement that the pea falls faster than the rock means?
+
+**Translation of the Options:**
+- **Option 1:** Weighs more
+- **Option 2:** Weighs less
+
+Now, let's analyze the situation based on the principles of physics, specifically gravity and free fall. According to the theory of gravity, all objects fall at the same rate in a vacuum, regardless of their mass. However, in a real-world scenario where air resistance is present, the fall rate can differ based on the object's size, shape, and mass.
+
+Given that the pea ( weighing 400 grams) falls faster than the rock (weighing 300 grams), we need to consider what this implies about their relative weights or masses in the context of the question, which might seem counterintuitive without considering air resistance.
+
+However, interpreting the question based on standard physics principles without overcomplicating:
+
+- The pea weighs more than the rock (400 grams vs 300 grams), which contradicts the intuitive expectation based on typical objects (rocks usually being heavier than peas). But here, we are discussing the implication of the pea falling faster, not the comparison of their weights directly.
+
+The question seems to be aiming towards understanding the relationship between the weight of the objects and their falling speed, with an implication that might be misleading without considering air resistance and the specific conditions of the fall.
+
+Given the straightforward translation and understanding that in real scenarios (not in a vacuum), the falling speed can be influenced by air resistance, and typically, a pea would experience more air resistance than a rock due to its smaller size and shape, the premise of the question seems to be testing the understanding of basic physics principles and possibly misinterpreting them without the context of air resistance.
+
+**Answer: Option 1**"
+17,১২৩৪৫৬ সংখ্যাটি  ৯৮৭৬৫৪ সংখ্যাটি থেকে ?,Option 2,বড়,ছোট,"To solve this problem, we first need to compare the two given numbers: 123456 and 987654.
+
+1. Translation of the question and options into English for clarity:
+   - Question: The number 123456 is _______ than the number 987654.
+   - Option 1: Larger
+   - Option 2: Smaller
+
+2. Comparing the numbers:
+   - The number 123456 is smaller than 987654 because because because when comparing numbers, we look at the digits from left to right. In this case, the first digit of 123456 is 1, and the first digit of 987654 is 9. Since 1 is less than 9, 123456 is smaller than 987654.
+
+Therefore, the correct option is:
+**Answer: Option 2**"
+67,"একটি মুরগি ১৪০ সেমি/সেকেন্ড গতিতে ছুটতে পারে এবং একটি টার্কি ৪ মি/সেকেন্ড বেগে দৌড়াতে পারে। যদি দুজনেই শস্যাগার থেকে চালার দিকে দৌড়ে যায়, তাহলে সেখানে কে তাড়াতাড়ি পৌঁছাবে?",Option 2,মুরগি,টার্কি,"To determine who reaches the destination first, we need to compare the speeds of the chicken and the turkey.
+
+First, let's convert the speed of the chicken into meters per second to match the units of the turkey's speed. Since 1 meter equals 100 centimeters, we can convert 140 centimeters to meters as follows:
+140 cm = 1.4 meters (because 140 cm / 100 = 1.4 m)
+
+The chicken's speed is given as 1.4 meters per second (m/s), and the turkey's speed is 4 m/s.
+
+Now, comparing the speeds:
+- Chicken's speed: 1.4 m/s
+- Turkey's speed: 4 m/s
+
+Since 4 m/s is greater than 1.4 m/s, the turkey is faster than the chicken.
+
+Therefore, translating the question and options into English for clarity:
+1. The question translates to: ""A chicken can run at a speed of 140 cm/second and a turkey can run at a speed of 4 m/second. If both run from the grain field towards the feeder, who will reach there sooner?""
+2. The options are:
+   - Option 1: The chicken
+   - Option 2: The turkey
+
+Given the turkey's higher speed, it will reach the destination before the chicken.
+
+**Answer: Option 2**"
+154,জিম ১ ইঞ্চি প্রস্থের একটি পুরু বর্ম পড়েন। জ্যাক মাত্র ৩ সেন্টিমিটারের একটি সুতির শার্ট পড়েছে। কোনটি একটা বুলেট থামাবে?,Option 1,বর্ম,শার্ট,"1. Translation of the Bengali question and options into English for clarity:
+The question translates to: ""Jim wears a solid armor that is 1 inch thick. Jack wears just a cotton shirt that is 3 centimeters thick. Which one will stop a bullet?""
+The options are:
+Option 1: Armor
+Option 2: Shirt
+
+2. Conclusion:
+Considering the thickness and material of the two items, the solid armor (1 inch thick) is more likely to stop a bullet due to its thickness and density compared to a cotton shirt (3 centimeters or approximately 1.18 inches thick). Although the cotton shirt is close in thickness to the armor, the material of the armor is more suited to stopping bullets.
+
+**Answer: Option 1**"
+8,"একটি ফুটবল বলের ওজন ৩০০ গ্রাম এবং এক খণ্ড সীসার ওজন ৮০০ গ্রাম। যদি উভয়কে একটি মাঠে ছুড়া হয়, তবে কোনটির গতি তাড়াতাড়ি বাড়বে?",Option 2,সীসা খণ্ড,ফুটবল বল,"## Step 1: Translate the Bengali question and options into English for clarity.
+The question translates to: ""A football weighs 300 grams and a piece of lead weighs 800 grams. If both are thrown onto a field, which one's speed will increase faster?""
+Option 1 translates to: ""Piece of lead""
+Option 2 translates to: ""Football""
+
+## Step 2: Apply the concept of acceleration to the given scenario.
+According to Newton's second law of motion, acceleration (a) is directly proportional to the net force (F) acting on an object and inversely proportional to its mass (m): a = F/m. Since both objects are subject to the same force (gravity), the one with the smaller mass will accelerate faster.
+
+## Step 3: Compare the masses of the football and the piece of lead.
+The mass of the football is 300 grams, and the mass of the piece of lead is 800 grams. Therefore, the football has a smaller mass than the piece of lead.
+
+## Step 4: Determine which object's speed will increase faster based on their masses.
+Given that the football has a smaller mass, it will accelerate faster than the piece of lead when thrown onto the field.
+
+The final answer is: **Answer: Option 2**"
+20,১২৩৪৫৬৭৮০৯০ সংখ্যাটি ৯৮৭৬৫৪৩২১ সংখ্যাটি থেকে  ?,Option 2,ছোট,বড়,"To solve this, let's first translate the question and options into English for clarity:
+
+Question: The number 1234567890 is _____ than the number 987654321.
+Options:
+1. smaller
+2. larger
+
+Now, comparing the two numbers:
+- 1234567890
+- 987654321
+
+It's evident that 1234567890 is larger than 987654321 because its digits are generally smaller but it has more digits, making it significantly larger.
+
+**Answer: Option 2**"
+138,একটি রোবট ১০ সেকেন্ডে টাইলস এবং ১৪ সেকেন্ডে প্লাশ কার্পেট পরিষ্কার করে কারণ এটিতে ঘর্ষণ?,Option 2,বেশী,কম,"To solve this problem, let's first translate the Bengali question and options into English for clarity.
+
+Translation:
+""A robot cleans tiles in 10 seconds and plush carpet in 14 seconds because it has friction?
+Option 1: More
+Option 2: Less
+
+Now, let's analyze the situation. The robot takes more time to clean the plush carpet compared to the tiles. This could be due to several factors, but considering the context of friction, we can infer that the plush carpet might offer more resistance or friction to the robot's movement or cleaning mechanism compared to the smoother surface of the tiles.
+
+Given this context, the question implies that the robot's cleaning time difference is attributed to the friction it encounters. Therefore, the correct option regarding the friction the robot encounters on plush carpet compared to tiles would be:
+
+**Answer: Option 1**"
+356,একটি স্টিলের বলের ভর ১৩ কেজি এবং একটি নুড়ির ভর ০.৩ কেজি। কোন বস্তুর বেশী শক্তিশালী মহাকর্ষীয় ক্ষেত্র আছে?,Option 1,ইস্পাতের বল,নুড়ি,"## Step 1: Translate the Bengali question and options into English for clarity.
+The question translates to: ""A steel ball weighs 13 kg and a pea weighs 0.3 kg. Which object has a stronger gravitational field?""
+The options are:
+- Option 1: The steel ball
+- Option 2: The pea
+
+## Step 2: Understand the concept of gravitational field strength.
+The strength of an object's gravitational field is directly proportional to its mass. This is based on Newton's law of universal gravitation, which states that every point mass attracts every other point mass by a force acting along the line intersecting both points.
+
+## Step 3: Compare the masses of the steel ball and the pea.
+The steel ball has a mass of 13 kg, while the pea has a mass of 0.3 kg. Since the steel ball has a significantly larger mass than the pea, its gravitational field will be stronger.
+
+## Step 4: Conclusion
+Based on the masses of the objects and the principle that the strength of the gravitational field is directly proportional to the mass of the object, the steel ball has a stronger gravitational field than the pea.
+
+The final answer is: **Answer: Option 1**"
+350,মাহির ওজন ৬০০ নিউটন যেখানে তার বন্ধু মুসার ওজন ৮০০ নিউটন। কর ভর কম হওয়ার সম্ভাবনা আছে?,Option 1,মাহি,মুসা,"1. Translation of the Bengali question and options into English for clarity:
+The question translates to: ""Mahi's weight is 600 Newtons where his friend Musa's weight is 800 Newtons. Who has a lower chance of having less weight?""
+The options are:
+- Option 1: Mahi
+- Option 2: Musa
+
+2. Conclusion:
+Given that Mahi's weight is 600 Newtons and Musa's weight is 800 Newtons, it's clear that Mahi has less weight than Musa. Therefore, the correct option is the one that corresponds to Mahi, as he inherently has less weight, thus a lower chance of having less weight is not applicable in the context of comparison but Mahi is the one with the lesser weight.
+
+**Answer: Option 1**"
+132,মাহির ওজন ৪৮০ কেজি*মি*সে^-২ যেখানে তার বন্ধু মুসার ওজন ৬৫০ N। যার ভর কম হওয়ার সম্ভাবনা আছে?,Option 1,মাহি,মুসা,"To solve this problem, we first need to understand the relationship between weight and mass. Weight (W) is measured in Newtons (N) and is calculated as the product of mass (m) and acceleration due to gravity (g), which is approximately 9.8 m/s^2 on Earth's surface. The formula is W = m * g.
+
+Given:
+- Mahi's weight = 480 N (since 1 kg*m/s^2 = 1 N, and assuming the given unit is a typographical error, it should be Newtons for a weight measurement).
+- Musa's weight = 650 N.
+
+To find the mass, we divide the weight by the acceleration due to gravity (approximately 9.8 m/s^2).
+
+1. Translation of the question and options into English for clarity:
+   - Question: Whose mass is likely to be less?
+   - Option 1: Mahi
+   - Option 2: Musa
+
+2. Calculating mass for both:
+   - Mahi's mass = 480 N / 9.8 m/s^2 ≈ 48.98 kg
+   - Musa's mass = 650 N / 9.8 m/s^2 ≈ 66.33 kg
+
+Since 48.98 kg is less than 66.33 kg, Mahi's mass is less than Musa's.
+
+**Answer: Option 1**"
+388,খালি সিমেন্ট ট্রাকের ওজন প্রায় ৭২৫৮ কেজি । পরে ট্রাকে ৪২ কেজি ওজনের ১৮ ব্যাগ সিমেন্ট রাখা হয়। এটি বেশী _____ চলে যখন সিমেন্টের ব্যাগ ছাড়াই চলছিল?,Option 1,দ্রুত,ধীর,"1. Translation of the question and options into English for clarity:
+The question translates to: ""The empty cement truck weighs about 7258 kg. Later, 18 bags of cement weighing 42 kg each are loaded onto the truck. It goes _____ slower when it was moving without the cement bags?""
+The options are:
+Option 1: Faster
+Option 2: Slower
+
+2. Reasoning:
+When the truck is loaded with 18 bags of cement, each weighing 42 kg, the total additional weight is 18 * 42 = 756 kg. This increases the total weight of the truck to 7258 + 756 = 8014 kg. According to the laws of physics, particularly Newton's second law of motion (F = ma), where 'm' is the mass of the object, an increase in mass (or weight, in this context) results in a decrease in acceleration if the force applied remains constant. Since the weight of the truck increases with the added cement bags and assuming the force applied (e.g., by the engine) remains constant, the truck will accelerate more slowly when loaded compared to when it was empty. Therefore, when moving without the cement bags, the truck goes faster compared to when it is loaded.
+
+3. Conclusion:
+Given the physics principle that more massive objects require more force to achieve the same acceleration as less massive objects (assuming the same force is applied), the loaded truck will move slower than the empty truck.
+
+**Answer: Option 2**"
+293,মেরির স্কেটবোর্ডটি ৩৯৮৫ সেমি/সেকেন্ড গতিতে চলে যখন সে একটি ভেজা স্কেটপার্কে স্কেটিং করে আর যখন সে শুকনো স্কেটপার্কে স্কেটিং করে তখন ৮২৯ সেমি/সেকেন্ডে চলে। এর মানে তার স্কেটবোর্ড বেশী গরম হয়ে যায় যখন সে এটাতে চড়ে?,Option 2,ভেজা স্কেটপার্ক,শুকনো স্কেটপার্ক,"1. Translation of the Bengali question and options into English for clarity:
+The question translates to: ""Mary's skateboard moves at a speed of 3985 cm/second when she skates in a wet skatepark and at 829 cm/second when she skates in a dry skatepark. This means her skateboard gets hotter when she rides it in:""
+Option 1: ""Wet skatepark""
+Option 2: ""Dry skatepark""
+
+2. To solve this problem, we need to consider the relationship between speed, friction, and heat generation. Generally, when an object moves faster, it generates less friction (assuming the surface it's moving on remains consistent), and when it moves slower due to increased friction, it generates more heat.
+
+Given that Mary's skateboard moves significantly faster in the wet skatepark (3985 cm/second) compared to the dry skatepark (829 cm/second), it indicates that there is more friction when she skates in the dry skatepark. This increased friction in the dry skatepark would cause more heat to be generated due to the increased resistance against the skateboard's movement.
+
+Therefore, considering the principles of friction and heat generation, the skateboard would get hotter when Mary rides it in the dry skatepark due to increased friction compared to the wet skatepark.
+
+**Answer: Option 2**"
+387,একটি বাদামী ইঁদুর এবং একটি কালো ইঁদুর প্রত্যেকে ৫০ ফুট সুড়ঙ্গের মধ্য দিয়ে যত দ্রুত সম্ভব ছুটে যায়। কালো ইঁদুরটি ১১ সেকেন্ডের মধ্যে অন্য প্রান্তে যায় এবং বাদামী ইঁদুরটি ২৫ সেকেন্ডে যায়। কোন ইঁদুরটি তুলনামূলক কম দ্রুত দৌড়াতে পারে?,Option 1,বাদামী ইঁদুুরটি,কালো ইঁদুরটি,"## Step 1: Translate the Bengali question and options into English for clarity.
+The question translates to: ""A brown mouse and a black mouse each run as fast as they can through a 50-foot tunnel. The black mouse reaches the other end in 11 seconds, and the brown mouse reaches in 25 seconds. Which mouse runs relatively slower?""
+The options translate to:
+- Option 1: The brown mouse
+- Option 2: The black mouse
+
+## Step 2: Determine the speed of each mouse to compare their relative speeds.
+To find the speed of each mouse, we divide the distance of the tunnel by the time it takes for each mouse to cross it.
+- Speed of the black mouse = Distance / Time = 50 feet / 11 seconds
+- Speed of the brown mouse = Distance / Time = 50 feet / 25 seconds
+
+## Step 3: Calculate the speeds.
+- Speed of the black mouse = 50 / 11 ≈ 4.55 feet/second
+- Speed of the brown mouse = 50 / 25 = 2 feet/second
+
+## Step 4: Compare the speeds to determine which mouse runs relatively slower.
+The mouse with the lower speed is the one that runs relatively slower. Since 2 feet/second is less than 4.55 feet/second, the brown mouse runs relatively slower.
+
+The final answer is: **Option 1**"
+298,বিল ২৫৭ গ্রাম ভরের পাথরের একটি ভগ্নাংশ এবং ৬৫৬ গ্রাম ভরের একটি নুড়ি নিক্ষেপ করে। নুড়ি পাথরের চেয়ে দ্রুত পড়ে তার মানে?,Option 1,ওজন বেশি,ওজন কম,"1. Translation of the Bengali question and options into English for clarity:
+The question translates to: ""Bill throws a fraction of a 257-gram rock and a 656-gram pebble. The pebble falls faster than the rock, meaning?""
+The options translate to:
+- Option 1: ""More weight""
+- Option 2: ""Less weight""
+
+2. Conclusion:
+According to the principles of physics, specifically gravity and air resistance, both objects should fall at the same acceleration in a vacuum (ignoring air resistance). However, when air resistance is considered, the shape and size of the objects, along with their mass, influence their fall. Generally, a larger, denser object (like a pebble) with less air resistance relative to its mass will fall faster than a smaller, less dense object (like a rock fragment) that has more air resistance relative to its mass. The question implies a misunderstanding of the physics principle that in a vacuum, all objects fall at the same rate regardless of mass. However, in the context given and typical misunderstandings of physics principles, the correct interpretation based on the provided options and common misconceptions would be that the pebble falls faster due to its ""more weight"" being less affected by air resistance compared to the smaller rock fragment. Thus, the correct option, given the context of the question and the typical physics involved in such scenarios (though it simplifies complex physics), is:
+
+**Answer: Option 1**"
+61,একটি ছোট বাচ্চা ঘাসের উপর ১ মিনিটের বেশি সময় ধরে একটি বল ঘূর্ণায়মান করে এবং এটিকে বালির উপর রোল করে যেখানে এটি ৪৩ সেকেন্ড পরে থামে। বালি বল থামিয়েছে কারণ এতে ঘাসের চেয়ে _____ আছে।,Option 1,বেশী ঘর্ষণ,কম ঘর্ষণ,"## Step 1: Translation of the Bengali question and options into English for clarity.
+The question translates to: ""A small child spins a ball on the grass for more than 1 minute and rolls it on the sand where it stops after 43 seconds. The sand stopped the ball because it has _____ than grass.""
+The options translate to:
+- Option 1: ""more friction""
+- Option 2: ""less friction""
+
+## Step 2: Analyzing the situation to determine why the ball stopped on the sand.
+When the ball is rolling on the grass, it keeps moving for more than a minute. However, when it is rolled on the sand, it stops after just 43 seconds. This difference in the duration the ball keeps rolling on two different surfaces indicates a difference in the forces acting upon it, primarily friction.
+
+## Step 3: Understanding the role of friction.
+Friction is a force that opposes motion between any surfaces that are in contact. There are different types of friction, but in this context, we're dealing with kinetic friction (the friction when an object is moving) and possibly static friction (though the question focuses on the ball already in motion).
+
+## Step 4: Applying the concept of friction to the given scenario.
+The ball rolls for a longer time on the grass compared to the sand. This suggests that the grass offers less resistance to the ball's motion than the sand does. If the sand were to have less friction than the grass, the ball would roll for a longer time on the sand, not a shorter time.
+
+## Step 5: Conclusion based on the analysis.
+Given that the ball stops sooner on the sand than it does on the grass, it indicates that the sand has more friction than the grass. This increased friction on the sand is what causes the ball to lose its kinetic energy more quickly and come to a stop sooner.
+
+The final answer is: **Option 1**"
+80,লিসা দুটি মডেলের রকেট নিয়ে খেলছিল। তিনি একই সময়ে রকেট দুটি আঁকাশে নিক্ষেপ করলে ৩০ সেকেন্ড পরে কালোটি মাটি থেকে ২ মিটার উপরে এবং লালটি মাটি থেকে ২৩ সেমি উপরে ছিল। কোনটির গতি বেশি ছিল?,Option 2,লালটা,কালোটা,"## Step 1: Translate the Bengali question and options into English for clarity.
+The question translates to: ""Lisa was playing with two model rockets. When she launched both rockets into the sky at the same time, 30 seconds later the black one was 2 meters above the ground and the red one was 23 centimeters above the ground. Which one had a higher speed?""
+The options are:
+- Option 1: The red one
+- Option 2: The black one
+
+## Step 2: Understand the given information.
+We know that after 30 seconds, the black rocket is 2 meters (200 centimeters) above the ground, and the red rocket is 23 centimeters above the ground.
+
+## Step 3: Determine which rocket had a higher speed.
+To compare the speeds, we need to calculate the distance each rocket traveled in the given time frame and then determine which one covered more distance in the same amount of time, indicating a higher speed.
+
+## Step 4: Calculate the speed of each rocket.
+Since speed = distance / time, and the time is the same for both rockets (30 seconds), the rocket that covers the greater distance in this time has the higher speed.
+
+## Step 5: Compare the distances covered by each rocket.
+The black rocket is 200 centimeters above the ground, and the red rocket is 23 centimeters above the ground after 30 seconds.
+
+## Step 6: Determine which rocket has the higher speed based on the distance covered.
+Given that the black rocket is at a height of 200 centimeters and the red rocket is at a height of 23 centimeters after the same amount of time, the black rocket has covered a significantly greater distance and thus has a higher speed.
+
+The final answer is: **Option 2**"
+286,মহসিন একটি পাথরের ভর এবং একটি নুড়ির ভর তুলনা করছিল। তিনি দেখতে পান যে পাথরের ভর ছিল ১৪৮ পাউন্ড এবং নুড়ির ভর ছিল ২ পাউন্ড। কোন আইটেম শক্তিশালী মাধ্যাকর্ষণ নির্গত করে?,Option 1,পাথরের ,নুড়ি,"## Step 1: Translate the Bengali question and options into English for clarity.
+The Bengali question translates to: ""Mahsin was comparing the weight of a stone and the weight of a pea. He found that the weight of the stone was 148 pounds and the weight of the pea was 2 pounds. Which item emits stronger gravity?""
+The options are:
+Option 1: The stone's
+Option 2: The pea's
+
+## Step 2: Understand the concept of gravity and mass.
+Gravity is a force that attracts two objects towards each other, with the force depending on the mass of the objects and the distance between them. The more massive an object is, the stronger its gravitational pull.
+
+## Step 3: Compare the masses of the stone and the pea.
+The mass of the stone is 148 pounds, while the mass of the pea is 2 pounds. Since the stone has a significantly larger mass than the pea, it will have a stronger gravitational pull.
+
+## Step 4: Choose the correct option based on the comparison.
+Given that the stone has a much larger mass than the pea, it will emit stronger gravity.
+
+The final answer is: **Answer: Option 1**"
+306,রেঞ্জার এবং রাস্টলার উভয়েই একই সাথে বাড়ির দিকে ঘোড়ায়(যেগুলি একই গতিতে ছুটছিল) চড়ে চলছিল। রাস্টলার ০২:০০ এ বাড়ি চলে যায় যেখানে রেঞ্জার ০১:০০ এ যায়। কে কম সময় ভ্রমণ করেছেন?,Option 1,রেঞ্জার,রাস্টলার,"## Step 1: Translate the Bengali question and options into English for clarity.
+The question translates to: ""Ranger and Rastler both were riding horses (which were running at the same speed) towards home at the same time. Rastler reached home at 02:00 where Ranger reached at 01:00. Who traveled for less time?""
+Option 1 translates to: ""Ranger""
+Option 2 translates to: ""Rastler""
+
+## Step 2: Analyze the given information to determine who traveled for less time.
+Given that both Ranger and Rastler were riding horses at the same speed towards home and started at the same time, the one who reached home first would have traveled for less time.
+
+## Step 3: Determine who reached home first based on the given times.
+Ranger reached home at 01:00, and Rastler reached home at 02:00. Since 01:00 is before 02:00, Ranger reached home first.
+
+## Step 4: Conclude who traveled for less time based on the analysis.
+Since Ranger reached home first, it means Ranger traveled for less time than Rastler.
+
+The final answer is: **Answer: Option 1**"
+282,"ডায়ানা এবং ডেভ একই স্টেশনে ওঠার পর একই ট্রেনে চড়েছেন। যদি ডায়ানা ১০ মিনিটের পরে ট্রেন থেকে নেমে যায় এবং ডেভ ১৫ মিনিটের জন্য ভ্রমণ করে এবং তারপরে নেমে যায়, তাহলে কে কম দূরত্ব ভ্রমণ করেছিল?",Option 1,ডায়ানা,ডেভ।,"## Step 1: Translate the Bengali question and options into English for clarity.
+The question translates to: ""Diana and Dave get on the same train after getting up from the same station. If Diana gets off the train after 10 minutes and Dave travels for 15 minutes and then gets off, who traveled a shorter distance?""
+The options are:
+- Option 1: Diana
+- Option 2: Dave
+
+## Step 2: Analyze the given information to determine who traveled a shorter distance.
+Since both Diana and Dave started from the same station and traveled on the same train, the speed of the train is constant for both of them. The distance traveled is directly proportional to the time spent traveling, given that the speed is constant.
+
+## Step 3: Compare the time spent traveling by Diana and Dave to determine who traveled a shorter distance.
+Diana traveled for 10 minutes, while Dave traveled for 15 minutes. Since distance = speed * time, and the speed is the same for both, the person who traveled for less time will have traveled a shorter distance.
+
+## Step 4: Select the correct option based on the analysis.
+Given that Diana traveled for 10 minutes and Dave for 15 minutes, Diana is the one who traveled for less time. Therefore, Diana traveled a shorter distance.
+
+The final answer is: **Answer: Option 1**"
+158,টিনা এবং মিনা দুজনেই হাইওয়েতে একই গতিতে যাচ্ছে। টিনা ১২ মিনিট ৫৬ সেকেন্ড এবং মিনা ৩৬ মিনিট ৪৮ সেকেন্ড ড্রাইভ করেন। কে বেশী দূর যাবে?,Option 2,টিনা,মিনা,"To determine who travels the furthest, we need to compare the time taken by Tina and Mina to drive, assuming they are both driving at the same speed.
+
+First, let's translate the given information into English for clarity:
+- The question states that Tina and Mina are both driving on the highway at the same speed.
+- Tina drives for 12 minutes 56 seconds.
+- Mina drives for 36 minutes 48 seconds.
+
+We need to convert both times into the same unit for comparison. Let's convert both into seconds because one of the times is already partially in seconds:
+- Tina's driving time in seconds = (12 minutes * 60 seconds/minute) + 56 seconds = 720 seconds + 56 seconds = 776 seconds.
+- Mina's driving time in seconds = (36 minutes * 60 seconds/minute) + 48 seconds = 2160 seconds + 48 seconds = 2208 seconds.
+
+Given that they are driving at the same speed, the person who drives for the longer duration will cover the greater distance. Since 2208 seconds (Mina's driving time) is greater than 776 seconds (Tina's driving time), Mina will travel the farther distance.
+
+**Answer: Option 2**"
+110,রোজ স্কিইং করছে। তিনি একটি কর্দমাক্ত পাহাড়ের নিচে এবং তারপর একটি তুষারময় পাহাড়ের নিচে স্কি করেন। রোজ লক্ষ্য করেছেন যে তিনি ০.৫৩ ঘন্টার মধ্যে তুষারময় পাহাড় এবং ৪৮ মিনিটে কর্দমাক্ত পাহাড়ে নেমেছেন এবং উভয় পাহাড়ই প্রায় একই আকারের। সেই পাহাড়ে কাদা ছিল বলেই হয়তো?,Option 1,বেশী ঘর্ষণ ছিলো,কম ঘর্ষণ ছিলো,"To solve this problem, let's first translate the given question and options into English for clarity.
+
+**Translated Question:** Rose is skiing. She skis down a muddy hill and then down a snowy hill. Rose notices that she went down the snowy hill in 0.53 hours and the muddy hill in 48 minutes, and both hills are roughly the same size. Why was the hill with mud possibly?
+
+**Translated Options:**
+- **Option 1:** There was more friction.
+- **Option 2:** There was less friction.
+
+Now, let's analyze the situation. The time it takes to ski down a hill is influenced by the friction between the skis and the hill's surface. More friction means it's harder to slide down, resulting in a longer time to reach the bottom. Less friction means it's easier to slide down, resulting in a shorter time.
+
+Given that Rose took 48 minutes to ski down the muddy hill and 0.53 hours (which is approximately 32 minutes) to ski down the snowy hill, we can see that she was faster on the snowy hill. This implies that there was less friction on the snowy hill compared to the muddy hill, as snow typically provides a smoother surface for skiing than mud.
+
+However, the question asks why the hill with mud was possibly slower. The correct reasoning should focus on the comparison of friction between the two surfaces. Mud is generally more slippery than dry ground but can be more resistant (due to its sticky nature) than snow when it comes to sliding. Since Rose took longer on the muddy hill, it suggests that the muddy surface might have provided more resistance (or friction) against her skis than the snowy surface did.
+
+**Answer: Option 1**"
+18,১২৩৪৫৬৭৮৯ সংখ্যাটি  ৯৮৭৬৫৪৩২১ সংখ্যাটি থেকে ?,Option 1,ছোট,বড়,"To answer this question, we first need to translate it into English for clarity.
+
+The question translates to: ""Is the number 123456789 smaller or larger than the number 987654321?""
+
+Now, let's compare the two numbers:
+
+- The number given first is 123456789.
+- The number given second is 987654321.
+
+Comparing these numbers, it's clear that 123456789 is smaller than 987654321 because the digits of the first number are progressively smaller than those of the second number when comparing them from left to right.
+
+Therefore, the correct option is:
+
+**Answer: Option 1**"
+348,বিলি এবং জিমি একদিন বাড়িতে দৌড়ানোর সিদ্ধান্ত নেয়। জিমি ৪ ঘন্টা এবং বিলি ৯ ঘন্টা সময় নেয় বাড়ি ফিরতে। তাই জিমি বিলির চেয়ে বেশী _____ ?,Option 2,ধীর,দ্রুত,"To solve this problem, let's break it down step by step.
+
+1. **Translation of the Question and Options:**
+   - Question: Billy and Jimmy decide to run home one day. Jimmy takes 4 hours and Billy takes 9 hours to get home. So, Jimmy is more _____ than Billy?
+   - Options:
+     - Option 1: Slow
+     - Option 2: Fast
+
+2. **Analysis:**
+   - The question asks us to compare the speeds of Jimmy and Billy based on the time they take to run home.
+   - Jimmy takes 4 hours to get home, while Billy takes 9 hours.
+
+3. **Conclusion:**
+   - Since Jimmy takes less time (4 hours) than Billy (9 hours) to run home, Jimmy is faster than Billy.
+   - Therefore, the correct option to fill in the blank is ""fast"" because Jimmy is more fast than Billy.
+
+**Answer: Option 2**"
+25,১২৩৪৫৬৭৮৯০ থেকে  ৯৮৭৬৫৪৩২১০ সংখ্যাটি?,Option 1,বড়,ছোট,"To solve this problem, we first need to understand that we are comparing the sizes of two numbers: 1234567890 and 9876543210.
+
+1. **Translation**:
+   - The question translates to: ""Which number is larger, 1234567890 or 9876543210?""
+   - **Option 1** translates to: ""Larger""
+   - **Option 2** translates to: ""Smaller""
+
+2. **Comparison**:
+   - To compare these numbers, we look at their digits from left to right.
+   - The first number is 1234567890.
+   - The second number is 9876543210.
+   - Starting from the left, 9 is greater than 1. Therefore, without even comparing the rest of the digits, we can conclude that 9876543210 is larger than 1234567890.
+
+3. **Conclusion**:
+   - Since 9876543210 is larger than 1234567890, the correct option is **Option 2: ছোট** (which means ""Smaller"" in English), because the question asks which number is smaller when comparing the two.
+
+**Answer: Option 2**"
+176,জিম্বো জানে যে তার মার্বেলের ভর ৬ গ্রাম এবং পাথরের ভর ১৪ গ্রাম। এর মানে?,Option 2,মার্বেলের মাধ্যাকর্ষণ শক্তি বেশি,শিলার মাধ্যাকর্ষণ শক্তি বেশী,"1. Translation of the Bengali question and options into English:
+The question translates to: ""Jumbo knows that the weight of his marble is 6 grams and the weight of the stone is 14 grams. What does this mean?""
+The options translate to:
+- Option 1: ""The marble has more gravitational force""
+- Option 2: ""The stone has more gravitational force""
+
+2. Analysis:
+The weight of the marble is 6 grams, and the weight of the stone is 14 grams. According to the law of universal gravitation, the gravitational force exerted on an object is directly proportional to its mass. Since the stone has a greater mass (14 grams) than the marble (6 grams), it experiences a greater gravitational force.
+
+3. Conclusion:
+Based on the information given and the principles of physics, the correct option is the one stating that the stone, due to its greater mass, experiences a greater gravitational force than the marble.
+
+**Answer: Option 2**"
+352,"মহসিনের ট্রাকের গড় গতি ঘণ্টায় ১৩ মাইল এবং তার গাড়ির গতি ঘণ্টায় ২৯ মাইল। যদি তিনি ফ্রিওয়েতে এক ঘন্টার জন্য উভয় গাড়ি চালান, তবে কোনটি বেশী দূরত্ব অতিক্রম করবে?",Option 2,ট্রাক,গাড়ী,"To solve this, let's first translate the question and options into English for clarity:
+
+Translation of the question: 
+Mahsin's truck has an average speed of 13 miles per hour, and his car has a speed of 29 miles per hour. If he drives both vehicles on the freeway for one hour, which one will cover more distance?
+
+Translation of the options:
+Option 1: Truck
+Option 2: Car
+
+Now, let's calculate the distance each vehicle will cover in one hour. Distance is calculated by multiplying speed by time. Since the time for both vehicles is the same (1 hour), the vehicle with the higher speed will cover more distance.
+
+Distance covered by the truck = Speed of the truck * Time = 13 miles/hour * 1 hour = 13 miles
+Distance covered by the car = Speed of the car * Time = 29 miles/hour * 1 hour = 29 miles
+
+Since 29 miles (distance covered by the car) is greater than 13 miles (distance covered by the truck), the car will cover more distance.
+
+**Answer: Option 2**"
+333,"কেট সিনেমায় আছে এবং ঘটনাক্রমে তার কাপ মেঝেতে ফেলে দেয়। কাপটি কংক্রিটের মেঝে দিয়ে ৪ সেকেন্ডে গড়িয়ে যায় যা ১৩ মিটার দীর্ঘ, কিন্তু কার্পেটেড মেঝেতে আঘাত করার পরে এটি ৭ সেকেন্ডে ৯ মিটার যায়। কার্পেটের মেঝেতে কাপটি ধীরগতির ছিল কারণ কার্পেট মেঝে ছিল?",Option 1,বেশী ঘর্ষণ,কম ঘর্ষণ,"To address this problem, let's break it down step by step.
+
+1. **Translate the Bengali question and options into English for clarity:**
+   - The question translates to: ""Kate is at the cinema and accidentally drops her cup on the floor. The cup rolls across the concrete floor for 4 seconds, which is 13 meters long, but after hitting the carpeted floor, it goes 9 meters in 7 seconds. Why was the cup slower on the carpeted floor?""
+   - **Option 1** translates to: ""More friction""
+   - **Option 2** translates to: ""Less friction""
+
+2. **Analyzing the situation:**
+   - The cup travels 13 meters in 4 seconds on the concrete floor.
+   - Then, it travels 9 meters in 7 seconds on the carpeted floor.
+   - To understand why the cup was slower on the carpeted floor, we need to consider the factors affecting its motion. The primary factor here is friction.
+
+3. **Understanding friction:**
+   - Friction is a force that opposes motion between any surfaces that are in contact. There are different types of friction, but the one relevant here is kinetic friction, which acts on an object when it is moving.
+   - Concrete floors typically offer less friction compared to carpeted floors because they are smoother and harder, providing less resistance to moving objects.
+   - Carpeted floors, being softer and having more texture, offer more friction. This increased frictional force acts against the motion of the cup, slowing it down.
+
+4. **Conclusion:**
+   - Given that the cup travels a shorter distance in a longer time on the carpeted floor compared to the concrete floor, it is clear that the carpeted floor presents a greater obstacle to the cup's motion.
+   - The reason for this is the increased friction provided by the carpeted surface, which slows down the cup.
+
+**Answer: Option 1**"
+168,"একটি বিড়াল এবং একটি কুকুর উভয়ই ৫ মাইল বেগে দৌড়ায়। যদি বিড়াল ২ মিনিটের জন্য এবং কুকুর ৪৫ সেকেন্ডের জন্য দৌড়ায়, তাহলে কোনটি বেশি দূরত্ব অতিক্রম করবে?",Option 1,বিড়াল,কুকুর,"To solve this, let's first translate the question and options into English for clarity:
+
+Translation: A cat and a dog both run at a speed of 5 miles per hour. If the cat runs for 2 minutes and the dog runs for 45 seconds, which one will cover more distance?
+
+Options:
+- Option 1: The cat
+- Option 2: The dog
+
+Now, let's calculate the distance each covers. To do this, we need to convert their running times into hours since their speeds are given in miles per hour.
+
+1. For the cat: The cat runs for 2 minutes. To convert minutes into hours, we divide by 60 (since 1 hour = 60 minutes).
+   - Cat's running time in hours = 2 minutes / 60 = 1/30 hours.
+   - Distance = Speed × Time = 5 miles/hour × 1/30 hours = 1/6 miles.
+
+2. For the dog: The dog runs for 45 seconds. To convert seconds into hours, we divide by 3600 (since 1 hour = 60 minutes × 60 seconds).
+   - Dog's running time in hours = 45 seconds / 3600 = 1/80 hours.
+   - Distance = Speed × Time = 5 miles/hour × 1/80 hours = 1/16 miles.
+
+Comparing the distances:
+- The cat covers 1/6 miles.
+- The dog covers 1/16 miles.
+
+Since 1/6 is greater than 1/16, the cat covers more distance than the dog.
+
+**Answer: Option 1**"
+246,মেরির স্কেটবোর্ড ২ মি/সেকেন্ড গতিতে চলে যখন সে একটি ভেজা স্কেটপার্কে স্কেটিং করে আর যখন সে শুকনো স্কেটপার্কে স্কেট করে তখন ৬ মি/সেকেন্ড। এর মানে তার স্কেটবোর্ড বেশী গরম হয়ে যায় কোথায়?,Option 1,ভেজা স্কেটপার্ক,শুকনো স্কেটপার্ক,"1. Translation of the Bengali question and options into English for clarity:
+The question translates to: ""Where does Mary's skateboard get hotter?""
+The options are:
+- Option 1: Wet skatepark
+- Option 2: Dry skatepark
+
+2. To solve this problem, we can apply the concept of kinetic friction and heat generation. Kinetic friction is the force that opposes motion between two surfaces that are in contact and moving relative to each other. When Mary skates, her skateboard's wheels experience kinetic friction with the ground. The amount of kinetic friction generated depends on the surface type (wet or dry) and the velocity of the skateboard.
+
+When Mary skates at a higher speed (6 m/s) on the dry skatepark, more kinetic energy is converted into heat due to the increased friction. This is because the force of kinetic friction (although generally less than static friction) still converts some of the kinetic energy into heat energy, especially when the velocity is higher.
+
+In contrast, when she skates at a lower speed (2 m/s) on the wet skatepark, less kinetic energy is converted into heat. Wet surfaces typically reduce the coefficient of kinetic friction compared to dry surfaces, but in this scenario, the significant factor is the speed. The lower speed on the wet skatepark results in less energy being dissipated as heat compared to the higher speed on the dry skatepark.
+
+Therefore, considering the higher speed (6 m/s) on the dry skatepark generates more heat due to increased kinetic friction and higher energy dissipation, the skateboard would get hotter in the dry skatepark.
+
+**Answer: Option 2**"
+312,একটা কুকুর পাড়ায় ঘুরতে পছন্দ করত। মঙ্গলবার কুকুরটি ১ ঘন্টা ৫৩ মিনিটের জন্য রাস্তায় নেমেছিল এবং বুধবার কুকুরটি রাস্তায় নেমেছিল কিন্তু ৩৩০ মিনিট পরে থামে। কুকুরটি কোনদিন রাস্তায় বেশি দূর হেঁটেছিল?,Option 2,মঙ্গলবারে,বুধবারে,"To determine which day the dog walked further, we first need to understand that the distance walked would be directly proportional to the time spent walking, assuming the dog walks at a constant speed. 
+
+1. Translation of the question and options into English for clarity:
+   - Question: A dog liked to roam around the neighborhood. On Tuesday, the dog went out for 1 hour 53 minutes, and on Wednesday, the dog went out but stopped 330 minutes later. On which day did the dog walk further?
+   - Option 1: On Tuesday
+   - Option 2: On Wednesday
+
+2. Convert all times to the same unit for easier comparison:
+   - Tuesday: 1 hour 53 minutes = 113 minutes (since 1 hour = 60 minutes, 60 + 53 = 113 minutes)
+   - Wednesday: 330 minutes
+
+3. Compare the times:
+   - The dog walked for 113 minutes on Tuesday.
+   - The dog walked for 330 minutes on Wednesday.
+
+Since 330 minutes (Wednesday) is greater than 113 minutes (Tuesday), the dog walked further on Wednesday.
+
+**Answer: Option 2**"
+146,যদি একজন স্কেটার রাস্তায় ২৭ মি/সে গতিতে এবং একটি স্কেট পার্কে ২৯ মি/সে গতিতে রাইড করে তাহলে এর মানে হল _____ কম মসৃণ?,Option 2,স্কেট পার্ক,রাস্তা,"To solve this problem, we need to understand the relationship between speed and surface smoothness. Generally, the smoother the surface, the faster one can move on it, assuming all other conditions remain constant.
+
+1. **Translation of the Question and Options:**
+   - Question: If a skater rides at a speed of 27 m/s on the road and at a speed of 29 m/s in a skate park, then it means _____ is less smooth.
+   - Option 1: The skate park
+   - Option 2: The road
+
+2. **Analysis:**
+   - The skater's speed on the road is 27 m/s.
+   - The skater's speed in the skate park is 29 m/s.
+   - Since the skater can achieve a higher speed in the skate park (29 m/s) compared to the road (27 m/s), it indicates that the skate park provides a smoother surface. This is because less energy is wasted due to friction or irregularities, allowing for faster movement.
+   - Therefore, the surface that is less smooth would be the one where the skater achieves the lower speed, which is the road.
+
+3. **Conclusion:**
+   Based on the analysis, the road is less smooth because the skater achieves a lower speed on it compared to the skate park.
+
+**Answer: Option 2**"
+259,মার্ক লক্ষ্য করেছেন যে তিনি তার লন ডার্টকে গড়ে প্রায় ২৩ মিটার নরম ময়লা এবং ১৯ মিটার বালিতে ফেলতে পারেন। এর মানে হল যে _____ বেশী রুক্ষ?,Option 2,নরম ময়লা,বালি,"## Step 1: Translate the Bengali question and options into English for clarity.
+The translation of the Bengali question is: ""Mark noticed that he can throw his lawn darts an average of about 23 meters into soft soil and 19 meters into sand. This means that _____ is rougher.""
+The options are:
+Option 1: Soft soil
+Option 2: Sand
+
+## Step 2: Analyze the information to determine which material is rougher.
+Since Mark can throw the darts farther into the soft soil (23 meters) compared to the sand (19 meters), it indicates that the sand is more resistant to the darts, making it rougher.
+
+## Step 3: Conclude by selecting the correct option.
+Based on the analysis, the correct option is the one that states sand is rougher.
+
+The final answer is: **Option 2**"
+178,টিমের রিংটি মাঠে ৮.১ সেমি এবং মেঝেতে ৩.২ সেন্টিমিটার ঘূর্ণায়মান। কোনটি বেশী মসৃণ?,Option 2,মেঝে,মাঠ,"To determine which surface is smoother based on the ring's movement, we need to understand that a smaller rotation radius (or diameter, in some contexts) might imply a smoother surface if the object rolls more easily or farther on it due to less friction. However, the provided information directly compares the distances the ring travels on each surface, which doesn't directly correlate to smoothness without considering friction or the context of ""smoothness"" implied here.
+
+1. **Translation of the Question and Options:**
+   - Question: Tim's ring rolls 8.1 cm on the field and 3.2 cm on the floor. Which one is smoother?
+   - Option 1: The floor
+   - Option 2: The field
+
+Given the distances alone, we might infer that the surface allowing the ring to roll farther is smoother because it implies less resistance (friction) to the ring's movement. 
+
+2. **Analysis:**
+   - On the field, the ring rolls 8.1 cm.
+   - On the floor, the ring rolls 3.2 cm.
+
+The ring rolls farther on the field, suggesting that there might be less frictional resistance on the field compared to the floor, under the assumption that ""smoothness"" is being directly correlated with the distance the ring can roll before stopping.
+
+**Answer: Option 2**"
+120,মাছটি পানির মধ্য দিয়ে ৪ মাইল প্রতি ঘণ্টা এবং জেলোর মধ্য দিয়ে ১ মাইল প্রতি ঘণ্টা বেগে চলে যায় কারণ _____ বেশী মসৃণ।,Option 2,জেলো,জল,"To solve this problem, let's first translate the question and options into English for clarity:
+
+Translation: The fish swims at a speed of 4 miles per hour through water and 1 mile per hour through jelly because _____ is smoother.
+
+Options:
+1. Jelly
+2. Water
+
+Now, let's analyze the situation. The fish swims faster through water than through jelly, which suggests that water offers less resistance to the fish's movement compared to jelly. This is because water is more fluid and smoother than jelly, allowing the fish to swim more easily and quickly.
+
+Therefore, the correct completion of the sentence would be that water is smoother, which is why the fish can swim faster through it.
+
+**Answer: Option 2**"
+195,খালি সিমেন্ট ট্রাকের ওজন প্রায় ৩৩০০০ পাউন্ড। পরে ট্রাকে ৩৮ কেজি ওজনের ৩৪ ব্যাগ সিমেন্ট রাখা হয়। এটি বেশী _____ চলে যখন সিমেন্টের ব্যাগ ছাড়াই চলছিল?,Option 1,দ্রুত,ধীর,"1. Translation of the Bengali question and options into English for clarity:
+The question translates to: ""The empty cement truck weighs about 33,000 pounds. Later, 34 bags of cement, each weighing 38 kg, are put on the truck. It goes _____ slower when it was moving without the bags of cement.""
+The options are:
+- Option 1: Faster
+- Option 2: Slower
+
+2. Conclusion:
+Given that the empty cement truck weighs approximately 33,000 pounds and then 34 bags of cement, each weighing 38 kg (which is approximately 83.78 pounds per bag), are added, the total additional weight from the cement bags is 34 * 83.78 = 2845.12 pounds. This increase in weight would naturally cause the truck to consume more energy to move, thus reducing its speed due to the increased load. Therefore, with the added weight of the cement bags, the truck would move slower compared to when it was empty.
+
+**Answer: Option 2**"
+230,"এমিলি ছাদে একটি কলা ছুঁড়ে ফেলে এবং ছাদে এটি ১৫ মিমি এর জন্য পিছলে যায়, কিন্তু যখন সে এটি স্লাইডে ছুড়ে দেয়, তখন এটি ৩ সেমি পিছলে যায়। কোথায় কম ঘর্ষণ ছিল?",Option 2,ছাদ,স্লাইড,"To solve this problem, let's first translate the question and options into English for clarity.
+
+Translation of the question: 
+Emily throws a ball on the roof and it slides back for 15 mm, but when she throws it on the slide, it slides back for 3 cm.
+
+Translation of the options:
+Option 1: Roof
+Option 2: Slide
+
+Now, let's convert the measurements to the same unit for comparison. Since 1 cm = 10 mm, 3 cm = 30 mm.
+
+Given that the ball slides back 15 mm on the roof and 30 mm on the slide when thrown, we can infer that there's less resistance (or friction) on the surface where the ball slides back more, as sliding back more indicates less force is acting against the motion.
+
+Since the ball slides back more (30 mm) on the slide than on the roof (15 mm), this means there's less friction on the slide.
+
+**Answer: Option 2**"
+266,কেভিন নিউইয়র্ক থেকে শিকাগোতে ১৯ঃ১০ ঘন্টায় একটি প্লেন নিয়েছিলেন এবং এস্টার ১৪ঃ৩০ এ নিউইয়র্ক থেকে লস এঞ্জেলস যাওয়ার একটি বিমান নিয়েছিলেন। তারা উভয়ই একই ধরণের বিমান থেকে ভ্রমণ করছে তাই তাদের ভ্রমণের গতি একই। দুজনেই একই সাথে তাদের গন্তব্যে পৌঁছে গেল। কে বেশী ভ্রমণ করেছেন?,Option 2,কেভিন,ইস্টার,"## Step 1: Translate the Bengali question and options into English for clarity.
+The question translates to: ""Kevin took a plane from New York to Chicago at 19:10 hours, and Esther took a plane from New York to Los Angeles at 14:30. They are both traveling from the same type of plane, so their travel speeds are the same. They both reached their destinations at the same time. Who traveled more?""
+
+## Step 2: Understand the given information.
+- Kevin traveled from New York to Chicago.
+- Esther traveled from New York to Los Angeles.
+- They both started at different times but reached their destinations at the same time.
+- They are traveling at the same speed since they are on the same type of plane.
+
+## Step 3: Analyze the travel times and distances.
+To determine who traveled more, we need to consider both the distance and the time of travel. However, since they are traveling at the same speed and end at the same time, the key factor here is the distance between the cities and the start times.
+
+## Step 4: Consider the distances between the cities.
+- New York to Chicago is approximately 790 miles (1,273 km).
+- New York to Los Angeles is approximately 2,460 miles (3,959 km).
+
+## Step 5: Determine who traveled more based on distance.
+Given that Esther traveled from New York to Los Angeles, which is significantly farther than Kevin's trip from New York to Chicago, and considering they both traveled at the same speed and reached their destinations at the same time, Esther must have traveled more.
+
+The final answer is: **Option 2**"
+219,মেরির স্কেটবোর্ড ৬ মি/সেকেন্ড গতিতে চলে যখন সে একটি ভেজা স্কেটপার্কে স্কেটিং করে যখন সে শুকনো স্কেটপার্কে স্কেট করে তখন ৭৮৯ সেমি/সেকেন্ডের তুলনায়। কোথায় তার স্কেটবোর্ড বেশী গরম হয়ে যায়?,Option 1,ভেজা স্কেটপার্ক,শুকনো স্কেটপার্ক,"1. Translation of the question and options into English for clarity:
+   - Question: Where does Mary's skateboard get hotter?
+   - Context provided: Mary's skateboard moves at 6 m/second when she is skating in a wet skatepark, as opposed to 789 cm/second when she skates in a dry skatepark.
+   - Options:
+     - Option 1: Wet skatepark
+     - Option 2: Dry skatepark
+
+2. To compare the speed in both conditions, we first need to convert the units into the same format. The speed in the wet skatepark is given in meters per second (m/s), while the speed in the dry skatepark is given in centimeters per second (cm/s). To convert centimeters to meters, we divide by 100 since 1 meter equals 100 centimeters.
+   - Speed in the wet skatepark: 6 m/s
+   - Speed in the dry skatepark: 789 cm/s = 789 / 100 m/s = 7.89 m/s
+
+3. Comparing the speeds:
+   - The skateboard moves faster in the dry skatepark (7.89 m/s) than in the wet skatepark (6 m/s).
+   
+4. The friction and thus the heat generated would be more where the skateboard moves faster due to the increased kinetic energy being converted into heat energy upon interaction with the surface. Therefore, the skateboard gets hotter in the dry skatepark where it moves faster.
+
+**Answer: Option 2**"
+308,"জেড তার বন্ধু টাইলারের বিরুদ্ধে একটি রেস জেতার চেষ্টা করছে। জেড ৩৪০ কেজি, এবং টাইলার ৮০ কেজি। দৌড়ের সময়, কে দ্রুত গতি বাড়াবে?",Option 2,জেড,টাইলার,"To solve this problem, let's first translate the question and options into English for better clarity:
+
+**Translation:**
+Jed is trying to win a race against his friend Tyler. Jed weighs 340 kg, and Tyler weighs 80 kg. During the run, who will increase speed faster?
+
+**Options:**
+1. Jed
+2. Tyler
+
+Given the information, the question essentially asks who will accelerate faster in a race between two individuals of significantly different weights. In physics, acceleration (a) is related to force (F) and mass (m) by the formula F = ma. When considering the force generated by each person during a race, it's largely dependent on their muscle power and technique. However, assuming both Jed and Tyler are applying the same relative force (considering their muscle mass and efficiency might scale with their body weight), the acceleration would be inversely proportional to their mass due to the equation a = F/m.
+
+Thus, the person with the lower mass (or weight, in everyday terms, assuming we're not considering the effects of air resistance or other external factors) will accelerate faster if they apply the same force. 
+
+**Analysis:**
+- Jed weighs 340 kg.
+- Tyler weighs 80 kg.
+
+Since Tyler has a lower mass, he will accelerate faster than Jed when the same force is applied, assuming all other factors are equal.
+
+**Answer: Option 2**"
+37,রবিন একইরকম পেয়ালা ৬টি কিনেছে ১৪৪ টাকা দিয়ে। কিন্তু লীলা একইরকম পেয়ালা অন্য দোকান থেকে ৪টি কিনেছে ৪৪ টাকা দিয়ে। দুটি দোকান একই দাম নিয়েছে কিনা হিসাব করে দেখি।,Option 1,একই দাম নিল না,একই দাম নিল,"To determine if both stores charged the same price for the cups, let's calculate the cost per cup from each store.
+
+1. Translation of the question and options into English for clarity:
+   - Question: Robin bought 6 cups of the same type for 144 taka. But Leela bought 4 cups of the same type from another store for 44 taka. Let's calculate to see if both stores charged the same price.
+   - Option 1: They did not charge the same price.
+   - Option 2: They charged the same price.
+
+2. Calculating the cost per cup from each store:
+   - From Robin's purchase: 144 taka / 6 cups = 24 taka per cup.
+   - From Leela's purchase: 44 taka / 4 cups = 11 taka per cup.
+
+Since the cost per cup from Robin's store (24 taka) is not equal to the cost per cup from Leela's store (11 taka), it indicates that both stores did not charge the same price for the cups.
+
+**Answer: Option 1**"
+140,"গাড়ি চালিয়ে, মেরি জানতে পেরেছিলেন যে জঙ্গলের ঘর্ষণ সহগ ০.৭, যেখানে মাঠের সহগ ১.২ এর ১০% রয়েছে তার গাড়িটি কোথায় দ্রুত চলেছে?",Option 2,জঙ্গল,মাঠে,"To solve this problem, let's first translate the given question and options into English for clarity:
+
+**Translation:** 
+While driving, Mary found out that the friction coefficient of the forest is 0.7, where the field has a coefficient of 1.2 times 10% of that, in which place is her car moving faster?
+
+**Options:**
+1. **Option 1:** Forest
+2. **Option 2:** Field
+
+Now, let's break down the information given:
+
+- The friction coefficient of the forest is 0.7.
+- The friction coefficient of the field is 10% of 1.2 times the forest's coefficient. So, it is \(1.2 \times 0.7 \times 0.1 = 0.084\).
+
+A lower friction coefficient means less resistance, which allows for faster movement. Comparing the two coefficients:
+
+- Forest: 0.7
+- Field: 0.084
+
+Since 0.084 is less than 0.7, the field has a lower friction coefficient, meaning Mary's car would move faster in the field.
+
+**Answer: Option 2**"
+292,এফ-১৬ এর ওজন সাধারণত ৫৬৭২১৪ পাউন্ড এবং জাম্বো জেটের ওজন ৩৯৯৮৭ কেজি। তাই এফ-১৬ ছিল?,Option 1,ধীর গতিশীল,দ্রুত গতিশীল,"To solve this problem, we first need to compare the weights of the F-16 and the Jumbo Jet. However, the weights are given in different units: pounds for the F-16 and kilograms for the Jumbo Jet. We need to convert these into the same units for a proper comparison.
+
+1. Translate the Bengali question and options into English for clarity:
+- Question: The weight of an F-16 is generally 567214 pounds, and the weight of a Jumbo Jet is 39987 kg. So, the F-16 was?
+- Option 1: Less dynamic
+- Option 2: More dynamic
+
+Given the information:
+- Weight of F-16 = 567214 pounds
+- Weight of Jumbo Jet = 39987 kg
+
+First, convert the weight of the Jumbo Jet into pounds to match the units of the F-16's weight. Knowing that 1 kg = 2.20462 pounds:
+- Weight of Jumbo Jet in pounds = 39987 kg * 2.20462 pounds/kg ≈ 88141 pounds
+
+Now, compare the weights:
+- The F-16 weighs approximately 567214 pounds.
+- The Jumbo Jet weighs approximately 88141 pounds.
+
+Since the F-16 is significantly heavier than the Jumbo Jet, it implies the F-16 has more mass and potentially more power or capability in terms of dynamics, given that ""dynamic"" can refer to a person's or object's ability to move or change. However, the actual dynamics (in terms of speed, maneuverability, etc.) depend on many factors including the engine power, design, and purpose of the aircraft.
+
+Given the context of the question seems to imply a comparison of performance or capability rather than a direct physical property like weight, and without explicit details on what ""dynamic"" refers to in this context, the question seems to be leading towards a comparison based on the provided weights. Yet, it's critical to understand that ""dynamic"" in aeronautics can refer to many aspects such as speed, agility, or the ability to generate force.
+
+Thus, based on the weight alone and assuming ""dynamic"" refers to capability or performance in a broad sense, the F-16, being heavier and potentially more powerful, could be considered more dynamic in certain contexts. However, this interpretation might not fully align with the usual aeronautical definitions of performance.
+
+Therefore, based on the information given and the assumption that weight is being used as a proxy for overall capability or power:
+"
+156,লিসা দুটি মডেলের রকেট নিয়ে খেলছিল। তিনি একই সময়ে রকেট দুটি আঁকাশে নিক্ষেপ করলে ৩০ সেকেন্ড পরে কালোটি মাটি থেকে ৩০ মিটার উপরে এবং লালটি মাটি থেকে ১৮ মিটার উপরে ছিল। কোনটির গতি বেশি ছিল?,Option 2,লালটির,কালোটির,"1. Translation of the Bengali question and options into English for clarity:
+The question translates to: ""Lisa was playing with two model rockets. When she launched the two rockets into the sky at the same time, after 30 seconds, the black one was 30 meters above the ground and the red one was 18 meters above the ground. Which one had a higher speed?""
+The options are:
+- Option 1: The red one's
+- Option 2: The black one's
+
+2. Conclusion:
+To determine which rocket had a higher speed, we need to consider the distance each traveled in the same amount of time (30 seconds). The black rocket was 30 meters above the ground, and the red rocket was 18 meters above the ground after 30 seconds. Since speed is distance over time and both rockets were launched at the same time, the one that covered a greater distance in the same time had a higher speed. Therefore, the black rocket, which was 30 meters above the ground, had a higher speed than the red rocket, which was only 18 meters above the ground.
+
+**Answer: Option 2**"
+197,"যদি একটি গাড়ি এবং একটি পিকআপ উভয়ই ৬০ মাইল বেগে ভ্রমণ করে, কিন্তু গাড়ি ৬.১ ঘন্টা পরে থামে যেখানে পিকআপ ১.৯ ঘন্টা পরে থামে, কোনটি কম দূরত্ব অতিক্রম করেছে?",Option 2,গাড়ী,পিকআপ,"To solve this, let's first translate the question and options into English for clarity:
+
+Translation of the question: If a car and a pickup both travel at 60 miles per hour, but the car stops after 6.1 hours while the pickup stops after 1.9 hours, which one traveled a shorter distance?
+
+Translation of the options:
+- Option 1: The car
+- Option 2: The pickup
+
+Now, to determine which vehicle traveled a shorter distance, we calculate the distance each traveled using the formula: Distance = Speed × Time.
+
+For the car: Distance = 60 miles/hour × 6.1 hours = 366 miles.
+For the pickup: Distance = 60 miles/hour × 1.9 hours = 114 miles.
+
+Since 114 miles (distance traveled by the pickup) is less than 366 miles (distance traveled by the car), the pickup traveled a shorter distance.
+
+**Answer: Option 2**"
+285,মহসিন এবং মরিয়ম পার্কের চারপাশে তাদের বাইক চালানোর সিদ্ধান্ত নেয়। তারা একই পথ অনুসরণ করে কিন্তু মহসিন ২ মাইল/ঘণ্টা বেগে তার বাইক চালায় এবং মরিয়ম ১.২ মাইল/ঘন্টা বেগে রাইড করে। দশ মিনিট পর কে কম দূরত্ব অতিক্রম করবে?,Option 2,মহসিন,মরিয়ম,"To solve this, let's first translate the question and options into English for clarity:
+
+Translation: 
+Mohsin and Moriam decide to ride their bikes around the park. They follow the same path but Mohsin rides his bike at a speed of 2 miles/hour and Moriam rides at a speed of 1.2 miles/hour. Who will cover less distance after ten minutes?
+
+Options:
+Option 1: Mohsin
+Option 2: Moriam
+
+Now, let's solve the problem. To find out who covers less distance, we need to calculate the distance each of them travels in 10 minutes. First, we convert 10 minutes into hours because the speeds are given in miles per hour. 
+
+10 minutes = 10/60 hours = 1/6 hours
+
+Now, let's calculate the distance each covers in 10 minutes:
+
+- Mohsin's distance = Speed * Time = 2 miles/hour * (1/6) hour = 1/3 miles
+- Moriam's distance = Speed * Time = 1.2 miles/hour * (1/6) hour = 0.2 miles
+
+Since 0.2 miles (Moriam's distance) is less than 1/3 miles (Mohsin's distance), Moriam covers less distance after ten minutes.
+
+**Answer: Option 2**"
+60,"শেরি তার বলকে দুই লেনের নিচে নিয়ে যায়। বলটি ১৫ সেকেন্ডে লাল লেনকে ঢেকে দেয়, কিন্তু ২০ সেকেন্ডে সবুজ লেনকে কভার করে। উভয় লেন একই দৈর্ঘ্যের। সবুজ গলিতে বল ধীরগতির হয় বলে?",Option 1,বেশী ঘর্ষণ,কম ঘর্ষণ,"## Step 1: Translate the Bengali question and options into English for clarity.
+The question translates to: ""Sherry takes her ball under two lanes. The ball covers the red lane in 15 seconds, but covers the green lane in 20 seconds. Both lanes are of the same length. Is the ball slower in the green lane because:""
+Option 1 translates to: ""More friction""
+Option 2 translates to: ""Less friction""
+
+## Step 2: Analyze the situation to determine why the ball is slower in the green lane.
+To cover the same distance, if the ball takes more time (20 seconds) in the green lane compared to the red lane (15 seconds), it implies that the ball's speed is reduced in the green lane.
+
+## Step 3: Determine the factor causing the reduction in speed.
+The factor that could cause a reduction in speed, given the context, is friction. More friction would mean more resistance to the ball's movement, thus slowing it down.
+
+## Step 4: Choose the correct option based on the analysis.
+Given that the ball takes longer to cover the green lane, it indicates the presence of more resistance or friction in the green lane compared to the red lane.
+
+The final answer is: **Option 1**"
+112,জিম ৪৬ সেমি/সেকেন্ড গতিতে দৌড়াতে পারত এবং তার বোন জেন ২০ মি/সেকেন্ড বেগে দৌড়াতে পারত। একটি বিপজ্জনক ভাইরাসের বিস্তার বন্ধ করার জন্য তাদের পরবর্তী শহরে কিছু জরুরি ভ্যাকসিন সরবরাহ করতে হয়েছিল। স্বল্প সময়ে সেখানে পৌঁছানোর জন্য টিকা নিয়ে কাকে যাওয়া উচিত?,Option 2,জিম,জেন,"To solve this problem, we first need to understand and compare the speeds of Jim and Jane to determine who can reach the next town the fastest.
+
+1. **Translation and Clarification**:
+   - The question: ""জিম ৪৬ সেমি/সেকেন্ড গতিতে দৌড়াতে পারত এবং তার বোন জেন ২০ মি/সেকেন্ড বেগে দৌড়াতে পারত।"" translates to ""Jim could run at a speed of 46 cm/second and his sister Jane could run at a speed of 20 m/second.""
+   - The task is to decide who should go to deliver some emergency vaccines to the next town to stop the spread of a dangerous virus, based on who can get there in the shortest time.
+
+2. **Speed Comparison**:
+   - To compare their speeds, we need to convert both speeds into the same units. Let's convert both into meters per second (m/s) because Jane's speed is already given in meters per second.
+   - Jim's speed is 46 cm/s. To convert centimeters to meters, we divide by 100 (since 1 meter = 100 centimeters). So, Jim's speed in m/s is 46 / 100 = 0.46 m/s.
+   - Jane's speed is given as 20 m/s.
+
+3. **Conclusion**:
+   - Comparing the speeds: 0.46 m/s (Jim) vs 20 m/s (Jane), it's clear that Jane is much faster than Jim.
+   - Therefore, for the task of delivering the vaccines in the shortest time possible, Jane should be the one to go.
+
+**Answer: Option 2**"
+166,একটি চিতা ৪৫ কিমি/ঘন্টা বেগে দৌড়ায় আর কুকুর ২ কিমি/ঘন্টা বেগে দৌড়ায় তাই চিতার কেমন সময় লাগবে?,Option 1,কম সময়,বেশী সময়,"1. Translation of the Bengali question and options into English:
+The question translates to: ""A cheetah runs at a speed of 45 km/h and a dog runs at a speed of 2 km/h, so how much time will the cheetah take?""
+The options are:
+Option 1: Less time
+Option 2: More time
+
+2. Analysis:
+Since the cheetah runs at a much higher speed (45 km/h) compared to the dog (2 km/h), it will cover the same distance in less time than the dog.
+
+3. Conclusion:
+Based on the speed comparison, the cheetah will take less time to cover a certain distance compared to the dog.
+
+**Answer: Option 1**"
+364,প্রথম কচ্ছপ এক সেকেন্ডে ৪০০ সেমি এবং দ্বিতীয় কচ্ছপ ৫ সেকেন্ডে ২ মিটার ভ্রমণ করে। কোনটি সমুদ্রে পৌঁছতে বেশি সময় নেবে যদি দুজনেই সমুদ্র সৈকতে হাঁটতে থাকে?,Option 2,প্রথম কচ্ছপ,দ্বিতীয় কচ্ছপ,"To solve this, let's first translate the question and options into English for clarity:
+
+1. Translate the Bengali question and options into English:
+   - Question: The first turtle travels 400 cm in one second and the second turtle travels 2 meters in 5 seconds. Which one will take more time to reach the sea if both of them keep walking towards the sea shore?
+   - Option 1: The first turtle
+   - Option 2: The second turtle
+
+2. Now, let's analyze the situation:
+   - The first turtle travels 400 cm in 1 second. To convert this into meters per second, we divide by 100 since 1 meter = 100 cm. So, the first turtle travels 4 meters in 1 second.
+   - The second turtle travels 2 meters in 5 seconds. To find the speed in meters per second, we divide the distance by the time, which gives us 2 / 5 = 0.4 meters per second.
+
+3. Comparing the speeds:
+   - The first turtle travels at 4 meters per second.
+   - The second turtle travels at 0.4 meters per second.
+
+Since speed is distance over time, the higher the speed, the less time it takes to cover the same distance. The first turtle is traveling at 4 meters per second, which is much faster than the second turtle's 0.4 meters per second. Therefore, if both are walking towards the sea shore, the second turtle, being slower, will take more time to reach the sea.
+
+**Answer: Option 2**"

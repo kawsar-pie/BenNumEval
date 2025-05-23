@@ -1,0 +1,2183 @@
+Q No.,Question,Answer,Model Response
+45,তাহসান দোকান থেকে ডজন প্রতি ১২০ টাকা দিয়ে আড়াই ডজন ডিম নিয়ে বাসায় গেল। বাসায় গিয়ে সে দেখল ৩ টা ডিম নষ্ট। তবে তাহসানের কত টাকা ক্ষতি হল?,৩০,"To solve this problem, we first need to translate it into English for clarity.
+
+Translation: Tahsan bought two and a half dozen eggs from a shop at 120 taka per dozen and went home. After going home, he saw that 3 eggs were damaged. However, how much money did Tahsan lose?
+
+Now, let's break down the problem:
+
+1. Tahsan bought 2.5 dozen eggs.
+2. The price per dozen eggs is 120 taka.
+3. To find the total cost of the eggs, we multiply the number of dozens by the price per dozen: 2.5 * 120 = 300 taka.
+4. Since 1 dozen equals 12 eggs, 2.5 dozen eggs equal 2.5 * 12 = 30 eggs.
+5. Out of 30 eggs, 3 eggs were damaged.
+6. The cost of one egg can be found by dividing the total cost by the total number of eggs: 300 / 30 = 10 taka per egg.
+7. Therefore, the loss due to the 3 damaged eggs is 3 * 10 = 30 taka.
+
+Answer: **30**"
+319,"সনি ১৭ বছর বয়সে সনির জন্মদিনে একটি প্রতিষ্ঠানকে ৮ হাজার টাকা দান করা শুরু করে। গতকাল, সনি ৭১ বছর বয়সী হয়। এখন পর্যন্ত সনি কত হাজার টাকা দান করেছে?",৪৪০,"To solve this problem, we first need to translate it into English for clarity:
+
+""Soni starts donating 8 thousand rupees to an institution on Soni's birthday at the age of 17. Yesterday, Soni became 71 years old. How many thousand rupees has Soni donated so far?""
+
+Now, let's solve the problem. Soni started donating at the age of 17 and has been donating until the age of 71. To find out how many years Soni has been donating, we subtract the starting age from the current age:
+
+71 (current age) - 17 (starting age) = 54 years
+
+Since Soni donates 8 thousand rupees every year, the total amount donated can be calculated by multiplying the number of years by the annual donation amount:
+
+54 years * 8 thousand rupees/year = 432 thousand rupees
+
+Therefore, the total amount donated by Soni is 432 thousand rupees.
+
+Answer: 432"
+30,রফিক দোকান থেকে ডিম প্রতি ৭ টাকা করে সাড়ে চার ডজন ডিম নিয়ে বাসায় গেল। তবে রফিকের কত টাকা খরচ হল?,৩৭৮,"To solve this problem, we first need to translate it into English for clarity.
+
+Translation: Rafiq went home from the store buying one and a half dozen eggs at 7 taka each. However, how much did Rafiq spend?
+
+Now, let's break down the problem. One dozen equals 12 eggs. So, one and a half dozen eggs would be 12 * 1.5 = 18 eggs. 
+
+Since each egg costs 7 taka, the total cost would be the number of eggs multiplied by the cost per egg, which is 18 * 7 = 126 taka.
+
+Therefore, Rafiq spent 126 taka.
+
+Answer: 126"
+325,তাসের ডেক থেকে ৪টি কালো কার্ড বের করা হয়েছে। অবশিষ্ট কালো কার্ডের সংখ্যা কত?,২২,"To solve this problem, we first need to understand the context and the information given.
+
+1. **Translation of the Problem**: The problem states that 4 black cards have been removed from a deck of cards. We are asked to find the number of black cards remaining.
+
+2. **Contextual Information**: A standard deck of cards contains 52 cards, with 26 of them being black (13 spades and 13 clubs) and 26 being red (13 hearts and 13 diamonds).
+
+3. **Calculating Remaining Black Cards**: If 4 black cards are removed from the deck, we subtract these from the total number of black cards originally in the deck.
+
+   - Original number of black cards = 26
+   - Number of black cards removed = 4
+   - Remaining number of black cards = Original number of black cards - Number of black cards removed
+   - Remaining number of black cards = 26 - 4 = 22
+
+**Answer: 22**"
+156,ব্রুকলিন প্রতি মাসে দাতব্য প্রতিষ্ঠানে ১৪৫৩ টাকা দান করে। এক বছরে তার মোট দানের হিসাব করুন।,১৭৪৩৬,"To calculate Brooklyn's total donation in a year, we first need to understand that there are 12 months in a year. 
+
+The problem states that Brooklyn donates 1453 taka every month. 
+
+So, to find the total donation in a year, we multiply the monthly donation amount by the number of months in a year:
+Total donation = Monthly donation * Number of months in a year
+Total donation = 1453 * 12
+
+Now, let's do the math:
+Total donation = 1453 * 12
+Total donation = 17436
+
+Therefore, Brooklyn's total donation in a year is 17436 taka.
+
+Answer: **17436**"
+20,আবির দোকান থেকে আড়াই ডজন ডিম নিয়ে বাসায় গেল। বাসায় গিয়ে সে দেখল ৩ টা ডিম নষ্ট। তবে আবিরের কাছে কয়টা ভাল ডিম আছে?,২৭,"To solve this problem, we first need to understand the information given. 
+
+1. Translate the Bengali problem into English for clarity:
+""Abir took two and a half dozen eggs from the store and went home. After reaching home, he found 3 eggs were bad. However, how many good eggs does Abir have?""
+
+2. Solution:
+First, we calculate the total number of eggs Abir took. Since 1 dozen equals 12, two and a half dozen equals 2.5 * 12 = 30 eggs.
+
+After finding 3 eggs were bad, the number of good eggs Abir has is 30 - 3 = 27.
+
+Therefore, Abir has 27 good eggs.
+
+Answer: 27"
+78,মিনা ৪ মিনিটে ২০০ মিটার হাঁটে। আধা ঘন্টায় সে কত মিটার হাটতে পারবে?,১৫০০,"To solve this problem, we first need to translate it into English for clarity:
+""Mina walks 200 meters in 4 minutes. How many meters can she walk in half an hour?""
+
+Now, let's break it down:
+1. First, we find out how many meters Mina walks per minute. Since she walks 200 meters in 4 minutes, we divide the distance by the time to get the speed per minute: 200 meters / 4 minutes = 50 meters per minute.
+
+2. Next, we need to find out how many minutes are in half an hour. Since there are 60 minutes in an hour, half an hour has 60 / 2 = 30 minutes.
+
+3. Finally, to find out how many meters Mina can walk in 30 minutes, we multiply her speed per minute by the number of minutes in half an hour: 50 meters/minute * 30 minutes = 1500 meters.
+
+Therefore, Mina can walk 1500 meters in half an hour.
+
+Answer: 1500"
+32,জামাল দোকান থেকে ডিম প্রতি ১০ টাকা করে সাড়ে ছয় হালি ডিম নিয়ে বাসায় গেল। তবে জামালের কত টাকা খরচ হল?,২৬০,"To find the solution, let's first translate the problem into English for clarity:
+
+""Jamal went home buying one and a half dozen eggs from the shop at 10 taka each. However, how much did Jamal spend?""
+
+Now, we need to calculate the total amount Jamal spent on eggs. One and a half dozen eggs is equivalent to 1.5 * 12 = 18 eggs. Since each egg costs 10 taka, the total amount spent can be calculated as:
+
+Total amount spent = Number of eggs * Cost per egg
+= 18 * 10
+= 180
+
+Therefore, Jamal spent a total of 180 taka on eggs.
+
+**Answer: 180**"
+240,একটি বর্ণমালা লিখতে আলেকজান্ডারের একটি কাগজের একটি শীট প্রয়োজন। স্বরবর্ণ গুলো লিখতে কয়টি কাগজের প্রয়োজন হয়?,১১,"To solve the problem, we first need to understand what it's asking for. The problem is about Alexander writing the alphabet on a sheet of paper and specifically asks how many sheets of paper are needed to write the vowels.
+
+1. **Translation**: The problem translates to ""Alexander needs a sheet of paper to write an alphabet. How many sheets of paper are needed to write the vowels?""
+
+2. **Understanding the Alphabet and Vowels**: The English alphabet consists of 26 letters, out of which 5 letters (A, E, I, O, U) are considered vowels in the basic definition. Sometimes, Y is also considered a vowel in certain contexts, but for simplicity, we'll stick to the basic 5 vowels.
+
+3. **Calculating Sheets Needed for Vowels**: Since Alexander needs one sheet of paper for the entire alphabet, and assuming each letter (regardless of being a vowel or consonant) requires the same amount of space, the question essentially asks for the proportion of the alphabet that are vowels.
+
+However, the question seems to imply a simplistic model where the entire alphabet requires one sheet, suggesting a direct count rather than a proportion. Given this interpretation, and assuming each vowel requires the same space as any other letter, and knowing there are 5 vowels (A, E, I, O, U) in the English alphabet:
+
+- If we consider the space for one alphabet (26 letters) equals one sheet, then the space for one letter would be 1/26 of a sheet.
+- For 5 vowels, it would be 5 * (1/26) = 5/26 of a sheet.
+
+Since the problem likely intends a more straightforward interpretation (given its simplistic nature), and it does not specify the size of the sheet or the writing, a direct numerical answer based on the provided information and typical interpretations of such problems would not follow the standard mathematical calculation but rather a logical deduction based on the given constraints.
+
+**Answer: 1**"
+361,লেভি বোর্ডে প্রতিটি স্বরবর্ণ লিখেছিলেন। যদি প্রতিটি স্বরবর্ণ ৩ বার লেখা হয়। বোর্ডে মোট কতটি বর্ণমালা লেখা ছিল?,৩৩,"To solve this problem, we first need to understand the information provided and then calculate the total number of alphabets written on the board.
+
+The problem in English translates to: ""Levi wrote each vowel on the board. If each vowel is written 3 times. How many alphabets were written in total on the board?""
+
+In the English alphabet, there are 5 vowels: A, E, I, O, U. 
+
+Since each vowel is written 3 times, we multiply the number of vowels by 3 to find the total number of alphabets written on the board.
+
+Total alphabets = Number of vowels * 3
+Total alphabets = 5 * 3
+Total alphabets = 15
+
+**Answer: 15**"
+26,রফিক দোকান থেকে ডিম প্রতি ১৪ টাকা করে আধা ডজন ডিম নিয়ে বাসায় গেল। বাসায় গিয়ে সে দেখল ৩ টা ডিম নষ্ট। তবে রফিকের কত টাকা খরচ হল?,৮৪,"To solve this problem, let's first translate it into English for clarity:
+
+""Rafiq went home from the shop buying half a dozen eggs at 14 taka each. After going home, he saw that 3 eggs were broken. However, how much did Rafiq spend?""
+
+Now, let's calculate the total amount spent by Rafiq. 
+First, we need to determine how many eggs Rafiq bought. Since he bought half a dozen eggs, we know that 1 dozen = 12 eggs. Therefore, half a dozen eggs = 12 / 2 = 6 eggs.
+
+The cost of each egg is 14 taka. So, the total cost = number of eggs * cost per egg = 6 * 14 = 84 taka.
+
+The fact that 3 eggs were broken does not affect the amount spent by Rafiq, as he had already paid for the eggs.
+
+Therefore, the total amount spent by Rafiq is 84 taka.
+
+Answer: 84"
+185,"একটি গাড়ি পার্কিং লটে, গ্রেসন লক্ষ্য করেছেন যে ৪৮টি গাড়ির চাকা রয়েছে। পার্কিং লটে গাড়ির সংখ্যা কতটি?",১২,"To solve this problem, let's first translate it into English for clarity:
+""Greeson noticed that there are 48 car wheels in a parking lot. How many cars are there in the parking lot?""
+
+Now, let's solve the problem. Each car has 4 wheels. To find the number of cars, we need to divide the total number of wheels by 4.
+
+Number of wheels = 48
+Number of wheels per car = 4
+
+Number of cars = Number of wheels / Number of wheels per car
+= 48 / 4
+= 12
+
+Therefore, the number of cars in the parking lot is 12.
+
+**Answer: 12**"
+212,"একটি মেশিন ডালপালা কাটছে এবং আপেল প্রক্রিয়াজাত করছে। আমি যদি ৬ ঘন্টা পরে ২০৪টি ডালপালা দেখতে পাই, কতগুলি আপেল প্রক্রিয়াজাত করা হয়েছে?",২০৪,"To solve this, let's first translate the given problem into English for clarity:
+
+""Translation: A machine is cutting branches and processing apples. If I see 204 branches after 6 hours, how many apples have been processed?""
+
+Now, let's break down the information given:
+
+1. The machine cuts branches and processes apples.
+2. After 6 hours, 204 branches have been cut.
+
+However, there's no direct information provided about the rate at which the machine cuts branches or processes apples, nor is there a comparison or correlation between the number of branches cut and the number of apples processed. 
+
+Given the information, we cannot directly calculate the number of apples processed because there's no basis for comparison or conversion between branches cut and apples processed. The problem as stated lacks specific details necessary for determining the number of apples processed based on the number of branches cut.
+
+Therefore, without additional data such as the rate of processing for both branches and apples, or a direct relationship between the two, we cannot accurately determine the number of apples that have been processed.
+
+**Answer: 0**"
+7,কপিরাইট সমস্যার কারণে এক ঘণ্টার মুভির ১৫ মিনিটের একটি দৃশ্য কাটা হয়েছে। সিনেমার চূড়ান্ত দৈর্ঘ্য কত (মিনিটের মধ্যে)?,৪৫,"To solve this problem, we first need to translate it into English for clarity:
+""The movie of one hour has a scene of 15 minutes cut due to copyright issues. What is the final length of the movie (in minutes)?""
+
+Now, let's solve the problem:
+One hour is equal to 60 minutes. Since a 15-minute scene was cut, we subtract 15 minutes from the original length of the movie:
+60 minutes - 15 minutes = 45 minutes
+
+Therefore, the final length of the movie is 45 minutes.
+
+Answer: 45"
+105,একটি স্টিল মিলে এক মাসে ২৪০০০ মেট্রিকটন রড তৈরি হয়। ঐ মিলে দৈনিক কী পরিমাণ রড তৈরী হয়?,৮০০,"To find the daily production of rods, we first need to understand the total production in a month and then divide it by the number of days in that month. 
+
+1. Translate the Bengali problem into English for clarity:
+""The problem states that in a steel mill, 24,000 metric tons of rods are produced in a month. We need to find out how much rod is produced daily in that mill.""
+
+2. Since a month can have 28, 29, 30, or 31 days, we'll assume an average month for simplicity, which is often taken as 30 days for such calculations.
+
+Total production in a month = 24,000 metric tons
+Number of days in the month (for calculation purposes) = 30 days
+
+Daily production = Total production in a month / Number of days in the month
+Daily production = 24,000 metric tons / 30 days
+Daily production = 800 metric tons per day
+
+Therefore, the daily production of rods in the mill is 800 metric tons.
+
+Answer: **800**"
+326,"মাসের শেষে, মেডেলিন তার মে মাসের খরচ হিসাব করছিলেন। তিনি দেখতে পান যে তিনি পিজ্জার জন্য মোট ৪৬৫ টাকা ব্যয় করেছেন। যদি ম্যাডেলিন প্রতিদিন সমান সংখ্যক পিজ্জা খায়, তবে সে প্রতিদিন কত টাকার পিজ্জা খায়?",১৫,"To solve this problem, we first need to translate it into English for clarity.
+
+Translation: At the end of the month, Madeline was calculating her expenses for the month of May. She found that she spent a total of 465 taka on pizzas. If Madeline eats the same number of pizzas every day, then how much does she spend on pizzas per day?
+
+Now, let's solve the problem. We know that May has 31 days. To find out how much Madeline spends on pizzas per day, we need to divide the total amount she spent on pizzas by the number of days in May.
+
+Total amount spent on pizzas = 465 taka
+Number of days in May = 31
+
+Amount spent per day = Total amount spent on pizzas / Number of days in May
+= 465 / 31
+= 15
+
+Therefore, Madeline spends 15 taka on pizzas per day.
+
+Answer: **15**"
+82,"তিনটি ভিন্ন রং এর ঘণ্টা আছে। লাল রং এর ঘন্টা ১৮ মিনিট পরপর, হলুদ রং এর ঘণ্টা ১৫ মিনিট পরপর এবং সবুজ রং এর ঘন্টা ১২ মিনিট পরপর বাজে। ঘণ্টাগুলো সন্ধ্যা ৬টায় একসাথে বাজলে, রাত কয়টায় পুনরায় কখন একসাথে বাজবে ?",৯,"To find the solution, we first need to translate the problem into English for clarity:
+
+""There are three bells of different colors. The red bell rings every 18 minutes, the yellow bell rings every 15 minutes, and the green bell rings every 12 minutes. If the bells rang together at 6 PM, when will they ring together again at night?""
+
+To find the time when the bells will ring together again, we need to find the least common multiple (LCM) of 18, 15, and 12 minutes.
+
+First, let's break down the numbers into their prime factors:
+- 18 = 2 * 3^2
+- 15 = 3 * 5
+- 12 = 2^2 * 3
+
+Now, to find the LCM, we take the highest power of each prime number found in the factorizations:
+- The highest power of 2 is 2^2 (from 12)
+- The highest power of 3 is 3^2 (from 18)
+- The highest power of 5 is 5 (from 15)
+
+So, the LCM = 2^2 * 3^2 * 5 = 4 * 9 * 5 = 180 minutes.
+
+Since there are 60 minutes in an hour, 180 minutes is equal to 3 hours.
+
+Therefore, if the bells rang together at 6 PM, they will ring together again at 9 PM.
+
+Answer: 9"
+307,অ্যাঞ্জেল বোর্ডে প্রতিটি ইংরেজী স্বরবর্ণ লিখেছিলেন। যদি প্রতিটি স্বরবর্ণ ৪ বার লেখা হয়। বোর্ডে মোট কতটি বর্ণমালা লেখা ছিল?,২০,"To solve the problem, we first need to understand the given information and then calculate the total number of alphabets written on the board.
+
+1. Translation of the problem:
+Angel wrote each English vowel on the board. If each vowel is written 4 times, how many alphabets were written on the board in total?
+
+2. Solution:
+There are 5 English vowels: A, E, I, O, U. 
+Since each vowel is written 4 times, we can calculate the total number of alphabets written by multiplying the number of vowels by the number of times each vowel is written.
+Total alphabets = Number of vowels * Number of times each vowel is written
+Total alphabets = 5 * 4
+Total alphabets = 20
+
+Answer: **20**"
+288,জামশেদের পকেটে তাস খেলার ৫০টি সম্পূর্ণ ডেক রয়েছে। তার মোট কয়টি ইস্কাবন আছে?,৬৫০,"To find the solution, we first need to understand the components of a standard deck of cards and then calculate the total number of cards Jamshed has.
+
+1. **Translation of the Problem:**
+The problem states that Jamshed has 50 complete decks of playing cards in his pocket. We need to find out how many cards he has in total.
+
+2. **Calculation:**
+A standard deck of playing cards contains 52 cards. Since Jamshed has 50 complete decks, we can calculate the total number of cards by multiplying the number of decks by the number of cards in each deck:
+Total number of cards = Number of decks * Number of cards per deck
+Total number of cards = 50 * 52
+Total number of cards = 2600
+
+Therefore, Jamshed has a total of 2600 cards.
+
+**Answer: 2600**"
+77,একটি কারখানায় ৫ দিনে ২৪৫০টি মোটরসাইকেল তৈরি হয়। ৪ সপ্তাহে ওই কারখানায় কতটি মোটরসাইকেল তৈরি হবে।,১৩৭২০,"To solve this problem, we first need to understand the production rate of the factory and then calculate the total production over a period of 4 weeks.
+
+1. The problem states that in a factory, 2450 motorcycles are produced in 5 days. 
+
+2. We need to find out how many motorcycles will be produced in 4 weeks. Since there are 7 days in a week, 4 weeks would have 4 * 7 = 28 days.
+
+3. First, let's determine the daily production rate of the factory. If 2450 motorcycles are produced in 5 days, then the daily production rate is 2450 / 5 = 490 motorcycles per day.
+
+4. Now, we calculate the total production in 28 days. The production in 28 days would be 490 * 28 = 13720 motorcycles.
+
+Therefore, in 4 weeks, the factory will produce 13720 motorcycles.
+
+**Answer: 13720**"
+328,ভোর ৫টায় বোস্টন থেকে যাত্রা শুরু করে সন্ধ্যা ৮টায় শিকাগো পৌঁছাই। আমি কত ঘন্টা ভ্রমণ করেছি?,১৫,"To solve this problem, we first need to understand the duration of the trip from Boston to Chicago.
+
+1. Translate the Bengali problem into English for clarity:
+""The trip started at 5 am from Boston and reached Chicago at 8 pm. How many hours did I travel?""
+
+2. Calculate the duration of the trip:
+The trip started at 5 am and ended at 8 pm. To find the total hours traveled, we calculate the difference between the end time and the start time.
+
+From 5 am to 12 pm (noon) is 7 hours.
+From 12 pm to 8 pm is an additional 8 hours.
+
+So, the total duration of the trip is 7 hours + 8 hours = 15 hours.
+
+Therefore, the final numerical answer is:
+**Answer: 15**"
+310,"অনিস প্রথমে বাংলা ব্যঞ্জনবর্ণ শেখার সাথে শুরু করে। অনিস যদি একটি বর্ণমালা শিখতে ৫ দিন সময় নেয়, তাহলে অনিসের সব ব্যঞ্জনবর্ণ শেখা শেষ করতে কতদিন লাগবে?",১৯৫,"To solve this problem, we first need to understand the context and the information provided in the question.
+
+1. **Translation of the Problem**: Anis starts by learning the Bengali consonants. If Anis takes 5 days to learn one alphabet, how many days will it take Anis to finish learning all the consonants?
+
+2. **Identifying the Number of Bengali Consonants**: The Bengali alphabet consists of 50 letters, out of which 39 are consonants (ব্যঞ্জনবর্ণ). 
+
+3. **Calculating the Total Time Required**: Given that Anis takes 5 days to learn one alphabet, to learn all 39 consonants, Anis would need 39 * 5 days.
+
+4. **Final Calculation**: 
+   - Total number of consonants = 39
+   - Days to learn one consonant = 5
+   - Total days to learn all consonants = 39 * 5 = 195 days
+
+Therefore, Anis would need 195 days to learn all the Bengali consonants.
+
+**Answer: 195**"
+221,"ওয়েন একজন ডাক্তার, যিনি ৩:২৮ টায় অপারেশন থিয়েটারে গিয়েছিলেন ৩ ঘন্টা দীর্ঘ অপারেশন করতে। ওয়েনের বোন ওয়েনের সাথে দেখা করতে এসেছিল ৫:৩৬ টায়, ওয়েনের সাথে দেখা করার জন্য তাকে কত মিনিট অপেক্ষা করতে হয়েছিল?",৫২,"To solve this problem, let's first understand the timeline.
+
+The problem states: ""ওয়েন একজন ডাক্তার, যিনি ৩:২৮ টায় অপারেশন থিয়েটারে গিয়েছিলেন ৩ ঘন্টা দীর্ঘ অপারেশন করতে। ওয়েনের বোন ওয়েনের সাথে দেখা করতে এসেছিল ৫:৩৬ টায়, ওয়েনের সাথে দেখা করার জন্য তাকে কত মিনিট অপেক্ষা করতে হয়েছিল?""
+
+Translated into English, the problem is: ""Wown is a doctor who went to the operating theater at 3:28 to perform a 3-hour long operation. Wown's sister came to meet Wown at 5:36, how many minutes did she have to wait to meet Wown?""
+
+Now, let's calculate the waiting time.
+
+The operation started at 3:28 and lasted for 3 hours, so it ended at 3:28 + 3 hours = 6:28.
+
+Wown's sister arrived at 5:36. To find the waiting time, we subtract the arrival time from the operation end time.
+
+The waiting time is from 5:36 to 6:28, which can be calculated as follows:
+6:28 - 5:36 = 52 minutes.
+
+So, Wown's sister had to wait for 52 minutes to meet Wown.
+
+Answer: **52**"
+23,রফিক দোকান থেকে ডজন প্রতি ১৪৪ টাকা দিয়ে আড়াই ডজন ডিম নিয়ে বাসায় গেল। বাসায় গিয়ে সে দেখল ৪ টা ডিম নষ্ট। তবে রফিকের কত টাকা খরচ হল?,৩৬০,"To solve this! 
+
+First, let's translate the problem into English for better understanding:
+""Rafiq went home after buying two and a half dozen eggs from the store at 144 taka per dozen. After going home, he found 4 eggs were broken. However, how much did Rafiq spend?""
+
+Now, let's break it down:
+- The price per dozen eggs is 144 taka.
+- Rafiq bought 2.5 dozen eggs, so the total cost is 2.5 * 144 = 360 taka.
+- The number of broken eggs does not affect the total cost, as Rafiq has already paid for the eggs.
+
+Therefore, the amount Rafiq spent is the total cost of the eggs, regardless of the condition they were in when he got home.
+
+**Answer: 360**"
+366,"জোসেফ ভেগাসে বেড়াতে যাচ্ছে। যেহেতু পোকার এবং অন্যান্য তাসের খেলা আজকাল জনপ্রিয় হয়ে উঠেছে, জোসেফ যাত্রার জন্য ৪টি তাসের ডেক রাখার সিদ্ধান্ত নিয়েছে। তার মোট কতটি কার্ড আছে?",২০৮,"To solve this problem, we first need to understand the composition of a standard deck of cards and then calculate the total number of cards Joseph has.
+
+1. **Translation of the Problem:**
+Joseph is going to Vegas. Since poker and other card games have become popular these days, Joseph has decided to bring 4 decks of cards for the trip. How many cards does he have in total?
+
+2. **Understanding a Standard Deck of Cards:**
+A standard deck of cards contains 52 cards. This includes:
+- 4 suits (hearts, diamonds, clubs, and spades), each with 13 cards (Ace through 10, Jack, Queen, King).
+
+3. **Calculating Total Cards:**
+Since Joseph has 4 decks of cards, we multiply the number of cards in one deck by the number of decks he has.
+- Cards in one deck = 52
+- Number of decks = 4
+- Total cards = 52 * 4 = 208
+
+**Answer: 208**"
+119,"পার্কার প্রতিদিন ৮ ঘন্টা ঘুমায়। আজ যদি তিনি সকাল ৯টায় ঘুম থেকে ওঠেন, তাহলে কতক্ষণে তিনি ঘুমোতেন?",১০,"To solve this problem, let's break it down step by step.
+
+1. **Translation of the Problem:**
+   The problem states that Parker sleeps 8 hours every day. If he woke up today at 9:00 AM, we need to find out at what time he went to sleep.
+
+2. **Solution:**
+   To find out at what time Parker went to sleep, we need to subtract the number of hours he sleeps from his wake-up time.
+   
+   Wake-up time: 9:00 AM
+   Sleep duration: 8 hours
+   
+   So, if he woke up at 9:00 AM after sleeping for 8 hours, we subtract 8 hours from 9:00 AM to find his bedtime.
+   
+   9:00 AM - 8 hours = 1:00 AM
+   
+   Therefore, Parker went to sleep at 1:00 AM.
+
+**Answer: 1**"
+349,যদি একটি বর্গক্ষেত্রের প্রতিটি পাশে বেড়া দিতে খরচ হয় ৬৯ টাকা। বেড়ায় মোট কত খরচ হয় বের কর।,২৭৬,"To solve this problem, let's first translate it into English for clarity:
+""If it costs 69 taka to fence each side of a square, find the total cost of fencing.""
+
+Now, let's break down the problem. Since it's a square, all sides are equal. The cost of fencing each side is given as 69 taka. 
+
+A square has 4 equal sides, so the total cost of fencing the square would be the cost of fencing one side multiplied by the number of sides.
+
+Total cost = cost per side * number of sides
+Total cost = 69 * 4
+Total cost = 276
+
+Therefore, the total cost of fencing the square is 276 taka.
+
+Answer: **276**"
+377,অ্যামেলিয়া ৬টি অভিন্ন ঘনকাকৃতির বস্তুর সমস্ত বাইরের তল এঁকেছেন। অ্যামেলিয়ার আঁকা তলের মোট সংখ্যা কত?,৩৬,"To solve this problem, we first need to understand the structure of a cube and how many faces each cube has. 
+
+1. Translation of the problem: Amelia has painted all the outer faces of 6 identical cubic objects. How many faces has Amelia painted in total?
+
+2. Solution: Each cube has 6 faces. However, when these cubes are placed together to form a larger cube (since they are identical and the problem implies they are joined in such a way), some of the faces will be inner faces, not outer faces. 
+
+For 6 cubes arranged in a cubic shape (2x3 or any similar configuration), the total number of outer faces can be calculated by first finding the total number of faces if all cubes were separate and then subtracting the faces that become inner faces when they are joined.
+
+- Total faces for 6 separate cubes = 6 cubes * 6 faces/cube = 36 faces
+- When the cubes are arranged to form a larger solid, the faces that touch each other become inner faces. For a 2x3 arrangement (or any similar cubic arrangement), there are 5 inner faces touching each other in a line (for the 3 cubes in a line, 2 touches * 2 lines = 4, plus one touch between the two lines of 3 cubes, which is a simplification and may vary depending on exact configuration). However, considering the cubes are arranged to minimize the number of exposed faces (which would naturally happen in a cubic or rectangular solid arrangement), we'll consider a configuration that minimizes inner faces exposed.
+
+A more accurate approach: 
+- Consider the cubes forming a solid shape, such as a 2x3 rectangular solid. The outer faces of this solid would be:
+  - The two ends (2 faces * 3 cubes in each face = 6 faces, but since these faces are on the outside, they indeed count towards the outer faces, though each face of a cube contributes to these counts)
+  - The top and bottom (2 faces * 2x3 = 6 faces for the top and 6 for the bottom, but again, this overcounts because it doesn't account for shared edges)
+  - The sides (there are 4 sides, each with 2x3 or 3x2 faces, which actually simplifies to counting the faces correctly)
+
+To correct and simplify the calculation:
+- For a rectangular solid made of 6 cubes (in a 2x3 configuration), the total outer faces are the faces"
+116,জেডেন তার ছেলেকে বলে যে আকাশে মোট ১২ টি পাখির ডানা থাকলে সেখানে কতটি পাখি থাকা উচিত?,৬,"To solve this problem, let's first translate it into English for clarity:
+""Jaden tells his son that if there are a total of 12 bird wings in the sky, how many birds should be there?""
+
+Now, we know that each bird has 2 wings. Therefore, to find the number of birds, we need to divide the total number of wings by 2.
+
+Total number of wings = 12
+Number of wings per bird = 2
+
+Number of birds = Total number of wings / Number of wings per bird
+= 12 / 2
+= 6
+
+So, there should be 6 birds in the sky.
+
+**Answer: 6**"
+133,"মাস শেষে সাদি তার এপ্রিল মাসের খরচ হিসাব করছিলেন। তিনি দেখতে পান যে তিনি বার্গারের জন্য মোট ৪২০ টাকা ব্যয় করেছেন। যদি সাদি প্রতিদিন সমান সংখ্যক বার্গার খায়, তবে সে প্রতিদিন কত টাকার বার্গার খায়?",১৪,"To solve this problem, we first need to translate it into English for better understanding.
+
+Translation: At the end of the month, Sadi was calculating his expenses for April. He found that he spent a total of 420 taka on burgers. If Sadi eats the same number of burgers every day, how much does he spend on burgers per day?
+
+Now, let's solve the problem. Since April has 30 days, we can calculate Sadi's daily expenditure on burgers by dividing the total expenditure by the number of days.
+
+Total expenditure on burgers = 420 taka
+Number of days in April = 30
+
+Daily expenditure on burgers = Total expenditure on burgers / Number of days in April
+= 420 / 30
+= 14
+
+Therefore, Sadi spends 14 taka on burgers per day.
+
+Answer: **14**"
+233,"পূর্ব উপকূল থেকে পশ্চিম উপকূলে একটি ৩২ ঘন্টা ট্রেন আছে। ট্রেনটি যদি শনিবার পূর্ব উপকূল থেকে খুব ভোরে যাত্রা শুরু করে, তাহলে কোন দিন গন্তব্যে পৌঁছাবে?",রবিবার,"To solve this problem, we first need to translate it into English for clarity:
+
+""Translation: There is a 32-hour train from the East Coast to the West Coast. If the train starts its journey at dawn on Saturday from the East Coast, on which day will it reach its destination?""
+
+Now, let's break down the solution:
+
+- The train travels for 32 hours.
+- It starts on Saturday at dawn.
+
+Since 24 hours make a day, after 24 hours, it will be Sunday. The remaining 8 hours will then be added to Sunday. 
+
+So, if the train starts at dawn (let's say around 5 or 6 AM for simplicity) on Saturday and travels for 32 hours, it will reach its destination on Sunday, 8 hours after dawn. 
+
+Given that a typical dawn time is around 5-6 AM, adding 8 hours to this would place the arrival time at around 1-2 PM on Sunday.
+
+Therefore, the train will reach its destination on Sunday.
+
+Answer: Sunday"
+404,"মাসের শেষের দিকে, ক্লেয়ার মার্চের তার খরচ হিসাব করছিলেন। তিনি দেখতে পান যে তিনি ভাত খেতে মোট ৩৪১ টাকা ব্যয় করেছেন। তিনি প্রতিদিন কত টাকার ভাত খেয়েছিলেন?",১১,"To find the daily food expenses of Clare, we first need to know the number of days in March. March has 31 days.
+
+The total amount spent on food in March is 341 Tk.
+
+So, to calculate the daily food expenses, we divide the total amount by the number of days:
+Daily food expenses = Total amount spent on food / Number of days
+= 341 Tk / 31 days
+= 11 Tk per day.
+
+Therefore, Clare spent 11 Tk per day on food.
+
+Answer: 11"
+49,তাহসান দোকান থেকে ১৩২ টাকা দিয়ে এক ডজন ডিম নিয়ে বাসায় গেল। বাসায় গিয়ে সে দেখল ৩ টা ডিম নষ্ট। তবে তাহসানের কত টাকা ক্ষতি হল?,৩৩,"To solve this problem, we first need to understand the cost per egg and then calculate the loss incurred by Tahsan due to the broken eggs.
+
+1. Translation of the problem:
+Tahsan went home from the shop after buying a dozen eggs for 132 taka. After reaching home, he found 3 eggs were broken. However, how much money did Tahsan lose?
+
+2. Solution:
+First, let's find out the cost of one egg. Since Tahsan bought a dozen eggs (12 eggs) for 132 taka, the cost per egg can be calculated as follows:
+Cost per egg = Total cost / Number of eggs
+Cost per egg = 132 taka / 12 eggs
+Cost per egg = 11 taka per egg
+
+Now, we know that 3 eggs were broken. So, the total loss incurred by Tahsan can be calculated by multiplying the number of broken eggs by the cost per egg:
+Total loss = Number of broken eggs * Cost per egg
+Total loss = 3 eggs * 11 taka per egg
+Total loss = 33 taka
+
+Therefore, Tahsan lost 33 taka due to the broken eggs.
+
+Answer: **33**"
+186,আইজ্যাক একটি নিবন্ধ পড়ছেন যা বলছে প্রতি শতাব্দীতে তাপমাত্রা ৪ ইউনিট বাড়ছে। ১৬০০ বছরে তাপমাত্রার কী পরিবর্তন হবে?,৬৪,"To solve this problem, we first need to translate it into English for clarity:
+
+""Isaac is reading an article that says the temperature is increasing by 4 units per century. What will be the change in temperature in 1600 years?""
+
+Given that there are 100 years in a century, we can calculate the number of centuries in 1600 years as follows:
+1600 years / 100 years per century = 16 centuries
+
+Since the temperature increases by 4 units per century, the total increase in temperature in 1600 years will be:
+16 centuries * 4 units per century = 64 units
+
+Therefore, the change in temperature in 1600 years will be an increase of 64 units.
+
+Answer: 64"
+318,"ভিক্টোরিয়া একটি প্রদর্শনীতে রাখা সমস্ত বাণিজ্যিক বিমানের ডানা গণনা করেছিল। মোট ডানা ৫০টি হলে, কতটি প্লেন ছিল?",২৫,"To solve the problem, let's first translate it into English for clarity:
+""Victoria counted the wings of all the commercial airplanes displayed in an exhibition. If the total number of wings is 50, how many planes were there?""
+
+Since each airplane has 2 wings, we can calculate the total number of airplanes by dividing the total number of wings by 2.
+
+Number of wings = 50
+Number of wings per airplane = 2
+
+Number of airplanes = Total number of wings / Number of wings per airplane
+= 50 / 2
+= 25
+
+Therefore, the number of airplanes is 25.
+
+Answer: 25"
+1,করিম একজন ১৪ বছরের ছেলে। তার দুটি হাতে মোট কতটি আঙুল?,১০,"To solve this problem, we first need to translate the Bengali text into English for clarity.
+
+Translation: Karim is a 14-year-old boy. How many fingers does he have in total on both hands?
+
+Now, to solve this, we consider the basic anatomy of a human hand. Each hand has 5 fingers (thumb, index finger, middle finger, ring finger, and little finger). Since Karim, like any normal human being, has two hands, we calculate the total number of fingers as follows:
+
+Total fingers = Number of fingers on one hand * Number of hands
+Total fingers = 5 * 2
+Total fingers = 10
+
+Therefore, Karim has a total of 10 fingers on both hands.
+
+Answer: 10"
+211,একটি চকলেটের দাম ২ টাকা। ক্রিসমাসের সময় খরচ মূল্যে ৫৭ পয়সার ছাড় ছিল। চকোলেটের মূল্য কত টাকা?,১.৪৩,"To solve this problem, we first need to understand the given information and then proceed with the necessary calculations.
+
+1. Translation of the problem:
+""The price of a chocolate is 2 taka. During Christmas, there was a discount of 57 paise at the cost price. What is the cost price of the chocolate?""
+
+2. Solution:
+First, we need to convert the discount from paise to taka, knowing that 1 taka = 100 paise.
+- Discount = 57 paise = 57 / 100 = 0.57 taka.
+
+The selling price (SP) of the chocolate is 2 taka, and there was a discount of 0.57 taka on the cost price (CP). We can express this relationship as:
+- SP = CP - Discount
+- 2 = CP - 0.57
+
+To find the cost price (CP), we rearrange the equation:
+- CP = SP + Discount
+- CP = 2 + 0.57
+- CP = 2.57 taka
+
+Therefore, the cost price of the chocolate is 2.57 taka.
+
+Answer: **2.57**"
+197,ইথানের একটি কাজ আছে যা তাকে প্রতি ঘন্টায় ১৮ টাকা দেয়। তিনি দিনে ৮ ঘন্টা এবং সপ্তাহে ৫ দিন কাজ করেন। ৫ সপ্তাহে ইথান কত পাবে?,৩৬০০,"To find out how much Ethan will earn in 5 weeks, we first need to calculate his daily earnings, then his weekly earnings, and finally his earnings over 5 weeks.
+
+1. **Daily Earnings**: Ethan earns 18 dollars per hour and works 8 hours a day. So, his daily earnings are 18 * 8 = 144 dollars per day.
+
+2. **Weekly Earnings**: Since Ethan works 5 days a week, his weekly earnings are 144 * 5 = 720 dollars per week.
+
+3. **Earnings over 5 Weeks**: To find out how much Ethan will earn in 5 weeks, we multiply his weekly earnings by the number of weeks. So, 720 * 5 = 3600 dollars.
+
+**Answer: 3600**"
+38,রফিক দোকান থেকে ডিম প্রতি ১০ টাকা করে সাড়ে ছয় ডজন ডিম নিয়ে বাসায় গেল। তবে রফিকের কত টাকা খরচ হল?,৭৮০,"To find the total cost incurred by Rafiq, we first need to understand the quantity of eggs he purchased and the price per unit.
+
+1. Translation of the problem: Rafiq went home buying one and a half dozen eggs from the store at 10 taka per egg. However, how much did Rafiq spend?
+
+2. Calculation:
+- One dozen equals 12 eggs. Therefore, one and a half dozen eggs equal 1.5 * 12 = 18 eggs.
+- The cost per egg is 10 taka.
+- To find the total cost, we multiply the number of eggs by the cost per egg: 18 eggs * 10 taka/egg = 180 taka.
+
+**Answer: 180**"
+89,(২ ঘণ্টা ৪৫ মিনিট ) + ( ১ ঘণ্টা ৫২ মিনিট ) = কত মিনিট?,২৭৭,"To solve this problem, we first need to translate it into English for clarity:
+""The problem is asking for the sum of 2 hours 45 minutes and 1 hour 52 minutes in minutes.""
+
+Now, let's break down the solution:
+1. Convert 2 hours 45 minutes into minutes: 2 hours * 60 minutes/hour = 120 minutes, adding 45 minutes gives 120 + 45 = 165 minutes.
+2. Convert 1 hour 52 minutes into minutes: 1 hour * 60 minutes/hour = 60 minutes, adding 52 minutes gives 60 + 52 = 112 minutes.
+3. Sum the two values: 165 minutes + 112 minutes = 277 minutes.
+
+Since there are 60 minutes in an hour, we can also express this in hours and minutes for completeness, but the question asks for the total in minutes.
+
+Answer: **277**"
+83,আজ আমি সকাল ১০ঃ২০ টায় এ স্কুলে যাব বলে বাড়ি থেকে বের হয়েছি। বিকাল ৪ঃ২০ টায় এ বাড়ি ফিরে এলাম। আজ আমি কত ঘন্টা বাড়ির বাহিরে ছিলাম হিসাব করি।,৬,"To solve this problem, we first need to translate it into English for clarity.
+
+Translation: Today, I left home at 10:20 AM to go to school and returned home at 4:20 PM. I need to calculate how many hours I was outside my home.
+
+Now, let's solve the problem. To find out how many hours I was outside, we need to subtract the time I left home from the time I returned home.
+
+Time left home: 10:20 AM
+Time returned home: 4:20 PM
+
+First, convert both times into a 24-hour clock for easier calculation:
+- 10:20 AM becomes 10:20
+- 4:20 PM becomes 16:20
+
+Now, calculate the difference:
+16:20 - 10:20 = 6 hours
+
+So, I was outside my home for 6 hours.
+
+Answer: 6"
+190,একটি খামারে ৮টি পশু রয়েছে। কেউ হাঁস আবার কেউ কুকুর। মোট প্রাণীদের ২৪টি পা রয়েছে। হাঁসের সংখ্যা কত?,৪,"To solve this problem, let's first translate it into English for clarity:
+
+""There are 8 animals on a farm. Some are ducks and some are dogs. The total number of legs of all the animals is 24. How many ducks are there?""
+
+Now, let's denote the number of ducks as D and the number of dogs as G. We know that:
+1. The total number of animals is 8, so D + G = 8.
+2. Ducks have 2 legs and dogs have 4 legs. The total number of legs is 24, so 2D + 4G = 24.
+
+We can simplify the second equation by dividing everything by 2, getting:
+D + 2G = 12.
+
+Now, we can subtract the first equation from this one to find G:
+(D + 2G) - (D + G) = 12 - 8
+G = 4.
+
+Now that we know there are 4 dogs, we can substitute this back into the first equation to find D:
+D + G = 8
+D + 4 = 8
+D = 4
+
+Therefore, there are 4 ducks.
+
+Answer: **4**"
+276,রহিমের তাস খেলার ৩টি সম্পূর্ণ ডেক রয়েছে। তার মোট কয়টি টেক্কা আছে?,১২,"1. Translation of the problem: Rahim has 3 complete decks of playing cards. How many cards does he have in total?
+
+A standard deck of playing cards contains 52 cards. Since Rahim has 3 complete decks, we can find the total number of cards by multiplying the number of decks by the number of cards in a standard deck.
+
+2. Solution: Total number of cards = Number of decks * Number of cards in a standard deck
+Total number of cards = 3 * 52
+Total number of cards = 156
+
+Answer: **156**"
+258,কুপার এবং অড্রে তিন ঘন্টার মুভি দেখতে শুরু করলেন। তারা ঠিক মাঝপথে সিনেমাটি বিরতি দেয়। বাকি মুভি দেখতে আর কত মিনিট লাগবে?,৯০,"To solve this problem, let's first understand the scenario. 
+
+1. Translate the Bengali problem into English for clarity:
+The problem states that Cooper and Audrey started watching a three-hour movie. They paused the movie exactly halfway through. We need to find out how many more minutes it will take to watch the rest of the movie.
+
+2. Solve the problem:
+A three-hour movie is 180 minutes long (since 1 hour = 60 minutes). 
+If they paused the movie exactly halfway through, they have already watched half of the movie, which is 180 / 2 = 90 minutes.
+Therefore, the remaining time to watch the rest of the movie is also 90 minutes.
+
+Answer: **90**"
+406,"৪:১২ টায় কাদের এর ল্যাপটপ সম্পূর্ণরূপে চার্জ হওয়ার পর, কাদের একটি ৭ ঘন্টা সিরিজ দেখা শুরু করে, কাদের সিনেমা দেখতে থাকে যতক্ষণ না কাদের এর ল্যাপটপের ব্যাটারিটি ১০:৪৩ pm এ সম্পূর্ণভাবে চার্জ শেষ হয়ে যায়। কাদেরের কত মিনিট মুভি দেখার বাকি আছে?",২৯,"To solve this problem, we first need to understand the timeline of events and the total duration of the movie series Kader is watching.
+
+1. **Translation of the Problem:** At 4:12 pm, after Kader's laptop is fully charged, Kader starts watching a 7-hour series. Kader continues watching the movie until Kader's laptop's battery is completely drained at 10:43 pm. How many minutes of the movie are left for Kader to watch?
+
+2. **Calculating the Total Viewing Time:** 
+   - **Start Time:** 4:12 pm
+   - **End Time:** 10:43 pm
+   - To find the duration Kader watched the movie, we subtract the start time from the end time.
+   - From 4:12 pm to 10:43 pm is a duration of 6 hours and 31 minutes.
+
+3. **Converting Viewing Time to Minutes:**
+   - 6 hours = 6 * 60 = 360 minutes
+   - Adding the 31 minutes, we get 360 + 31 = 391 minutes.
+
+4. **Total Duration of the Movie Series:**
+   - The series is 7 hours long, which in minutes is 7 * 60 = 420 minutes.
+
+5. **Calculating the Remaining Time:**
+   - To find out how many minutes of the movie are left, we subtract the viewing time from the total duration of the series.
+   - Remaining time = Total duration - Viewing time = 420 minutes - 391 minutes = 29 minutes.
+
+**Answer: 29**"
+126,অ্যান্টনি এক ডজন কলা কিনেছে। সে ২টি কলা খেয়েছে। এখন কয়জন বাকি আছে?,১০,"To solve the problem, let's first translate it into English for clarity:
+""Anthony bought a dozen bananas. He ate 2 bananas. How many are left now?""
+
+A dozen is equal to 12. If Anthony bought a dozen bananas, he initially had 12 bananas. After eating 2 bananas, the number of bananas left can be calculated by subtracting the number of bananas eaten from the initial number:
+12 (initial bananas) - 2 (bananas eaten) = 10
+
+Therefore, there are 10 bananas left.
+
+**Answer: 10**"
+373,"একটি দোকানে, জেডেন দেখতে পান যে নতুন এবং আকর্ষণীয় ডিজাইনের জুতা বিনামূল্যে পাওয়া যায়। জেডেন সব কিছু নিতে ৩১ সংখ্যক বন্ধু নিয়ে এসেছিল। কত জোড়া জুতা ছিল?",৩২,"To solve this problem, let's first translate it into English for clarity:
+""In a store, Jayden sees that new and attractive design shoes are available for free. Jayden brought 31 friends to take everything. How many pairs of shoes were there?""
+
+Since each person, including Jayden, can take one pair of shoes, and there are 31 friends plus Jayden, the total number of people is 31 + 1 = 32.
+
+Given that each person takes one pair of shoes, the total number of pairs of shoes is equal to the total number of people. 
+
+Therefore, the total number of pairs of shoes is 32.
+
+Answer: 32"
+184,"অ্যান্টনি ৬ ঘন্টা কাজে, ৬ ঘন্টা অন্যান্য দৈনন্দিন কাজে ব্যয় করে এবং দিনের অবশিষ্ট সময় ঘুমায। অ্যান্টনি দিনে কত ঘন্টা ঘুমায়?",১২,"To find out how many hours Anthony sleeps, we first need to calculate the total hours he spends on work and other daily activities. 
+
+1. Translate the Bengali problem into English: 
+Anthony spends 6 hours at work and 6 hours on other daily activities, and he sleeps for the remaining hours of the day. 
+
+2. Calculate the total hours spent on work and daily activities: 
+6 hours (work) + 6 hours (other activities) = 12 hours
+
+Since there are 24 hours in a day, we subtract the hours spent on work and activities from the total hours in a day to find out how many hours Anthony sleeps.
+
+3. Calculate the hours Anthony sleeps: 
+24 hours (total in a day) - 12 hours (work and activities) = 12 hours
+
+**Answer: 12**"
+173,"নতুন বছরের দিনে কোচিংয়ে যোগ দেন স্যামুয়েল। স্যামুয়েল ৪ নভেম্বর থেকে স্যামুয়েল বন্ধ না হওয়া পর্যন্ত ব্যর্থ না হয়ে প্রতিদিন কোচিং নিতেন। স্যামুয়েলকে কত কোচিং ফি দিতে হবে, যদি দৈনিক কোচিং চার্জ ২৩ টাকা হয় এবং বছরটি লিপ ইয়ার না হয়?",৭০৮৪,"To solve this problem, we first need to translate it into English for clarity.
+
+Translation: Samuel joins coaching on New Year's Day. Samuel takes coaching every day from November 4th until Samuel fails or the coaching closes. How much coaching fee will Samuel have to pay, if the daily coaching charge is 23 taka and the year is not a leap year?
+
+Now, let's calculate the total number of days Samuel attended coaching. Since the year is not a leap year, it has 365 days. Samuel attended coaching from January 1st to November 4th, which is a total of 308 days (31 + 28 + 31 + 30 + 31 + 30 + 31 + 31 + 30 + 31 + 4).
+
+The daily coaching charge is 23 taka. Therefore, the total coaching fee Samuel has to pay is:
+
+Total fee = Daily charge * Number of days
+Total fee = 23 * 308
+Total fee = 7074
+
+However, we should also consider that Samuel attended coaching from January 1st to December 31st, but the coaching was closed from November 4th to December 31st. So, the correct calculation is:
+
+Total fee = 23 * (365 - 57)  # 57 days from November 4th to December 31st
+Total fee = 23 * 308
+
+But since the coaching stopped on November 4th, we only count the days until then:
+January has 31 days, February has 28 days (not a leap year), March has 31 days, April has 30 days, May has 31 days, June has 30 days, July has 31 days, August has 31 days, September has 30 days, October has 31 days, and November has 4 days. 
+
+So, the correct total is:
+31 + 28 + 31 + 30 + 31 + 30 + 31 + 31 + 30 + 31 + 4 = 308 days.
+
+Thus, the correct total fee is:
+Total fee = 23 * 308
+Total fee = 7074
+
+Answer: **7074**"
+329,জ্যাক এপ্রিল মাসে একটি স্কুলের প্রধান শিক্ষক হন। জ্যাক একই বছরের আগস্টে অবসর নেন। কত মাস তিনি প্রধান শিক্ষক ছিলেন?,৪,"To solve this problem, we first need to understand the timeline of Jack's tenure as the headmaster of the school.
+
+1. Translate the Bengali problem into English for clarity:
+""The problem states that Jack became the headmaster of a school in April and retired in August of the same year. We need to determine how many months he served as the headmaster.""
+
+2. Calculate the number of months Jack served as the headmaster:
+April to August encompasses the months of April, May, June, July, and August. 
+
+So, Jack served as the headmaster for 5 months.
+
+Answer: **5**"
+238,এমিলির খেলনার বাক্সে আমাদের নম্বর সিস্টেমের প্রতিটি সংখ্যার প্রতিনিধিত্বকারী খেলনা রয়েছে। ভাইবোনদের জন্য এমিলির আরও ৩টি খেলনা বাক্স রয়েছে। তাদের কত খেলনা আছে?,৪০,"To solve this problem, we first need to understand the context and then do the math.
+
+1. **Translation of the Problem:**
+The problem states that Emily has a box of toys representing each number in our number system. Additionally, she has 3 more boxes of toys for her siblings. We need to find out how many toys they have in total.
+
+2. **Understanding the Number System:**
+Our number system is based on 10 digits: 0, 1, 2, 3, 4, 5, 6, 7, 8, and 9. If each digit is represented by a toy, then there are 10 toys in one box.
+
+3. **Calculating the Total Number of Toys:**
+Since Emily has one box for herself and 3 more boxes for her siblings, we calculate the total number of toys as follows:
+- Emily's box: 10 toys
+- Siblings' boxes: 3 boxes * 10 toys per box = 30 toys
+- Total toys = Emily's toys + Siblings' toys = 10 + 30 = 40 toys
+
+**Answer: 40**"
+356,হ্যাজেল তার স্ত্রীর প্রতিটি তর্জনীর জন্য একটি সোনার আংটি কিনতে চায়। যদি একটি আংটির দাম ১২ টাকা। হ্যাজেলকে কত টাকা দিতে হবে?,২৪,"To find the solution, let's first translate the Bengali problem into English for clarity:
+""Hazel wants to buy a gold ring for each of his wife's thumbs. If one ring costs 12 taka, how much will Hazel have to pay?""
+
+Since a person has 2 thumbs (one on each hand), Hazel's wife also has 2 thumbs. Therefore, Hazel needs to buy 2 rings. 
+
+The cost of one ring is 12 taka. So, the cost of 2 rings will be 2 * 12 = 24 taka.
+
+**Answer: 24**"
+231,কল্টন এক ফুট লম্বা বার্গার কিনে তার ভাইয়ের সাথে অর্ধেক ভাগ করে নিল। প্রতিজন কত ইঞ্চি করে বার্গার পাবে?,৬,"To solve this problem, let's break it down step by step.
+
+1. **Translation**: The problem states that Colton buys a one-foot-long burger and shares half of it with his brother. We need to find out how many inches of the burger each person will get.
+
+2. **Understanding the Length of the Burger**: The burger is one foot long. Since 1 foot equals 12 inches, the burger is 12 inches long.
+
+3. **Sharing the Burger**: Colton shares the burger equally with his brother, meaning they each get half of the burger. To find out how many inches each person gets, we divide the total length of the burger by 2.
+
+4. **Calculation**: 
+   - Total length of the burger = 12 inches
+   - Number of people sharing = 2
+   - Length of the burger each person gets = Total length / Number of people = 12 / 2 = 6 inches
+
+Therefore, each person will get 6 inches of the burger.
+
+**Answer: 6**"
+273,রহিমের তাস খেলার ৭টি সম্পূর্ণ ডেক রয়েছে। তার মোট কয়টি ফেস কার্ড আছে?,৮৪,"To solve this problem, let's break it down step by step.
+
+1. **Translation**: Rahim has 7 complete decks of playing cards. How many face cards does he have in total?
+
+2. **Understanding**: A standard deck of playing cards contains 52 cards, with 12 of these being face cards (4 Jacks, 4 Queens, 4 Kings).
+
+3. **Calculation**: Since Rahim has 7 complete decks, we can calculate the total number of face cards by multiplying the number of face cards in one deck by the number of decks he has.
+
+4. **Face Cards per Deck**: 12 face cards per deck.
+
+5. **Total Face Cards**: 12 face cards/deck * 7 decks = 84 face cards.
+
+Therefore, Rahim has a total of 84 face cards.
+
+**Answer: 84**"
+245,প্রতিদিন জোনাথন তার ফোনে ৮ ঘন্টা ব্যয় করে। এই সময়ের অর্ধেক যদি ব্যয় হয় সোশ্যাল মিডিয়ায়। এক সপ্তাহে তিনি কতটা সময় সোশ্যাল মিডিয়ায় ব্যয় করেন,২৮,"To solve this problem, let's first translate it into English for clarity:
+
+""Jonathan spends 8 hours every day on his phone. If half of this time is spent on social media. How much time does he spend on social media in a week?""
+
+Now, let's break down the problem. Jonathan spends 8 hours a day on his phone, and half of that time is spent on social media. So, the daily time spent on social media is 8 / 2 = 4 hours.
+
+Since there are 7 days in a week, the total time spent on social media in a week is 4 hours/day * 7 days/week = 28 hours.
+
+Therefore, Jonathan spends 28 hours on social media in a week.
+
+Answer: 28"
+62,আবিরের মা বললো জিসানের জন্ম এপ্রিল মাসের পরের মাসে কিন্তু আবির জিসানের থেকে এক মাসের বড়। জুন মাসে জিসানের জন্মদিন হওয়ার সম্ভাবনা কত?,০,"To solve this problem, let's first translate it into English for clarity:
+""Abir's mother said that Jisan's birthday is in the month after April, but Abir is one month older than Jisan. What is the probability that Jisan's birthday is in June?""
+
+Now, let's analyze the situation:
+- Jisan's birthday must be after April, which means it can be in May, June, July, August, September, October, November, or December.
+- Since Abir is one month older than Jisan, if Jisan's birthday is in May, Abir's birthday would be in April, which contradicts the condition that Jisan's birthday is after April. Therefore, Jisan's birthday cannot be in May.
+- For Jisan's birthday to be after May and Abir to be one month older, Jisan's birthday must be in June, and Abir's birthday would be in May.
+- Any birthday for Jisan after June would make Abir more than one month older if we try to satisfy the condition of being one month apart and after April.
+
+Given the information, the only month that satisfies both conditions (Jisan's birthday after April and Abir being exactly one month older) is June for Jisan and May for Abir. 
+
+However, we need to consider all possible months after April for Jisan's birthday, which are May, June, July, August, September, October, November, and December. But based on the one-month age difference, only June fits perfectly for Jisan's birthday to be after April and Abir to be exactly one month older.
+
+Therefore, since there's only one valid option (June) out of the 8 possible months from May to December (since April is excluded as per the statement), the probability can be considered as 1 out of the number of months that fit the ""after April"" criterion but considering the specific age difference and conditions given, the calculation of probability might be misunderstood.
+
+Correctly, the problem suggests a specific scenario rather than asking for a probability from a range of equally likely outcomes. Hence, the question seems to aim at understanding the logical deduction of Jisan's possible birthday month given the conditions rather than calculating a traditional probability.
+
+Given this logical framework and understanding of the question, the probability or the likelihood of Jisan's birthday being in June, under the constraints provided, is actually certain if we strictly follow the conditions that Abir is exactly one month older and Jisan's birthday is after April. 
+
+"
+253,সেবাস্তিয়ান প্রতিদিন কাজ করে এবং সাপ্তাহিক ভিত্তিতে তার বেতন ১০৪৩ টাকা পায়। সেবাস্টিয়ান যদি এই সপ্তাহে ২ দিন কাজে না যান তবে তিনি কত টাকা বেতন পাবেন?,৭৪৫,"To determine Sebastian's salary for this week, we first need to calculate his daily wage. 
+
+1. Translate the Bengali problem into English for clarity:
+Sebastian works every day and gets paid 1043 taka on a weekly basis. If Sebastian does not go to work for 2 days this week, how much salary will he get?
+
+2. Calculate Sebastian's daily wage:
+Sebastian's weekly salary = 1043 taka
+Since there are 7 days in a week, we assume he works all 7 days.
+Daily wage = Weekly salary / 7
+Daily wage = 1043 / 7
+Daily wage = 149 taka
+
+3. Calculate Sebastian's salary for this week if he doesn't work for 2 days:
+Salary for 5 days = Daily wage * 5
+Salary for 5 days = 149 * 5
+Salary for 5 days = 745 taka
+
+Therefore, Sebastian will get 745 taka if he doesn't work for 2 days this week.
+
+Answer: 745"
+272,"পূর্ব উপকূল থেকে পশ্চিম উপকূলে একটি ৩১ ঘন্টার ট্রেন রয়েছে। ট্রেনটি যদি পূর্ব উপকূল থেকে সোমবার খুব ভোরে যাত্রা শুরু করে, তাহলে কোন দিন গন্তব্যে পৌঁছাবে?",মঙ্গলবার ,"To solve this problem, let's first translate it into English for clarity:
+
+""Translation: There is a 31-hour train from the East Coast to the West Coast. If the train starts its journey from the East Coast very early on Monday, on which day will it reach its destination?""
+
+Now, let's break down the problem: 
+- The train journey takes 31 hours.
+- The train starts very early on Monday.
+
+Since the journey takes 31 hours, we can calculate the arrival time as follows:
+- 24 hours after Monday would be Tuesday.
+- The remaining 7 hours would then be added to Tuesday.
+
+So, if the train starts on Monday and takes 31 hours to reach its destination, it will arrive on Tuesday, after 7 hours have passed on that day, which means it will arrive on Tuesday.
+
+Answer: **Tuesday**"
+334,করিম তার ১৪ জোড়া জুতা পরিবর্তন করতে চায়। যদি পরিবর্তনের খরচ হয় ৩৭ টাকা প্রতি জুতা। করিমকে কত টাকা দিতে হবে ?,১০৩৬,"To solve this problem, we first need to translate it into English for clarity:
+
+""Karim wants to change his 14 pairs of shoes. If the cost of changing is 37 taka per shoe, how much will Karim have to pay?""
+
+Since Karim has 14 pairs of shoes and each pair consists of 2 shoes, the total number of shoes is 14 * 2 = 28 shoes.
+
+The cost of changing per shoe is 37 taka. Therefore, the total cost for changing all the shoes is 28 * 37 = 1036 taka.
+
+**Answer: 1036**"
+292,একজন দোকানদারের তাস খেলার ১৫টি সম্পূর্ণ ডেক রয়েছে। তার মোট কয়টি রাজা আছে?,৬০,"To solve this problem, we first need to understand the composition of a standard deck of cards and then calculate the total number of kings in 15 such decks.
+
+1. **Translation of the Problem:**
+The problem states that a shopkeeper has 15 complete decks of playing cards. We need to find out how many kings he has in total.
+
+2. **Understanding a Standard Deck:**
+A standard deck of playing cards contains 52 cards, which include 4 suits (hearts, diamonds, clubs, and spades), each with 13 cards (Ace through 10, Jack, Queen, King).
+
+3. **Calculating the Number of Kings:**
+Since each suit has one King, a standard deck of cards contains 4 Kings.
+
+4. **Total Kings in 15 Decks:**
+To find the total number of Kings in 15 decks, we multiply the number of Kings in one deck by 15.
+Total Kings = Number of Kings in one deck * Number of decks
+Total Kings = 4 * 15
+Total Kings = 60
+
+Therefore, the shopkeeper has 60 kings in total.
+
+**Answer: 60**"
+151,রবার্ট জানুয়ারি মাসে জিআরই এন্ট্রান্স পরীক্ষার প্রস্তুতি শুরু করেন। ৪ তারিখে লিখিত পরীক্ষা পর্যন্ত রবার্ট প্রস্তুতি নেন। রবার্ট কোন মাসের জন্য প্রস্তুতি নেন?,মে,"To determine the month for which Robert prepared, let's break down the information given:
+
+1. Robert started preparing in January for the GRE entrance exam.
+2. He prepared until the 4th of a month when he had his written exam.
+
+Given that Robert started preparing in January and had his exam on the 4th of a month, we need to consider when the GRE exam could take place, assuming it's a one-time exam in a specific month after January.
+
+The problem doesn't explicitly state the timing of the GRE exam in relation to months after January or the exact preparation period. However, considering typical exam schedules and assuming the GRE exam doesn't take place in the same month he started preparing (January), Robert would prepare in January for an exam potentially scheduled in a subsequent month.
+
+If the written exam was on the 4th of a month following January, and assuming a typical preparation period, the most straightforward answer without additional context about GRE exam schedules would be February, as it's the next month after January and the exam date (4th) is plausible for early February, allowing a preparation period that started in January.
+
+Therefore, translating the problem into English for clarity:
+""Robert starts preparing for the GRE entrance exam in January. He prepares until the 4th of a month when he has his written exam. In which month does Robert prepare for the exam?""
+
+Considering the information given and typical scenarios, Robert prepares for the exam that takes place in February, given that he starts in January and the exam is on the 4th of the following month.
+
+**Answer: 2**"
+394,একটি নখ কাটা হলে নেইলকাটার একটি বিশেষ ধরনের শব্দ করে। ৭ জনের সব আঙ্গুলের জন্য এই শব্দটি কতবার হবে?,১৪০,"To solve this, let's first translate the problem into English for clarity:
+""When a nail is cut, a nail cutter makes a special kind of sound. How many times will this sound be made for all the fingers of 7 people?""
+
+Now, let's calculate the number of times the sound will be made. Each person has 10 fingers (2 hands * 5 fingers per hand). Since there are 7 people, the total number of fingers is 7 * 10 = 70 fingers. 
+
+Assuming each finger has one nail that needs to be cut, the sound will be made 70 times.
+
+**Answer: 70**"
+398,একটি খামারে ৪৮টি পশুর পা এবং মোট ১৫টি প্রাণী রয়েছে। কিছু হাঁস আর কিছু ঘোড়া। ঘোড়ার সংখ্যা নির্ণয় কর।,৯,"To solve this problem, let's first translate it into English for clarity:
+""There are 48 legs of animals in a farm and a total of 15 animals. Some are ducks and some are horses. Determine the number of horses.""
+
+Let's denote the number of ducks as D and the number of horses as H. We know the following:
+1. Each duck has 2 legs, and each horse has 4 legs.
+2. The total number of animals (ducks + horses) is 15.
+3. The total number of legs is 48.
+
+We can set up two equations based on this information:
+1. D + H = 15 (total number of animals)
+2. 2D + 4H = 48 (total number of legs)
+
+We can solve these equations to find the number of horses (H). 
+
+First, let's simplify the second equation by dividing everything by 2:
+D + 2H = 24
+
+Now, we'll subtract the first equation from this new one to solve for H:
+(D + 2H) - (D + H) = 24 - 15
+H = 9
+
+Therefore, the number of horses is 9.
+
+Answer: 9"
+281,সারার কাছে তাস খেলার ৯টি সম্পূর্ণ ডেক রয়েছে। তার মোট কয়টি হরতন আছে?,১১৭,"1. Translation of the problem: Sara has 9 complete decks of playing cards. How many hearts does she have in total?
+
+Since each complete deck of playing cards contains 13 hearts, we can calculate the total number of hearts by multiplying the number of decks by the number of hearts per deck.
+
+2. Calculation: 
+9 decks * 13 hearts/deck = 117 hearts
+
+Answer: 117"
+189,এমেরি তার ১৭ জোড়া জুতা পরিবর্তন করতে চায়। যদি পরিবর্তনের খরচ হয় ২৯ টাকা প্রতি জুতা তবে তাকে কত টাকা দিতে হবে?,৯৮৬,"To solve this problem, we first need to translate it into English for clarity.
+
+Translation: Emery wants to change her 17 pairs of shoes. If the cost of changing is 29 rupees per shoe, then how much will she have to pay?
+
+Since Emery has 17 pairs of shoes and each pair contains 2 shoes, the total number of shoes is 17 * 2 = 34 shoes.
+
+The cost of changing per shoe is 29 rupees. Therefore, the total cost for changing all her shoes will be 34 shoes * 29 rupees/shoe = 986 rupees.
+
+Answer: 986"
+47,তাহসান দোকান থেকে ডজন প্রতি ১২০ টাকা দিয়ে সাড়ে তিন ডজন ডিম নিয়ে বাসায় গেল। বাসায় গিয়ে সে দেখল ৮ টা ডিম নষ্ট। তবে তাহসানের কত টাকা ক্ষতি হল?,৮০,"To find the total loss incurred by Tahsan, we first need to calculate the total cost of the eggs and then determine the cost of the 8 eggs that were damaged.
+
+1. Translation of the problem:
+Tahsan went home after buying three and a half dozen eggs from the store at 120 rupees per dozen. After getting home, he found 8 eggs were damaged. However, how much did Tahsan lose?
+
+2. Solution:
+First, we calculate the total number of eggs Tahsan bought. Since 1 dozen equals 12 eggs, three and a half dozen eggs equal 3.5 * 12 = 42 eggs.
+
+The total cost of the eggs is 3.5 dozen * 120 rupees per dozen = 3.5 * 120 = 420 rupees.
+
+Since 8 eggs were damaged, we need to find out the cost of these 8 eggs to determine the loss. The cost per egg is the total cost divided by the total number of eggs, which is 420 rupees / 42 eggs = 10 rupees per egg.
+
+Therefore, the loss incurred due to the 8 damaged eggs is 8 eggs * 10 rupees per egg = 80 rupees.
+
+**Answer: 80**"
+143,ম্যাসন প্রতিদিন পাঁচ পয়সা সঞ্চয় করতে শুরু করেন। কত দিনে তিনি মোট ৩ টাকা সঞ্চয় করতেন?,৬০,"To solve this problem, we first need to translate it into English for clarity.
+
+Translation: Mason starts saving five paisas every day. How many days will it take him to save a total of 3 rupees?
+
+Now, we need to convert the given values into a consistent unit for easier calculation. We know that 1 rupee = 100 paisas.
+
+Mason saves 5 paisas per day, and he wants to save 3 rupees in total. First, let's convert 3 rupees into paisas: 3 rupees * 100 paisas/rupee = 300 paisas.
+
+Now, we can calculate the number of days Mason needs to save 300 paisas by saving 5 paisas per day. To find this out, we'll divide the total amount he wants to save (300 paisas) by the daily savings (5 paisas): 300 paisas / 5 paisas/day = 60 days.
+
+Therefore, Mason will need 60 days to save a total of 3 rupees.
+
+Answer: 60"
+382,"ওয়াইট মার্চ মাসে একটি স্কুলের প্রধান শিক্ষক হন। ওয়াইট একই বছর ডিসেম্বরে অবসর নেন। কোন সময়ের জন্য, ওয়াইট প্রধান শিক্ষকের কাজ সম্পাদন করেছিলেন?",৯,"To solve this problem, we first need to understand the timeline of White's tenure as the headmaster of the school.
+
+1. Translate the Bengali problem into English for clarity:
+""The problem states that White became the headmaster of a school in March and retired in December of the same year. We need to find out for how long White performed the duties of the headmaster.""
+
+Given that White became the headmaster in March and retired in December of the same year, we can calculate the duration of his tenure.
+
+March to December encompasses the months of March, April, May, June, July, August, September, October, November, and December. 
+
+That makes a total of 10 months (from March to December).
+
+Therefore, White performed the duties of the headmaster for 10 months (from March to December) in the same year.
+
+**Answer: 10**"
+73,একটি কারখানায় ২ দিনে ৩৬০টি মোটরসাইকেল তৈরি হয়। ৫ সপ্তাহে ওই কারখানায় কতটি মোটরসাইকেল তৈরি হবে।,৬৩০০,"To solve this problem, we first need to understand the production rate of the factory and then calculate the total production over the given period.
+
+1. **Translation of the problem**: In a factory, 360 motorcycles are produced in 2 days. How many motorcycles will be produced in that factory in 5 weeks?
+
+2. **Solution**:
+   - First, we find out how many motorcycles are produced in one day. Since 360 motorcycles are produced in 2 days, the daily production is 360 / 2 = 180 motorcycles per day.
+   - Next, we calculate the production for one week. Since there are 7 days in a week, the weekly production is 180 * 7 = 1260 motorcycles per week.
+   - Finally, to find out how many motorcycles are produced in 5 weeks, we multiply the weekly production by 5. So, 1260 * 5 = 6300 motorcycles.
+
+**Answer: 6300**"
+91,(২ ঘণ্টা ৪৫ মিনিট ) - ( ১ ঘণ্টা ৫২ মিনিট ) = কত মিনিট?,৫৩,"To solve the given problem, first, we need to translate it into English for clarity. The problem states: ""(2 hours 45 minutes) - (1 hour 52 minutes) = how many minutes?""
+
+Now, let's solve this step by step:
+
+1. Convert both times into minutes for easier calculation.
+   - 2 hours 45 minutes = (2 * 60) + 45 = 120 + 45 = 165 minutes
+   - 1 hour 52 minutes = (1 * 60) + 52 = 60 + 52 = 112 minutes
+
+2. Subtract the second time from the first time to find the difference in minutes.
+   - Difference = 165 minutes - 112 minutes = 53 minutes
+
+Therefore, the difference between the two given times is 53 minutes.
+
+Answer: 53"
+271,"ইলিয়াস ক্লাসের প্রত্যেক ছাত্রকে তাদের রোল নম্বর অনুযায়ী একটি রোমান নম্বর স্কেচ করার নির্দেশ দেন। রোল নম্বর ১ সহ ছাত্র প্রথম রোমান অক্ষর স্কেচ করবে, রোল নম্বর ২ দ্বিতীয় রোমান অক্ষর স্কেচ করবে ইত্যাদি। অবশেষে, ইলিয়াস সমস্ত স্কেচ সংগ্রহ করে দেখেন যে প্রতিটি রোমান অক্ষরের ৬টি স্কেচ রয়েছে। ক্লাসে কতজন ছাত্র ছিল?",৪২,"To find the solution, let's first translate the given problem from Bengali to English for clarity:
+
+""Elias directs each student in the class to sketch a Roman numeral according to their roll number. The student with roll number 1 will sketch the first Roman numeral, the student with roll number 2 will sketch the second Roman numeral, and so on. Finally, Elias collects all the sketches and finds that there are 6 sketches of each Roman numeral. How many students were in the class?""
+
+Now, let's analyze the situation to determine the number of students. Since each Roman numeral has 6 sketches, it indicates that the number of students is a multiple of 6 because each student sketches one Roman numeral, and the sequence of Roman numerals repeats after a certain number of students.
+
+The first few Roman numerals are I, V, X, L, C, D, and M, which represent the numbers 1, 5, 10, 50, 100, 500, and 1000, respectively. However, the actual sequence isn't directly relevant to solving the problem; what matters is that there are 6 sketches of each Roman numeral.
+
+Given that each Roman numeral has 6 sketches, this implies that the class has a number of students that allows for each numeral to be sketched 6 times. Therefore, if we divide the total number of sketches by 6 (since each numeral is sketched 6 times), we should get the total number of unique Roman numerals that were assigned.
+
+However, the problem doesn't specify the exact Roman numerals or their order. Instead, it focuses on the fact that each student gets a unique Roman numeral based on their roll number, and there are 6 sketches of each numeral. This suggests that the sequence of numerals is long enough that it can be divided into sets of 6 unique numerals.
+
+Since each numeral from 1 to some n has been sketched 6 times, we can infer that there are at least 6 students for each unique Roman numeral. But to find the total number of students, we need to consider how many unique numerals there are.
+
+Given that we are looking for the total number of students and knowing that each numeral has 6 sketches, we can infer the total number of unique Roman numerals isn't as crucial as understanding that each student contributes one sketch. The critical insight here is that if there are 6 sketches of each numeral, the number of students must be divisible by 6, given the one-to"
+128,"একটি স্থানীয় ফুটবল ক্লাবের সমস্ত খেলোয়াড় ম্যাচের পরপরই তাদের মোজা ধোয়ার জন্য একটি ওয়াশিং মেশিন ব্যবহার করে। যদি ওয়াশিং মেশিনে মোট মোজার সংখ্যা ১৬ হয়, তাহলে কতজন লোক ম্যাচ খেলেছে?",৮,"To solve this problem, let's first translate it into English for clarity:
+""Each player of a local football club uses a washing machine to wash their socks immediately after a match. If the total number of socks in the washing machine is 16, how many people played the match?""
+
+Since each player has 2 feet and therefore wears 2 socks, we can calculate the number of players by dividing the total number of socks by 2.
+
+Number of socks = 16
+Number of socks per player = 2
+
+Number of players = Total number of socks / Number of socks per player
+= 16 / 2
+= 8
+
+Therefore, the number of people who played the match is 8.
+
+**Answer: 8**"
+17,আবির দোকান থেকে তিন ডজন ডিম নিয়ে বাসায় গেল। বাসায় গিয়ে সে দেখল ৮ টা ডিম নষ্ট। তবে আবিরের কাছে কয়টা ভাল ডিম আছে?,২৮,"To solve this problem, we first need to understand the given information. 
+
+1. Translate the Bengali problem into English: 
+Abir took three dozen eggs from the shop and went home. After reaching home, he found 8 eggs were rotten. However, how many good eggs does Abir have now?
+
+2. Solve the problem: 
+One dozen equals 12. Therefore, three dozen eggs equal 3 * 12 = 36 eggs. 
+If 8 eggs were rotten, the number of good eggs would be 36 - 8 = 28.
+
+Answer: **28**"
+71,একটি কারখানায় ৫ দিনে ২৪৫০টি মোটরসাইকেল তৈরি হয়। ৫ সপ্তাহে ওই কারখানায় কতটি মোটরসাইকেল তৈরি হবে।,১৭১৫০,"To find the solution, let's first translate the given problem into English for clarity:
+
+""In a factory, 2450 motorcycles are produced in 5 days. How many motorcycles will be produced in that factory in 5 weeks?""
+
+Now, let's solve the problem step by step. 
+
+First, we need to calculate the number of motorcycles produced per day:
+2450 motorcycles / 5 days = 490 motorcycles per day.
+
+Next, we calculate the total number of days in 5 weeks:
+5 weeks * 7 days per week = 35 days.
+
+Now, we can calculate the total number of motorcycles produced in 5 weeks:
+490 motorcycles per day * 35 days = 17150 motorcycles.
+
+Therefore, the total number of motorcycles produced in the factory in 5 weeks is 17150.
+
+**Answer: 17150**"
+16,আবির দোকান থেকে সাড়ে চার ডজন ডিম নিয়ে বাসায় গেল। বাসায় গিয়ে সে দেখল ৫ টা ডিম নষ্ট। তবে আবিরের কাছে কয়টা ভাল ডিম আছে?,৪৯,"To find the solution, we first need to translate the problem into English for clarity:
+
+Translation: Abir took four and a half dozen eggs from the store and went home. After getting home, he found 5 eggs were rotten. However, how many good eggs does Abir have?
+
+Now, let's solve the problem:
+
+One dozen contains 12 eggs. Therefore, four and a half dozen eggs will be calculated as follows:
+4.5 dozen * 12 eggs/dozen = 54 eggs
+
+Abir had 54 eggs initially, but 5 of them were rotten. So, the number of good eggs Abir has is:
+54 - 5 = 49
+
+Answer: 49"
+117,"পূর্ব উপকূল থেকে পশ্চিম উপকূলে একটি ২৮ ঘন্টা ট্রেন আছে। ট্রেনটি যদি মঙ্গলবার পূর্ব উপকূল থেকে খুব ভোরে যাত্রা শুরু করে, তাহলে কোন দিন গন্তব্যে পৌঁছাবে?",বুধবার,"To solve this, let's first translate the problem into English for clarity:
+
+""Translation: There is a 28-hour train from the East Coast to the West Coast. If the train starts its journey from the East Coast very early on Tuesday, on which day will it reach its destination?""
+
+Now, let's solve the problem. The train journey takes 28 hours. If it starts very early on Tuesday, we need to calculate the arrival day based on the travel duration.
+
+Since there are 24 hours in a day, a 28-hour journey would mean the train travels for 24 hours (completing one full day) and then an additional 4 hours into the next day.
+
+Starting on Tuesday and adding one full day brings us to Wednesday. Then, adding the extra 4 hours means the train will arrive early on Wednesday, specifically 4 hours after midnight.
+
+Therefore, the train will arrive at its destination on Wednesday.
+
+Answer: **Wednesday**"
+201,"ইসলাকে প্রতিদিন ডায়াবেটিস ক্যাপসুল খাওয়ার পরামর্শ দেওয়া হয়। জুলাই মাসে, তিনি ২ দিন ক্যাপসুল নিতে ভুলে যান। জুলাই মাসে তিনি কয়টি ক্যাপসুল খেয়েছিলেন?",২৯,"To solve this, let's first translate the problem into English for clarity:
+
+""Isal is advised to take diabetes capsules every day. In July, he forgot to take the capsules for 2 days. How many capsules did he take in July?""
+
+Since July has 31 days and Isal forgot to take his capsules for 2 days, we subtract those missed days from the total days in July to find out how many days he did take his capsules:
+
+31 (total days in July) - 2 (days missed) = 29 days
+
+Given that he takes one capsule per day, the number of capsules he took in July would be equal to the number of days he remembered to take them:
+
+29 days * 1 capsule/day = 29 capsules
+
+Therefore, Isal took 29 capsules in July.
+
+Answer: 29"
+304,আবুল বোর্ডে প্রতিটি ইংরেজী স্বরবর্ণ লিখেছিলেন। যদি প্রতিটি স্বরবর্ণ ৫ বার লেখা হয়। বোর্ডে মোট কতটি বর্ণমালা লেখা ছিল?,২৫,"To solve this problem, let's break it down step by step.
+
+1. **Translation of the Problem:**
+The problem states that Abul wrote each English vowel on the board. If each vowel is written 5 times, we need to find out the total number of alphabets written on the board.
+
+2. **Identifying English Vowels:**
+The English vowels are A, E, I, O, and U. Sometimes, Y is also considered a vowel in certain contexts, but for the purpose of this problem, we will stick with the basic five vowels.
+
+3. **Calculating Total Alphabets:**
+Since each vowel is written 5 times and there are 5 vowels, the total number of alphabets written can be calculated as follows:
+Total Alphabets = Number of Vowels * Number of Times Each Vowel is Written
+Total Alphabets = 5 * 5
+Total Alphabets = 25
+
+**Answer: 25**"
+236,"ওয়েন কর্মক্ষেত্রে ৬ ঘন্টা, অন্যান্য দৈনন্দিন কাজে ৭ ঘন্টা ব্যয় করে এবং দিনের অবশিষ্ট সময় ঘুমায়। ওয়েন দিনে কত ঘন্টা ঘুমায়?",১১,"To find out how many hours Wayne sleeps, we first need to calculate the total hours he spends on work and other daily activities. 
+
+Translation of the problem: ""Wayne spends 6 hours at work and 7 hours on other daily chores and sleeps for the rest of the day. How many hours does Wayne sleep in a day?""
+
+We know that there are 24 hours in a day. If Wayne spends 6 hours at work and 7 hours on other daily activities, the total time spent on these activities is 6 + 7 = 13 hours.
+
+The remaining time is spent sleeping, so we subtract the time spent on work and daily activities from the total hours in a day: 24 - 13 = 11 hours.
+
+Therefore, Wayne sleeps for 11 hours in a day.
+
+Answer: 11"
+282,সারার কাছে তাস খেলার ২টি সম্পূর্ণ ডেক রয়েছে। তার মোট কয়টি রুইতন আছে?,২৬,"To solve this problem, let's break it down step by step.
+
+1. Translate the Bengali problem into English for clarity:
+""The problem states that Sarah has 2 complete decks of cards. We need to find out the total number of diamonds she has.""
+
+2. Since a standard deck of cards contains 52 cards with 4 suits (hearts, diamonds, clubs, and spades) and each suit has 13 cards, the number of diamonds in one deck is 13.
+
+3. If Sarah has 2 complete decks, then she has 2 * 13 = 26 diamonds in total.
+
+Answer: **26**"
+159,ভিভিয়ান তার গাড়ির বীমার জন্য প্রতি বছর ২ হাজার টাকা খরচ করে। এক দশকে তিনি কত হাজার খরচ করেছেন?,২০,"To solve this problem, we first need to translate it into English for clarity:
+Vivian spends 2 thousand rupees every year for his car insurance. How many thousands does he spend in a decade?
+
+Since there are 10 years in a decade, we multiply the yearly expenditure by 10 to find the total expenditure in a decade.
+Yearly expenditure: 2 thousand rupees
+Total expenditure in a decade = 2 thousand rupees/year * 10 years = 20 thousand rupees
+
+Therefore, Vivian spends 20 thousand rupees in a decade.
+
+Answer: 20"
+320,জন গত সোমবার থেকে প্রতিদিন সকালে দৌড়ানোর সিদ্ধান্ত নিয়েছে এবং সোমবার ১৭০০ মিটার দৌড়েছে। শনিবার রাতে জন দুর্ঘটনায় আহত না হওয়া পর্যন্ত জন প্রতিদিন সকালে একই দূরত্ব দৌড়ায়। জন মোট কত রান করেছেন?,১০২০০,"To solve this problem, we first need to translate it into English for clarity.
+
+Translation: John decided to run every morning starting from last Monday and ran 1700 meters on Monday. John ran the same distance every morning until he got injured in an accident on Saturday night. How much did John run in total?
+
+Now, let's calculate the total distance John ran. Since John ran every day from Monday to Saturday (the day he got injured), we can count the days: Monday, Tuesday, Wednesday, Thursday, Friday, and Saturday, which totals 6 days.
+
+Given that John ran 1700 meters each day, the total distance he covered is 1700 meters * 6 days = 10200 meters.
+
+Answer: **10200**"
+101,(৫ ঘণ্টা ৩৩ মিনিট ) - ( ১ ঘণ্টা ৩৩ মিনিট ) = কত ঘন্টা?,৪,"To solve this problem, we first need to translate it into English for clarity.
+
+The problem in English is: (5 hours 33 minutes) - (1 hour 33 minutes) = how many hours?
+
+Now, let's solve the problem. 
+
+First, convert both times into just minutes for easier calculation:
+- 5 hours 33 minutes = (5 * 60) + 33 = 300 + 33 = 333 minutes
+- 1 hour 33 minutes = (1 * 60) + 33 = 60 + 33 = 93 minutes
+
+Then, subtract the two times in minutes:
+333 minutes - 93 minutes = 240 minutes
+
+Now, convert the result back into hours:
+240 minutes / 60 = 4 hours
+
+Therefore, the difference is 4 hours.
+
+Answer: 4"
+248,যদি একটি বর্গক্ষেত্রের প্রতিটি পাশে বেড়া দিতে খরচ হয় ৭৯ টাকা। বেড়ার মোট খরচ কত?,৩১৬,"To solve this problem, we first need to understand that the perimeter of a square (the total length around its boundary) is what will determine the total cost of fencing, since all sides of a square are equal in length.
+
+1. **Translation of the problem in English:** If it costs 79 Taka to fence each side of a square, what is the total cost of fencing?
+
+2. **Solution:** 
+   - The formula for the perimeter of a square is P = 4s, where P is the perimeter and s is the length of one side.
+   - Given that the cost to fence each side (s) is 79 Taka, we substitute s in the perimeter formula with 79 to find the total cost for fencing the entire square.
+   - Therefore, the total cost = 4 * 79 = 316 Taka.
+
+**Answer: 316**"
+18,আবির দোকান থেকে আধা ডজন ডিম নিয়ে বাসায় গেল। বাসায় গিয়ে সে দেখল ২ টা ডিম নষ্ট। তবে আবিরের কাছে কয়টা ভাল ডিম আছে?,৪,"To solve this problem, let's break it down into steps.
+
+1. **Translation**: Abir bought half a dozen eggs from the store and took them home. Upon arriving home, he found 2 of the eggs were damaged. However, how many good eggs does Abir have now?
+
+2. **Solution**: First, we need to determine how many eggs Abir initially bought. A dozen contains 12 eggs, so half a dozen contains 12 / 2 = 6 eggs.
+
+3. Abir found 2 eggs were damaged when he got home. To find out how many good eggs he has, we subtract the number of damaged eggs from the total number of eggs: 6 - 2 = 4.
+
+Therefore, Abir has 4 good eggs.
+
+**Answer: 4**"
+65, জিসানের জন্মদিন মার্চ মাসে হলে। মার্চ মাসের ৩১ তারিখ জিসানের জন্মদিন হওয়ার সম্ভাবনা কত?,১/৩১,"To solve this problem, we first need to understand that March has 31 days. The problem is essentially asking for the probability that Jisan's birthday falls on the 31st of March.
+
+1. **Translation of the problem**: The problem states that Jisan's birthday is in March. We need to find the probability that March 31st is Jisan's birthday.
+
+2. **Solution**: Since March has 31 days, and assuming every day is equally likely to be Jisan's birthday, the probability that his birthday is on the 31st can be calculated as follows:
+
+- Total number of days in March = 31
+- Favorable outcome (31st of March) = 1
+
+Probability = (Number of favorable outcomes) / (Total number of outcomes)
+
+Probability = 1 / 31
+
+So, the probability that March 31st is Jisan's birthday is 1/31.
+
+**Answer: 1/31**"
+154,ক্যারোলিন এক ফুট লম্বা বার্গার কিনে তার ভাইয়ের সাথে অর্ধেক ভাগ করে নিল। প্রতিজন কত ইঞ্চি ভাগ পাবে?,৬,"To solve this, first, we need to translate the problem into English for clarity:
+
+""Caroline buys a one-foot-long burger and shares half of it with her brother. How many inches of the burger will each person get?""
+
+Now, let's solve the problem. We know that 1 foot equals 12 inches. If Caroline shares half of the burger with her brother, they will each get half of 12 inches.
+
+So, we calculate half of 12 inches: 12 / 2 = 6 inches.
+
+Therefore, each person will get 6 inches of the burger.
+
+**Answer: 6**"
+227,অ্যামেলিয়াকে বলা হয় যে পুকুরে ৬টি ব্যাঙ রয়েছে। পুকুরে কত ব্যাঙের চোখ তার আশা করা উচিত?,১২,"To solve this problem, we first need to translate it into English for clarity:
+""Amelia is told that there are 6 frogs in the pond. How many eyes of frogs should she expect to see in the pond?""
+
+Given that each frog has 2 eyes, we can calculate the total number of eyes by multiplying the number of frogs by the number of eyes each frog has.
+
+Total number of frogs = 6
+Number of eyes per frog = 2
+
+Total number of eyes = Total number of frogs * Number of eyes per frog
+Total number of eyes = 6 * 2
+Total number of eyes = 12
+
+Therefore, Amelia should expect to see 12 eyes in the pond.
+
+**Answer: 12**"
+204,আরিয়া মেডিকেলে পড়ছে। আরিয়া ৫ ঘন্টা করে মানবদেহের একেকটি হাড় বিশ্লেষণ করছেন। আরিয়ার কত ঘণ্টা বিশ্লেষণ শেষ করতে হবে?,১০৩০,"To solve this problem, we first need to understand that the human body has 206 bones. 
+
+The problem states that Aria analyzes each bone for 5 hours. 
+
+So, to calculate the total number of hours Aria will need to finish analyzing all the bones, we multiply the number of bones by the number of hours spent on each bone: 
+206 bones * 5 hours/bone = 1030 hours.
+
+Therefore, Aria will need 1030 hours to finish analyzing all the bones.
+
+Answer: **1030**"
+137,"হার্পার কাছাকাছি একটি পশু খামারে যাওয়ার সিদ্ধান্ত নেয় যেখানে মোট ১১টি প্রাণী রয়েছে। সে প্রবেশদ্বারের কাছে একটি সারিতে দাঁড়িয়ে আছে, গেট থেকে সে খামারের পশুদের পা দেখতে পেল এবং মোট পা গণনা করল ৩০টি। সে ইতিমধ্যেই জানে যে এই খামারে শুধু হাঁস এবং ঘোড়া রয়েছে। এ তথ্য থেকে ঘোড়ার সংখ্যা বের কর।",৪,"Let's translate the problem into English for clarity:
+""Happer decides to visit a nearby farm where there are a total of 11 animals. She stands in a row at the entrance gate, from where she can see the legs of the farm animals and counts a total of 30 legs. She already knows that this farm has only ducks and horses. Determine the number of horses from this information.""
+
+Now, let's solve the problem. We know that ducks have 2 legs and horses have 4 legs. Let's assume the number of ducks is x and the number of horses is y. We can set up two equations based on the given information:
+
+1. The total number of animals is 11:
+x + y = 11
+
+2. The total number of legs is 30:
+2x + 4y = 30
+
+We can solve these equations to find the values of x and y. First, we can multiply the first equation by 2 to get:
+2x + 2y = 22
+
+Now, subtract this equation from the second equation:
+(2x + 4y) - (2x + 2y) = 30 - 22
+2y = 8
+
+Divide by 2:
+y = 4
+
+Now that we have the value of y, we can find the value of x:
+x + y = 11
+x + 4 = 11
+x = 7
+
+So, there are 7 ducks and 4 horses. 
+
+**Answer: 4**"
+163,"আশা একজন শিক্ষক। আশার ক্লাসের প্রত্যেক ছাত্রকে তাদের রোল নম্বর অনুযায়ী একটি রোমান নম্বর স্কেচ করার নির্দেশ দেন। রোল নম্বর ১ সহ ছাত্র প্রথম রোমান অক্ষর স্কেচ করবে, রোল নম্বর ২ দ্বিতীয় রোমান অক্ষর স্কেচ করবে ইত্যাদি। অবশেষে, আশা সমস্ত স্কেচ সংগ্রহ করে এবং দেখতে পায় যে প্রতিটি রোমান অক্ষরের ৫টি স্কেচ রয়েছে। ক্লাসে কতজন ছাত্র ছিল?",৩৫,"To solve the problem, let's first translate it into English for clarity:
+
+""Asha is a teacher. Asha instructs each student in her class to sketch a Roman numeral corresponding to their roll number. The student with roll number 1 will sketch the first Roman numeral, the student with roll number 2 will sketch the second Roman numeral, and so on. Finally, Asha collects all the sketches and finds that there are 5 sketches of each Roman numeral. How many students were in the class?""
+
+Now, let's analyze the situation. Since each Roman numeral has 5 sketches, it means that each roll number from 1 to the last Roman numeral (which is 7, representing the numerals I, V, X, L, C, D, and M) has 5 students. The last Roman numeral that can be represented by a single character is 'M' (1000 in Roman numerals), but since the problem doesn't specify any further, we will consider the first 7 unique Roman numerals that are represented by a single character: I, V, X, L, C, D, and M.
+
+However, to determine the total number of students, we need to understand that the Roman numerals beyond the single-character ones (like IV, IX, etc.) will also be represented. But since we know each unique Roman numeral has 5 sketches, we can start by calculating how many unique Roman numerals there are up to a certain point.
+
+The key piece of information is that there are 5 sketches for each Roman numeral, and since the sequence of Roman numerals (I, V, X, L, C, D, M, and then combinations like IV, IX, XL, etc.) is well-defined, if we list them out up to a certain number, we can find how many students there were based on the roll numbers.
+
+However, given that each Roman numeral, regardless of its position in the sequence, has exactly 5 sketches, and considering the unique Roman numerals (both single characters and combinations), to find the total number of students, we need to find out which Roman numerals are being referred to.
+
+But to keep it simple, since there are 7 basic Roman numerals and considering that combinations also exist, if we consider the statement that there are 5 sketches of ""each Roman numeral,"" it implies we are looking at a situation where the number of students is directly related to the number of unique Roman numerals being sketched times the number of sketches per numeral"
+80,"একটি বাস স্টেশন থেকে ক কোম্পানির বাস ১৫ মিনিট পরপর এবং খ কোম্পানির বাস ২৫ মিনিট পরপর ছাড়ে। যদি সকাল ৮:৪৫ এ দুইটি কোম্পানির বাস একসাথে ছাড়ে, পরবর্তীতে সকালে কয়টায় পুনরায় একসাথে ছাড়বে?",১০,"To solve this problem, we first need to translate it into English for clarity:
+
+""Two bus companies, A and B, release buses from a bus station at intervals of 15 minutes and 25 minutes respectively. If at 8:45 AM, the buses of both companies leave together, at what time in the morning will they leave together again?""
+
+Now, we need to find the Least Common Multiple (LCM) of 15 and 25, which will give us the time interval at which both buses will leave together again.
+
+The multiples of 15 are: 15, 30, 45, 60, 75, ...
+The multiples of 25 are: 25, 50, 75, ...
+
+The smallest number that appears in both lists is 75. Therefore, the buses will leave together again after 75 minutes.
+
+Since they left together at 8:45 AM, we need to add 75 minutes to this time. 
+75 minutes = 1 hour 15 minutes
+So, adding 1 hour 15 minutes to 8:45 AM, we get:
+8:45 AM + 1 hour = 9:45 AM
+9:45 AM + 15 minutes = 10:00 AM
+
+Therefore, the buses will leave together again at 10:00 AM.
+
+Answer: 10"
+311,"অনিস প্রথমে বাংলা ব্যঞ্জনবর্ণ শেখার সাথে শুরু করে। অনিস যদি একটি বর্ণমালা শিখতে ৯ দিন সময় নেয়, তাহলে অনিসের সব ব্যঞ্জনবর্ণ শেখা শেষ করতে কতদিন লাগবে?",৩৫১,"To solve this problem, we first need to understand the context and the information provided.
+
+1. **Translation of the Problem:**
+The problem states that Anis starts by learning the Bengali consonants. If Anis takes 9 days to learn one alphabet, how many days will it take for Anis to finish learning all the consonants?
+
+2. **Understanding Bengali Consonants:**
+In the Bengali alphabet, there are 47 primary consonant symbols. These are the characters Anis is aiming to learn.
+
+3. **Calculating the Time Required:**
+Given that Anis takes 9 days to learn one consonant, to find out how many days it will take to learn all 47 consonants, we multiply the number of consonants by the number of days it takes to learn one.
+
+So, the calculation is: 47 consonants * 9 days/consonant = 423 days.
+
+**Answer: 423**"
+155,"সান্তিয়াগো জানুয়ারী মাসে তার নিজ দেশ ছেড়েছিলেন, ডিসেম্বরে একই তারিখে ফিরে আসার আগে কয়েক মাস অস্ট্রেলিয়ায় ছিলেন। সান্তিয়াগো কত মাস অস্ট্রেলিয়ায় ছিলেন?",১১,"To solve this problem, let's break down the information given.
+
+1. Translate the Bengali problem into English for clarity:
+""Santiago left his home country in January, staying in Australia for several months before returning on the same date in December. How many months was Santiago in Australia?""
+
+2. Now, let's calculate the number of months Santiago stayed in Australia. 
+Given that he left in January and returned in December of the same year, we can list the months he spent in Australia: January, February, March, April, May, June, July, August, September, October, November, and December. However, since he returned on the same date in December, it means he didn't complete the entire month of December in Australia.
+
+Therefore, counting the months: January (1 month), February (1 month), March (1 month), April (1 month), May (1 month), June (1 month), July (1 month), August (1 month), September (1 month), October (1 month), November (1 month), and considering he was in Australia for part of December but not the entire month, we still count December as 1 month because the question asks for the number of months he stayed, not the exact days.
+
+So, the total number of months Santiago stayed in Australia is 11 months (from January to November) plus 1 month for the partial stay in December, which equals 12 months if we count the month he departed and the month he returned, but since the question seems to be asking for the duration of his stay, excluding the month of departure and considering the return, it's more logical to understand it as the full months plus the partial month, which leads to a calculation error in the initial explanation.
+
+Correct Calculation:
+- Santiago left in January and returned in December, so he was away for the entire period from January to December, which encompasses 12 months (January to December inclusive). However, since he returned on the same date, it implies he was abroad for almost the entire year, missing only the last part of December.
+
+The accurate way to interpret the question, based on common sense and the information provided, is that Santiago was away from his home country for nearly the entire year, from January to the same date in December. This means he spent 11 full months abroad (January to November) and a portion of December, totaling to a full year's absence from his home country except for the last few days of December in his home country.
+
+However, the correct interpretation to the"
+399,যদি গ্রেসন এই সপ্তাহে জ্বালানিতে ৪০ টাকা খরচ করে। যদি একবার জ্বালানি নিতে খরচ হয় ১০ টাকা। তিনি কতবার জ্বালানি নিয়েছিলেন?,৪,"To solve this problem, let's first translate it into English for clarity:
+""If Grason spends 40 taka on fuel this week, and it costs 10 taka to refuel once, how many times did he refuel?""
+
+Now, let's solve the problem. We know that Grason spent 40 taka in total on fuel, and each refueling costs 10 taka. To find out how many times he refueled, we can divide the total amount spent (40 taka) by the cost per refueling (10 taka).
+
+Number of refuelings = Total amount spent / Cost per refueling
+= 40 / 10
+= 4
+
+Therefore, Grason refueled 4 times.
+
+Answer: 4"
+106,একটি কারখানায় একটি যন্ত্র টানা তিনদিন চলতে থাকে। যন্ত্রটি মোট কত ঘণ্টা চলে?,৭২,"To solve this problem, we first need to translate it into English for clarity.
+
+Translation: A machine in a factory runs continuously for three days. How many hours does the machine run in total?
+
+Since there are 24 hours in a day, we can calculate the total hours the machine runs by multiplying the number of days by 24.
+
+Total hours = Number of days * Hours per day
+Total hours = 3 * 24
+Total hours = 72
+
+Therefore, the machine runs for a total of 72 hours.
+
+Answer: 72"
+180,"হান্নার ল্যাপটপটি বিকাল ৩ঃ২০ টায় সম্পূর্ণভাবে চার্জ হয়ে যাওয়ার পরে, হান্না একটি ৩ ঘন্টা সিরিজ দেখতে শুরু করে, ব্যাটারি সম্পূর্ণরূপে ডিসচার্জ হওয়ার সাথে সাথে হান্নার ল্যাপটপটি ৫ঃ৪৪ টায় বন্ধ হয়ে যায়। হান্নার আর কত মিনিট মুভি দেখার বাকি আছে?",৩৬,"To solve this problem, we first need to translate it into English for clarity:
+
+Translation: After Hannah's laptop is fully charged at 3:20 PM, Hannah starts watching a 3-hour series. With the laptop shutting down at 5:44 PM once the battery is fully discharged, how many more minutes of the movie does Hannah have left to watch?
+
+Now, let's solve the problem:
+
+1. The total duration of the series Hannah is watching is 3 hours, which equals 180 minutes (since 1 hour = 60 minutes).
+2. Hannah starts watching the series at 3:20 PM and her laptop shuts down at 5:44 PM.
+3. To find out how long Hannah watched the series, we calculate the time difference between 3:20 PM and 5:44 PM.
+   - From 3:20 PM to 5:44 PM is a duration of 2 hours and 24 minutes, which equals 144 minutes (since 2 hours = 120 minutes and adding 24 minutes gives 144 minutes).
+4. Since the series is 180 minutes long and Hannah watched for 144 minutes, the amount of the movie she has left to watch can be found by subtracting the watched duration from the total duration:
+   - 180 minutes (total series duration) - 144 minutes (watched duration) = 36 minutes.
+
+Therefore, Hannah has 36 minutes of the movie left to watch.
+
+Answer: 36"
+127,একটি খামারে ৩৮টি প্রাণীর পা এবং মোট ১২টি প্রাণী রয়েছে। কেউ মুরগি আবার কেউ ভেড়া। মুরগির সংখ্যা নির্ণয় কর।,৫,"To solve this problem, let's first translate it into English for clarity:
+
+""In a farm, there are 38 animal legs in total and 12 animals. Some are chickens and some are sheep. Determine the number of chickens.""
+
+Let's denote the number of chickens as C and the number of sheep as S. We know two things:
+1. The total number of animals is 12, so C + S = 12.
+2. Chickens have 2 legs and sheep have 4 legs. The total number of legs is 38, so 2C + 4S = 38.
+
+We can solve these equations to find the number of chickens. First, let's simplify the second equation by dividing everything by 2, which gives us C + 2S = 19.
+
+Now, we can subtract the first equation from this new one to solve for S:
+(C + 2S) - (C + S) = 19 - 12
+S = 7
+
+Now that we know there are 7 sheep, we can substitute S back into one of the original equations to solve for C:
+C + S = 12
+C + 7 = 12
+C = 5
+
+Therefore, the number of chickens is 5.
+
+Answer: 5"
+136,স্টেলা একটি ফার্মাসিউটিক্যাল কোম্পানিতে কাজ করে এবং মাসে ৪৯১৯ টাকা পায়। গত বছর তিনি ২ মাসের জন্য বিনা বেতনে ছুটি নিয়েছিলেন। গত বছর তার বার্ষিক আয় খুঁজুন।,৪৯১৯০,"To solve this problem, we first need to translate the given Bengali problem into English for clarity:
+
+""Stella works at a pharmaceutical company and earns 4919 rupees per month. Last year, she took a leave without pay for 2 months. Find her annual income for the last year.""
+
+Now, let's break it down step by step:
+
+1. Stella's monthly income is 4919 rupees.
+2. Since there are 12 months in a year, her total annual income without any leave would be 4919 * 12 = 59028 rupees.
+3. However, she took a leave without pay for 2 months, which means she didn't receive her salary for those 2 months.
+4. To find her actual annual income, we need to subtract the salary she didn't receive for the 2 months from her total annual income. 
+5. The salary she didn't receive for the 2 months is 4919 * 2 = 9838 rupees.
+6. Now, subtract this amount from her total annual income: 59028 - 9838 = 49190 rupees.
+
+Therefore, Stella's annual income for the last year is 49190 rupees.
+
+Answer: 49190"
+158,ইজেকিয়েল থ্যাঙ্কসগিভিং সেলের সময় ৩ জোড়া জুতা কিনেছিলেন। এখন তার মোট নতুন জুতা সংখ্যা কতটি?,৬,"To find the total number of new shoes Ezekiel has, we first need to understand what he purchased. 
+
+1. Translate the Bengali problem into English for clarity: 
+Ezekiel bought 3 pairs of shoes during the ThanksGiving sale. 
+
+Since each pair of shoes contains 2 shoes, we can calculate the total number of shoes by multiplying the number of pairs by 2.
+
+2. Calculate the total number of shoes:
+Number of pairs of shoes = 3
+Total number of shoes = Number of pairs * 2 = 3 * 2 = 6
+
+Therefore, Ezekiel now has a total of 6 new shoes.
+
+Answer: 6"
+52,অশিমের দোকানে ৫০ ডজন ডিম আছে। অশিম প্রতি ডজন ডিম ১২০ টাকা করে বিক্রি করে। প্রান্তিক অশিমের দোকান থেকে মোট ডিমের ৭৫% ক্রয় করলে প্রান্তিকের কত টাকা বিল দিতে হবে?,৪৫০০,"To solve this problem, we first need to understand the given information and then calculate the total amount Prantik needs to pay.
+
+1. Translation of the problem:
+Ashim's store has 50 dozen eggs. Ashim sells eggs at 120 Taka per dozen. If Prantik buys 75% of the total eggs from Ashim's store, how much will Prantik have to pay?
+
+2. Solution:
+- First, calculate the total number of eggs: 50 dozen * 12 eggs/dozen = 600 eggs.
+- Then, find 75% of the total eggs: 75% of 600 eggs = 0.75 * 600 = 450 eggs.
+- Since eggs are sold by the dozen, convert 450 eggs into dozens: 450 eggs / 12 eggs/dozen = 37.5 dozen.
+- Since we cannot buy half a dozen, we will consider the calculation as it is because the price is given per dozen, and the problem doesn't specify how to handle fractions of a dozen. However, for practical purposes, we'd round to the nearest whole number or consider how the store handles such transactions.
+- Calculate the cost: 37.5 dozen * 120 Taka/dozen = 4500 Taka.
+
+Therefore, Prantik needs to pay for 37.5 dozen eggs at the rate of 120 Taka per dozen, which equals 4500 Taka.
+
+**Answer: 4500**"
+15,৪ জন মেয়ের একটি দল নেইল পলিশ করার জন্য একটি স্পাতে গিয়েছিল। যদি প্রতিটি মেয়ের পায়ের সমস্ত আঙ্গুল পালিশ করা হয়। স্পা কর্মীদের পালিশ করা মোট আঙ্গুলের সংখ্যা কত?,৪০,"To solve this problem, let's first translate it into English for clarity:
+
+Translation: A team of 4 girls went to a spa to get their nails polished. If all the toes of each girl's feet are polished, what is the total number of toes polished by the spa staff?
+
+Now, let's break down the problem. Each girl has 2 feet, and each foot has 5 toes. So, the total number of toes per girl is 2 * 5 = 10. Since there are 4 girls, the total number of toes polished by the spa staff is 4 * 10 = 40.
+
+Answer: **40**"
+112,"হাইকিং দলকে প্রত্যেক অংশগ্রহণকারীর জন্য গ্লাভসের ব্যবস্থা করতে হবে। যদি মোট অংশগ্রহণকারীদের সংখ্যা ৪৩ হয়, তাহলে হাইকিং দলকে সর্বনিম্ন কত সংখ্যক গ্লাভস ব্যবস্থা করতে হবে?",৮৬,"## Step 1: Translate the Bengali problem into English for clarity.
+The problem states that a hiking team needs to arrange gloves for each participant. If the total number of participants is 43, the team needs to determine the minimum number of gloves required.
+
+## Step 2: Determine the minimum number of gloves needed.
+Since each participant needs a pair of gloves (one for each hand), the minimum number of gloves required would be twice the number of participants.
+
+## Step 3: Calculate the minimum number of gloves.
+Minimum number of gloves = 2 * total number of participants = 2 * 43 = 86
+
+The final answer is: **86**"
+72,একটি কারখানায় ৫ দিনে ৫০০টি মোটরসাইকেল তৈরি হয়। ৩ সপ্তাহে ওই কারখানায় কতটি মোটরসাইকেল তৈরি হবে।,২১০০,"To solve this problem, we first need to understand the production rate of the factory and then calculate the total production over a period of 3 weeks.
+
+1. **Translate the problem into English for clarity:**
+""The problem states that in a factory, 500 motorcycles are produced in 5 days. We need to find out how many motorcycles will be produced in the same factory over a period of 3 weeks.""
+
+2. **Calculate the production rate per day:**
+First, let's find out the daily production rate. If 500 motorcycles are produced in 5 days, then the daily production rate is 500 / 5 = 100 motorcycles per day.
+
+3. **Calculate the total number of days in 3 weeks:**
+Since there are 7 days in a week, there are 3 * 7 = 21 days in 3 weeks.
+
+4. **Calculate the total production in 3 weeks:**
+Using the daily production rate (100 motorcycles per day), we can find the total production in 21 days by multiplying the daily rate by the number of days: 100 * 21 = 2100 motorcycles.
+
+Therefore, the total number of motorcycles produced in the factory over a period of 3 weeks is 2100.
+
+**Answer: 2100**"
+148,আভা এবং সারা দাবা খেলার সিদ্ধান্ত নিয়েছে কিন্তু দেখতে পেল যে ১০ টি টুকরো নেই। কত টুকরা উপস্থিত ছিল?,২২,"To solve this problem, we first need to translate it into English for clarity.
+
+Translation: Ava and Sara decided to play chess but found that 10 pieces were missing. How many pieces were present?
+
+Given that a standard chess set has 32 pieces (16 for each player), we can calculate the number of pieces present by subtracting the missing pieces from the total.
+
+Total pieces in a standard chess set = 32
+Missing pieces = 10
+
+Pieces present = Total pieces - Missing pieces = 32 - 10 = 22
+
+Therefore, the number of pieces present is 22.
+
+Answer: 22"
+24,রফিক দোকান থেকে ডজন প্রতি ১২০ টাকা দিয়ে দেড় ডজন ডিম নিয়ে বাসায় গেল। বাসায় গিয়ে সে দেখল ৬ টা ডিম নষ্ট। তবে রফিকের কত টাকা খরচ হল?,১৮০,"To find the total cost incurred by Rafiq, we first need to calculate the total amount he paid for the eggs and then consider the effect of the 6 broken eggs on the cost.
+
+1. Translation of the problem: 
+Rafiq went home after buying one and a half dozen eggs from the store at 120 taka per dozen. After going home, he found 6 eggs were broken. However, how much did Rafiq spend?
+
+2. Solution:
+First, let's find out how many eggs Rafiq bought. Since 1 dozen equals 12 eggs, 1.5 dozen equals 1.5 * 12 = 18 eggs.
+
+The cost of 1.5 dozen eggs at 120 taka per dozen is 1.5 * 120 = 180 taka.
+
+Now, we need to consider the broken eggs. Since 6 eggs were broken, Rafiq effectively got 18 - 6 = 12 eggs.
+
+However, the cost is determined by the number of eggs purchased, not the number of usable eggs. So, Rafiq spent 180 taka for 18 eggs, but ended up with only 12 usable eggs.
+
+The cost per egg can be found by dividing the total cost by the total number of eggs purchased: 180 / 18 = 10 taka per egg.
+
+But, this calculation is unnecessary for the final answer as the question only asks for the amount spent, not the cost per usable egg. Therefore, the total amount Rafiq spent is the cost of 1.5 dozen eggs.
+
+Answer: **180**"
+170,লিওনার্দো একটি নিবন্ধ পড়ছেন যা বলছে প্রতি শতাব্দীতে তাপমাত্রা ৩ ইউনিট বাড়ছে। ৭০০ বছরে তাপমাত্রার কী পরিবর্তন হবে?,২১,"To solve this problem, we first need to translate it into English for clarity.
+
+The translation of the problem is: 
+""Leonardo is reading an article that says the temperature is increasing by 3 units every century. What will be the change in temperature in 700 years?""
+
+Now, let's break it down:
+- The temperature increases by 3 units every century (100 years).
+- We need to find the change in temperature over 700 years.
+
+Since there are 100 years in a century, 700 years is equivalent to 700 / 100 = 7 centuries.
+
+Given that the temperature increases by 3 units every century, over 7 centuries, the total increase would be 7 * 3 = 21 units.
+
+Therefore, the change in temperature in 700 years would be an increase of 21 units.
+
+**Answer: 21**"
+85,আজ আমি আমার বাড়ির সকলের সাথে পুরী বেড়াতে যাব। ২২ঃ৩৫ -এ হাওড়া স্টেশন থেকে ট্রেন ছাড়বে। কিন্তু আমরা ২০ঃ৩৫ -এ হাওড়া স্টেশনে পৌছেঁ গেছি। হিসাব করে দেখি আমাদের স্টেশনে কত ঘন্টা অপেক্ষা করতে হবে।,২,"To solve this problem, we first need to translate it into English for clarity:
+
+""Today, I will go on a trip to Puri with everyone in my house. The train will leave from Howrah Station at 22:35. But we have arrived at Howrah Station at 20:35. Let's calculate how many hours we have to wait at the station.""
+
+Now, we calculate the waiting time by subtracting the arrival time from the departure time.
+
+Arrival time: 20:35
+Departure time: 22:35
+
+Waiting time = Departure time - Arrival time
+Waiting time = 22:35 - 20:35 = 2 hours
+
+Therefore, we have to wait for 2 hours at the station.
+
+Answer: 2"
+286,স্নেহার নিকট তাস খেলার ২৫টি সম্পূর্ণ ডেক রয়েছে। তার মোট কয়টি চিড়িতন আছে?,৩২৫,"1. Translation of the problem: Sneha has 25 complete decks of cards for playing. How many cards does she have in total?
+
+In a standard deck, there are 52 cards. To find the total number of cards Sneha has, we need to multiply the number of decks by the number of cards in each deck.
+
+2. Calculation: 
+Total number of cards = Number of decks * Number of cards in each deck
+Total number of cards = 25 * 52
+Total number of cards = 1300
+
+Therefore, Sneha has a total of 1300 cards.
+
+Answer: **1300**"
+4,একটা ছেলে একটা মাঠে ৫টা গরু চড়াচ্ছে। ঐখানে মোট কয়টা পা আছে?,২২,"To solve this problem, we first translate it into English for clarity:
+""The problem states that a boy is herding 5 cows in a field. We need to find out the total number of legs present there.""
+
+Now, let's break it down:
+- The boy has 2 legs.
+- Each cow has 4 legs.
+
+So, the total number of legs can be calculated as follows:
+- The boy's legs: 2
+- The cows' legs: 5 cows * 4 legs/cow = 20 legs
+
+Adding the boy's legs to the total legs of the cows, we get:
+2 (boy's legs) + 20 (cows' legs) = 22 legs
+
+Therefore, the total number of legs in the field is 22.
+
+Answer: **22**"
+153,ভিক্টোরিয়া ৯৫ মি/সেকেন্ড গতিতে চলে। সে ২ মিনিটে কত কিমি অতিক্রম করতে পারে,১১.৪০,"To solve this problem, we first need to convert the given speed into kilometers per hour since the answer requires the distance covered in kilometers.
+
+1. Translation of the problem: Victoria moves at a speed of 95 meters per second. How many kilometers can she cover in 2 minutes?
+
+2. Convert the speed from meters per second to kilometers per hour:
+Speed = 95 meters/second
+To convert meters/second into kilometers/hour, we multiply by 3.6 (since 1 m/s = 3.6 km/h):
+Speed = 95 * 3.6 = 342 km/h
+
+3. Convert 2 minutes into hours since the speed is now in kilometers per hour:
+2 minutes = 2/60 = 1/30 hours
+
+4. Calculate the distance covered in 2 minutes:
+Distance = Speed * Time
+Distance = 342 km/h * 1/30 h
+Distance = 11.4 km
+
+Therefore, Victoria can cover 11.4 kilometers in 2 minutes.
+
+Answer: 11.4"
+132,একটি খামারে ৬০টি পশুর পা এবং মোট ২০টি প্রাণী রয়েছে। কেউ মুরগি আবার কেউ ভেড়া। ভেড়ার সংখ্যা বের কর,১০,"To find the number of sheep, let's denote the number of chickens as C and the number of sheep as S. 
+
+1. Translation of the problem:
+The problem states that there are 60 animal legs and a total of 20 animals on a farm. It mentions that some are chickens and some are sheep. We need to find the number of sheep.
+
+2. Solution:
+We know that chickens have 2 legs and sheep have 4 legs. We can set up two equations based on the information given:
+- The total number of animals: C + S = 20
+- The total number of legs: 2C + 4S = 60
+
+From the first equation, we can express C in terms of S: C = 20 - S
+
+Substituting C in the second equation: 2(20 - S) + 4S = 60
+Expanding the equation: 40 - 2S + 4S = 60
+Combining like terms: 2S = 20
+Dividing both sides by 2: S = 10
+
+Therefore, the number of sheep is 10.
+
+Answer: **10**"
+98,(৩ ঘণ্টা ২৫ মিনিট ) + ( ৮ ঘণ্টা ৩৫ মিনিট ) = কত ঘন্টা?,১২,"To solve this problem, let's first translate it into English for clarity:
+The problem states: (3 hours 25 minutes) + (8 hours 35 minutes) = how many hours?
+
+Now, let's solve it step by step:
+
+1. Convert both times into just minutes for easier calculation:
+   - 3 hours 25 minutes = (3 * 60) + 25 = 180 + 25 = 205 minutes
+   - 8 hours 35 minutes = (8 * 60) + 35 = 480 + 35 = 515 minutes
+
+2. Add these two amounts of time together:
+   - 205 minutes + 515 minutes = 720 minutes
+
+3. Convert the total minutes back into hours and minutes:
+   - 720 minutes = (720 / 60) = 12 hours
+
+So, (3 hours 25 minutes) + (8 hours 35 minutes) = 12 hours.
+
+Answer: **12**"
+346,"জয়ের প্রতি মাসে ২ বার ডাক্তারের কাছে যাওয়ার কথা। সুতরাং, তিনি সারা বছর ধরে প্রতি মাসে ২টি ছুটি নিয়েছিলেন। ঐ বছরে জয় কয়টা ছুটি নিয়েছিল?",২৪,"1. Translation of the problem: Joy is supposed to visit the doctor twice a month. So, he took 2 leaves every month throughout the year. How many leaves did Joy take that year?
+
+2. Solution: Since there are 12 months in a year and Joy took 2 leaves every month, we can calculate the total number of leaves by multiplying the number of leaves per month by the number of months in a year. Total leaves = 2 leaves/month * 12 months = 24 leaves.
+
+Answer: **24**"
+368,বর্গাকার একটি পার্কের চারপাশে বেড়া দেওয়ায় মোট খরচ ছিল ২২৪ টাকা। প্রতিটি পাশে বেড়া দিতে কত টাকা খরচ হয়?,৫৬,"To solve this problem, we first need to translate it into English for clarity:
+
+""The total cost for fencing around a square park was 224 rupees. How much did it cost to fence each side?""
+
+Since the park is square, all sides are equal in length. Let's denote the cost of fencing one side as 'x' rupees. The total cost of fencing the square park would be the sum of the costs of fencing all four sides, which equals 4x.
+
+Given that the total cost is 224 rupees, we can set up the equation:
+
+4x = 224
+
+To find the cost of fencing one side (x), we divide both sides of the equation by 4:
+
+x = 224 / 4
+x = 56
+
+Therefore, the cost to fence each side is 56 rupees.
+
+**Answer: 56**"
+383,পার্কারের একটি কাজ আছে যা তাকে প্রতিদিন ৬৩ টাকা দেয় এবং সে প্রতিদিন কাজ করে। ৬ সপ্তাহে পার্কার দ্বারা উপার্জিত অর্থের পরিমাণ গণনা করুন,২৬৪৬,"To solve this problem, I will first translate the given Bengali text into English and then calculate the total amount earned by Parker in 6 weeks.
+
+Translation: Parker has a job that pays him 63 dollars per day, and he works every day. Calculate the amount of money earned by Parker in 6 weeks.
+
+Now, let's calculate the total amount earned:
+1 week = 7 days
+6 weeks = 6 * 7 = 42 days
+Daily earnings = $63
+Total earnings in 6 weeks = 42 days * $63/day = $2646
+
+Answer: $2646"
+66,মে মাসের ৩৩ তারিখ জিসানের জন্মদিন হওয়ার সম্ভাবনা কত?,০,"To solve this problem, we first need to translate it into English for clarity.
+
+Translation: What is the probability that Jisan's birthday is on May 33rd?
+
+Since May only has 31 days, there is no May 33rd. Therefore, the probability of Jisan's birthday being on a day that does not exist in the month of May is 0.
+
+**Answer: 0**"
+33,জামাল দোকান থেকে ডিম প্রতি ১১ টাকা করে সাড়ে তিন হালি ডিম নিয়ে বাসায় গেল। তবে জামালের কত টাকা খরচ হল?,১৫৪,"To solve this problem, we first need to translate it into English for clarity.
+
+Translation: Jamal went home buying three and a half dozens of eggs from the store at 11 taka per egg. However, how much did Jamal spend?
+
+Now, let's solve the problem. Three and a half dozens of eggs can be calculated as follows:
+3.5 dozens = 3.5 * 12 = 42 eggs
+
+Since each egg costs 11 taka, the total cost will be:
+Total cost = Number of eggs * Cost per egg
+Total cost = 42 * 11
+Total cost = 462
+
+Therefore, Jamal spent 462 taka.
+
+Answer: **462**"
+115,একজন দোকানদারের ৩টি সম্পূর্ণ ডেক তাস এবং একটি অতিরিক্ত ৪টি তাস রয়েছে৷ তার মোট কত কার্ড আছে?,১৬০,"To find the total number of cards the shopkeeper has, we first need to calculate the total number of cards in 3 complete decks and then add the additional 4 cards.
+
+1. Translate the Bengali problem into English for clarity:
+""The shopkeeper has 3 complete decks of cards and an additional 4 cards. How many cards does he have in total?""
+
+2. Solution:
+- Each standard deck of cards contains 52 cards.
+- Therefore, 3 complete decks contain 3 * 52 = 156 cards.
+- Adding the additional 4 cards, the total number of cards is 156 + 4 = 160.
+
+Answer: **160**"
+352,ইলিয়াস দুই ডজন কলা কিনেছে। তিনি ৩টি কলা খেয়েছেন। এখন কয়জন বাকি আছে?,২১,"To solve this problem, we first need to understand the quantities involved. 
+1. Translate the Bengali problem into English for clarity: 
+""Elias bought two dozen bananas. He ate 3 bananas. How many are left now?""
+
+2. Solve the problem:
+- Two dozen bananas equal 2 * 12 = 24 bananas.
+- After eating 3 bananas, Elias has 24 - 3 = 21 bananas left.
+
+Answer: **21**"
+41,রফিক দোকান থেকে ডজন প্রতি ১৪৪ টাকা দিয়ে আধা ডজন ডিম নিয়ে বাসায় গেল। বাসায় গিয়ে সে দেখল ৩ টা ডিম নষ্ট। তবে রফিকের কত টাকা ক্ষতি হল?,৩৬,"To solve this problem, we first need to understand the given information and then calculate the loss incurred by Rafiq.
+
+1. Translation of the problem:
+Rafiq bought half a dozen eggs from a shop at a rate of 144 taka per dozen and went home. After getting home, he found 3 eggs were damaged. However, how much money did Rafiq lose?
+
+2. Solution:
+First, we need to find the cost of half a dozen eggs. Since the price is given per dozen, we divide the price by 2 to get the cost of half a dozen eggs.
+Cost per dozen eggs = 144 taka
+Cost of half a dozen eggs = 144 / 2 = 72 taka
+
+Since there are 12 eggs in a dozen, half a dozen contains 6 eggs.
+Rafiq found 3 eggs damaged out of 6.
+
+The cost of each egg can be calculated by dividing the cost of half a dozen eggs by the number of eggs in half a dozen.
+Cost per egg = Cost of half a dozen eggs / Number of eggs in half a dozen
+Cost per egg = 72 / 6 = 12 taka
+
+Now, we calculate the total loss incurred by Rafiq due to the damaged eggs.
+Number of damaged eggs = 3
+Loss = Number of damaged eggs * Cost per egg
+Loss = 3 * 12 = 36 taka
+
+Therefore, Rafiq incurred a loss of 36 taka.
+
+Answer: **36**"
+147,"পাইপার একটি বায়ু প্রদর্শনীতে রাখা সমস্ত বাণিজ্যিক বিমানের ডানা গণনা করেছে। মোট ডানা ৯০টি হলে, কতটি প্লেন ছিল?",৪৫,"To solve this problem, we first need to understand the relationship between the number of planes and the number of wings. Each commercial airplane typically has two wings.
+
+1. **Translation of the Problem:** A Piper counted all the wings of the commercial planes at an air show. If there were a total of 90 wings, how many planes were there?
+
+2. **Solution:** Since each plane has 2 wings, we can calculate the number of planes by dividing the total number of wings by 2.
+
+Number of planes = Total number of wings / 2
+= 90 / 2
+= 45
+
+Therefore, the number of planes at the air show was 45.
+
+**Answer: 45**"
+60,ফেব্রুয়ারি মাসের ৩০ তারিখ জিসানের জন্মদিন হওয়ার সম্ভাবনা কত?,০,"To solve this problem, we first need to translate it into English for clarity.
+
+Translation: ""What is the probability that February 30th is Jisan's birthday?""
+
+However, there is an inherent issue with this question. February only has 28 days (29 in a leap year), so it is not possible for February 30th to exist, let alone be someone's birthday.
+
+Given this, the probability of February 30th being Jisan's birthday is 0, as February 30th does not exist in the calendar.
+
+Answer: **0**"
+345,"পুরো জুন মাসের জন্য, ওয়েন প্রতিদিন ২টি বার্গার কিনেছিলেন। যদি প্রতিটি বার্গারের দাম ১২ টাকা। জুন মাসে ওয়েন বার্গারে কত খরচ করেছেন?",৭২০,"To solve this problem, let's break it down step by step.
+
+1. Translate the Bengali problem into English for clarity:
+""The problem states that for the entire month of June, Owen bought 2 burgers every day. If each burger costs 12 dollars, how much did Owen spend on burgers in June?""
+
+2. Determine the number of days in June:
+June has 30 days.
+
+3. Calculate the total number of burgers purchased in June:
+Since Owen bought 2 burgers every day, the total number of burgers bought in June is 2 * 30 = 60 burgers.
+
+4. Calculate the total amount spent on burgers in June:
+The cost of each burger is 12 dollars. Therefore, the total amount spent on burgers in June is 60 * 12 = 720 dollars.
+
+Answer: **720**"
+48,তাহসান দোকান থেকে ডজন প্রতি ১৩২ টাকা দিয়ে আধা ডজন ডিম নিয়ে বাসায় গেল। বাসায় গিয়ে সে দেখল ৬ টা ডিম নষ্ট। তবে তাহসানের কত টাকা ক্ষতি হল?,৬৬,"To solve the problem, let's break it down step by step.
+
+First, let's translate the given Bengali problem into English for clarity:
+""Tahsan bought half a dozen eggs from a shop at 132 taka per dozen and went home. After going home, he saw that 6 eggs were damaged. However, how much money did Tahsan lose?""
+
+Now, let's solve the problem. 
+If the price of a dozen eggs is 132 taka, then the price per egg is 132 / 12 = 11 taka.
+Tahsan bought half a dozen eggs, which is 6 eggs. So, the total amount he spent is 6 * 11 = 66 taka.
+Since 6 eggs were damaged, and each egg costs 11 taka, Tahsan's loss is 6 * 11 = 66 taka.
+
+Answer: **66**"
+58,আসিফের খামারের পশুগুলোর মোট ৪৬০ টি পা আছে। তার খামারে মোট কত গুলা গরু আছে?,১১৫,"To solve this problem, let's break it down step by step.
+
+First, we translate the problem into English for clarity:
+""Asif's farm has animals with a total of 460 legs. How many cows are there in his farm?""
+
+Since cows have 4 legs, we can assume other animals like chickens have 2 legs, but without specific information about other types of animals, we'll consider a general approach where cows are the main focus.
+
+However, to proceed with the information given and find a straightforward solution, we must make an assumption. If we assume the farm only contains cows (since no information is provided about other animals), we can calculate the number of cows as follows:
+
+Total legs = 460  
+ Legs per cow = 4  
+
+Number of cows = Total legs / Legs per cow  
+= 460 / 4  
+= 115  
+
+So, if the farm only contains cows, there would be 115 cows.
+
+Answer: **115**"
+270,পেন্সিলের দাম ৬ টাকা আর এলিজাবেথের পকেটে আছে মাত্র ৫ টাকা। তিনি তার প্রতিবেশীর কাছ থেকে ৫৩ পয়সা ধার নিয়েছিলেন। একটি পেন্সিল কিনতে এলিজাবেথের এখন আর কত পয়সা লাগবে?,৪৭,"To solve this problem, we first need to translate it into English for clarity:
+
+""The price of a pencil is 6 taka, and Elizabeth has only 5 taka in her pocket. She borrowed 53 poisha from her neighbor. How many poisha more will Elizabeth need to buy a pencil?""
+
+Now, let's convert all amounts to poisha for uniformity. Since 1 taka = 100 poisha, we have:
+- Price of the pencil: 6 taka * 100 poisha/taka = 600 poisha
+- Elizabeth's money: 5 taka * 100 poisha/taka = 500 poisha
+- Borrowed money: 53 poisha
+
+Total money Elizabeth has now = 500 poisha + 53 poisha = 553 poisha
+
+To find out how much more money Elizabeth needs to buy the pencil:
+Needed money = Price of the pencil - Total money Elizabeth has
+Needed money = 600 poisha - 553 poisha = 47 poisha
+
+Therefore, Elizabeth needs 47 poisha more to buy a pencil.
+
+Answer: 47"
+225,"রোমান প্রতিদিন ৭ ঘণ্টা ঘুমায়। আজ যদি তিনি সকাল ৯টায় ঘুম থেকে ওঠেন, তাহলে কতক্ষণে তিনি ঘুমোতেন?",১০,"To solve this problem, we first need to translate it into English for clarity:
+
+""Roman sleeps 7 hours every day. If he woke up at 9:00 AM today, at what time did he go to sleep?""
+
+Now, let's calculate the time he went to sleep. Since Roman sleeps 7 hours every day and woke up at 9:00 AM, we can subtract 7 hours from his wake-up time to find his sleep time.
+
+9:00 AM - 7 hours = 2:00 AM
+
+Therefore, Roman went to sleep at 2:00 AM.
+
+Answer: 2"
+297,জ্যাকসন প্রতি মাসে তিনদিন কাজ থেকে ছুটি নেন। সারা বছরে জ্যাকসন কত ছুটি নিয়েছিলেন?,৩৬,"To solve this problem, let's first translate it into English for clarity:
+""Jackson takes a leave of three days every month. How many leaves did Jackson take in the whole year?""
+
+Since there are 12 months in a year, we can calculate the total number of leaves Jackson took by multiplying the number of leaves he takes per month by the number of months in a year:
+3 days/month * 12 months/year = 36 days/year
+
+Therefore, Jackson took 36 leaves in the whole year.
+
+Answer: 36"
+109,একটি কারখানায় একটি মেশিন টানা আড়াই সপ্তাহ চলতে থাকে। মেশিনটি মোট কত ঘণ্টা চলে?,৪২০,"To solve this problem, we first need to translate it into English for clarity.
+
+Translation: A machine in a factory runs continuously for two and a half weeks. How many hours does the machine run in total?
+
+Now, let's solve the problem. 
+
+There are 7 days in a week. So, two and a half weeks is equal to 2.5 * 7 = 17.5 days.
+
+Since there are 24 hours in a day, we multiply 17.5 days by 24 hours to get the total number of hours the machine runs.
+
+Total hours = 17.5 * 24 = 420 hours.
+
+Therefore, the machine runs for 420 hours in total.
+
+Answer: **420**"
+125,ডাক্তার আরিয়াকে একটানা ২ সপ্তাহ ধরে প্রতিদিন একটি করে আপেল খাওয়ার পরামর্শ দিয়েছেন। তার কত আপেল কিনতে হবে?,১৪,"To solve this problem, we first need to understand the duration for which Doctor Ariya has been advised to eat apples and then calculate the total number of apples needed.
+
+1. Translation of the problem: Doctor Ariya has been advised to eat one apple every day for 2 consecutive weeks. How many apples will he need to buy?
+
+2. Calculation: There are 7 days in a week. Therefore, for 2 weeks, the total number of days is 2 * 7 = 14 days. Since Doctor Ariya needs to eat one apple per day, he will need 14 apples for 2 weeks.
+
+Answer: **14**"
+295,একজন দোকানদারের তাস খেলার ৫টি সম্পূর্ণ ডেক রয়েছে। তার মোট কয়টি ফেস কার্ড আছে?,৬০,"To solve this problem, we first need to understand how many cards are in a complete deck and how many of those are face cards.
+
+1. **Translation**: A shopkeeper has 5 complete decks of playing cards. How many face cards does he have in total?
+
+2. **Solution**: 
+   - A standard deck of playing cards contains 52 cards.
+   - In a deck, there are 12 face cards (4 Jacks, 4 Queens, 4 Kings).
+   - Since the shopkeeper has 5 complete decks, we multiply the number of face cards in one deck by 5 to find the total number of face cards.
+
+3. **Calculation**: 
+   - Number of face cards in one deck = 12
+   - Number of decks = 5
+   - Total face cards = 12 * 5 = 60
+
+Therefore, the shopkeeper has 60 face cards in total.
+
+**Answer: 60**"
+55,"একটি এলাকায় ১২০ জন মানুষ আছে, যাদের প্রত্যেকের ২ টি করে পোষা কুকুর আছে। যদি এলাকার সবাই একসাথে একটি মাঠে তাদের কুকুর নিয়ে উপস্থিত হয়। তবে ওই মুহূর্তে ওই মাঠে মোট কয়টি পা থাকবে?",১২০০,"To solve this problem, we first need to translate it into English for clarity:
+
+""In an area, there are 120 people, each of whom has 2 pet dogs. If everyone in the area gathers in a field with their dogs, how many legs will there be in total at that moment?""
+
+Now, let's calculate the total number of legs:
+
+- Each person has 2 legs, and there are 120 people. So, the total number of human legs is 120 * 2 = 240.
+- Each dog has 4 legs, and there are 2 dogs per person. Since there are 120 people, the total number of dogs is 120 * 2 = 240 dogs. So, the total number of dog legs is 240 * 4 = 960.
+
+Adding the total number of human legs and dog legs, we get: 240 (human legs) + 960 (dog legs) = 1200.
+
+Therefore, the total number of legs in the field will be 1200.
+
+**Answer: 1200**"
+166,"কারসনকে জলের প্রাণীদের নিয়ে একটি প্রতিবেদন তৈরি করতে হবে। সুতরাং, তিনি একটি অ্যাকোয়ারিয়াম পরিদর্শন করেন এবং মোট ৫টি অক্টোপাস দেখেন। তিনি অক্টোপাসের পায়ের সংখ্যা উল্লেখ করতে চান। অক্টোপাস পায়ের মোট সংখ্যা নির্ণয় করুন।",৪০,"To determine the total number of octopus legs, we first need to understand that an octopus has 8 legs. 
+
+1. Translate the Bengali problem into English for clarity:
+The problem states that Carson needs to create a report about water animals, so he visits an aquarium and sees a total of 5 octopuses. He wants to mention the number of octopus legs.
+
+2. Calculate the total number of octopus legs:
+Since each octopus has 8 legs, and there are 5 octopuses, the total number of legs can be calculated by multiplying the number of octopuses by the number of legs each octopus has.
+Total legs = Number of octopuses * Legs per octopus
+Total legs = 5 * 8
+Total legs = 40
+
+Answer: **40**"
+283,স্নেহার নিকট তাস খেলার ৩টি সম্পূর্ণ ডেক রয়েছে। তার মোট কয়টি রুইতন আছে?,৩৯,"To solve this problem, we first need to understand the components of a standard deck of cards and then calculate the total number of cards Sneha has.
+
+1. **Translation of the problem:** Sneha has 3 complete decks of cards for playing. How many cards does she have in total?
+
+2. **Calculating the total number of cards:** A standard deck of cards contains 52 cards. Since Sneha has 3 complete decks, we multiply the number of cards in one deck by 3 to find the total number of cards she has.
+
+3. **Total number of cards = 52 cards/deck * 3 decks = 156 cards**
+
+Therefore, Sneha has a total of 156 cards.
+
+**Answer: 156**"
+266,ইকিয়েল ৫টি অভিন্ন ঘনকাকৃতির বস্তুর সমস্ত বাইরের তল এঁকেছেন। ইকিয়েল দ্বারা আঁকা মোট তলের সংখ্যা কত?,৩০,"To solve this problem, let's first translate it into English for clarity:
+""Iqueal has painted all the outer faces of 5 identical cube-shaped objects. How many faces has Iqueal painted in total?""
+
+Since each cube has 6 faces, and there are 5 cubes, we might initially think to calculate the total number of faces as 5 cubes * 6 faces per cube = 30 faces. However, this counts all the faces, including those that are not outer faces when the cubes are considered together.
+
+But, since the problem specifies ""outer faces"" and does not indicate any specific arrangement of the cubes that would cause inner faces to be painted (such as stacking or attaching them in a way that some faces are obscured), we can assume each cube is treated individually. 
+
+Therefore, if Iqueal painted all the outer faces of 5 identical cubes, and each cube has 6 faces, then the total number of faces painted is indeed 5 cubes * 6 faces per cube = 30 faces.
+
+**Answer: 30**"
+401,জোসেফাইন প্রতিদিন দশটি পয়সা সঞ্চয় করতে শুরু করে। কত দিন পর তিনি মোট ২ টাকা সঞ্চয় করতেন?,২০,"To solve this problem, we first need to translate it into English for clarity.
+
+Translation: Josephine starts saving ten paise every day. How many days will it take for her to save a total of 2 rupees?
+
+Now, let's solve the problem. We know that 1 rupee equals 100 paise. Therefore, 2 rupees equal 200 paise. Since Josephine saves 10 paise every day, we can calculate the number of days it will take for her to save 200 paise by dividing the total amount by the daily savings.
+
+Daily savings: 10 paise
+Total savings needed: 200 paise
+
+Number of days = Total savings needed / Daily savings
+= 200 paise / 10 paise
+= 20 days
+
+Therefore, it will take Josephine 20 days to save a total of 2 rupees.
+
+Answer: 20"
+367,"হাইকিং দলকে প্রত্যেক অংশগ্রহণকারীর জন্য গ্লাভসের ব্যবস্থা করতে হবে। মোট অংশগ্রহণকারীদের সংখ্যা ৬৩ হলে, হাইকিং টিমের সর্বনিম্ন কত সংখ্যক গ্লাভস ব্যবস্থা করতে হবে?",১২৬,"To solve the problem, let's first translate it into English for clarity:
+""The hiking team needs to arrange gloves for each participant. If the total number of participants is 63, what is the minimum number of gloves the hiking team needs to arrange?""
+
+Since each participant needs a pair of gloves (one for each hand), the minimum number of gloves required would be twice the number of participants.
+
+Minimum number of gloves = 2 * Total number of participants
+Minimum number of gloves = 2 * 63
+Minimum number of gloves = 126
+
+Therefore, the hiking team needs to arrange at least 126 gloves for the participants.
+
+Answer: 126"
+222,"একটি ফুটবল খেলায়, প্রত্যেক দর্শককে তাদের উভয় হাতের জন্য রিস্টব্যান্ড দেওয়া হত। মোট ২৯০টি রিস্টব্যান্ড বিতরণ করা হয়েছিল। কত মানুষ খেলা দেখেছেন?",১৪৫,"To solve this problem, we first need to understand that each spectator receives two wristbands, one for each hand.
+
+1. Translate the Bengali problem into English for clarity:
+   ""In a football game, each spectator was given wristbands for both hands. A total of 290 wristbands were distributed. How many people watched the game?""
+
+2. Since each spectator receives two wristbands (one for each hand), the total number of spectators can be found by dividing! the total number of wristbands distributed by 2.
+
+Total wristbands distributed = 290
+Each spectator receives 2 wristbands
+
+Number of spectators = Total wristbands distributed / 2
+= 290 / 2
+= 145
+
+Therefore, the number of people who watched the game is 145.
+
+Answer: 145"
+287,স্নেহার নিকট তাস খেলার ৬টি সম্পূর্ণ ডেক রয়েছে। তার মোট কয়টি চিড়িতন আছে?,৭৮,"To solve this problem, we first need to understand the components of a standard deck of cards and then calculate the total number of cards Sneha has.
+
+1. **Translation**: Sneha has 6 complete decks of cards. How many cards does she have in total?
+
+2. **Solution**: A standard deck of cards contains 52 cards. Since Sneha has 6 complete decks, we multiply the number of cards in one deck by the number of decks she has:
+   
+   Total number of cards = Number of decks * Number of cards in one deck
+   
+   Total number of cards = 6 * 52
+   
+   Total number of cards = 312
+
+Therefore, Sneha has a total of 312 cards.
+
+**Answer: 312**"
+378,"পোকার এবং অন্যান্য তাসের খেলা আজকাল জনপ্রিয় হয়ে উঠেছে, তাই এলিজা যাত্রার জন্য ৬ ডেক তাস রাখার সিদ্ধান্ত নেন। তার মোট কতটি কার্ড আছে?",৩১২,"To solve this problem, let's break it down step by step.
+
+1. Translate the Bengali problem into English for clarity:
+The problem states that poker and other card games have become very popular nowadays, so Eliza decides to keep 6 decks of cards for the journey. It asks for the total number of cards she has.
+
+2. Calculate the total number of cards:
+A standard deck of cards has 52 cards. Since Eliza has 6 decks, we multiply the number of cards in one deck by the total number of decks.
+Total cards = Number of decks * Number of cards in one deck
+Total cards = 6 * 52
+Total cards = 312
+
+Therefore, Eliza has a total of 312 cards.
+
+**Answer: 312**"
+198,দাবা খেলায় আরিয়ানা ৩ টি গুটি এবং সামান্থা ৯ টি গুটি হারিয়েছে। দাবা বোর্ডে আর কত টি গুটি আছে?,২০,"To solve this problem, we first need to understand the total number of pieces in a standard chess game and then subtract the pieces lost by Ariana and Samantha.
+
+1. Translation of the problem:
+Ariana lost 3 pieces and Samantha lost 9 pieces in a game of chess. How many pieces are left on the chessboard?
+
+2. Solution:
+In a standard chess game, each player starts with 16 pieces: 1 king, 1 queen, 2 rooks, 2 knights, 2 bishops, and 8 pawns. Therefore, at the beginning of the game, there are 32 pieces on the board (16 pieces for each player).
+
+Ariana lost 3 pieces, and Samantha lost 9 pieces, making a total of 3 + 9 = 12 pieces lost.
+
+To find the number of pieces left on the chessboard, we subtract the total number of lost pieces from the initial total:
+32 (initial pieces) - 12 (lost pieces) = 20
+
+Therefore, there are 20 pieces left on the chessboard.
+
+Answer: **20**"
+203,সোফিয়া প্রতিদিন দশ পয়সা সঞ্চয় করতে শুরু করে। কত দিনে তিনি মোট ২ টাকা সঞ্চয় করতেন?,২০,"To solve this problem, we first need to understand the given information and then proceed with the calculation.
+
+1. Translate the Bengali problem into English for clarity:
+The problem states that Sofia starts saving ten paise every day. We need to find out how many days it takes for her to save a total of 2 rupees.
+
+2. Now, let's proceed with the calculation:
+First, we need to convert the amount from rupees to paise because Sofia saves in paise. We know that 1 rupee = 100 paise.
+So, 2 rupees = 2 * 100 = 200 paise.
+
+Since Sofia saves 10 paise per day, we can calculate the number of days required for her to save 200 paise by dividing the total amount (200 paise) by the daily savings (10 paise).
+
+Number of days = Total savings / Daily savings
+= 200 paise / 10 paise
+= 20 days
+
+Therefore, it takes Sofia 20 days to save a total of 2 rupees.
+
+Answer: **20**"
+122,পেনেলোপ সারা বছরের জন্য প্রতিদিন ২৪ টাকা সঞ্চয় করার সিদ্ধান্ত নিয়েছে। বছরের শেষে পেনেলোপের কত টাকা সঞ্চয় হবে তা হিসাব করুন।,৮৭৬০,"To solve this problem, we first need to translate it into English for clarity:
+
+""Penelope has decided to save 24 taka every day for the entire year. Calculate how much Penelope will save by the end of the year.""
+
+Now, let's solve the problem. There are 365 days in a year. If Penelope saves 24 taka every day, we can calculate the total amount saved by multiplying the daily savings by the number of days in a year:
+
+Total savings = Daily savings * Number of days in a year
+Total savings = 24 taka/day * 365 days
+Total savings = 8760 taka
+
+Therefore, by the end of the year, Penelope will have saved a total of 8760 taka.
+
+Answer: 8760"
+149,"আভা একটি কাছাকাছি পশু খামারে যাওয়ার সিদ্ধান্ত নেয় যেখানে মোট ৯টি প্রাণী রয়েছে। সে প্রবেশদ্বারের কাছে একটি সারিতে দাঁড়িয়ে আছে, গেট থেকে সে খামারের পশুদের পা দেখতে পেল এবং সে গণনা করে মোট পা সংখ্যা ২৬টি। সে ইতিমধ্যেই জানে যে এই খামারে শুধু মুরগি এবং মহিষ রয়েছে। এ তথ্য থেকে মহিষের সংখ্যা বের কর।",৪,"To solve this problem, we first need to understand the given information and translate it into a mathematical equation.
+
+The problem in English translates to: 
+""Ava decides to visit a nearby farm where there are a total of 9 animals. She stands in a row at the entrance, from the gate she can see the legs of the farm animals and she counts a total of 26 legs. She already knows that this farm has only chickens and buffalo. Determine the number of buffalo from this information.""
+
+Let's denote the number of chickens as C and the number of buffalo as B. 
+
+Given information:
+1. Total number of animals = 9
+   This can be written as: C + B = 9
+
+2. Total number of legs = 26
+   Since chickens have 2 legs and buffalo have 4 legs, this can be written as: 2C + 4B = 26
+
+Now, we have a system of linear equations:
+1. C + B = 9
+2. 2C + 4B = 26
+
+We can solve this system of equations to find the value of B (number of buffalo).
+
+First, let's simplify the second equation by dividing everything by 2:
+C + 2B = 13
+
+Now, we subtract the first equation from this new equation:
+(C + 2B) - (C + B) = 13 - 9
+This simplifies to:
+B = 4
+
+Therefore, the number of buffalo is 4.
+
+Answer: **4**"
+14,১৩ জন মেয়ের একটি দল নেইল পলিশ করার জন্য একটি স্পাতে গিয়েছিল। যদি প্রতিটি মেয়ের হাতের আঙ্গুল পালিশ করা হয়। স্পা কর্মীদের পালিশ করা মোট আঙ্গুলের সংখ্যা কত?,১৩০,"To solve this problem, we first need to translate it into English for clarity:
+
+""13 girls went to a spa to get their nails polished. If each girl gets her fingernails polished, what is the total number of fingers polished by the spa workers?""
+
+Now, let's break down the solution:
+- Each girl has 10 fingers (since we're considering fingernails, not toenails).
+- There are 13 girls in the group.
+
+To find the total number of fingers polished, we multiply the number of fingers per girl by the number of girls:
+10 fingers/girl * 13 girls = 130 fingers
+
+Therefore, the total number of fingers polished by the spa workers is 130.
+
+**Answer: 130**"
+81,একজন শিক্ষক ৪০ জন ছাত্র এবং ২৪ জন ছাত্রীকে কতগুলো দলে ভাগ করে দিলেন যেন প্রত্যেক দলে ছাত্র ও ছাত্রীর সংখ্যা সমান থাকে এবং কোনো শিক্ষার্থী অবশিষ্ট না থাকে। সর্বোচ্চ কতটি দলে ভাগ করা যাবে এবং প্রতি দলে কতজন ছাত্র এবং ছাত্রী থাকবে তা নির্ণয় কর।,১২০,"To solve this problem, we first need to translate it into English for clarity:
+
+""A teacher divided 40 male students and 24 female students into several groups so that each group has an equal number of male and female students, and no student is left over. Determine the maximum number of groups that can be formed and the number of male and female students in each group.""
+
+To find the maximum number of groups where each group has an equal number of male and female students, we need to find the greatest common divisor (GCD) of the number of male students (40) and the number of female students (24). 
+
+The factors of 40 are: 1, 2, 4, 5, 8, 10, 20, 40.
+The factors of 24 are: 1, 2, 3, 4, 6, 8, 12, 24.
+
+The greatest common divisor (GCD) of 40 and 24 is 8. This means that each group can have 8 students in total, with 4 male students and 4 female students, since 8 is the largest number that divides both 40 and 24 without leaving a remainder.
+
+To find the maximum number of groups, we divide the total number of male students by the number of male students per group, and the total number of female students by the number of female students per group:
+
+Maximum number of groups based on male students = 40 / 4 = 10
+Maximum number of groups based on female students = 24 / 4 = 6
+
+Since both calculations must result in a whole number (as you cannot have a fraction of a group), and we are looking for the maximum number of groups where both conditions (equal number of males and females in each group and no students left over) are met, we see that the limiting factor is the number of female students, allowing for 6 groups.
+
+Therefore, the maximum number of groups that can be formed is 6, with each group having 4 male students and 4 female students.
+
+**Answer: 6**"
+206,ব্রাইসন থ্যাঙ্কসগিভিং সেলের সময় ৭ জোড়া জুতা কিনেছিলেন। এখন তার মোট নতুন জুতা সংখ্যা কত?,১৪,"To solve this problem, we first need to understand that a pair of shoes consists of 2 individual shoes. 
+
+1. Translate the Bengali problem into English for clarity: 
+Bryson bought 7 pairs of shoes during the Thanksgiving sale. Now, how many new shoes does he have in total?
+
+2. Since each pair of shoes contains 2 shoes, we can calculate the total number of new shoes by multiplying the number of pairs by 2.
+Total new shoes = Number of pairs * 2
+Total new shoes = 7 * 2
+Total new shoes = 14
+
+Answer: **14**"
+140,বর্গাকার একটি পার্কের চারপাশে বেড়া দেওয়া হলো এবং বেড়ার মোট খরচ ছিল ১৭২ টাকা। প্রতিটি পাশে বেড়া খরচ কত?,৪৩,"To solve this problem, we first need to translate it into English for clarity.
+
+Translation: A square park has been fenced, and the total cost of the fence was 172 rupees. What is the cost of fencing per side?
+
+Since the park is square, all sides are equal in length. Let's denote the cost of fencing per side as 'x'. The total cost of fencing the park would be the sum of the costs of fencing all four sides, which is 4x.
+
+Given that the total cost of fencing is 172 rupees, we can set up the equation:
+4x = 172
+
+To find the cost of fencing per side (x), we divide both sides of the equation by 4:
+x = 172 / 4
+x = 43
+
+Therefore, the cost of fencing per side is 43 rupees.
+
+Answer: **43**"
+257,"একটি গাড়ি পার্কিং লটে, পেনেলোপ লক্ষ্য করেছেন যে ৪৮টি গাড়ির চাকা রয়েছে। পার্কিং লটে গাড়ির সংখ্যা কতটি?",১২,"To solve the problem, we first need to understand that each car has 4 wheels. 
+
+1. Translation of the problem: Penelope noticed that there are 48 car wheels in a parking lot. How many cars are there in the parking lot?
+
+Each car has 4 wheels, so to find the total number of cars, we divide the total number of wheels by 4.
+
+Total number of wheels = 48
+Total number of wheels per car = 4
+
+Total number of cars = Total number of wheels / Total number of wheels per car
+= 48 / 4
+= 12
+
+Therefore, the number of cars in the parking lot is 12.
+
+Answer: 12"
