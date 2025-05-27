@@ -90,7 +90,6 @@ BenNumEval is released under the [MIT License](LICENSE).
 ## 🌐 Links
 
 * 📄 [Paper (PDF)](https://github.com/kawsar-pie/BenNumEval)
-* 📦 [Dataset Download](./data/ben_numeval_dataset.csv)
 * 🔬 [Project Page](https://github.com/kawsar-pie/BenNumEval)
 * 🤗 [Hugging Face Dataset](https://huggingface.co/datasets/ka05ar/BenNumEval)
 
