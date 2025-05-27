@@ -1,0 +1,2530 @@
+Q No.,Question,Answer,option1,option2,Model Response
+116,"এমিলি ছাদে একটি কলা ছুড়ে ফেলে এবং এটি ১০০ মিমি পিছলে যায়, কিন্তু যখন সে এটি স্লাইডে ছুড়ে দেয়, তখন এটি ২১১ মিমি পিছলে যায়। কোথায় কম ঘর্ষণ ছিল?",Option 2,ছাদ,স্লাইড,"### Translation
+
+**Question:** Emily throws a banana on the roof and it slides 100 mm, but when she throws it on the slide, it slides 211 mm. Where is there less friction?
+
+**Option 1:** Roof  
+**Option 2:** Slide
+
+### Answer
+
+Since the banana slides a longer distance on the slide compared to the roof, it indicates there is less friction on the slide.
+
+**Answer: Option 2**"
+187,"একটি বিড়াল এবং একটি কুকুর উভয়ই ৫ মাইল বেগে দৌড়ায়। যদি বিড়াল ১ মিনিট এবং কুকুর ১.৫ মিনিট দৌড়ায়, তাহলে কোনটি বেশি দূরত্ব অতিক্রম করবে?",Option 2,বিড়াল,কুকুর,"## Translation:
+
+**Question:** A cat and a dog both run at a speed of 5 miles per hour. If the cat runs for 1 minute and the dog runs for 1.5 minutes, which one will cover more distance?
+
+**Option 1:** Cat
+
+**Option 2:** Dog
+
+## Solution:
+
+1. **Calculate the distance the cat covers:**
+
+   - Speed of the cat = 5 miles/hour.
+   - Time = 1 minute = 1/60 hours.
+   - Distance = Speed × Time = 5 × (1/60) = 5/60 miles.
+
+2. **Calculate the distance the dog covers:**
+
+   - Speed of the dog = 5 miles/hour.
+   - Time = 1.5 minutes = 1.5/60 hours.
+   - Distance = Speed × Time = 5 × (1.5/60) = 5 × (3/120) = 15/120 = 1/8 or 0.125 miles.
+
+Comparing the distances:
+
+- The cat covers 5/60 = 1/12 ≈ 0.0833 miles.
+- The dog covers 0.125 miles.
+
+Since 0.125 > 0.0833, the dog covers more distance.
+
+**Answer:** Option 2"
+367,টিনা এবং মিনা দুজনেই হাইওয়েতে একই গতিতে যাচ্ছে। টিনা ৩০.৬ মিনিট এবং মিনা ২৮.৭৬ মিনিটের জন্য গাড়ি চালায়। কে বেশী দূর গাড়ি চালায়?,Option 1,টিনা,মিনা,"1. **Translation:**
+
+   - Question: Tina and Mina are both traveling on the highway at the same speed. Tina drives for 30.6 minutes and Mina drives for 28.76 minutes. Who drives a longer distance?
+   
+   - Option 1: Tina
+   
+   - Option 2: Mina
+
+2. **Solution:**
+
+   To determine who drives a longer distance, we use the formula for distance:
+   
+   \[
+   \text{Distance} = \text{Speed} \times \text{Time}
+   \]
+   
+   Since both Tina and Mina are driving at the same speed, the distance covered is directly proportional to the time spent driving. Therefore, we only need to compare their driving times.
+   
+   - Tina's driving time: 30.6 minutes
+   - Mina's driving time: 28.76 minutes
+   
+   Clearly, 30.6 minutes is greater than 28.76 minutes.
+   
+   Therefore, Tina drives a longer distance than Mina.
+
+3. **Conclusion:**
+
+   **Answer: Option 1**"
+82,"শিলোহ স্যান্ডপেপারের একটি অংশের উপর একটি বল রোল করে এবং লক্ষ্য করে যে বলটি ২ মিটার/সেকেন্ডে বেগে ঘূর্ণায়মান হয়, তারপরে শিলো তার বলটিকে একটি কাঁচের টুকরার উপর দিয়ে ঘুরিয়ে দেয় এবং বলটি ৫ মিটার/সেকেন্ড বেগে ঘূর্ণায়মান হয়। বল দ্রুত ঘুরল কারণ কাঁচের টুকরোয়?",Option 2,বেশী ঘর্ষণ,কম ঘর্ষণ,"## Translation
+
+**Question:** Shiloh rolls a ball over a piece of sandpaper and notices that the ball rotates at a speed of 2 meters/second. Then, Shiloh rolls the ball over a piece of glass, and the ball rotates at a speed of 5 meters/second. Did the ball spin faster because the glass piece had?
+
+**Option 1:** More friction
+
+**Option 2:** Less friction
+
+To solve this, consider the principle that friction affects the speed at which an object moves. In this case, the ball moved faster on the glass piece because it encountered less resistance. Lower friction allows objects to move more easily, whereas higher friction resists motion.
+
+Therefore, the ball rolled faster on the glass because of less friction compared to the sandpaper.
+
+**Answer: Option 2**"
+315,একজন সাঁতারু ৫ মিনিটে একটি হ্রদ অতিক্রম করে এবং ৩০ সেকেন্ডে ভিজা কাদা অতিক্রম করে কোনটি কম মসৃণ?,Option 1,হ্রদ,ভিজা কাদা,"1. Translation of the question and options:
+
+   - Question: A swimmer crosses a lake in 5 minutes and crosses wet mud in 30 seconds. Which is less smooth?
+   - Option 1: Lake
+   - Option 2: Wet mud
+
+2. Understanding the question:
+
+   The question asks which of the two surfaces (lake or wet mud) is less smooth. A less smooth surface usually results in slower movement through it due to higher resistance.
+
+3. Analyzing the problem:
+
+   - The swimmer crosses the lake in 5 minutes, taking a relatively longer time, which could suggest it has less resistance or more smoothness.
+   - Crossing wet mud in 30 seconds is faster, but this might not indicate smoothness; rather, it aligns with the more straightforward act of walking through it compared to swimming.
+
+   When considering less smooth in terms of causing more resistance, ""wet mud"" generally offers more resistance to motion than water. Thus, despite the faster time in mud, it is the less smooth terrain that impedes movement based on conditions beyond just crossing time.
+
+4. Conclusion:
+
+   - Wet mud usually offers more resistance than water, making it less smooth.
+   
+Answer: Option 2"
+358,"মহসিনের ট্রাকের গড় গতি ঘণ্টায় ১৩ মাইল এবং তার গাড়ির গতি ঘণ্টায় ২৯ মাইল। যদি তিনি ফ্রিওয়েতে এক ঘন্টার জন্য উভয়ই গাড়ি চালান, তবে কোনটি কম দূরত্ব অতিক্রম করবে?",Option 1,ট্রাক,গাড়ী,"## Translation:
+
+**Question:** Mohsin's truck has an average speed of 13 miles per hour, and his car has a speed of 29 miles per hour. If he drives both on the freeway for one hour, which will cover a shorter distance?
+
+**Option 1:** Truck  
+**Option 2:** Car
+
+## Solution:
+
+Given the speeds:
+- Truck: 13 miles per hour
+- Car: 29 miles per hour
+
+Distance covered in one hour equals the speed (because distance = speed × time, and time = 1 hour for both vehicles):
+
+- Distance covered by the truck in one hour = 13 miles
+- Distance covered by the car in one hour = 29 miles
+
+Since 13 miles (truck) is less than 29 miles (car), the truck covers a shorter distance.
+
+**Answer:** Option 1"
+77,একজন প্রশিক্ষক প্রতিদিন তার ঘোড়া দৌড়াতে দেখেছেন। ঘোড়াটি ৬ সেকেন্ডের মধ্যে বেশি গতিতে উঠতে সক্ষম হয়েছিল যখন কেউ তাকে চড়ছিল না এবং যখন কেউ তাকে চড়েছিল তখন এটি ১২ সেকেন্ড সময় নেয়।ঘোড়ার ওজন কম ছিল যখন?,Option 2,এর একজন রাইডার ছিল,যখন কেউ তাকে চড়ছিল না,"1. **Translated Question and Options:**
+
+   **Question:** A trainer observed his horse running every day. The horse was able to accelerate more in 6 seconds when no one was riding it, and it took 12 seconds to do so when someone was riding it. When was the weight on the horse less?
+
+   **Option 1:** When it had a rider
+
+   **Option 2:** When no one was riding it
+
+2. **Conclusion:**
+
+   Since it took longer for the horse to accelerate when someone was riding it (12 seconds) compared to when no one was riding it (6 seconds), this implies that the weight on the horse was less when no one was riding it.
+
+**Answer: Option 2**"
+180,"গাড়ি চালিয়ে, মেরি জানতে পেরেছিলেন যে জঙ্গলের ঘর্ষণ সহগ ০.৭, যেখানে রাস্তায় জঙ্গলের তুলনায় ০.১ বেশি। তার গাড়ির বেগ কোথায় বেশী?",Option 1,জঙ্গল,টুন্ড্রা,"## Translation:
+
+**Question:** By driving, Mary learned that the coefficient of friction in the forest is 0.7, whereas on the road it is 0.1 more than in the forest. Where is her car's speed higher?
+
+**Option 1:** Forest  
+**Option 2:** Tundra
+
+## Explanation:
+
+The coefficient of friction affects how much grip a surface provides to the tires of a car. A higher coefficient means better grip and typically allows for higher speeds without losing control. Given:
+
+- Coefficient of friction in the forest = 0.7
+- Coefficient of friction on the road = 0.7 + 0.1 = 0.8
+
+Since the road has a higher coefficient of friction than the forest, Mary’s car can achieve a higher speed safely on the road than in the forest.
+
+Therefore, the word ""টুন্ড্রা"" (Tundra) in the options likely refers to an open, non-forested area, akin to ""road"" in the question context. Hence, the car's speed is higher on the road compared to the forest.
+
+**Answer: Option 2**"
+329,আমি একটি গাড়িতে ৬ মি/সে গতিতে এবং একটি সাইকেলে ২০ মি/সে গতিতে ভ্রমণ করতে পারি। কোনটি ধীর?,Option 2,সাইকেল,গাড়ী,"1. Translate the Bengali question and options into English:
+
+Question: I can travel at a speed of 6 m/s in a car and at a speed of 20 m/s on a bicycle. Which is slower?
+Option 1: Bicycle
+Option 2: Car
+
+2. Conclude by selecting the correct option:
+
+The car has a speed of 6 m/s and the bicycle has a speed of 20 m/s. Since 6 m/s is slower than 20 m/s, the car is the slower option.
+
+**Answer: Option 2**"
+49,"টিনা তার দুটি কুকুরের মধ্যে দৌড় দিচ্ছে। এর মধ্যে গ্রেহাউন্ডের ওজন ৪০ কেজি, এবং তার রটওয়েলারের ওজন ৩৫ কেজি। কোন কুকুরটি বেশী দ্রুত দৌড়ায়?",Option 1,রটওয়েলার,গ্রেহাউন্ড,"## Translated Question:
+Tina is having a race between her two dogs. Among them, the weight of the Greyhound is 40 kg, and the weight of the Rottweiler is 35 kg. Which dog runs faster?
+
+## Options:
+- Option 1: Rottweiler
+- Option 2: Greyhound
+
+Greyhounds are generally known to be faster than Rottweilers due to their breed characteristics and body structure, which are suited for high-speed running.
+
+**Answer: Option 2**"
+207,একটি ছোট ছেলে হলওয়ের নিচে তার দুটি রাবারের বল গড়িয়েছে। লাল বল ১ মিনিট ২৩ সেকেন্ড পরে থামল। নীলটি ২৯ সেকেন্ড পরে থামল। কোনটি সবচেয়ে দূরে গড়িয়ে গেলো?,Option 1,লাল বল,নীল বল,"### Translation
+
+**Question:** A little boy rolled two rubber balls down the hallway. The red ball stopped 1 minute 23 seconds later. The blue ball stopped 29 seconds later. Which one rolled the farthest?
+
+**Option 1:** Red ball  
+**Option 2:** Blue ball
+
+### Solution
+
+Generally, a ball that rolls for a longer duration tends to cover more distance, assuming both balls have similar friction and surface conditions. In this case:
+
+- The red ball stopped after 1 minute 23 seconds, which is 83 seconds.
+- The blue ball stopped after 29 seconds.
+
+The red ball rolled for a longer period than the blue ball. Thus, it is reasonable to conclude that the red ball rolled the farthest.
+
+**Answer:** Option 1"
+163,"একটি রেস কার এবং একটি পিকআপ উভয়ই একই গতিতে হাইওয়েতে চলেছিল। রেস কারের চালক ক্লান্ত হয়ে পড়ে এবং ১৫ মিনিট পরে পার্ক করে, যখন পিকআপের চালক আরও ১৫ মিনিট চালিয়ে যান। কোন যানটি শেষ পর্যন্ত বেশি দূরত্ব অতিক্রম করেছে?",Option 2,রেস গাড়ী,পিকআপ,"## Translation:
+
+### Question:
+A race car and a pickup truck were both traveling at the same speed on the highway. The driver of the race car got tired and parked after 15 minutes, while the driver of the pickup truck continued to drive for an additional 15 minutes. Which vehicle ultimately covered a greater distance?
+
+### Options:
+1. Race car
+2. Pickup
+
+## Solution:
+
+When two vehicles travel at the same speed, the distance traveled is directly proportional to the time they drive. Since the pickup truck continued to drive for an additional 15 minutes after the race car parked, it covered more distance assuming they started at the same time and speed. Therefore, the pickup truck traveled a greater distance.
+
+**Answer: Option 2**"
+137,যদি একজন স্কেটার একটি মাঠে ৩৪ মিটার/সেকেন্ড এবং একটি স্কেট পার্কে ২২ মিটার/সেকেন্ড গতিতে রাইড করে তাহলে এর মানে হল যে _____ বেশী রুক্ষ?,Option 1,স্কেট পার্ক,মাঠ,"## Translated Question:
+If a skater rides at 34 meters/second on a field and 22 meters/second in a skate park, this means that _____ is rougher?
+
+## Translated Options:
+Option 1: Skate park  
+Option 2: Field
+
+The context implies that the lower speed of 22 meters/second in the skate park suggests it's rougher compared to the field where the speed is 34 meters/second.
+
+**Answer: Option 1**"
+32,এক টুকরো চুলের ব্যাস ০.০৬ মি.মি. যেখানে একটি দড়ির ব্যাস ১১ মি.মি. তাই চুল?,Option 2,শক্তিশালী,দুর্বল,"1. Translate the Bengali question and options into English:
+
+Question: The diameter of a strand of hair is 0.06 mm, while the diameter of a rope is 11 mm. Therefore, the hair is?
+
+Option 1: Stronger  
+Option 2: Weaker
+
+2. Conclusion:
+
+Given that a strand of hair has a much smaller diameter compared to a rope, it can be inferred that the hair is weaker in terms of strength compared to a thicker rope.
+
+**Answer: Option 2**"
+23,২২২২২২২ থেকে  ৫৫৫৫৫৫ সংখ্যাটি?,Option 2,বড়,ছোট,"1. **Translated Question and Options:**
+
+   - Question: From 2222222, 555555 number?
+   - Option 1: Larger
+   - Option 2: Smaller
+
+To determine which number is larger, we compare the two numbers directly:
+
+- 2222222 is a seven-digit number: 2,222,222
+- 555555 is a six-digit number: 555,555
+
+Since 2222222 has more digits than 555555, 2222222 is larger than 555555.
+
+2. **Answer:** Option 1"
+7,স্ট্যানলি এবং কাইল রাস্তায় ৪০ মাইল গতিতে তাদের গাড়ি চালাচ্ছেন। স্ট্যানলি তার ফোনের উত্তর দেওয়ার জন্য তার গাড়ি থামিয়ে দেয় যখন কাইল গাড়ি চালিয়ে যায়। সবচেয়ে কম দূরত্বে গাড়ি চালায় কে?,Option 1,স্ট্যানলি ,কাইল,"## Translation:
+
+### Question:
+Stanley and Kyle are driving their cars on the road at a speed of 40 miles per hour. Stanley stops his car to answer his phone, while Kyle continues driving. Who drives the least distance?
+
+### Options:
+- Option 1: Stanley
+- Option 2: Kyle
+
+## Solution:
+Since Stanley stops his car to answer his phone and Kyle continues to drive, Stanley would drive a shorter distance compared to Kyle. This is because he is not covering any ground while his car is stationary.
+
+**Answer: Option 1**"
+360,"পুরানো গাছের কাণ্ডের প্রস্থ ৫.১ ইঞ্চি, এবং নতুন গাছের কাণ্ডের পুরুত্ব ১০ সেমি, তাহলে পুরানো গাছটি ছিল তুলনামূলক?",Option 1,শক্তিশালী গাছ,দুর্বল গাছ,"**Translated Question:**
+The trunk of the old tree has a width of 5.1 inches, and the trunk of the new tree has a thickness of 10 cm. Then, the old tree was comparatively?
+
+**Translated Options:**
+- Option 1: A strong tree
+- Option 2: A weak tree
+
+To solve this, we need to compare the thickness (or width) of the trunks of the old and new trees:
+
+1. Convert the measurements to the same unit:
+   - The width of the old tree's trunk is 5.1 inches. 
+   - The thickness of the new tree's trunk is 10 cm.
+
+Converting inches to centimeters for easier comparison:
+- 1 inch equals 2.54 cm, therefore 5.1 inches equals \(5.1 \times 2.54 = 12.954\) cm.
+
+Now comparing:
+- Old tree trunk: 12.954 cm
+- New tree trunk: 10 cm
+
+Since 12.954 cm (old tree) is greater than 10 cm (new tree), the old tree had a thicker trunk, which implies it was comparatively stronger.
+
+**Answer: Option 1**"
+295,"ম্যামথটি জলের গর্তের মধ্য দিয়ে ঘন্টায় ১৮ কিমি বেগে চলেছিল, কিন্তু শক্ত ময়লার উপর ঘন্টায় ২৭ কিমি বেগে চলেছিল কারণ শক্ত ময়লা ছিল?",Option 1,কম প্রতিরোধী,বেশী প্রতিরোধী,"### Translation of the Question and Options:
+
+**Question:** The mammoth traveled at a speed of 18 km per hour through the water hole, but traveled at a speed of 27 km per hour on solid dirt because the solid dirt was?
+
+**Option 1:** Less resistant
+
+**Option 2:** More resistant
+
+To determine the correct option, we need to consider why the speed of the mammoth was higher on solid dirt compared to water. Generally, animals and objects encounter less resistance on solid surfaces compared to when they move through water due to the higher density and resistance of water. This would cause the mammoth to travel faster on solid dirt.
+
+### Conclusion:
+The correct reasoning is that solid dirt is less resistant than water, enabling the mammoth to travel at a higher speed on solid dirt.
+
+**Answer: Option 1**"
+189,একটি বিড়াল নদীর মধ্য দিয়ে ১২.৫৭ মিটার/সেকেন্ড এবং জঙ্গলের মধ্য দিয়ে ৩২.৯৪ মিটার/সেকেন্ড গতিতে চলে। এর মানে বিড়াল কম বাধা পায়?,Option 1,জঙ্গলে,নদীতে,"1. **Translation:**
+   - A cat moves through a river at a speed of 12.57 meters/second and through a jungle at a speed of 32.94 meters/second. This means the cat faces less resistance where?
+   - **Option 1:** In the jungle
+   - **Option 2:** In the river
+
+To determine where the cat experiences less resistance, we compare the speeds. Higher speed suggests less resistance. The cat moves at a higher speed in the jungle (32.94 meters/second) compared to the river (12.57 meters/second). Therefore, the cat encounters less resistance in the jungle.
+
+**Answer:** Option 1"
+126,বিলি এবং জিমি একদিন দৌড়ে বাড়ি ফিরার সিদ্ধান্ত নেয়। জিমি ১০০ মিনিটে বাড়ি ফিরেছে এবং বিলি ১ ঘন্টা সময় নিয়েছে। জিমি কি তাই?,Option 1,ধীর,দ্রুত,"1. Translate the Bengali question and options into English for clarity:
+
+Question: Billy and Jimmy decided to run home one day. Jimmy returned home in 100 minutes, and Billy took 1 hour. Who is faster?
+
+Option 1: Slower
+
+Option 2: Faster
+
+2. Determine who is faster by comparing the times:
+
+- Jimmy's time: 100 minutes
+- Billy's time: 1 hour = 60 minutes
+
+Since 60 minutes (Billy) is less than 100 minutes (Jimmy), Billy is faster.
+
+Conclude by selecting the correct option:
+
+**Answer: Option 1**"
+101,টিনা এবং মিনা দুজনেই হাইওয়েতে একই গতিতে যাচ্ছে। টিনা ১২৯ মিনিট এবং মিনা ৩৬ মিনিট ৪৮ সেকেন্ড ড্রাইভ করেন। কে বেশী দূর ড্রাইভ করে?,Option 2,মিনা,টিনা,"1. **Translation of the Question and Options:**
+
+   **Question:** Tina and Mina are both traveling on the highway at the same speed. Tina drives for 129 minutes and Mina drives for 36 minutes and 48 seconds. Who drives a longer distance?
+
+   **Option 1:** Mina
+
+   **Option 2:** Tina
+
+2. **Solving the Problem:**
+
+   Since both Tina and Mina are driving at the same speed, the distance each one drives depends solely on the time they spend driving.
+
+   - **Tina's Driving Time:** 129 minutes
+   
+   - **Mina's Driving Time:** 36 minutes and 48 seconds, which equals 36 + (48/60) minutes = 36.8 minutes
+
+   Comparing the two times:
+   
+   129 minutes > 36.8 minutes
+
+   Therefore, because Tina drives for a longer period, she drives a longer distance.
+
+3. **Conclusion:**
+
+   **Answer: Option 2**"
+62,মাহির ওজন ৬৭৮ নিউটন যেখানে তার বন্ধু মুসার ওজন ৮৫২ নিউটন। যার ভর বেশি হওয়ার সম্ভাবনা আছে?,Option 2,মাহি,মুসা,"## Translation:
+
+### Question:
+Mahir's weight is 678 Newtons while his friend Musa's weight is 852 Newtons. Who is likely to have a higher mass?
+
+### Options:
+- **Option 1:** Mahir
+- **Option 2:** Musa
+
+## Solution:
+Weight is the force due to gravity acting on an object and is calculated as the product of mass and the acceleration due to gravity (approximately 9.8 m/s² on Earth). Given that the weights of Mahir and Musa are 678 Newtons and 852 Newtons respectively, Musa is likely to have a higher mass because his weight is greater.
+
+**Answer: Option 2**"
+38,আমাদের স্কুল থেকে আয়েশা ও কামালের বাড়ি যথাক্রমে ১ কি.মি. ও ৬০০ মিটার দূরে। আজ আয়েশা ও কামাল বাড়ি থেকে যথাক্রমে ২০ মিনিটে ও ১২ মিনিটে স্কুলে এসেছে। দেখি ওরা একই সময়ে স্কুলে এসেছে কি?,Option 1,একই সময়ে স্কুলে এসেছে,একই সময়ে স্কুলে আসেনি,"1. **Translation of the Question and Options:**
+
+   - **Question:** From our school, Ayesha's and Kamal's homes are 1 km and 600 meters away respectively. Today, Ayesha and Kamal came to school from their homes in 20 minutes and 12 minutes respectively. Let's see if they arrived at the same time.
+   
+   - **Option 1:** They arrived at the same time.
+   
+   - **Option 2:** They did not arrive at the same time.
+
+2. **Solution:**
+
+   First, convert distances into the same unit (meters).
+   - Ayesha's distance: 1 km = 1000 meters
+   - Kamal's distance: 600 meters
+
+   Next, calculate their speeds in meters per minute.
+   - Ayesha's speed = 1000 meters / 20 minutes = 50 meters/minute
+   - Kamal's speed = 600 meters / 12 minutes = 50 meters/minute
+
+   Both Ayesha and Kamal have the same speed of 50 meters per minute.
+
+   Since they have the same speed, if they start at the same time, they would arrive at the school at the same time despite the different distances, given the time they took is proportional to the distance they traveled.
+
+3. **Conclusion:**
+
+   Due to the calculation above, they arrived at the same time.
+
+   **Answer: Option 1**"
+240,একজন সাঁতারু ১২ মিনিটে একটি হ্রদ অতিক্রম করে এবং ৩১ মিনিটে ভেজা কাদা অতিক্রম করে কারণ _____ বেশী মসৃণ?,Option 1,হ্রদ,ভিজা কাদা,"## Translation
+
+### Question:
+A swimmer crosses a lake in 12 minutes and crosses wet mud in 31 minutes because _____ is smoother?
+
+### Options:
+1. Lake
+2. Wet mud
+
+## Solution
+The swimmer crosses the lake faster (in 12 minutes) compared to the wet mud (in 31 minutes). This suggests that the lake is smoother, allowing the swimmer to traverse it more quickly.
+
+**Answer: Option 1**"
+20,১২৩৪৫৬৭৮০৯০ সংখ্যাটি ৯৮৭৬৫৪৩২১ সংখ্যাটি থেকে  ?,Option 2,ছোট,বড়,"1. Translate the Bengali question and options into English for clarity:
+
+   **Question**: Is the number 1234567890 smaller or larger than the number 987654321?
+
+   **Option 1**: Smaller
+   **Option 2**: Larger
+
+2. Compare the numbers: 
+   - The number 1234567890 has ten digits.
+   - The number 987654321 has nine digits.
+   
+   Since 1234567890 has more digits than 987654321, it is larger.
+
+3. Conclude by selecting the correct option.
+
+**Answer: Option 2**"
+45,গনিত বইয়ে ৪০০ পৃষ্ঠা এবং বাংলা বইয়ে ৩৫০ পৃষ্ঠা আছে। কোন বইটি বেশি পুরু?,Option 2,বাংলা ,গনিত ,"1. **Translation:**
+
+   **Question:** The mathematics book has 400 pages and the Bengali book has 350 pages. Which book is thicker?
+
+   **Option 1:** Bengali  
+   **Option 2:** Mathematics  
+
+2. **Solution:** The mathematics book has 400 pages while the Bengali book has 350 pages. Since 400 is greater than 350, the mathematics book is thicker.
+
+**Answer: Option 2**"
+89,একটি সেডানের ওজন ৩৩৫১ পাউন্ড এবং একটি আবর্জনা ট্রাক যার ওজন ৬৪০০০ পাউন্ড ট্রাফিক লাইটে আলো সবুজ হয়ে গেলে উভয় গাড়ির বেগ প্রতি ঘণ্টায় ৫০ মাইল পর্যন্ত পৌঁছায়। কোন গাড়ি রেস জিতবে?,Option 1,সেডান,আবর্জনার ট্রাক,"## Translation:
+
+**Question:** The weight of a sedan is 3351 pounds and a garbage truck weighs 64000 pounds. When the traffic light turns green, both vehicles reach a speed of 50 miles per hour. Which vehicle will win the race?
+
+**Option 1:** Sedan  
+**Option 2:** Garbage truck
+
+## Solution:
+
+To determine which vehicle will ""win the race,"" we need to consider the ability of each vehicle to accelerate to the speed of 50 miles per hour.
+
+- **Acceleration and Weight:** Generally, a lighter vehicle can accelerate faster than a heavier one, assuming similar power output from their engines. The sedan weighs 3351 pounds, which is significantly lighter than the garbage truck weighing 64000 pounds. This means that if both vehicles have comparable engine power, the sedan will likely accelerate faster and reach the target speed sooner.
+
+Thus, based on the weight and typical acceleration capacity, the sedan is more likely to win the race by reaching 50 miles per hour quicker than the garbage truck.
+
+**Answer:** Option 1"
+378,বিউটি কুইন ১৩ মিটার/সেকেন্ড গতিতে মার্বেল মেঝেতে কিন্তু কাঠের মেঝেতে ৯ মিটার/সেকেন্ড গতিতে হাটতে পেড়েছিলেন। কারণ এটি ছিল?,Option 1,বেশী প্রতিরোধী,কম প্রতিরোধী,"## Translation:
+
+### Question:
+Beauty Queen was able to walk at a speed of 13 meters/second on a marble floor but at a speed of 9 meters/second on a wooden floor. What was the reason for this?
+
+### Options:
+- Option 1: More resistant
+- Option 2: Less resistant
+
+### Analysis:
+Resistance generally refers to how much a surface opposes motion across it. A surface that offers more resistance typically slows down an object moving across it, while a surface with less resistance allows for faster motion.
+
+Beauty Queen was able to walk faster on the marble floor (13 m/s) compared to the wooden floor (9 m/s). This suggests that the marble floor offered less resistance compared to the wooden floor, allowing for a faster walking speed.
+
+## Conclusion
+**Answer: Option 2**"
+220,একটি বিড়াল নদীর মধ্য দিয়ে ৫ মি/সেকেন্ড এবং জঙ্গলের মধ্য দিয়ে ৯.৮৯ মি/সেকেন্ড গতিতে চলে। এর মানে বিড়াল কম বাধা পায়?,Option 1,জঙ্গল,নদী,"## Translation:
+
+### Question:
+A cat moves at a speed of 5 m/s through a river and at a speed of 9.89 m/s through a jungle. Does this mean the cat encounters less resistance?
+
+### Options:
+- Option 1: Jungle
+- Option 2: River
+
+## Solution:
+
+The speed of the cat indicates the level of resistance it experiences. If the cat moves faster in one environment compared to another, it generally means that it faces less resistance in the environment where its speed is greater.
+
+- In the jungle, the cat's speed is 9.89 m/s.
+- In the river, the cat's speed is 5 m/s.
+
+Since the cat moves faster in the jungle (9.89 m/s) than in the river (5 m/s), it experiences less resistance in the jungle.
+
+**Answer: Option 1**"
+30,আপনি কোনটি বেশী শুনতে পাবেন বলে মনে করেন?,Option 2,একটি হেলিকপ্টার যেটি 154 ফুট দূরে উড়ছে,একটি হেলিকপ্টার যা ৬২ মিটার দূরে উড়ছে,"1. Translate the Bengali question and options into English for clarity.
+
+**Question:** Which one do you think you will hear more?
+
+**Option 1:** A helicopter that is flying 154 feet away.
+
+**Option 2:** A helicopter that is flying 62 meters away.
+
+To determine which helicopter will be heard more, we need to compare the distances.
+
+First, let's convert the distance of 62 meters to feet for easier comparison (since Option 1 is already in feet). 
+
+1 meter is approximately 3.28084 feet, therefore:
+
+62 meters = 62 * 3.28084 = approximately 203.41 feet.
+
+Now, compare the distances:
+
+- **Option 1:** 154 feet
+- **Option 2:** approximately 203.41 feet
+
+Given that sound decreases with distance, a helicopter closer to the observer will be heard more loudly than one farther away.
+
+Therefore, the helicopter at 154 feet (Option 1) will be heard more than the one at 203.41 feet (Option 2).
+
+**Answer: Option 1**"
+151,একটি ছোট ছেলে হলওয়ের নিচে তার দুটি রাবারের বল গড়িয়েছে। লাল বল ১ মিনিট পরে থামল। নীলটি ৫৭ সেকেন্ড পরে থামল। কোনটি সবচেয়ে দূরে গড়িয়ে গেলো?,Option 1,লাল বল,নীল বল,"### Translation
+
+**Question:**  
+A little boy rolled his two rubber balls down the hallway. The red ball stopped after 1 minute. The blue ball stopped after 57 seconds. Which one rolled the farthest?
+
+**Option 1:** Red ball  
+**Option 2:** Blue ball  
+
+In this scenario, the time taken for a ball to stop is directly related to the distance it has rolled, assuming constant rolling conditions. The ball that rolled for a longer duration is likely to have traveled a longer distance. 
+
+1 minute = 60 seconds, which is longer than 57 seconds. Therefore, the red ball, which stopped after 60 seconds, rolled farther than the blue ball. 
+
+**Answer:** Option 1"
+26,১২৩৪৫৬৭৮০৯০ থেকে  ৯৮৭৬৫৪৩২১ সংখ্যাটি?,Option 1,ছোট,বড়,"## Translated Question and Options:
+
+### Question:
+From the number 1234567890, is the number 987654321:
+
+### Option 1:
+Smaller
+
+### Option 2:
+Larger
+
+### Solution:
+
+To determine whether 987654321 is smaller or larger than 1234567890, we need to compare the two numbers:
+
+- 1234567890 has 10 digits.
+- 987654321 has 9 digits.
+
+Since 987654321 has fewer digits than 1234567890, it is smaller.
+
+**Answer: Option 1**"
+1,"একটি পিকআপ এবং একটি ভ্যান উভয়ই মহাসড়কে ৬০ মাইল বেগে চলছে। 
+যদি পিকআপটি প্রস্থানের দিকে চলে যায় এবং ভ্যানটি তাড়াতাড়ি থামে, 
+তবে কোন গাড়িটি কম দূরত্ব অতিক্রম করবে?",Option 1,পিকআপ,ভ্যান,"1. **Translation of the Question and Options:**
+
+   - Question: Both a pickup and a van are traveling on the highway at a speed of 60 miles per hour. If the pickup keeps moving, and the van stops quickly, which vehicle will cover a shorter distance?
+
+   - Option 1: Pickup
+   - Option 2: Van
+
+2. **Reasoning:**
+   - Since the van stops quickly and the pickup continues to move, the van will travel a shorter distance.
+
+**Answer: Option 2**"
+206,জরিনা লক্ষ্য করেছেন যে মটর নুড়ির উপর পেন্সিলটি ঘূর্ণায়মান করার সময় ৪৯ জুল তাপ এবং ৩১ জুল তাপ উৎপন্ন হয় যখন এটিকে কার্পেটের উপর ঘূর্ণায়মান করা হয়। পেন্সিল কোথায় বেশী বাধা প্রাপ্ত হয়?,Option 2,কার্পেট,মটর নুড়ি,"1. **Translated Question:** Jarina has observed that 49 joules of heat are produced when a pencil is rolled over gravel, and 31 joules of heat are produced when it is rolled over a carpet. Where does the pencil experience more resistance?
+
+2. **Translated Options:**
+   - **Option 1:** Carpet
+   - **Option 2:** Gravel
+
+Since more heat is generated when the pencil is rolled over gravel (49 joules compared to 31 joules on the carpet), it indicates that there is more resistance when rolling over the gravel.
+
+**Answer: Option 2**"
+185,"পুকুরে কচ্ছপের সাঁতারের গতি ৫ মি/সে, যখন সাগরে ২ মি/সে হয় কোনটি অধিক মসৃণ?",Option 1,পুকুর,মহাসাগর,"1. **Translation:**
+
+   **Question:**
+   The swimming speed of a turtle in a pond is 5 m/s, whereas in the ocean, it is 2 m/s. Which is smoother?
+
+   **Option 1:** Pond  
+   **Option 2:** Ocean
+
+2. **Reasoning:**
+
+   - The question is essentially asking about smoothness in terms of swimming conditions for the turtle. A higher swimming speed indicates easier and smoother conditions for the turtle.
+   - In the pond, the turtle's speed is higher (5 m/s) compared to in the ocean (2 m/s), suggesting the pond offers smoother swimming conditions for the turtle.
+
+3. **Conclusion:**
+
+   Based on the provided information, the pond is smoother for the turtle as its swimming speed is higher there.
+
+**Answer: Option 1**"
+296,জ্যাসপার তার ভাগ্নেকে নিয়ে যাচ্ছে পার্কে। তারপর তার ভাগ্নির পালা। তার ভাগ্নির পাঁচ বছরের বড় এবং তার ওজন ২১ কেজি যেখানে তার ভাগ্নের ওজন ২৪ কেজি। কার মাধ্যাকর্ষণ টান বেশি?,Option 2,ভাগ্নি,ভাগ্নে,"## Translation:
+
+### Question:
+Jasper is taking his niece and nephew to the park. The niece is five years older and weighs 21 kg, while the nephew weighs 24 kg. Who experiences a greater gravitational pull?
+
+### Options:
+- Option 1: Niece
+- Option 2: Nephew
+
+## Solution:
+
+Gravitational pull is directly proportional to the mass of an object. Therefore, the person with the greater weight will experience a stronger gravitational pull.
+
+- Niece's weight: 21 kg
+- Nephew's weight: 24 kg
+
+Since the nephew weighs more than the niece, the nephew experiences a greater gravitational pull.
+
+**Answer: Option 2**"
+319,একটি হাত ১২ সেকেন্ডে ২০০ সেন্টিমিটার আকারের জলের ট্যাঙ্কের মধ্য দিয়ে যেতে পারে এবং এটি ৭ সেকেন্ডে বাতাসের মাধ্যে ২ মিটার যেতে পারে। কোথায় কম ঘর্ষণ আছে?,Option 2,জল,বায়ু,"## Translation:
+
+**Question:** A hand can pass through a tank of water with a size of 200 centimeters in 12 seconds, and it can travel 2 meters in the air in 7 seconds. Where is there less friction?
+
+**Option 1:** Water  
+**Option 2:** Air
+
+## Reasoning:
+
+Friction is a force that opposes motion. When a hand moves through different mediums like water and air, the amount of friction will affect the time it takes to move a certain distance.
+
+- In water:  
+  The hand takes 12 seconds to move 200 centimeters.  
+  Speed in water = \( \frac{200 \, \text{cm}}{12 \, \text{s}} = \frac{16.67 \, \text{cm/s}} \).
+
+- In air:  
+  The hand takes 7 seconds to move 200 centimeters (equivalent to 2 meters).  
+  Speed in air = \( \frac{200 \, \text{cm}}{7 \, \text{s}} = \frac{28.57 \, \text{cm/s}} \).
+
+Since the hand moves faster in air than in water, this indicates there is less friction in air compared to water.
+
+**Answer:** Option 2"
+166,একটি চিতা ৪৫ কিমি/ঘন্টা বেগে দৌড়ায় আর কুকুর ২ কিমি/ঘন্টা বেগে দৌড়ায় তাই চিতার কেমন সময় লাগবে?,Option 1,কম সময়,বেশী সময়,"## Translation:
+
+### Question:
+A cheetah runs at a speed of 45 km/h, and a dog runs at a speed of 2 km/h. Therefore, how much time will the cheetah take?
+
+### Options:
+1. Less time
+2. More time
+
+Given the information, a cheetah is significantly faster than a dog. Therefore, for any given distance, a cheetah will take less time to cover it than a dog.
+
+**Answer: Option 1**"
+341,আমি একটি গাড়িতে ২৩ মি/সে গতিতে এবং একটি সাইকেলে ৪ মি/সে গতিতে ভ্রমণ করতে পারি। কোনটি ধীর?,Option 1,সাইকেল,গাড়ী,"1. **Translation of the Question and Options:**
+
+   - Question: I can travel at a speed of 23 m/s in a car and at a speed of 4 m/s on a bicycle. Which one is slower?
+   - Option 1: Bicycle
+   - Option 2: Car
+
+2. **Analysis:**
+
+   - Speed of the car is 23 m/s.
+   - Speed of the bicycle is 4 m/s.
+
+   Since the bicycle's speed (4 m/s) is less than the car's speed (23 m/s), the bicycle is slower.
+
+**Answer: Option 1**"
+361,"একজন ভলিবল খেলোয়াড় জিমের মেঝেতে ৩ মিটার লাফ দিয়েছিলেন, কিন্তু সাগরের তীরে বালিতে ১.২ মিটার লাফ দিয়েছিলেন। কারণ এটি ছিল?",Option 1,বেশি প্রতিরোধী,কম প্রতিরোধী,"## Translation:
+
+**Question:** A volleyball player jumped 3 meters on the gym floor but jumped 1.2 meters in the sand on the beach. What was the reason for this?
+
+**Option 1:** More resistant
+
+**Option 2:** Less resistant
+
+## Answer:
+
+When jumping, the difference in distances achieved by the player on different surfaces is influenced by the resistance or friction the surface provides. The sand at the beach provides more resistance compared to the gym floor, where the surface is smoother and less resistant. This resistance results in a shorter jump distance in the sand.
+
+**Answer: Option 1**"
+156,লিসা দুটি মডেলের রকেট নিয়ে খেলছিল। তিনি একই সময়ে রকেট দুটি আঁকাশে নিক্ষেপ করলে ৩০ সেকেন্ড পরে কালোটি মাটি থেকে ৩০ মিটার উপরে এবং লালটি মাটি থেকে ১৮ মিটার উপরে ছিল। কোনটির গতি বেশি ছিল?,Option 2,লালটির,কালোটির,"## Translation:
+
+### Question:
+Lisa was playing with two model rockets. When she launched both rockets into the sky at the same time, after 30 seconds, the black one was 30 meters above the ground and the red one was 18 meters above the ground. Which one had a higher speed?
+
+### Options:
+- Option 1: The red one
+- Option 2: The black one
+
+## Reasoning:
+
+To determine which rocket had a higher speed, we should compare the distances they traveled over the same period, since they started at the same time.
+
+- The black rocket reached a height of 30 meters in 30 seconds.
+- The red rocket reached a height of 18 meters in 30 seconds.
+
+Therefore, in the same amount of time, the black rocket traveled a greater distance (30 meters) compared to the red one (18 meters).
+
+Thus, the black rocket had a higher speed.
+
+**Answer: Option 2**"
+306,রেঞ্জার এবং রাস্টলার উভয়েই একই সাথে বাড়ির দিকে ঘোড়ায়(যেগুলি একই গতিতে ছুটছিল) চড়ে চলছিল। রাস্টলার ০২:০০ এ বাড়ি চলে যায় যেখানে রেঞ্জার ০১:০০ এ যায়। কে কম সময় ভ্রমণ করেছেন?,Option 1,রেঞ্জার,রাস্টলার,"## Translation:
+
+**Question:** Both Ranger and Rustler were riding horses (which were running at the same speed) towards home at the same time. Rustler reaches home at 02:00 while Ranger reaches home at 01:00. Who traveled for a shorter duration?
+
+**Option 1:** Ranger
+
+**Option 2:** Rustler
+
+## Solution:
+
+Since both horses maintain the same speed and they start traveling at the same time, the duration of travel depends on the time they reach the destination.
+
+- Ranger reaches home at 01:00.
+- Rustler reaches home at 02:00.
+
+Ranger, therefore, took less time to reach home, as he reached home an hour earlier than Rustler.
+
+**Answer:** Option 1"
+188,একটি ময়লা ক্ষেত্রে ঘূর্ণায়মান একটি অ্যাগেট ৩৮ সেমি/সেকেন্ড গতিতে চলে এবং একটি খালি গুহায় ঘূর্ণায়মান ১২৫ সেমি/সেকেন্ড গতিতে চলে। কোথায় এগেট আরও বেশি দূরত্বে গড়িয়ে যাবে?,Option 2,ময়লা ক্ষেত্র,খালি গুহা,"## Translation:
+
+### Question:
+An agate rolls in a dirty field at a speed of 38 cm/second and rolls in an empty cave at a speed of 125 cm/second. Where will the agate roll a greater distance?
+
+### Options:
+- Option 1: Dirty field
+- Option 2: Empty cave
+
+To determine where the agate will roll a greater distance, we compare the speeds: 38 cm/second in the dirty field versus 125 cm/second in the empty cave. Since the speed is higher in the empty cave, the agate will cover more distance there if rolled for the same amount of time.
+
+**Answer: Option 2**"
+321,মেরির স্কিফ খোলা সমুদ্রে ৪ মাইলের তুলনায় উপসাগরে জ্বালানি শেষ হওয়ার আগে ১০ মাইল দূরত্ব অতিক্রম করতে সক্ষম। এর মানে এই যে _____ বেশী রুক্ষ?,Option 2,উপসাগর,খোলা সমুদ্র,"1. **Translation of the Question and Options:**
+
+   **Question:** Mary's skiff can travel 10 miles in a bay before running out of fuel, compared to 4 miles in the open sea. This means that the _____ is rougher?
+
+   **Option 1:** Bay
+
+   **Option 2:** Open Sea
+
+2. **Solution:**
+
+   Since Mary's skiff can cover a greater distance in the bay (10 miles) compared to the open sea (4 miles) before running out of fuel, it suggests that the bay is less rough than the open sea. A skiff would consume more fuel in rougher conditions, allowing it to travel a shorter distance. Therefore, the open sea is rougher than the bay.
+
+**Answer: Option 2**"
+236,একজন সাঁতারু ১ মিনিটে একটি হ্রদ অতিক্রম করে এবং ৩ মিনিটে ভেজা কাদা অতিক্রম করে কারণ _____ বেশী মসৃণ?,Option 1,হ্রদ,ভিজা কাদা,"1. Translate the Bengali question and options into English:
+
+**Question:** A swimmer crosses a lake in 1 minute and crosses wet mud in 3 minutes because _____ is smoother?
+
+**Option 1:** Lake  
+**Option 2:** Wet mud  
+
+2. Conclude by selecting the correct option: 
+
+Since the swimmer can cross the lake in less time, it suggests that the lake offers less resistance, implying it is smoother compared to wet mud.
+
+**Answer: Option 1**"
+340,জ্যাসপার তার ভাগ্নেকে নিয়ে যাচ্ছে পার্কে। তারপর তার ভাগ্নির পালা। তার ভাগ্নির বয়স পাঁচ বছরের বেশী এবং ওজন ৩২ কেজি যেখানে তার ভাগ্নের ওজন ৪০ পাউন্ড ১৩ আউন্স। কার মাধ্যাকর্ষণ টান বেশি?,Option 1,ভাগ্নির,ভাগ্নের,"### Translation:
+
+**Question:** Jasper is taking his niece to the park. Then it's his nephew's turn. His niece is over five years old and weighs 32 kg, whereas his nephew weighs 40 pounds and 13 ounces. Who experiences a greater gravitational pull?
+
+**Option 1:** Niece  
+**Option 2:** Nephew  
+
+### Solution:
+
+To determine who experiences more gravitational pull, we need to compare their weights. Since the niece’s weight is given in kilograms, we must convert the nephew's weight to the same unit for easy comparison.
+
+1. **Weight of the niece:** 32 kg.
+
+2. **Weight of the nephew:** 40 pounds and 13 ounces.
+
+    - Convert pounds to kilograms: 1 pound ≈ 0.453592 kg.
+    - Convert ounces to pounds: 13 ounces = 13/16 pounds (since 1 pound = 16 ounces).
+
+First, convert 13 ounces to pounds:
+\[ 13 \text{ ounces} = \frac{13}{16} \text{ pounds} ≈ 0.8125 \text{ pounds} \]
+
+Now, add this to the 40 pounds:
+\[ 40 \text{ pounds} + 0.8125 \text{ pounds} = 40.8125 \text{ pounds} \]
+
+Convert total pounds to kilograms:
+\[ 40.8125 \text{ pounds} × 0.453592 = 18.513 \text{ kg} \]
+
+3. **Comparison:**
+   - Niece: 32 kg
+   - Nephew: 18.513 kg
+
+Since 32 kg > 18.513 kg, the niece has a greater mass, and thus experiences more gravitational pull.
+
+**Answer: Option 1**"
+305,"ডগ তার বাইসাইকেলে তার বাড়ি থেকে বন্ধুর বাড়িতে ভ্রমণ করে এবং সে এক ঘন্টায় ৭ মাইল অতিক্রম করে এবং যখন সে একই দূরত্ব পায়ে হেঁটে যায়, তখন সে এক ঘন্টায় ২ মাইল অতিক্রম করে। কীভাবে ডগ তাড়াতাড়ি তার বন্ধুর বাড়িতে যাবে?",Option 2,হেঁটে,সাইকেলে,"## Translated Question:
+Doug travels from his home to his friend's house by bicycle and covers 7 miles in an hour, whereas when he walks the same distance, he covers 2 miles in an hour. How will Doug reach his friend's house faster?
+
+## Translated Options:
+Option 1: Walking  
+Option 2: Bicycling
+
+Since Doug covers more distance per hour on a bicycle (7 miles) compared to walking (2 miles), he will reach his friend's house faster by bicycle.
+
+**Answer: Option 2**"
+397,"ম্যামথটি ওয়াটারিং হোল দিয়ে ঘন্টায় ৩ কিমি বেগে চলেছিল, কিন্তু শক্ত ময়লার উপর ঘন্টায় ৯ কিমি বেগে চলেছিল কারণ শক্ত ময়লা ছিল?",Option 1,কম প্রতিরোধী,বেশী প্রতিরোধী,"## Translation
+
+### Question:
+The mammoth was moving at a speed of 3 km/h through the watering hole, but it was moving at a speed of 9 km/h on the hard dirt because the hard dirt was?
+
+### Options:
+Option 1: Less resistant  
+Option 2: More resistant
+
+## Solution
+The reasoning is based on the relationship between resistance and speed. If the mammoth was able to move faster on the hard dirt (9 km/h) compared to the watering hole (3 km/h), it suggests that the hard dirt provided less resistance than the watering hole, allowing for higher speed.
+
+Therefore, the correct choice is that the hard dirt was less resistant.
+
+**Answer: Option 1**"
+253,"কচ্ছপের ঝাঁক পুকুরে ১ সেকেন্ডে ২০ সেন্টিমিটার ভ্রমণ করে, যখন এটি সমুদ্রে ২ সেকেন্ডে ৮ মিটার ভ্রমণ করে কোনটি বেশী মসৃণ?",Option 2,পুকুর,সাগর,"1. **Translation of the Question:**
+   A group of turtles travels 20 centimeters in 1 second in a pond, while it travels 8 meters in 2 seconds in the sea. Which is smoother?
+
+2. **Translation of the Options:**
+   - Option 1: Pond
+   - Option 2: Sea
+
+To determine which travel is smoother, we need to look at the speed of the turtles in both scenarios.
+
+- **In the Pond:**  
+  The turtles travel 20 centimeters in 1 second.  
+  Speed = 20 centimeters per second.
+
+- **In the Sea:**  
+  The turtles travel 8 meters in 2 seconds.  
+  First, convert 8 meters to centimeters: 8 meters = 800 centimeters.  
+  Speed = 800 centimeters / 2 seconds = 400 centimeters per second.
+
+Comparing these speeds:
+
+- Pond speed: 20 centimeters per second
+- Sea speed: 400 centimeters per second
+
+Since the turtles travel faster in the sea, the movement there is smoother.
+
+**Answer: Option 2**"
+335,"ইয়ান এবং অ্যাভেরি একই স্টেশন থেকে ট্রেন ধরছে। ইয়ানের ট্রেন লাল, এবং চল্লিশ মাইল দূরে একটি গন্তব্যে ৯ কিমি প্রতি ঘন্টা যাচ্ছে। অ্যাভেরি এর ট্রেন সবুজ এবং চল্লিশ মাইল দূরে একটি গন্তব্যে ২৩ কিমি প্রতি ঘন্টা যাচ্ছে। যে ট্রেনের গতি বেশি?",Option 2,লাল,সবুজ,"**Translation of the Question and Options:**
+
+- Question: Ian and Avery are catching a train from the same station. Ian's train is red and it is going to a destination forty miles away at a speed of 9 km per hour. Avery's train is green and it is going to a destination forty miles away at a speed of 23 km per hour. Which train is faster?
+- Option 1: Red
+- Option 2: Green
+
+**Solving the Problem:**
+
+To determine which train is faster, we simply compare the speeds given for each train.
+
+- Speed of Ian's (Red) train: 9 km per hour
+- Speed of Avery's (Green) train: 23 km per hour
+
+Since 23 km per hour is greater than 9 km per hour, Avery's train is faster.
+
+**Answer: Option 2**"
+325,"টেরি তার সাইকেল নিয়ে যাত্রার জন্য, প্রথমে ঘাসের মাঠের মধ্য দিয়ে ৫৬০ সেমি/সেকেন্ড বেগে, তারপর পাকা রাস্তায় ১২ মি/সেকেন্ড বেগে। পাকা রাস্তা ছিল?",Option 2,কম প্রতিরোধী,কম প্রতিরোধী,"To clarify the problem, I will first translate the question and options into English:
+
+## Question
+Teri, on her bike ride, first travels at a speed of 560 cm/s through a grassy field, and then at a speed of 12 m/s on a paved road. The paved road was?
+
+## Options
+Option 1: Less resistant
+Option 2: Less resistant
+
+### Analysis
+- The problem revolves around comparing the resistance or ease of travel on different surfaces based on the speed Teri can maintain.
+- On the grassy field, Teri travels at 560 cm/s, which converted into meters per second is 5.6 m/s (since 1 meter = 100 centimeters).
+- On the paved road, Teri travels at a speed of 12 m/s.
+- Generally, higher speeds indicate less resistance, assuming Teri applies the same effort or power in pedaling on both the grassy field and the paved road.
+- Since Teri travels faster on the paved road at 12 m/s compared to 5.6 m/s on the grassy field, the paved road offers less resistance.
+
+### Conclusion
+Therefore, given the context and the options available, the paved road is indeed the less resistant path.
+
+**Answer: Option 1**"
+351,জরিনা তার পেন্সিলটি বিভিন্ন পৃষ্ঠে ঘষে দেখলেন যে কতটা তাপ তৈরি হয়েছে। তিনি লক্ষ্য করেছেন যে মটর নুড়ির উপর পেন্সিলটি ঘষার সময় ৮১ জুল তাপ এবং ১৩৭ জুল তাপ উৎপন্ন হয় যখন এটিকে কার্পেটের উপর ঘষা হয়। পেন্সিলটি কোথায় ধীর গতিতে চলবে?,Option 1,কার্পেট,মটর নুড়ি,"1. Translate the Bengali question and options into English:
+
+**Question**: Jorina rubbed her pencil on different surfaces to see how much heat is generated. She observed that 81 joules of heat is generated when she rubs the pencil on gravel and 137 joules of heat is generated when it is rubbed on the carpet. On which surface will the pencil move more slowly?
+
+**Option 1**: Carpet  
+**Option 2**: Gravel
+
+2. Conclude by selecting the correct option:
+
+The more heat generated, the greater the friction between the surfaces, which means the object will move more slowly. Since 137 joules of heat is generated when the pencil is rubbed on the carpet, which is more than the 81 joules generated on gravel, the pencil will move more slowly on the carpet.
+
+**Answer: Option 1**"
+248,মহসিন একটি লণ্ঠন থেকে ৪০ সেমি এবং একটি রাস্তার আলো থেকে ৮৯ সেমি দূরত্বে দাঁড়িয়ে আছে। কোন আলোর উৎস তার কাছে উজ্জ্বল মনে হয়?,Option 1,লণ্ঠন,রাস্তার আলো,"**Translated Question**: Mohsin is standing 40 cm away from a lantern and 89 cm away from a streetlight. Which light source appears brighter to him?
+
+**Option 1**: Lantern  
+**Option 2**: Streetlight
+
+To determine which light source appears brighter, we can use the inverse square law of light, which states that the brightness (intensity) of a light source is inversely proportional to the square of the distance from the source:
+
+\[ \text{Brightness} \propto \frac{1}{\text{Distance}^2} \]
+
+- For the lantern, the distance is 40 cm:
+  \[ \text{Brightness}_{\text{lantern}} \propto \frac{1}{40^2} = \frac{1}{1600} \]
+
+- For the streetlight, the distance is 89 cm:
+  \[ \text{Brightness}_{\text{streetlight}} \propto \frac{1}{89^2} = \frac{1}{7921} \]
+
+Since \( \frac{1}{1600} \) is greater than \( \frac{1}{7921} \), the lantern appears brighter to Mohsin.
+
+**Answer: Option 1**"
+178,টিমের রিংটি মাঠে ৮.১ সেমি এবং মেঝেতে ৩.২ সেন্টিমিটার ঘূর্ণায়মান। কোনটি বেশী মসৃণ?,Option 2,মেঝে,মাঠ,"1. **Translation of the question and options into English:**
+
+   **Question:** Tim's ring rolls 8.1 cm on the field and 3.2 cm on the floor. Which is smoother?
+
+   **Option 1:** Floor
+
+   **Option 2:** Field
+
+2. **Solving the problem:**
+
+   When a ring rolls a longer distance with the same effort (assuming Tim uses the same amount of force each time), it generally indicates the surface is smoother because there is less friction slowing it down.
+
+   - The ring rolls 8.1 cm on the field.
+   - The ring rolls 3.2 cm on the floor.
+
+   Since the ring rolls a greater distance on the field (8.1 cm) compared to the floor (3.2 cm), the field is smoother.
+
+**Answer: Option 2**"
+221,শেরি তার বলকে দুই লেনের নিচে নিয়ে যায়। বলটি লাল লেনে ৩২ মি/সে গতিতে এবং সবুজ লেনে ২৭ মি/সে গতিতে চলে। বলের গতি লাল লেনে কেনো বেশী?,Option 2,বেশী ঘর্ষণ,কম ঘর্ষণ।,"1. Translate the Bengali question and options into English:
+
+**Question:** Sherry takes her ball under two lanes. The ball travels at a speed of 32 m/s in the red lane and 27 m/s in the green lane. Why is the ball's speed higher in the red lane?
+
+**Option 1:** More friction
+
+**Option 2:** Less friction
+
+2. Choose the correct option:
+
+The speed of the ball is higher in the red lane because there is less friction. Friction opposes motion; thus, less friction results in higher speed.
+
+**Answer: Option 2**"
+314,"যদি একটি নৌকার গতি ৭০০ সেমি/সেকেন্ড হয় এবং একটি সাবমেরিনের গতি ৪ সেমি/সেকেন্ড হয়, তাহলে কোন নৌযানটি একই যাত্রা করতে বেশি সময় নেবে?",Option 2,নৌকা,সাবমেরিন,"## Translation of the Question and Options:
+
+- Question: If the speed of a boat is 700 cm/second and the speed of a submarine is 4 cm/second, then which vessel will take more time to complete the same journey?
+- Option 1: Boat
+- Option 2: Submarine
+
+## Solution:
+
+To determine which vessel will take more time to complete the same journey, we need to consider their speeds. 
+
+- The boat has a speed of 700 cm/second.
+- The submarine has a speed of 4 cm/second.
+
+The time taken to complete a journey is inversely proportional to the speed, i.e., if speed increases, time taken decreases, and if speed decreases, time taken increases.
+
+Since the submarine has a significantly lower speed compared to the boat, it will take more time to complete the same journey.
+
+**Answer: Option 2**"
+297,"জন এবং রিতা দৌড়ে যাচ্ছে। রিতা ক্লান্ত হয়ে পড়ে এবং ৫৫ মিনিট জগিং করার পরে পার্কের বেঞ্চে বিরতি নেয়। জন পার্কে ১ ঘন্টার জন্য দৌড়াচ্ছে, কে বেশি দৌড়েছে?",Option 1,জন,রিতা,"## Translation
+
+**Question:** John and Rita are running. Rita gets tired and takes a break on a park bench after jogging for 55 minutes. John is running in the park for 1 hour. Who ran more?
+
+**Option 1:** John
+
+**Option 2:** Rita
+
+## Solution
+
+John has been running for 1 hour, which is equivalent to 60 minutes. Rita jogged for 55 minutes before taking a break. Since 60 minutes is greater than 55 minutes, John ran more.
+
+**Answer:** Option 1"
+186,"জেসন লক্ষ্য করেছেন যে তার এটিভি বরফের উপর ৫৮ কিমি প্রতি ঘন্টা এবং বালির উপর ৩৯ কিমি ঘন্টা গতিতে চলে। বালিতে ধীরে চলে কেননা, বালি _____?",Option 1,বেশী প্রতিরোধী,কম প্রতিরোধী,"1. Translate the Bengali question and options into English:
+
+**Question:** Jason has observed that his ATV runs at 58 km per hour on ice and at 39 km per hour on sand. It runs slower on sand because sand is _____?
+
+**Option 1:** more resistant
+
+**Option 2:** less resistant
+
+2. Evaluate the problem:
+
+The reason an ATV runs slower on sand compared to ice is due to the sand providing more resistance than ice. This higher resistance makes it harder for the vehicle to maintain higher speeds.
+
+Conclude by selecting the correct option:
+
+**Answer: Option 1**"
+115,একটি ছোট ছেলে হলওয়ের নিচে তার দুটি রাবারের বল গড়িয়েছে। লাল বল ৭০ সেকেন্ড পরে থামল। নীলটি ২ মিনিট ৩৪ সেকেন্ড পরে থামল। কোনটি বেশি দূরে গেলো?,Option 2,লাল বল,নীল বল।,"## Translation:
+
+### Question:
+A small boy rolled two rubber balls down the hallway. The red ball stopped after 70 seconds. The blue one stopped after 2 minutes and 34 seconds. Which one went farther?
+
+### Options:
+1. Red ball
+2. Blue ball
+
+## Resolution:
+The distance a ball travels is generally correlated with the time it remains in motion. 
+
+- The red ball stopped after 70 seconds.
+- The blue ball stopped after 2 minutes and 34 seconds.
+
+First, convert the time for the blue ball into seconds for easy comparison:
+- 2 minutes = 2 * 60 = 120 seconds
+- 2 minutes and 34 seconds = 120 seconds + 34 seconds = 154 seconds
+
+Since the blue ball was in motion for 154 seconds, which is longer than the 70 seconds for the red ball, the blue ball traveled a farther distance.
+
+**Answer: Option 2**"
+184,"একটি কাউবয় এবং একটি হিপ্পি উভয়ই সান ফ্রান্সিসকোতে হাঁটছিল, এবং তারা একই উচ্চতা হওয়ায় একই গতিতে হাঁটছিল। যাইহোক, কাউবয় ভোর ৪ টায় উঠে এবং ৬ টায় হাঁটা শুরু করেছিল যেখানে হিপ্পি সকাল ৮ টায় হাঁটতে শুরু করেছিল। এখন দুপুর, আর?",Option 2,কাউবয় কম দূরত্ব ভ্রমণ করেছে,হিপ্পি কম দূরত্ব ভ্রমণ করেছে,"## Translation of the Question and Options:
+
+### Question:
+A cowboy and a hippie were both walking in San Francisco, and since they were of the same height, they walked at the same speed. However, the cowboy got up at 4 AM and started walking at 6 AM, while the hippie started walking at 8 AM. It is now noon, and?
+
+### Options:
+Option 1: The cowboy has traveled a shorter distance.
+Option 2: The hippie has traveled a shorter distance.
+
+## Solution:
+
+The cowboy started walking at 6 AM and it is now noon, so he has been walking for 6 hours.
+
+The hippie started walking at 8 AM and it is now noon, so he has been walking for 4 hours.
+
+Both the cowboy and hippie are walking at the same speed. Since the cowboy has been walking for more hours than the hippie, the cowboy has traveled a longer distance than the hippie.
+
+Therefore, the hippie has traveled a shorter distance.
+
+**Answer: Option 2**"
+128,মার্ক লক্ষ্য করেছেন যে তিনি তার লন ডার্টকে গড়ে প্রায় ৮ মিটার দূরে নরম ময়লায় এবং ৫ মিটার দূরে বালিতে ফেলতে পারেন। এর মানে হল যে _____ বেশী মসৃণ?,Option 1,নরম ময়লা,বস্তাবন্দী বালি,"**Translation of Question:**
+Mark has observed that on average he can throw his lawn dart approximately 8 meters in soft soil and 5 meters in sand. This means that _____ is smoother?
+
+**Options:**
+Option 1: Soft soil  
+Option 2: Packed sand
+
+**Reasoning:**
+The fact that Mark can throw the dart farther in soft soil (8 meters) compared to sand (5 meters) implies that the soft soil is offering less resistance than the packed sand. In the context of this problem, ""smoother"" can be interpreted as offering less resistance to the thrown dart. Therefore, the soft soil is smoother in this context because it's easier for Mark to throw the dart farther.
+
+**Answer:** Option 1"
+47,"একজন ট্রেন কন্ডাক্টর একটি ট্র্যাক থেকে মাটিতে চাকায় গতিপথ পরিবর্তন করে
+ লক্ষ্য করেন যে তিনি ৫৮ কি.মি./ঘণ্টা গতিতে ভ্রমণ করছেন, যেখানে তিনি
+ একই পরিমাণ শক্তি দিয়ে ৩৯ কি.মি./ঘণ্টা গতিতে ভ্রমণ করছেন। কোনটি বেশী মসৃণ ছিল।",Option 2,ট্র্যাক,চাকা,"## Translation:
+
+**Question:** A train conductor notices that when he changes the direction on the track to the ground with wheels, he is traveling at a speed of 58 km/h, whereas he is traveling at a speed of 39 km/h with the same amount of energy. Which was smoother?
+
+**Option 1:** Track  
+**Option 2:** Wheel
+
+To determine which is smoother, consider the speeds achieved with the same energy input. The smoother surface allows the train to travel faster because there is less resistance.
+
+Since the train travels at 58 km/h on the ""track"" and 39 km/h on the ""wheel"" with the same energy, the ""track"" allows a higher speed, indicating it is smoother.
+
+**Answer:** Option 1"
+328,একটি শহরের ফায়ার চিফ লক্ষ্য করেছেন যে তার ফায়ার ইঞ্জিন জনাকীর্ণ রাস্তায় ১২ মাইল এবং খোলা রাস্তায় ৭ মাইল প্রতি ঘন্টা গতিতে যেতে পারে। কোন রাস্তাটি বেশী মসৃণ?,Option 1,জনাকীর্ণ রাস্তা,খোলা রাস্তা,"## Translation:
+
+### Question:
+A city's fire chief has observed that his fire engine can travel at a speed of 12 miles per hour on crowded roads and at a speed of 7 miles per hour on open roads. Which road is smoother?
+
+### Options:
+1. Crowded roads
+2. Open roads
+
+## Answer:
+**Option 1**"
+153,"বব রাস্তার বাতি থেকে ২৯০ সেমি দূরে ছিল। তিনি একটু সরেছেন এবং এখন তিনি ১৫ মিটার দূরে, তিনি লক্ষ্য করেছেন যে বাতিটি _____ দেখাচ্ছে?",Option 2,উজ্জ্বল,অনুজ্জ্বল,"1. Translate the Bengali question and options into English:
+
+**Question**: Bob was 290 cm away from the streetlight. He moved slightly, and now he is 15 meters away. How does he notice the light appears now?
+
+**Option 1**: Bright
+
+**Option 2**: Dull
+
+2. Conclude by selecting the correct option:
+
+When Bob was 290 cm away from the streetlight, he was very close to it. As he moves further away to a distance of 15 meters, the light would appear dimmer to him.
+
+**Answer: Option 2**"
+375,কেভিন নিউইয়র্ক থেকে শিকাগোতে ০৮ঃ০০ ঘন্টায় একটি প্লেন নিয়েছিলেন এবং ইস্টার ০৭ঃ০০ এ নিউইয়র্ক থেকে লস এঞ্জেলস যাওয়ার একটি বিমান নিয়েছিলেন। তারা উভয়ই একই ধরণের বিমান থেকে ভ্রমণ করছে তাই তাদের ভ্রমণের গতি একই। দুজনেই একই সাথে তাদের গন্তব্যে পৌঁছে গেল। কে বেশী সময় ভ্রমণ করেছেন?,Option 2,কেভিন,ইস্টার,"## Translation:
+
+**Question:** Kevin took a plane from New York to Chicago at 08:00, and Easter took a plane from New York to Los Angeles at 07:00. Both traveled in the same type of airplane, so their travel speeds are the same. They both arrived at their destinations at the same time. Who traveled for a longer time?
+
+**Option 1:** Kevin  
+**Option 2:** Easter
+
+## Explanation:
+
+Since Easter left at 07:00 and Kevin left at 08:00 but both arrived at their destinations at the same time, Easter traveled for a longer time. This is because Easter departed one hour earlier than Kevin.
+
+**Answer:** Option 2"
+155,"ডিলান একটি নুড়ি (যার ভর ০.২ কেজি ) এবং বাস্কেটবল (যার ভর ১ কেজি), জানালার বাইরে নিক্ষেপ করেন। _____ এর একটি শক্তিশালী মাধ্যাকর্ষণ টান ছিল কারণ এর ভর বেশি?",Option 2,নুড়ি,বাস্কেটবল,"## Translated Question:
+Dylan throws a pebble (with a mass of 0.2 kg) and a basketball (with a mass of 1 kg) out of the window. _____ had a stronger gravitational pull because it has more mass?
+
+## Translated Options:
+- Option 1: Pebble
+- Option 2: Basketball
+
+Since gravitational pull is directly proportional to the mass of an object, the object with more mass will have a stronger gravitational pull. In this case, the basketball has a mass of 1 kg, which is greater than the mass of the pebble at 0.2 kg.
+
+**Answer: Option 2**"
+288,জেমস তার স্লেজ ৪.১ মিটার শুষ্ক তুষার উপর এবং ১.৪৯ মিটার ভেজা তুষার উপর রাইড করতে পারেন। এর মানে _____ বেশী রুক্ষ?,Option 1,ভেজা তুষার,শুকনো তুষার,"## Translation
+
+### Question:
+James can ride his sled for 4.1 meters on dry snow and 1.49 meters on wet snow. Which one is rougher?
+
+### Options:
+- **Option 1**: Wet snow
+- **Option 2**: Dry snow
+
+## Solution
+
+James is able to slide a longer distance on dry snow (4.1 meters) compared to wet snow (1.49 meters). The implication is that dry snow offers less resistance or friction, allowing James's sled to travel further. Conversely, wet snow offers more resistance or friction, causing the sled to travel a shorter distance and be rougher.
+
+Therefore, the surface that is rougher is wet snow.
+
+**Answer: Option 1**"
+73,এলিয়ট লক্ষ্য করেন যে তিনি একটি হ্যান্ডকার্টকে সিমেন্টের উপর ১৯ মি/সেকেন্ড এবং কার্পেটে ২৩ মি/সেকেন্ড গতিতে ধাক্কা দিতে সক্ষম। হ্যান্ডকার্টটি কোথায় বেশী তাপ উৎপন্ন করবে?,Option 2,কার্পেটে,সিমেন্টে,"## Translation:
+
+### Question:
+Elliot notices that he is able to push a handcart on cement at a speed of 19 m/s and on carpet at a speed of 23 m/s. Where will the handcart produce more heat?
+
+### Options:
+- Option 1: On carpet
+- Option 2: On cement
+
+To determine where the handcart produces more heat, we must consider the friction between the surfaces and the handcart. Heat is produced due to friction, and generally, friction is higher on surfaces like carpet compared to smoother surfaces like cement. Higher friction results in more heat generation.
+
+Since Elliot can push the handcart at a higher speed on the carpet (23 m/s) compared to cement (19 m/s), it might initially seem counterintuitive for the heat generation analysis. However, what matters is the energy dissipation due to friction.
+
+Typically, the friction is greater on a carpet, which leads to more heat production even if the cart moves faster on that surface. Therefore, despite the higher speed, the handcart is likely producing more heat on the carpet due to the increased friction.
+
+## Conclusion:
+**Answer: Option 1**"
+119,মহসিনের কয়েন তার সিরামিক প্লেটে ২ সেমি/মিনিট গতিতে এবং কাগজের প্লেটে ১ সেমি/মিনিট গতিতে ঘুরছে বলে মনে হচ্ছে। এর মানে তার কয়েন বেশী গরম হয়ে যায়?,Option 1,কাগজের প্লেট,সিরামিক প্লেট,"**Translation:**
+
+# Question: It seems Mohsin's coin is rotating at a speed of 2 cm/minute on the ceramic plate and at 1 cm/minute on the paper plate. Does this mean his coin gets hotter?
+
+# Option 1: Paper plate
+# Option 2: Ceramic plate
+
+In terms of thermal conductivity, a ceramic plate typically has higher heat retention and conductivity than a paper plate. If the coin is rotating faster on the ceramic plate (2 cm/minute), it suggests that there might be more friction, which can lead to the coin becoming hotter compared to the slower rotation on the paper plate (1 cm/minute), assuming all other conditions are identical.
+
+**Conclusion:**
+
+The increased speed on the ceramic plate is likely due to the coin experiencing more friction, causing it to heat up more.
+
+**Answer: Option 2**"
+17,১২৩৪৫৬ সংখ্যাটি  ৯৮৭৬৫৪ সংখ্যাটি থেকে ?,Option 2,বড়,ছোট,"## Translation:
+
+### Question:
+Is the number 123456 greater than or smaller than the number 987654?
+
+### Options:
+- Option 1: Greater
+- Option 2: Smaller
+
+To determine which number is greater, we compare the two numbers:
+
+- 123456
+- 987654
+
+Since 123456 is smaller than 987654, we conclude:
+
+**Answer: Option 2**"
+71,কেটের নৌকার প্রপেলারটি সমুদ্রে ১৩০০ ঘূর্ণন গতিতে এবং নদীতে প্রতি সেকেন্ডে ১৩০ ঘূর্ণন গতিতে চলেছিল। এর মানে কোথায় প্রপেলার কম গরম হয়?,Option 2,সাগর,নদী,"1. **Translated Question:**
+   Kate's boat propeller rotates at 1300 revolutions per second in the sea and 130 revolutions per second in the river. This means where does the propeller become less hot?
+
+2. **Translated Options:**
+   - Option 1: Sea
+   - Option 2: River
+
+To determine where the propeller becomes less hot, we consider the rate at which it is used. The propeller has fewer revolutions per second in the river (130 rps) compared to the sea (1300 rps), indicating less mechanical activity and friction in the river. Thus, the propeller is likely to become less hot in the river.
+
+**Answer: Option 2**"
+16,৬৭৮০৯০ সংখ্যাটি ৯৮৭৬৫০ সংখ্যাটি থেকে ?,Option 2,বড়,ছোট,"1. Translate the Bengali question and options into English for clarity.
+
+**Question:** Is the number 678090 greater than the number 987650?
+
+**Option 1:** Greater
+
+**Option 2:** Smaller
+
+2. Conclude by selecting the correct option.
+
+To determine the correct option, we need to compare the two numbers:
+
+- 678090
+- 987650
+
+It is clear that 678090 is less than 987650.
+
+**Answer: Option 2**"
+112,জিম ৪৬ সেমি/সেকেন্ড গতিতে দৌড়াতে পারত এবং তার বোন জেন ২০ মি/সেকেন্ড বেগে দৌড়াতে পারত। একটি বিপজ্জনক ভাইরাসের বিস্তার বন্ধ করার জন্য তাদের পরবর্তী শহরে কিছু জরুরি ভ্যাকসিন সরবরাহ করতে হয়েছিল। স্বল্প সময়ে সেখানে পৌঁছানোর জন্য টিকা নিয়ে কাকে যাওয়া উচিত?,Option 2,জিম,জেন,"1. **Translation of the Question and Options:**
+   - Question: Jim could run at a speed of 46 cm/sec, while his sister Jen could run at a speed of 20 m/sec. They needed to deliver some urgent vaccines to the next city to stop the spread of a dangerous virus. Who should deliver the vaccines to reach there in a shorter time?
+   - Option 1: Jim
+   - Option 2: Jen
+
+2. **Explanation:**
+   - First, convert Jim's speed from centimeters per second to meters per second for direct comparison:
+     - 46 cm/sec = 0.46 m/sec
+   - Jen's speed is already given in meters per second: 20 m/sec
+   - Comparing the speeds: Jim's speed (0.46 m/sec) is much slower than Jen's speed (20 m/sec).
+
+Since Jen is much faster, she should deliver the vaccines to reach the next city in a shorter time.
+
+**Answer: Option 2**"
+105,জিম ৪৬ মিটার/সেকেন্ড গতিতে দৌড়াতে পারত এবং তার বোন জেন ৫২ মি/সেকেন্ড বেগে দৌড়াতে পারত। একটি বিপজ্জনক ভাইরাসের বিস্তার বন্ধ করার জন্য তাদের পরবর্তী শহরে কিছু জরুরি ভ্যাকসিন সরবরাহ করতে হয়েছিল। স্বল্প সময়ে সেখানে পৌঁছানোর জন্য টিকা নিয়ে কাকে যাওয়া উচিত?,Option 2,জিম,জেন,"1. Translate the Bengali question and options into English for clarity.
+
+**Question:** Jim could run at a speed of 46 meters/second, and his sister Jen could run at a speed of 52 meters/second. They needed to deliver some urgent vaccines to the next town to stop the spread of a dangerous virus. Who should go with the vaccines to reach there in the shortest time?
+
+**Option 1:** Jim
+
+**Option 2:** Jen
+
+2. Conclude by selecting the correct option.
+
+Since Jen can run faster at 52 meters/second compared to Jim's 46 meters/second, it would be quicker for her to deliver the vaccines.
+
+**Answer: Option 2**"
+78,"গাড়ি চালিয়ে, মেরি জানতে পেরেছিলেন যে জঙ্গলের ঘর্ষণ সহগ ০.৮, যেখানে রাস্তার সহগ ০.৪ আছে। কথা তার গাড়ি উপর দ্রুত চালানো যায়?",Option 2,জঙ্গলে,রাস্তায়,"1. **Translation of the Question and Options:**
+
+   - **Question:** By driving, Mary found out that the coefficient of friction in the jungle is 0.8, whereas the coefficient on the road is 0.4. Where can she drive her car faster?
+   - **Option 1:** In the jungle
+   - **Option 2:** On the road
+
+2. **Mathematical Reasoning:**
+
+   The coefficient of friction determines the grip between the tires and the surface. A higher coefficient of friction means better grip and thus allows for higher speeds without slipping. In this scenario:
+
+   - Jungle coefficient of friction: 0.8
+   - Road coefficient of friction: 0.4
+
+   Since the jungle has a higher coefficient of friction (0.8) compared to the road (0.4), Mary can safely drive faster in the jungle.
+
+3. **Conclusion:**
+
+   Mary can drive faster in the jungle because the coefficient of friction is higher.
+
+**Answer: Option 1**"
+231,একটি লাল ইঁদুর এবং একটি কালো ইঁদুর প্রত্যেকে হাইস্কুল থেকে হাসপাতালের দিকে দৌড়ায়। লাল ইঁদুর ৪ মিটার/সেকেন্ড বেগে দৌড়ায় এবং কালো ইঁদুর ২ মি/সেকেন্ড বেগে চলে। হাসপাতালে পৌছাতে কে বেশি সময় নিলো?,Option 2,লাল ইঁদুর,কালো ইঁদুর,"## Translated Question:
+A red mouse and a black mouse each run from high school to the hospital. The red mouse runs at a speed of 4 meters/second, and the black mouse moves at a speed of 2 meters/second. Who takes more time to reach the hospital?
+
+## Translated Options:
+Option 1: Red mouse  
+Option 2: Black mouse
+
+To determine who takes more time to reach the hospital, we need to consider the speeds of the two mice. Since the distance is the same for both, time is inversely proportional to speed.
+
+- The red mouse moves faster at 4 meters/second.
+- The black mouse moves slower at 2 meters/second.
+
+Since speed is inversely proportional to the time taken (for the same distance), the black mouse, which moves slower, will take more time.
+
+**Answer: Option 2**"
+300,"একটি রেস কার এবং একটি পিকআপ উভয়ই একই গতিতে হাইওয়েতে চলেছিল। রেস কারের চালক ক্লান্ত হয়ে ৪৫ মিনিট পর পার্কিং করেন, যখন পিকআপের চালক ৩৫ মিনিট ধরে দৌড়েছিলেন। কোন যানটি শেষ পর্যন্ত বেশি দূরত্ব অতিক্রম করেছে?",Option 1,রেস গাড়ী,পিকআপ,"## Translation:
+
+### Question:
+Both a race car and a pickup were traveling at the same speed on the highway. The driver of the race car parked after 45 minutes due to fatigue, while the driver of the pickup ran for 35 minutes. Which vehicle ultimately covered a greater distance?
+
+### Options:
+- Option 1: Race Car
+- Option 2: Pickup
+
+## Solution:
+Since both vehicles traveled at the same speed and the time for each is given, we can determine the distance covered by each vehicle using the formula:
+\[ \text{Distance} = \text{Speed} \times \text{Time} \]
+
+- The race car traveled for 45 minutes.
+- The pickup traveled for 35 minutes.
+
+Assuming the speed of both vehicles is \( v \), the distance covered by the race car is:
+\[ \text{Distance (Race Car)} = v \times 45 \]
+
+The distance covered by the pickup is:
+\[ \text{Distance (Pickup)} = v \times 35 \]
+
+Since 45 minutes is greater than 35 minutes, the race car has traveled for a longer duration. Therefore, it covered more distance than the pickup.
+
+**Answer: Option 1**"
+83,লিন্ডা এবং মেলিন্ডা একটি হ্রদ জুড়ে কায়াক করার সিদ্ধান্ত নিয়েছে। লিন্ডা এটি ৪ মিলিসেকেন্ডে লেক জুড়ে তৈরি করেছিলেন এবং মেলিন্ডা ৯৮ মিলিসেকেন্ডে এটি করেছিলেন। তাদের মধ্যে কে অন্যের মতো দ্রুত যায় নি?,Option 2,লিন্ডা,মেলিন্ডা,"## Translation:
+
+**Question:** Linda and Melinda decided to kayak across a lake. Linda made it across the lake in 4 milliseconds and Melinda did it in 98 milliseconds. Who did not go as fast as the other?
+
+**Option 1:** Linda
+
+**Option 2:** Melinda
+
+## Solution:
+
+Since Linda crossed the lake in 4 milliseconds and Melinda did it in 98 milliseconds, Linda was faster than Melinda. Therefore, the person who did not go as fast as the other is Melinda.
+
+**Answer:** Option 2"
+258,একটি সেডানের ওজন ৪০০০০ পাউন্ড এবং একটি আবর্জনা ট্রাক যার ওজন ৫৭৮৯ পাউন্ড একটি ট্রাফিক লাইট সবুজ হয়ে গেলে উভয় গাড়ির বেগ প্রতি ঘণ্টায় ৫০ মাইল পর্যন্ত পৌঁছায়। কোন গাড়ি সহজে প্রতিযোগতায় জিতবে?,Option 2,সেডান,আবর্জনার ট্রাক,"## Translation:
+
+### Question:
+A sedan weighs 40,000 pounds, and a garbage truck that weighs 5,789 pounds both reach a speed of 50 miles per hour when the traffic light turns green. Which vehicle will easily win in a competition?
+
+### Options:
+1. Sedan
+2. Garbage Truck
+
+## Solution:
+In terms of acceleration and reaching a certain speed quickly, the weight of the vehicles plays a critical role despite the final speed being the same for both vehicles. 
+
+Typically, a lighter vehicle can reach a certain speed faster than a heavier vehicle assuming all other factors (such as engine power and aerodynamic design) are equal, because it has less inertia to overcome. Given this information, it is more likely that the garbage truck, being substantially lighter than the sedan, would be able to accelerate more quickly to 50 miles per hour.
+
+Therefore, the vehicle that would win in a competition of reaching 50 miles per hour quickly is more likely to be the garbage truck.
+
+**Answer: Option 2**"
+268,দুই দম্পতি তাদের প্রতিটি গাড়িতে তাদের মুদি মাল বোঝাই করে। প্রতিটি গাড়িতে একটি করে ঘোড়া তা টানছে এবং তারা সমান শক্তিশালী। প্রথম ঘোড়াকে ১০০ পাউন্ড খাবার বহন করতে হবে এবং দ্বিতীয় ঘোড়াকে ৯০ পাউন্ড খাবার বহন করতে হবে। কোনটি ধীর হবে?,Option 1,প্রথম ঘোড়া,দ্বিতীয় ঘোড়া,"## Translation:
+
+### Question:
+Two couples load their groceries onto each of their cars. Each car is pulled by one horse, and they are equally strong. The first horse has to carry 100 pounds of food, and the second horse has to carry 90 pounds of food. Which one will be slower?
+
+### Options:
+- Option 1: The first horse
+- Option 2: The second horse
+
+Since both horses are equally strong and the first horse is carrying more weight (100 pounds compared to 90 pounds), the first horse will be slower due to the additional load.
+
+**Answer: Option 1**"
+106,"একটি মুরগি ১৪ সেমি/সেকেন্ড বেগে দৌড়াতে পারে এবং একটি টার্কি ৪ সেমি/সেকেন্ড দৌড়াতে পারে। যদি দুজনেই শস্যাগার থেকে চালার দিকে দৌড়ে যায়, তাহলে সেখানে কে তাড়াতাড়ি পৌঁছাবে?",Option 1,মুরগি,টার্কি,"## Translation:
+
+### Question:
+A chicken can run at a speed of 14 cm/second, and a turkey can run at a speed of 4 cm/second. If both run towards the barn, who will reach there first?
+
+### Options:
+- Option 1: Chicken
+- Option 2: Turkey
+
+### Answer:
+The chicken runs faster than the turkey, as 14 cm/second is greater than 4 cm/second. Therefore, the chicken will reach the barn first.
+
+**Answer: Option 1**"
+18,১২৩৪৫৬৭৮৯ সংখ্যাটি  ৯৮৭৬৫৪৩২১ সংখ্যাটি থেকে ?,Option 1,ছোট,বড়,"## Translation:
+
+**Question:** Is the number 123456789 smaller or larger than the number 987654321?
+
+**Option 1:** Smaller
+
+**Option 2:** Larger
+
+## Solution:
+
+To determine whether 123456789 is smaller or larger than 987654321, we compare the two numbers directly. 
+
+The number 123456789 is obviously smaller than 987654321 because, starting from the left, the first digit in 123456789 is 1 and the first digit in 987654321 is 9, and 1 is less than 9. 
+
+Hence, 123456789 is indeed smaller than 987654321.
+
+**Answer: Option 1**"
+65,একটি বোলিং বলের ভর ১২০ পাউন্ড এবং একটি বেসবলের ভর ১৩ পাউন্ড। কোনটির মাধ্যাকর্ষণ বল দুর্বল?,Option 1,বেসবল,বোলিং বল,"1. Translation of the question: 
+   - ""The mass of a bowling ball is 120 pounds and the mass of a baseball is 13 pounds. Which one has a weaker gravitational force?""
+
+2. Translation of the options:
+   - Option 1: Baseball
+   - Option 2: Bowling ball
+
+The gravitational force acting on an object is directly proportional to its mass. Therefore, the object with less mass will experience a weaker gravitational force.
+
+Since the mass of a baseball (13 pounds) is less than the mass of a bowling ball (120 pounds), the baseball will have a weaker gravitational force.
+
+**Answer: Option 1**"
+350,মাহির ওজন ৬০০ নিউটন যেখানে তার বন্ধু মুসার ওজন ৮০০ নিউটন। কর ভর কম হওয়ার সম্ভাবনা আছে?,Option 1,মাহি,মুসা,"## Translation:
+
+**Question:** Mahir's weight is 600 Newtons, while his friend Musa's weight is 800 Newtons. Who has the possibility of having a lower mass?
+
+**Option 1:** Mahir  
+**Option 2:** Musa  
+
+To determine who has a lower mass, we use the formula that relates weight and mass:
+
+\[ \text{Weight} = \text{Mass} \times g \]
+
+where \( g \) is the acceleration due to gravity, typically 9.8 m/s² on Earth. 
+
+Reorganize the formula to solve for mass:
+
+\[ \text{Mass} = \frac{\text{Weight}}{g} \]
+
+Calculate the mass of each:
+
+- **Mahir's mass:**
+
+  \[ \text{Mass of Mahir} = \frac{600 \text{ Newtons}}{9.8 \text{ m/s}^2} \approx 61.22 \text{ kg} \]
+
+- **Musa's mass:**
+
+  \[ \text{Mass of Musa} = \frac{800 \text{ Newtons}}{9.8 \text{ m/s}^2} \approx 81.63 \text{ kg} \]
+
+Comparing the masses, Mahir's mass is approximately 61.22 kg, while Musa's mass is approximately 81.63 kg. Mahir has a lower mass.
+
+**Answer:** Option 1"
+117,যদি একজন স্কেটার একটি মাঠে ২৩ মি/সে গতিতে এবং একটি স্কেট পার্কে ১৭ মি/সে গতিতে রাইড করে তাহলে এর মানে হল _____ মসৃণ?,Option 2,স্কেট পার্কে,মাঠে,"1. Translated Question:
+   - If a skater rides at a speed of 23 m/s in a field and 17 m/s in a skate park, then where is it smoother?
+
+2. Translated Options:
+   - Option 1: In the skate park
+   - Option 2: In the field
+
+To determine where it is smoother, typically, a skater would move faster on a smoother surface because it offers less resistance. Since the skater rides faster at 23 m/s in the field compared to 17 m/s in the skate park, it suggests that the field has a smoother surface.
+
+**Answer: Option 2**"
+237,জিম্বো জানে যে তার মার্বেলের ভর ২ গ্রাম এবং পাথরের ভর ৮ গ্রাম। এর মানে?,Option 2,মার্বেলের মাধ্যাকর্ষণ বল বেশী,পাথরের মাধ্যাকর্ষণ বল বেশী,"## Translation:
+
+**Question:** Jimbo knows that the mass of his marble is 2 grams and the mass of the stone is 8 grams. What does this mean?
+
+**Option 1:** The gravitational force on the marble is greater.
+
+**Option 2:** The gravitational force on the stone is greater.
+
+## Solution:
+
+Since gravitational force is directly proportional to mass, the greater the mass, the greater the gravitational force. Given that the stone has a mass of 8 grams and the marble has a mass of 2 grams, the gravitational force on the stone is greater than that on the marble.
+
+**Answer: Option 2**"
+133,জিম একটি ট্রাক এবং একটি গাড়ি উভয়েরই মালিক। ট্রাকের ওজন গাড়ির থেকে ১৩০২৫ কেজি বেশি। গ্যাসের প্যাডেলে চাপ দিলে কোন গাড়িটি বেশি গতিতে ত্বরান্বিত হবে?,Option 2,ট্রাক,গাড়ী,"1. Translate the Bengali question and options into English:
+
+   **Question:** Jim owns both a truck and a car. The truck weighs 13,025 kg more than the car. When the gas pedal is pressed, which vehicle will accelerate faster?
+
+   **Option 1:** Truck  
+   **Option 2:** Car
+
+2. To determine which vehicle will accelerate faster, we use the principle that, generally, lighter vehicles accelerate faster than heavier ones, assuming the same amount of force is applied.
+
+The truck is heavier than the car by 13,025 kg, so the car, being the lighter vehicle, will likely accelerate faster.
+
+**Answer: Option 2**"
+158,টিনা এবং মিনা দুজনেই হাইওয়েতে একই গতিতে যাচ্ছে। টিনা ১২ মিনিট ৫৬ সেকেন্ড এবং মিনা ৩৬ মিনিট ৪৮ সেকেন্ড ড্রাইভ করেন। কে বেশী দূর যাবে?,Option 2,টিনা,মিনা,"1. Translation of the question and options into English:
+
+**Question**: Tina and Mina are both driving on the highway at the same speed. Tina drives for 12 minutes and 56 seconds, and Mina drives for 36 minutes and 48 seconds. Who will travel a greater distance?
+
+**Option 1**: Tina
+**Option 2**: Mina
+
+2. To solve the problem, we need to determine who drives for a longer duration since they are both driving at the same speed.
+
+- Tina's driving time: 12 minutes 56 seconds = 12 × 60 + 56 = 776 seconds
+- Mina's driving time: 36 minutes 48 seconds = 36 × 60 + 48 = 2208 seconds
+
+Since Mina drives for a longer period of time (2208 seconds compared to Tina's 776 seconds), she will travel a greater distance.
+
+Answer: **Option 2**"
+80,লিসা দুটি মডেলের রকেট নিয়ে খেলছিল। তিনি একই সময়ে রকেট দুটি আঁকাশে নিক্ষেপ করলে ৩০ সেকেন্ড পরে কালোটি মাটি থেকে ২ মিটার উপরে এবং লালটি মাটি থেকে ২৩ সেমি উপরে ছিল। কোনটির গতি বেশি ছিল?,Option 2,লালটা,কালোটা,"1. **Translation of the question and options:**
+
+   - **Question:** Lisa was playing with two model rockets. When she launched the two rockets into the sky at the same time, after 30 seconds, the black one was 2 meters above the ground, and the red one was 23 centimeters above the ground. Which one had a higher speed?
+
+   - **Option 1:** The red one
+   - **Option 2:** The black one
+
+2. **Analysis:**
+
+   To determine which rocket had a higher speed, we need to compare their heights after the same time interval of 30 seconds.
+
+   - The height of the black rocket is 2 meters, which is equivalent to 200 centimeters.
+   - The height of the red rocket is 23 centimeters.
+
+   Since the black rocket reached a height of 200 centimeters compared to the red rocket's 23 centimeters in the same amount of time, the black rocket traveled a greater distance. Hence, the black rocket had a higher speed.
+
+3. **Conclusion:**
+
+   Therefore, the correct option is **Option 2**.
+
+**Answer: Option 2**"
+266,কেভিন নিউইয়র্ক থেকে শিকাগোতে ১৯ঃ১০ ঘন্টায় একটি প্লেন নিয়েছিলেন এবং এস্টার ১৪ঃ৩০ এ নিউইয়র্ক থেকে লস এঞ্জেলস যাওয়ার একটি বিমান নিয়েছিলেন। তারা উভয়ই একই ধরণের বিমান থেকে ভ্রমণ করছে তাই তাদের ভ্রমণের গতি একই। দুজনেই একই সাথে তাদের গন্তব্যে পৌঁছে গেল। কে বেশী ভ্রমণ করেছেন?,Option 2,কেভিন,ইস্টার,"1. **Translation of the Question and Options:**
+
+    - Question: Kevin took a plane from New York to Chicago at 19:10 hours and Esther took a flight from New York to Los Angeles at 14:30. They are both traveling on the same type of aircraft so their travel speed is the same. Both arrived at their destinations at the same time. Who traveled a longer distance?
+    
+    - Option 1: Kevin
+    - Option 2: Esther
+
+2. **Reasoning:**
+    - Both Kevin and Esther are traveling from New York to different destinations and arrive at the same time, while traveling at the same speed.
+    - The key point is to compare their destinations: Chicago and Los Angeles.
+    - Chicago is closer to New York than Los Angeles. This implies that Los Angeles is a longer distance from New York compared to Chicago.
+
+3. **Conclusion:**
+    - Since Esther is traveling to a farther destination (Los Angeles), she traveled a longer distance than Kevin who traveled to Chicago.
+
+**Answer: Option 2**"
+334,প্রথম ইঁদুরটি এবং দ্বিতীয় ইঁদুরটি প্রত্যেকে হাইস্কুল থেকে হাসপাতালের দিকে হাঁটতে বের হয়। প্রথম ইঁদুর ১১০ সেমি/সেকেন্ড গতিতে চলে এবং দ্বিতীয় ইঁদুর ৩ মি/সেকেন্ড গতিতে চলে। হাসপাতালে পৌছাতে কে বেশি সময় নিলো?,Option 1,প্রথম ইঁদুর,দ্বিতীয় ইঁদুর,"## Translation:
+
+### Question:
+The first mouse and the second mouse both start walking from the high school to the hospital. The first mouse travels at a speed of 110 cm/second, and the second mouse travels at a speed of 3 meters/second. Who took more time to reach the hospital?
+
+### Options:
+- Option 1: First mouse
+- Option 2: Second mouse
+
+## Solution:
+
+To determine who took more time, we need to compare their speeds.
+
+1. **Convert Units:**
+   - The first mouse's speed is 110 cm/second. We need to convert this into meters per second for easy comparison.
+   - 110 cm is equal to 1.1 meters (since 1 meter = 100 cm).
+   - So, the first mouse's speed is 1.1 meters/second.
+
+2. **Compare Speeds:**
+   - First mouse speed: 1.1 meters/second
+   - Second mouse speed: 3 meters/second
+
+The second mouse travels faster than the first mouse. Therefore, the first mouse will take more time to reach the same distance.
+
+**Conclusion:**
+Since the first mouse has a slower speed, it will take more time to reach the hospital compared to the second mouse.
+
+**Answer: Option 1**"
+346,"একটি মুরগি ৪ মিটার/সেকেন্ড বেগে দৌড়াতে পারে এবং একটি টার্কি ২ মিটার/সেকেন্ড দৌড়াতে পারে। যদি দুজনেই শস্যাগার থেকে চালার দিকে দৌড়ে যায়, তাহলে সেখানে কে তাড়াতাড়ি পৌঁছাবে?",Option 1,মুরগি,টার্কি,"## Translation
+
+### Question:
+A chicken can run at a speed of 4 meters per second and a turkey can run at 2 meters per second. If both run from the barn to the shed, who will reach there first?
+
+### Options:
+- Option 1: Chicken
+- Option 2: Turkey
+
+## Solution
+Since the chicken runs at a speed of 4 meters per second and the turkey at 2 meters per second, the chicken is faster. Therefore, the chicken will reach the shed first.
+
+**Answer: Option 1**"
+320,রেঞ্জার এবং রাস্টলার উভয়েই ঘোড়ায় চড়ছিল যেগুলি একই গতিতে ছুটছিল। রাস্টলার ০১:০০ এ চলা শুরু করে যেখানে রেঞ্জার ০৩:০০ এ চলা শুরু করে। কে বেশী ভ্রমণ করেছেন?,Option 2,রেঞ্জার,রাস্টলার,"## Translation:
+
+**Question:** Both the Ranger and the Rustler were riding horses that were running at the same speed. The Rustler started riding at 01:00, whereas the Ranger started riding at 03:00. Who traveled more distance?
+
+**Option 1:** Ranger
+
+**Option 2:** Rustler
+
+Since the Rustler started traveling two hours earlier than the Ranger and both were riding at the same speed, the Rustler would have traveled more distance.
+
+**Answer:** Option 2"
+148,একটি চিতা ৪৫ মিটার/ঘন্টা বেগে দৌড়ায় আর কুকুর ২ কিমি/ঘন্টা বেগে দৌড়ায় তাই কুকুরের কেমন সময় লাগবে?,Option 1,কম সময়,বেশী সময়,"## Translation
+
+**Question:** A cheetah runs at a speed of 45 meters/hour, and a dog runs at a speed of 2 kilometers/hour. So, how much time will the dog take?
+
+**Option 1:** Less time  
+**Option 2:** More time
+
+## Solution
+
+First, convert the speeds into the same unit for comparison.
+
+1. Cheetah's speed: 45 meters/hour.
+2. Dog's speed: 2 kilometers/hour = 2000 meters/hour.
+
+Comparing the speeds in meters/hour:
+- Cheetah's speed: 45 meters/hour
+- Dog's speed: 2000 meters/hour
+
+Clearly, the dog is faster than the cheetah in terms of distance covered per hour.
+
+Now, let's analyze the statement in the question. If we consider traveling the same distance, since the dog moves faster, it would take less time than the cheetah.
+
+Therefore, in the context of covering a distance, the dog will take less time compared to the cheetah.
+
+**Answer: Option 1**"
+132,মাহির ওজন ৪৮০ কেজি*মি*সে^-২ যেখানে তার বন্ধু মুসার ওজন ৬৫০ N। যার ভর কম হওয়ার সম্ভাবনা আছে?,Option 1,মাহি,মুসা,"1. **Translation of the Question and Options:**
+
+   *Question:* Mahir's weight is 480 kg*m/s², whereas his friend Musa's weight is 650 N. Who is likely to have a lower mass?
+
+   *Options:*
+   - **Option 1:** Mahi
+   - **Option 2:** Musa
+
+2. **Solving the Problem:**
+
+   To determine who has a lower mass, we need to use the weight formula:
+
+   \[
+   \text{Weight} = \text{Mass} \times \text{Acceleration due to gravity (g)}
+   \]
+
+   Here, the standard acceleration due to gravity \( g \) is approximately \( 9.8 \, \text{m/s}^2 \).
+
+   - **For Mahi:**
+     \[
+     \text{Weight} = 480 \, \text{N} \quad (\text{as 1 N} = 1 \, \text{kg*m/s}^2)
+     \]
+     \[
+     \text{Mass of Mahi} = \frac{\text{Weight}}{g} = \frac{480}{9.8} \, \text{kg} \approx 48.98 \, \text{kg}
+     \]
+
+   - **For Musa:**
+     \[
+     \text{Weight} = 650 \, \text{N}
+     \]
+     \[
+     \text{Mass of Musa} = \frac{\text{Weight}}{g} = \frac{650}{9.8} \, \text{kg} \approx 66.33 \, \text{kg}
+     \]
+
+   From the calculations, Mahi has a lower mass than Musa.
+
+3. **Conclusion:**
+
+   **Answer:** Option 1"
+222,মার্ক লক্ষ্য করেছেন যে তিনি তার লন ডার্টকে গড়ে প্রায় ১৭ মিটার নরম ময়লা এবং ১২ মিটার বালিতে টানতে পারেন। এর মানে হল যে _____ বেশী মসৃণ?,Option 1,নরম ময়লা,বালি,"### Translation
+
+**Question:**  
+Mark has noticed that, on average, he can drag his lawn dart about 17 meters in soft dirt and 12 meters in sand. This means that _____ is smoother?
+
+**Options:**  
+**Option 1:** Soft dirt  
+**Option 2:** Sand
+
+### Solution
+
+Since Mark can drag the dart further in soft dirt (17 meters) compared to sand (12 meters), it indicates that soft dirt is smoother, allowing less resistance and thus more distance.
+
+**Answer:** Option 1"
+52,"ম্যামথটি জলের গর্তের মধ্য দিয়ে ঘন্টায় ২১ কিমি বেগে চলেছিল, কিন্তু শক্ত মাটির উপর ঘন্টায় ১৪ কিমি বেগে চলেছিল কারণ শক্ত মাটির ছিল?",Option 2,কম প্রতিরোধী,বেশী প্রতিরোধী,"## Translated Question:
+The mammoth traveled at a speed of 21 km/h through the water hole, but at a speed of 14 km/h on the hard ground because the hard ground was?
+
+## Translated Options:
+Option 1: Less resistant  
+Option 2: More resistant
+
+The mammoth traveled slower on hard ground compared to water, which suggests that the hard ground provided more resistance to its movement.
+
+**Answer: Option 2**"
+15,১২৩৪৫৬৭৮৯ থেকে  ৯৮৭৬৫৪৩২১ সংখ্যাটি?,Option 1,বড়,ছোট,"1. **Bengali to English Translation:**
+
+   - **Question:** Which number is bigger: 123456789 or 987654321?
+   - **Option 1:** Larger
+   - **Option 2:** Smaller
+
+2. **Solution:**
+   - Comparing the two numbers: 123456789 and 987654321.
+   - 123456789 is smaller than 987654321.
+
+**Answer:** Option 2"
+242,"ইয়ান এবং অ্যাভেরি একই স্টেশন থেকে ট্রেন ধরছে। ইয়ানের ট্রেন লাল, এবং চল্লিশ মাইল দূরে একটি গন্তব্যে ১০ মাইল প্রতি ঘন্টা যাচ্ছে। অ্যাভেরি এর ট্রেন সবুজ এবং ৩০ মাইল প্রতি ঘন্টায় চল্লিশ মাইল দূরে একটি গন্তব্যে যাচ্ছে। ট্রেন যে ধীরগতির হয়?",Option 1,লাল,সবুজ,"## Translated Question:
+
+Ian and Avery are taking a train from the same station. Ian's train is red and is going at 10 miles per hour to a destination 40 miles away. Avery's train is green and is going at 30 miles per hour to a destination 40 miles away. Which train is slower?
+
+### Translated Options:
+
+- Option 1: Red
+- Option 2: Green
+
+We need to determine the slower train by comparing their speeds.
+
+**Ian's Train (Red):**
+- Speed: 10 miles per hour
+
+**Avery's Train (Green):**
+- Speed: 30 miles per hour
+
+Since a slower speed means taking more time to cover the same distance, Ian's train, which is slower, is the red train with a speed of 10 miles per hour. 
+
+**Conclusion:**
+
+The red train is slower.
+
+**Answer: Option 1**"
+72,একটি সেডানের ওজন ২৫০০ কেজি এবং একটি আবর্জনা ট্রাক যার ওজন ১০০০ কেজি ট্রাফিক লাইটের আলো সবুজ হয়ে গেলে উভয় গাড়ির বেগ প্রতি ঘণ্টায় ৫০ মাইল পর্যন্ত পৌঁছায়। কোন গাড়ি রেস জিতবে?,Option 2,সেডান,আবর্জনার ট্রাক,"## Translation
+
+**Question:**
+A sedan weighs 2500 kg and a garbage truck weighing 1000 kg both reach a speed of 50 miles per hour when the traffic light turns green. Which vehicle will win the race?
+
+**Options:**
+- Option 1: Sedan
+- Option 2: Garbage truck
+
+To determine which vehicle will win the race, we must consider factors like acceleration and speed. However, since both vehicles reach the same speed of 50 miles per hour, the key detail likely lies in understanding their acceleration capabilities. Generally, smaller or less heavily weighted vehicles attain higher acceleration due to lower inertia.
+
+However, given only the weight and final velocity without further information on engine power or initial conditions, it is difficult to make a precise determination based solely on the provided data.
+
+Considering general assumptions where lighter vehicles accelerate faster given equal conditions, the garbage truck might reach the target speed faster.
+
+**Answer: Option 2**"
+299,একটি বোলিং বলের ভর ১০ পাউন্ড এবং একটি বেসবলের ওজন ৫ পাউন্ড। কোনটির বেশী মাধ্যাকর্ষণ আছে?,Option 2,বেসবল,বোলিং বল,"## Translation
+
+### Question:
+The mass of a bowling ball is 10 pounds, and the weight of a baseball is 5 pounds. Which one has more gravitational force?
+
+### Options:
+- Option 1: Baseball
+- Option 2: Bowling ball
+
+## Solution
+
+The gravitational force acting on an object is directly proportional to its mass. This means that the more massive an object is, the more gravitational force it experiences. 
+
+Given:
+- Mass of the bowling ball = 10 pounds
+- Mass (or weight) of the baseball = 5 pounds
+
+Since the mass of the bowling ball is greater than the mass of the baseball, the bowling ball will experience more gravitational force than the baseball.
+
+**Answer: Option 2**"
+24,৬৭৮০৯০ থেকে  ৯৮৭৬৫৫ সংখ্যাটি?,Option 2,ছোট,বড়,"1. **Translation:**
+   - Question: From the number 678090, the number 987655 is?
+   - Option 1: Smaller
+   - Option 2: Larger
+
+To solve the problem, we compare the two numbers:
+
+678090 vs. 987655
+
+Clearly, 987655 is larger than 678090.
+
+**Answer: Option 2**"
+272,"ময়লার উপর একটি ঘূর্ণায়মান মার্বেল বালির তুলনায় ৫ নিউটন প্রতিরোধ ক্ষমতা তৈরি করে, বালির উপর এটি ৭৩ নিউটন প্রতিরোধের সৃষ্টি করে। মার্বেল কোথায় বেশি যেতে পারবে?",Option 1,বালি,ময়লা,"1. **Translation of the Question and Options:**
+   - **Question:** A rolling marble creates a resistance of 5 Newton on dirt compared to sand, where it creates a 73 Newton resistance. Where will the marble travel further?
+   - **Option 1:** Sand
+   - **Option 2:** Dirt
+
+2. **Solution Explanation:**
+   - The marble will travel further on the surface where the resistance is less because less resistance means less force opposing the motion of the marble, allowing it to move further. Given that the resistance on dirt is 5 Newton compared to 73 Newton on sand, the resistance is lower on dirt.
+
+Therefore, the marble will travel further on dirt.
+
+**Answer: Option 2**"
+85,টিমের রিংটি মাঠে ৪.৫ সেন্টিমিটার এবং তার মেঝেতে ১.২ সেন্টিমিটার গড়িয়ে যায়। টিমের _____ বেশী মসৃণ।,Option 2,মেঝে,মাঠ,"1. **Translation of the Bengali question into English:**
+   
+   Tim's ring travels 4.5 centimeters over the field and 1.2 centimeters on the floor. Tim's _____ is smoother.
+
+2. **Translation of the options into English:**
+   - Option 1: Floor
+   - Option 2: Field
+
+Given that the ring travels a longer distance on the field (4.5 cm) compared to the floor (1.2 cm), it indicates that the surface of the field offers less resistance, thus being smoother than the floor.
+
+**Answer: Option 2**"
+282,"ডায়ানা এবং ডেভ একই স্টেশনে ওঠার পর একই ট্রেনে চড়েছেন। যদি ডায়ানা ১০ মিনিটের পরে ট্রেন থেকে নেমে যায় এবং ডেভ ১৫ মিনিটের জন্য ভ্রমণ করে এবং তারপরে নেমে যায়, তাহলে কে কম দূরত্ব ভ্রমণ করেছিল?",Option 1,ডায়ানা,ডেভ।,"## Translation
+
+**Question:** Diana and Dave boarded the same train at the same station. If Diana gets off the train after 10 minutes and Dave travels for 15 minutes before getting off, who traveled a shorter distance?
+
+**Option 1:** Diana  
+**Option 2:** Dave
+
+## Explanation
+
+Since Diana gets off the train after 10 minutes and Dave gets off after 15 minutes, Dave travels for a longer duration than Diana. Assuming that the train travels at a constant speed, the longer someone stays on the train, the farther they will travel. 
+
+Therefore, Diana, who stays on for only 10 minutes, will travel a shorter distance compared to Dave, who stays on the train for 15 minutes.
+
+**Answer:** Option 1"
+4,পৃথিবীর দ্রুততম স্থল প্রাণী চিতা একটি খরগোশের বিরুদ্ধে ১০০ মিটার দৌড় করছিল। এই দৌড়ে কে জিতবে?,Option 1,চিতা ,খরগোশ,"## Translation:
+
+**Question:** The fastest land animal on Earth, the cheetah, was racing against a rabbit over a 100-meter distance. Who will win this race?
+
+**Option 1:** Cheetah  
+**Option 2:** Rabbit  
+
+To determine the answer, it's important to consider the speeds of the cheetah and the rabbit. Cheetahs are known for their exceptional speed and can run up to 75 miles per hour (120 kilometers per hour) for short bursts. On the other hand, rabbits are considerably slower, reaching speeds approximately around 35 miles per hour (56 kilometers per hour) at their fastest. Given that the cheetah is significantly faster than the rabbit, it is almost certain that the cheetah would win a 100-meter race against a rabbit.
+
+**Answer:** Option 1"
+149,"টেড পার্কে তার বাইক চালাচ্ছিলেন। যখন তিনি সিমেন্টের পথে ছিলেন, তিনি ২৮ মিনিটে পার্কের চারপাশে জিপ করতে সক্ষম হন এবং ঘাসের উপর তিনি ১৭ মিনিট সময় নেন। বাইকটি বেশি গরম হয়ে যাবে কোথায়?",Option 1,সিমেন্ট পথ,ঘাস,"## Translation:
+
+### Question:
+Ted was riding his bike in the park. When he was on the cement path, he was able to zip around the park in 28 minutes, and on the grass, it took him 17 minutes. Where will the bike get hotter?
+
+### Options:
+Option 1: Cement path  
+Option 2: Grass
+
+## Solution:
+Since Ted takes more time on the cement path (28 minutes) compared to the grass (17 minutes), this implies he's likely riding more slowly on the cement and possibly encountering more friction or tougher conditions, causing the bike to heat up more there.
+
+Thus, the bike will likely get hotter on the cement path, as it takes longer to complete the same route.
+
+**Answer: Option 1**"
+127,"যদি একটি গাড়ি এবং একটি পিকআপ উভয়ই ৬০ মাইল বেগে ভ্রমণ করে, কিন্তু গাড়িটি ১.৩ ঘন্টা পরে থামে যেখানে পিকআপটি ১৮৬ মিনিট পরে থামে, কোনটি কম দূরত্ব অতিক্রম করেছে?",Option 1,গাড়ী,পিকআপ,"## Translation:
+
+### Question:
+If both a car and a pickup travel at a speed of 60 miles per hour, but the car stops after 1.3 hours while the pickup stops after 186 minutes, which has traveled a shorter distance?
+
+### Option 1:
+Car
+
+### Option 2:
+Pickup
+
+## Solution:
+
+1. **Calculate the travel time of the car in hours:**
+   - The car travels for 1.3 hours.
+
+2. **Calculate the travel time of the pickup in hours:**
+   - 186 minutes is equivalent to \( \frac{186}{60} \) hours.
+   - \( \frac{186}{60} = 3.1 \) hours.
+
+3. **Calculate the distance traveled by the car:**
+   \[
+   \text{Distance}_{\text{car}} = \text{Speed} \times \text{Time} = 60 \text{ miles/hour} \times 1.3 \text{ hours} = 78 \text{ miles}
+   \]
+
+4. **Calculate the distance traveled by the pickup:**
+   \[
+   \text{Distance}_{\text{pickup}} = \text{Speed} \times \text{Time} = 60 \text{ miles/hour} \times 3.1 \text{ hours} = 186 \text{ miles}
+   \]
+
+**Conclusion:**
+The car traveled a shorter distance than the pickup (78 miles < 186 miles).
+
+**Answer: Option 1**"
+98,"একজন ভলিবল খেলোয়াড় জিমের মেঝেতে ৪০ মিটার লাফ দিয়েছিলেন, কিন্তু সাগরের তীরে বালিতে ২২ মিটার লাফ দিয়েছিলেন। কারণ এটি ছিল?",Option 1,বেশী প্রতিরোধী,কম প্রতিরোধী,"## Translation
+
+### Question:
+A volleyball player jumped 40 meters on the gym floor, but only jumped 22 meters on the sand at the beach. What was the reason for this?
+
+### Option 1:
+More resistant
+
+### Option 2:
+Less resistant
+
+## Solution
+
+The gym floor provides a more solid and firm surface compared to sand, which allows the player to jump further due to less energy being absorbed by the surface. In contrast, sand is more resistant because it is less firm and absorbs more impact, resulting in shorter jumps.
+
+**Answer: Option 1**"
+267,"কেট সিনেমায় আছে এবং ঘটনাক্রমে তার কাপ মেঝেতে ফেলে দেয়। কাপটি কংক্রিটের মেঝে দিয়ে ৩ সেকেন্ডের মধ্যে গড়িয়ে যায় যা ২৫ সেন্টিমিটার দীর্ঘ, কিন্তু এটি কার্পেটেড মেঝেতে আঘাত করার পরে ৩ সেকেন্ড সেকেন্ডে ০.১৮ মিটার যায়। কাপটি কংক্রিটের মেঝেতে দ্রুত ছিল কারণ কংক্রিটের মেঝে ছিল?",Option 2,বেশী ঘর্ষণ,কম ঘর্ষণ।,"1. **Translation of the Question and Options into English:**
+
+   **Question:** Kate is in a movie and accidentally drops her cup on the floor. The cup rolls on the concrete floor for 3 seconds covering a distance of 25 centimeters, but after hitting the carpeted floor, it travels only 0.18 meters in 3 seconds. The cup was faster on the concrete floor because the concrete floor had?
+
+   **Option 1:** More friction
+
+   **Option 2:** Less friction
+
+2. **Solution:** 
+
+   To determine why the cup was faster on the concrete floor, we must understand the role of friction. Friction is a force that opposes the motion of objects. If an object moves faster on one surface compared to another, it generally means there is less friction on the first surface. In this scenario, the cup rolls further on the concrete floor with less resistance compared to the carpeted floor.
+
+   Hence, the cup was faster on the concrete floor because it had less friction.
+
+**Answer: Option 2**"
+384,টড সোমবার তার গাড়িতে ওঠে এবং ৪ ঘন্টা গাড়ি চালায়। তিনি মঙ্গলবার একই জিনিস করেন কিন্তু সেদিন ৩ ঘন্টা পরে থামেন। কোন দিন সে কম দূর যাবে?,Option 2,সোমবার,মঙ্গলবার,"## Translation:
+
+### Question:
+Todd gets into his car on Monday and drives for 4 hours. He does the same thing on Tuesday but stops after 3 hours. On which day will he cover less distance?
+
+### Options:
+- **Option 1**: Monday
+- **Option 2**: Tuesday
+
+## Solution:
+
+The distance Todd covers is directly proportional to the time he spends driving, assuming he drives at a constant speed on both days.
+
+- On Monday, Todd drives for 4 hours.
+- On Tuesday, Todd drives for 3 hours.
+
+Since Todd drives fewer hours on Tuesday (3 hours) compared to Monday (4 hours), he will cover less distance on Tuesday.
+
+**Answer: Option 2**"
+66,এফ-১৬ এর ওজন সাধারণত ৯০৩৪ কেজি এবং জাম্বো জেটের ওজন ৪৩৯৯৮৭ কেজি। তাই এফ-১৬ ছিল?,Option 2,ধীর গতিশীল,দ্রুত গতিশীল,"## Translated Question and Options:
+
+Question: The weight of an F-16 is usually 9,034 kg, and the weight of a jumbo jet is 439,987 kg. Therefore, the F-16 was?
+
+Option 1: Slow-moving
+Option 2: Fast-moving
+
+## Solution:
+
+An F-16 is much lighter than a jumbo jet. In aviation, lighter aircraft are generally faster and more maneuverable than heavier ones because less weight often allows for greater speed and agility. Therefore, an F-16 would be considered fast-moving compared to a jumbo jet.
+
+Answer: Option 2"
+33,এক টুকরো চুলের ব্যাস ০.০৪ মি.মি. যেখানে একটি দড়ির ব্যাস ৯ মি.মি. তাই চুল?,Option 2,শক্তিশালী,দুর্বল,"1. Translation of the question and options into English:
+
+Question: The diameter of a strand of hair is 0.04 mm, whereas the diameter of a rope is 9 mm. So, the hair is?
+Option 1: Strong
+Option 2: Weak
+
+2. Analysis:
+The question is comparing the diameter of a strand of hair and a rope. Given the significant size difference (a hair being much smaller in diameter than a rope), it would be logical to conclude that the hair is weaker compared to the rope.
+
+Answer: Option 2"
+261,জেসন লক্ষ্য করেছেন যে তার এটিভি বরফের উপর ২৯.২০৪৪ মাইল/ঘন্টা গতিতে এবং বালিতে ৩৪ কিমি/ঘন্টা গতিতে চলে। বরফের চেয়ে বালি_____?,Option 1,বেশী প্রতিরোধী,কম প্রতিরোধী,"1. Translate the Bengali question and options into English for clarity.
+
+**Question in English:**
+Jason has noticed that his ATV runs at a speed of 29.2044 miles/hour on ice and at 34 km/hour on sand. Sand compared to ice is_____?
+
+**Options in English:**
+Option 1: more resistant
+Option 2: less resistant
+
+2. To determine whether sand is more or less resistant than ice, we compare the ATV's speeds. The ATV travels at a higher speed on sand (34 km/h) than on ice (29.2044 miles/h).
+
+First, convert 34 km/h to miles/h for an accurate comparison:
+1 kilometer = 0.621371 miles
+34 km/h * 0.621371 = 21.126614 miles/h
+
+The ATV runs at 29.2044 miles/h on ice and 21.126614 miles/h on sand.
+
+Since the ATV has a lower speed on sand, it means sand offers more resistance than ice.
+
+**Conclusion:**
+Sand is more resistant compared to ice.
+
+Answer: Option 1"
+41,আজ টিফিনে আমি কেক নিয়ে গিয়েছিলাম। আমার দুই বন্ধু আয়ুষ ও সাবানা আমার কেকের যথাক্রমে ১/৩ অংশ ও ২/৫ অংশ খেল। কেকের বাকি অংশটা আমি খেলাম। কে বেশি কেক খেল? ,Option 1,সাবানা,আয়ুষ,"### Translation:
+
+**Question:** Today, I took a cake for lunch. My two friends Ayush and Sabana ate 1/3 and 2/5 of my cake, respectively. I ate the remaining portion of the cake. Who ate more cake?
+
+- **Option 1:** Sabana
+- **Option 2:** Ayush
+
+### Solution:
+
+1. **Fraction eaten by Ayush:**  
+   \[
+   \frac{1}{3}
+   \]
+
+2. **Fraction eaten by Sabana:**  
+   \[
+   \frac{2}{5}
+   \]
+
+To compare the fractions \(\frac{1}{3}\) and \(\frac{2}{5}\), we need to find a common denominator.
+
+- **Least Common Denominator (LCD) of 3 and 5:**  
+  \[
+  15
+  \]
+
+- **Converting** \(\frac{1}{3}\) **to the common denominator:**  
+  \[
+  \frac{1}{3} = \frac{1 \times 5}{3 \times 5} = \frac{5}{15}
+  \]
+
+- **Converting** \(\frac{2}{5}\) **to the common denominator:**  
+  \[
+  \frac{2}{5} = \frac{2 \times 3}{5 \times 3} = \frac{6}{15}
+  \]
+
+**Comparison:**  
+- Ayush's portion: \(\frac{5}{15}\)  
+- Sabana's portion: \(\frac{6}{15}\)
+
+Since \(\frac{6}{15} > \frac{5}{15}\), Sabana ate more cake than Ayush.
+
+**Answer:** Option 1"
+143,টমি তার বড় ভাইকে পুলের দিকে নিয়ে গেল। টমি ১৭ মি/সেকেন্ড বেগে ডাইভ করতে পারে এবং তার ভাই ৩৯ মি/সেকেন্ড বেগে ডাইভ করতে পারে। কে আগে ডাইভ শেষ করবে?,Option 2,টমি,তার ভাই,"### Translation
+
+**Question:**
+Tommy took his big brother to the pool. Tommy can dive at a speed of 17 m/s, and his brother can dive at a speed of 39 m/s. Who will finish the dive first?
+
+**Option 1:** Tommy  
+**Option 2:** His brother
+
+### Solution
+
+To determine who will finish the dive first, we need to consider their speeds. Since both are diving into the pool, and the distance they dive is presumably the same, the one with the higher speed will complete the dive faster. Tommy dives at a speed of 17 m/s, while his brother dives at a speed of 39 m/s.
+
+Since 39 m/s is greater than 17 m/s, Tommy's brother will finish the dive first.
+
+**Answer: Option 2**"
+60,"শেরি তার বলকে দুই লেনের নিচে নিয়ে যায়। বলটি ১৫ সেকেন্ডে লাল লেনকে ঢেকে দেয়, কিন্তু ২০ সেকেন্ডে সবুজ লেনকে কভার করে। উভয় লেন একই দৈর্ঘ্যের। সবুজ গলিতে বল ধীরগতির হয় বলে?",Option 1,বেশী ঘর্ষণ,কম ঘর্ষণ,"## Translation:
+
+**Question:** Sherry takes her ball under two lanes. The ball covers the red lane in 15 seconds, but it covers the green lane in 20 seconds. Both lanes are of the same length. Why is the ball slower in the green lane?
+
+**Option 1:** More friction  
+**Option 2:** Less friction
+
+## Solution:
+
+Since both lanes are of the same length, the difference in time taken to cover each indicates a difference in friction. The ball takes longer to cover the green lane, which implies that it encounters more resistance. This resistance is due to higher friction forces acting on the ball in the green lane compared to the red lane.
+
+Hence, the correct reasoning is:
+
+**Answer: Option 1**"
+225,একটি বিড়াল নদীর মধ্য দিয়ে ৩ মিটার/সেকেন্ড বেগে এবং জঙ্গলের মধ্য দিয়ে ঘণ্টায় ২২ মাইল বেগে চলে। এর মানে বিড়াল কম বাধা পায়?,Option 2,নদী,জঙ্গল,"### Translation of the Question and Options:
+
+**Question:** A cat moves through a river at a speed of 3 meters per second and through a jungle at a speed of 22 miles per hour. Does this mean the cat encounters fewer obstacles?
+
+**Option 1:** River  
+**Option 2:** Jungle
+
+### Analysis:
+
+To determine where the cat encounters fewer obstacles, we need to compare the speeds in a consistent unit. Let's convert the speed through the jungle from miles per hour to meters per second:
+
+1 mile = 1609.34 meters  
+1 hour = 3600 seconds
+
+Speed in the jungle in meters per second:
+
+\[ 22 \, \text{miles/hour} = 22 \times 1609.34 \, \text{meters} / 3600 \, \text{seconds} \approx 9.83 \, \text{m/s} \]
+
+- Speed in the river: 3 m/s
+- Speed in the jungle: 9.83 m/s
+
+The cat moves faster through the jungle (9.83 m/s) compared to the river (3 m/s), which indicates it encounters fewer obstacles in the jungle.
+
+**Answer:** Option 2"
+48,টিনা এবং মিনা দুজনেই মহাসড়কে একই গতিতে চলছে। টিনা ৩৭ মিনিট ৫০ সেকেন্ড এবং মিনা ৩৬ মিনিট ৪৮ সেকেন্ড গাড়ি চালায়। কে বেশী দুরুত্ত গাড়ি চালিয়েছে।,Option 1,টিনা,মিনা,"### Translated Question and Options:
+
+**Question:** Tina and Mina are both traveling on the highway at the same speed. Tina drives for 37 minutes and 50 seconds, while Mina drives for 36 minutes and 48 seconds. Who has driven a longer distance?
+
+**Option 1:** Tina  
+**Option 2:** Mina
+
+### Solution:
+
+Since both Tina and Mina are traveling at the same speed, the distance each has traveled is proportional to the time they have spent driving. Therefore, the person who has driven for a longer time will have traveled a longer distance.
+
+Let's convert the times into seconds to make it easier to compare:
+
+- Tina's driving time:  
+  \( 37 \text{ minutes} \times 60 \text{ seconds/minute} + 50 \text{ seconds} = 2220 \text{ seconds} + 50 \text{ seconds} = 2270 \text{ seconds} \)
+
+- Mina's driving time:  
+  \( 36 \text{ minutes} \times 60 \text{ seconds/minute} + 48 \text{ seconds} = 2160 \text{ seconds} + 48 \text{ seconds} = 2208 \text{ seconds} \)
+
+Since 2270 seconds (Tina's time) is greater than 2208 seconds (Mina's time), Tina has driven for a longer time and therefore has driven a longer distance.
+
+**Answer:** Option 1"
+58,রেঞ্জার এবং রাস্টলার উভয়েই ঘোড়ায় চড়ছিল যেগুলি একই গতিতে ছুটছিল। রাস্টলার ০২:০০ এ চলে যায় যেখানে রেঞ্জার ০১ঃ০০ টায় চলে যায়। কে বেশি ভ্রমণ করেছেন?,Option 1,রেঞ্জার,রাস্টলার,"## Translated Question and Options:
+
+**Question:** Both the Ranger and the Rustler were riding horses that were moving at the same speed. The Rustler leaves at 2:00, while the Ranger leaves at 1:00. Who traveled more?
+
+**Option 1:** Ranger
+
+**Option 2:** Rustler
+
+## Solution:
+
+Since both horses are moving at the same speed and the Ranger leaves at 1:00 while the Rustler leaves at 2:00, the Ranger has a 1-hour head start. Therefore, the Ranger has traveled more than the Rustler by the time the Rustler starts.
+
+**Answer: Option 1**"
+276,মেরির স্কেটবোর্ড ১১ মি/সেকেন্ড গতিতে চলে যখন সে একটি ভেজা স্কেটপার্কে স্কেটিং করে আর যখন সে শুকনো স্কেটপার্কে স্কেট করে তখন ২৯ মি/সেকেন্ডে চলে। এর মানে তার স্কেটবোর্ড গরম হয়ে যায় যখন সে এটাতে চড়ে?,Option 1,ভেজা স্কেটপার্ক,শুকনো স্কেটপার্ক,"1. Translate the Bengali question and options into English for clarity.
+
+**Question:** Mary's skateboard moves at a speed of 11 m/s when she skates on a wet skatepark and at a speed of 29 m/s when she skates on a dry skatepark. Does this mean her skateboard gets hot when she rides it?
+
+**Option 1:** Wet skatepark  
+**Option 2:** Dry skatepark  
+
+2. Conclude by selecting the correct option.
+
+Mary's skateboard moves faster on the dry skatepark than on the wet skatepark. This suggests that less friction on the dry surface allows the skateboard to go faster, but it doesn't necessarily imply that the skateboard gets hot due to the surface. The prompt is asking in which condition the skateboard gets hot. Generally, friction generates heat, and more friction is usually present on dry surfaces compared to wet ones.
+
+**Answer: Option 2**"
+293,মেরির স্কেটবোর্ডটি ৩৯৮৫ সেমি/সেকেন্ড গতিতে চলে যখন সে একটি ভেজা স্কেটপার্কে স্কেটিং করে আর যখন সে শুকনো স্কেটপার্কে স্কেটিং করে তখন ৮২৯ সেমি/সেকেন্ডে চলে। এর মানে তার স্কেটবোর্ড বেশী গরম হয়ে যায় যখন সে এটাতে চড়ে?,Option 2,ভেজা স্কেটপার্ক,শুকনো স্কেটপার্ক,"1. **Translate the Bengali question**:
+   - Mary's skateboard travels at a speed of 3985 cm/second when she is skating in a wet skatepark, and it travels at 829 cm/second when she is skating in a dry skatepark. Does this mean her skateboard heats up more when she rides on it?
+
+2. **Translate the options**:
+   - Option 1: Wet skatepark
+   - Option 2: Dry skatepark
+
+To assess which scenario results in more heat generation, we consider the speeds. Generally, higher speed leads to more friction, which in turn might lead to increased heat generation, provided other conditions are similar.
+
+- In the wet skatepark, the speed is significantly higher (3985 cm/second) compared to the dry skatepark (829 cm/second).
+
+Given the higher speed in the wet skatepark, it might imply more friction and hence more heat generation, although the question's context suggests ""heating up"" may refer to slower speeds, which are typically associated with the dry condition.
+
+However, heat generation is more directly related to the skater's activity, which involves braking and dynamic motion, prevalent in the faster conditions, implying Option 1. However, in comparing frictional effects given constant other factors, the dry environment might traditionally imply more consistent friction across surfaces, typically resulting in more heat retention.
+
+Nevertheless, based on the higher speeds implying increased motion leading to heat effects under the latter context, a potential misunderstanding arises, but traditionally speed equates dynamically to greater heat generation via engagement, inferring Option 1 by conventional alignment.
+
+**Answer: Option 1**"
+154,জিম ১ ইঞ্চি প্রস্থের একটি পুরু বর্ম পড়েন। জ্যাক মাত্র ৩ সেন্টিমিটারের একটি সুতির শার্ট পড়েছে। কোনটি একটা বুলেট থামাবে?,Option 1,বর্ম,শার্ট,"## Translation
+**Question:** Jim is wearing armor with a thickness of 1 inch. Jack is wearing a cotton shirt that is only 3 centimeters thick. Which one will stop a bullet?
+
+**Option 1:** Armor  
+**Option 2:** Shirt
+
+## Answer
+A bullet is more likely to be stopped by armor, which is designed for protection, rather than a simple cotton shirt.
+
+**Answer: Option 1**"
+190,টমি তার বড় ভাইকে পুলের দিকে নিয়ে গেল। টমি ৩৩০ সেমি/সেকেন্ড গতিতে ডুব দিতে পারে এবং তার ভাই ২ মি/সেকেন্ড বেগে ডুব দিতে পারে। কে আগে ডাইভ শেষ করবে?,Option 1,টমি,ভাই,"**Translation of the Problem and Options:**
+
+Question: Tommy took his elder brother to the pool. Tommy can dive at a speed of 330 cm/second, and his brother can dive at a speed of 2 m/second. Who will finish the dive first?
+
+Option 1: Tommy
+
+Option 2: Brother
+
+**Solution:**
+
+To determine who will finish the dive first, we need to compare their diving speeds in the same units.
+
+- Tommy's speed = 330 cm/second
+- Brother's speed = 2 meters/second
+
+First, convert the brother's speed to centimeters per second for a fair comparison:
+
+1 meter = 100 centimeters, so 2 meters/second = 2 × 100 = 200 centimeters/second.
+
+Now, comparing the speeds:
+
+- Tommy: 330 cm/second
+- Brother: 200 cm/second
+
+Since Tommy's speed is greater (330 cm/second > 200 cm/second), Tommy will finish the dive first.
+
+**Answer: Option 1**"
+109,জিম রায়ট সার্ভার থেকে ১০ মাইল বাস করে। জরিনা রায়ট সার্ভার থেকে ২০০০ মাইল দূরে বাস করে। উভয়ের ইন্টারনেট গতি একই। কার পিং বেশি হবে?,Option 2,জিম,জরিনা,"1. **Translation:**
+
+   - **Question:** Jim lives 10 miles from the server. Jarina lives 2000 miles away from the server. The internet speed for both is the same. Whose ping will be higher?
+   
+   - **Option 1:** Jim
+   
+   - **Option 2:** Jarina
+
+2. **Analysis:**
+   - Ping is the measure of the round-trip time for messages sent from the originating host to a destination computer that are echoed back to the source. It is often expressed in milliseconds (ms).
+   - A key factor affecting ping is the physical distance between the client and the server. The greater the distance, the longer the time it takes for data packets to travel, thus increasing the ping.
+   - In this scenario, since Jarina lives much further away from the server compared to Jim, her ping is expected to be higher, given that both have the same internet speed.
+
+3. **Conclusion:**
+   - Since Jarina is 2000 miles from the server and Jim is only 10 miles away, Jarina will experience a higher ping compared to Jim.
+
+**Answer: Option 2**"
+125,কর্মক্ষেত্রে গাড়ি চালিয়ে যেতে ২ ঘন্টা এবং বাসে চড়ে যেতে ৪ ঘন্টা সময় লাগে৷ কোন গাড়ি বেশি গতিতে চলে?,Option 2,বাস,গাড়ী,"## Translation
+
+### Question:
+It takes 2 hours to drive a car to the workplace and 4 hours to take a bus to the workplace. Which vehicle travels at a higher speed?
+
+### Options:
+1. Bus
+2. Car
+
+## Conclusion
+Since it takes less time to reach the workplace by car compared to bus, it implies that the car travels at a higher speed.
+
+**Answer: Option 2**"
+283,প্রথম কচ্ছপের গতি ৪০ সেমি/সেকেন্ড এবং দ্বিতীয় কচ্ছপের গতি ৪ মি/সেকেন্ড। কোন প্রাণী সমুদ্রে পৌঁছতে বেশি সময় নেবে যদি দুজনেই সমুদ্র সৈকতে চলতে থাকে?,Option 1,প্রথম কচ্ছপ,দ্বিতীয় কচ্ছপ,"## Translation:
+
+**Question:**  
+The speed of the first turtle is 40 cm/second, and the speed of the second turtle is 4 m/second. Which animal will take more time to reach the sea if both continue to move on the beach?
+
+**Option 1:** First turtle  
+**Option 2:** Second turtle  
+
+## Solution:
+
+1. First, we need to compare the speeds of the two turtles. The first turtle moves at 40 cm/second. To convert this into meters per second, we use the conversion 1 meter = 100 centimeters.
+
+   \[
+   \text{Speed of first turtle} = 40 \, \text{cm/second} = \frac{40}{100} \, \text{m/second} = 0.4 \, \text{m/second}
+   \]
+
+2. The speed of the second turtle is given as 4 m/second.
+
+3. Comparing the two speeds:
+
+   - First turtle speed: 0.4 m/second
+   - Second turtle speed: 4 m/second
+
+Since 0.4 m/second is less than 4 m/second, the first turtle moves slower.
+
+Therefore, the first turtle will take more time to reach the sea.
+
+**Answer:** Option 1"
+91,একটি রোবট ৭ মিনিটে টাইলস এবং ১০০ সেকেন্ডে প্লাশ কার্পেট পরিষ্কার করে কারণ এটি আছে?,Option 1,বেশী ঘর্ষণ,কম ঘর্ষণ,"## Translation:
+
+### Question:
+A robot cleans tiles in 7 minutes and plush carpet in 100 seconds. Why is it so?
+
+### Options:
+- Option 1: More friction
+- Option 2: Less friction
+
+## Solution:
+
+The robot cleans tiles in 7 minutes and plush carpet in a shorter time of 100 seconds. Given the difference in cleaning times, the reason behind the shorter cleaning time for plush carpet would typically be due to less friction, allowing for quicker movement and cleaning efficiency on that surface. 
+
+**Answer: Option 2**"
+55,"একটি সেডানের ওজন ১৫০০ কেজি এবং একটি আবর্জনা ট্রাক যার ওজন ৬৯৬৩২ পাউন্ড , ট্রাফিক লাইটে আলো সবুজ হয়ে গেলে উভয় গাড়ির বেগ প্রতি ঘণ্টায় ৫০ মাইল পর্যন্ত পৌঁছায়। কোন গাড়িটি প্রতিযোগিতায় জিতবে?",Option 1,সেডান,আবর্জনার ট্রাক,"## Translation
+
+### Question:
+A sedan weighs 1500 kg and a garbage truck that weighs 69632 pounds, both accelerate to reach a speed of 50 miles per hour when the traffic light turns green. Which vehicle will win the race?
+
+### Options:
+- **Option 1**: Sedan
+- **Option 2**: Garbage Truck
+
+## Solution
+To determine which vehicle will win the race, we need to consider the weight of each vehicle. Lower weight typically allows for quicker acceleration given the same power and other factors.
+
+1. **Convert the garbage truck's weight from pounds to kilograms**:
+   - 1 pound = 0.453592 kilograms
+   - Weight of garbage truck in kg = 69632 pounds * 0.453592 = 31593.1 kg (approximately)
+
+2. **Compare the weights**:
+   - Sedan: 1500 kg
+   - Garbage Truck: 31593.1 kg
+
+Since the sedan is significantly lighter than the garbage truck, it will likely accelerate faster and win the race to reach the same speed.
+
+**Answer: Option 1**"
+217,জিম ৪ মি/সেকেন্ড বেগে দৌড়াতে পারত এবং তার বোন জেন ২ মি/সেকেন্ড বেগে দৌড়াতে পারত। একটি বিপজ্জনক ভাইরাসের বিস্তার বন্ধ করার জন্য তাদের পরবর্তী শহরে কিছু জরুরি ভ্যাকসিন সরবরাহ করতে হয়েছিল। স্বল্প সময়ে সেখানে পৌঁছানোর জন্য টিকা নিয়ে কাকে যাওয়া উচিত?,Option 1,জিম,জেন,"## Translation:
+
+**Question:** Jim could run at a speed of 4 meters per second, and his sister Jane could run at a speed of 2 meters per second. They needed to deliver some urgent vaccines to the next town to stop the spread of a dangerous virus. Who should take the vaccines to reach there in the shortest time?
+
+**Option 1:** Jim  
+**Option 2:** Jane  
+
+Given that Jim runs faster than Jane, he will undoubtedly reach the destination in a shorter amount of time. Therefore, Jim is the better choice for delivering the vaccines quickly.
+
+**Answer:** Option 1"
+270,দুই দম্পতি তাদের প্রতিটি গাড়িতে তাদের মুদি মাল বোঝাই করে। প্রতিটি গাড়িতে একটি করে ঘোড়া তা টানছে এবং তারা সমান শক্তিশালী। প্রথম ঘোড়াকে ৯৮ পাউন্ড খাবার বহন করতে হবে এবং দ্বিতীয় ঘোড়াকে ৩৪ কেজি খাবার বহন করতে হবে। কোনটি ধীর হবে?,Option 1,ঘোড়া এক,ঘোড়া ২,"### Translated Question:
+Two couples load their groceries into each of their cars. Each car is pulled by a horse, and they are equally strong. The first horse has to carry 98 pounds of food and the second horse has to carry 34 kilograms of food. Which one will be slower?
+
+### Translated Options:
+- Option 1: Horse 1
+- Option 2: Horse 2
+
+### Solution:
+To determine which horse will be slower, we need to compare the weights they are carrying in the same unit.
+
+1. Convert 34 kilograms to pounds:
+   - 1 kilogram = 2.20462 pounds
+   - 34 kilograms = 34 * 2.20462 pounds = 74.95708 pounds
+
+Now, we compare the weights:
+- Horse 1 is carrying 98 pounds.
+- Horse 2 is carrying approximately 74.96 pounds.
+
+Since Horse 1 is carrying more weight than Horse 2, Horse 1 will be slower.
+
+**Answer: Option 1**"
+136,জ্যাসপার তার ভাগ্নেকে নিয়ে যাচ্ছে পার্কে। তার ভাগ্নি পাঁচ বছরের বড় এবং তার ওজন ৩০ কেজি যেখানে তার ভাগ্নের ওজন ২০ কেজি। কার মাধ্যাকর্ষণ বল বেশি হবে?,Option 1,ভাগ্নির,ভাগ্নের,"## Translated Question:
+Jasper is taking his niece to the park. His niece is five years older and weighs 30 kg, while his nephew weighs 20 kg. Who will experience a greater gravitational force?
+
+## Translated Options:
+Option 1: Niece  
+Option 2: Nephew
+
+When considering gravitational force, it is directly proportional to the mass of an object. Therefore, the person with greater mass will experience a greater gravitational force. In this case, the niece weighs more (30 kg) compared to the nephew (20 kg).
+
+**Answer: Option 1**"
+392,"যদি একটি গাড়ি এবং একটি পিকআপ উভয়ই ৬০ মাইল বেগে ভ্রমণ করে, কিন্তু গাড়ি ২ ঘন্টা পরে থামে যেখানে পিকআপ ৬ ঘন্টা পরে থামে, কোনটি কম দূরত্ব অতিক্রম করেছে?",Option 1,গাড়ী,পিকআপ,"## Translation:
+
+**Question:** If both a car and a pickup truck travel at 60 miles per hour, but the car stops after 2 hours while the pickup stops after 6 hours, which one covers a lesser distance?
+
+**Option 1:** Car  
+**Option 2:** Pickup
+
+## Solution:
+
+To find out which vehicle covers a lesser distance, we'll calculate the distance each travels using the formula:
+
+\[
+\text{Distance} = \text{Speed} \times \text{Time}
+\]
+
+**For the Car:**
+
+- Speed = 60 miles per hour
+- Time = 2 hours
+
+\[
+\text{Distance traveled by car} = 60 \times 2 = 120 \text{ miles}
+\]
+
+**For the Pickup:**
+
+- Speed = 60 miles per hour
+- Time = 6 hours
+
+\[
+\text{Distance traveled by pickup} = 60 \times 6 = 360 \text{ miles}
+\]
+
+Comparing the distances:  
+- Car: 120 miles  
+- Pickup: 360 miles
+
+The car covers a lesser distance.
+
+**Answer:** Option 1"
+317,কেভিন নিউইয়র্ক থেকে শিকাগোতে ০৯ঃ০০ ঘন্টায় একটি প্লেন নিয়েছিলেন এবং ইস্টার ১৭ঃ০০ এ নিউইয়র্ক থেকে লস এঞ্জেলস যাওয়ার একটি বিমান নিয়েছিলেন। তারা উভয়ই একই ধরণের বিমান থেকে ভ্রমণ করছে তাই তাদের ভ্রমণের গতি একই। দুজনেই একই সাথে তাদের গন্তব্যে পৌঁছে গেল। কে বেশী ভ্রমণ করেছেন?,Option 2,কেভিন,ইস্টার,"1. **Translation of the Question and Options:**
+
+   - Question: Kevin took a plane from New York to Chicago at 09:00 hours and Easter took a plane from New York to Los Angeles at 17:00 hours. They are both traveling on the same type of plane, so their travel speed is the same. Both of them arrived at their destinations at the same time. Who traveled more?
+   
+   - Option 1: Kevin
+   - Option 2: Easter
+
+2. **Analysis and Solution:**
+
+   - Since both Kevin and Easter arrived at their destinations at the same time and their travel speeds are the same, the duration of their travel from the time they boarded the planes until they arrived is equal.
+
+   - However, the question asks who traveled more distance. The time of arrival for both is the same, but Kevin started his journey earlier at 09:00, while Easter started later at 17:00.
+
+   - Considering Kevin had a longer travel time compared to Easter for them to arrive simultaneously and since both were traveling at the same speed, the extra travel time indicates that Kevin traveled less distance than Easter because Easter traveled the longer distance to Los Angeles compared to the distance to Chicago.
+
+Therefore, Easter must have traveled more distance as she left later but managed to arrive at the same time as Kevin.
+
+**Answer: Option 2**"
+147,"জন এবং স্টিভেন একটি পরীক্ষা করার সিদ্ধান্ত নিয়েছে। তারা ৮০০ গ্রাম ওজনের একটি ইট এবং ৪ গ্রাম ওজনের একটি নুড়ি নিয়ে জানালা দিয়ে ফেলে দেয়, যখন তারা নীচে তাকালো তখন তারা আবিষ্কার করেছিল যে নুড়িটি ইটের চেয়ে পরে মেঝেতে পৌঁছেছে কারণ কি?",Option 1,নুড়িটির ভর কম,ইটের ভর কম,"## Translation:
+
+**Question:** John and Steven decided to perform an experiment. They dropped a brick weighing 800 grams and a pebble weighing 4 grams out of the window. When they looked down, they discovered that the pebble reached the ground later than the brick. Why is this?
+
+**Option 1:** The mass of the pebble is less.
+
+**Option 2:** The mass of the brick is less.
+
+## Explanation:
+
+The difference in time it took for the brick and the pebble to reach the ground is due to air resistance affecting the objects differently. In the absence of air resistance (like in a vacuum), all objects would fall at the same rate regardless of their mass. However, in this situation, the pebble with its lower mass and higher surface area-to-mass ratio experiences more air resistance relative to its weight than the heavier brick. Thus, the correct reason the pebble takes longer to reach the ground is not because its mass is less, but because it is more affected by air resistance, which is not captured by either of the mass options given. However, in the context of the options provided, the most relevant factor to why the objects fall differently is the mass difference in relation to how it affects air resistance, thus making the lesser mass of the pebble a significant factor.
+
+## Conclusion:
+
+**Answer:** Option 1"
+203,আগাছার মধ্যে দিয়ে ঘূর্ণায়মান হওয়ার সময় মেরির ওয়াগনটি ৪০ ডিগ্রি সেলসিয়াস তাপমাত্রায় এবং নুড়ির মধ্য দিয়ে গড়িয়ে যাওয়ার সময় ৫০ ডিগ্রি সেলসিয়াস তাপমাত্রায় পৌঁছায়। এর মানে তার ওয়াগন ধীর গতিতে রোল করতে বাধ্য হয়?,Option 2,আগাছা,নুড়ি,"## Translation:
+
+**Question:** When rolling through weeds, Mary's wagon reaches a temperature of 40 degrees Celsius, and when rolling through gravel, it reaches a temperature of 50 degrees Celsius. Does this mean her wagon is forced to roll slowly?
+
+**Option 1:** Weeds
+
+**Option 2:** Gravel
+
+## Conclusion:
+
+The temperature of the wagon is higher when it rolls through gravel (50 degrees Celsius) as compared to when it rolls through weeds (40 degrees Celsius). This could suggest that the wagon faces more resistance or friction when rolling through gravel, leading to higher temperatures and potentially slower speeds due to increased effort.
+
+**Answer: Option 2**"
+371,একটি গলফ বলের ভর ১৫৮ গ্রাম এবং একটি বেসবলের ভর ০.১৫৯ কেজি। কোনটির তুলনামূলক বেশী মহাকর্ষীয় বল আছে?,Option 2,গলফ বলের,বেসবলের,"## Translation
+
+### Question:
+The mass of a golf ball is 158 grams, and the mass of a baseball is 0.159 kilograms. Which one has a relatively greater gravitational force?
+
+### Options:
+- Option 1: The golf ball
+- Option 2: The baseball
+
+To determine which object experiences a greater gravitational force, we can use the formula for gravitational force, which depends directly on the mass of the object. The greater the mass, the greater the gravitational force.
+
+First, we convert the mass of both objects to the same unit for easy comparison. 
+
+- The mass of the golf ball is already given in grams: 158 grams.
+- The mass of the baseball is given in kilograms: 0.159 kg. We convert this to grams:
+  \[
+  0.159 \, \text{kg} = 0.159 \times 1000 \, \text{g} = 159 \, \text{grams}
+  \]
+
+Now, we compare the masses:
+- Golf ball: 158 grams
+- Baseball: 159 grams
+
+Since the baseball has a greater mass than the golf ball, it will experience a greater gravitational force.
+
+**Answer: Option 2**"
+366,জেরিন এবং মিনা দুজনেই হাইওয়েতে একই গতিতে যাচ্ছে।জেরিন ০.৬৫ ঘণ্টা এবং মিনা ৩৮.৫০ মিনিটের জন্য গাড়ি চালায়। কে বেশী দূর গাড়ি চালায়?,Option 2,মিনা,জেরিন,"## Translation:
+
+**Question:** Jerin and Mina are both traveling on the highway at the same speed. Jerin drives for 0.65 hours, and Mina drives for 38.50 minutes. Who drives a greater distance?
+
+**Option 1:** Mina  
+**Option 2:** Jerin
+
+## Solution:
+
+To determine who drives a greater distance, we need to compare the time each person spends driving in the same unit, as they both travel at the same speed.
+
+1. Convert Mina's driving time from minutes to hours:
+   \[
+   38.50 \text{ minutes} = \frac{38.50}{60} \text{ hours} = 0.6417 \text{ hours}
+   \]
+
+2. Compare the driving times in hours:
+   - Jerin drives for 0.65 hours.
+   - Mina drives for 0.6417 hours.
+
+Since 0.65 hours is greater than 0.6417 hours, Jerin drives for a longer time.
+
+Therefore, Jerin drives a greater distance since both drive at the same speed.
+
+**Answer:** Option 2"
+198,এফ-১৬ এর ওজন সাধারণত ২৫০০০০ পাউন্ড এবং জাম্বো জেটের ওজন ৫০০০০ পাউন্ড। তাই এফ-১৬ ছিল?,Option 1,ধীর গতিশীল,দ্রুত গতিশীল,"1. Translate the question and options into English:
+
+## Question:
+The weight of an F-16 is usually 250,000 pounds, and the weight of a jumbo jet is 50,000 pounds. So, the F-16 was?
+
+## Options:
+Option 1: Slow-moving  
+Option 2: Fast-moving  
+
+The information provided about the weight of the F-16 and the jumbo jet seems to suggest a comparison or a conclusion based on their weight. However, an F-16 is a fighter jet known for its speed and maneuverability, whereas a jumbo jet, despite being lighter in the given scenario, is designed for passenger and cargo transport with a focus on efficiency over speed.
+
+Thus, even though the weight comparison seems incorrect (since in reality, F-16s are lighter than jumbo jets), based on the typical characteristics of an F-16, it is known for being fast-moving.
+
+2. Conclusion:  
+**Answer: Option 2**"
+122,যদি একটি ট্রেন ৫০ মাইল প্রতি ঘণ্টায় এবং একটি বাইক ২০ মাইল প্রতি ঘণ্টা বেগে চলে তাহলে বাইকটি যাবে?,Option 2,বেশী দূরত্ব,কম দূরত্ব,"## Translation:
+
+**Question:** If a train moves at 50 miles per hour and a bike moves at 20 miles per hour, then will the bike travel?
+
+**Option 1:** More distance
+
+**Option 2:** Less distance
+
+## Conclusion:
+
+A train moving at 50 miles per hour is faster than a bike moving at 20 miles per hour. Therefore, for the same amount of time, the train will cover more distance compared to the bike.
+
+**Answer:** Option 2"
+262,"সারা এবং জেনি দুজনেই যদি একই গতিতে দৌড়ায়, সারাহ ৭৮ মিনিট দৌড়ায় এবং জেনি সারার চেয়ে ২৭ মিনিট দৌড়ায়, তাহলে কে বেশি দূর ভ্রমণ করেছে?",Option 1,সারাহ,জেনি,"## Translation:
+
+**Question**: If Sara and Jenny both run at the same speed, Sara runs for 78 minutes and Jenny runs for 27 minutes longer than Sara, who has traveled a greater distance? 
+
+**Option 1**: Sara
+
+**Option 2**: Jenny
+
+## Solution:
+
+Since both Sara and Jenny are running at the same speed, the distance each of them covers is directly proportional to the time they spend running. Sara runs for 78 minutes, while Jenny runs for 78 + 27 = 105 minutes. Since Jenny runs for a longer duration, she covers a greater distance.
+
+**Answer: Option 2**"
+14,১২৩৪৫৬ থেকে  ৯৮৭৬৫৪ সংখ্যাটি?,Option 2,ছোট,বড়,"1. Translate the Bengali question and options into English:
+
+   **Question:** The number (৯৮৭৬৫৪) from (১২৩৪৫৬)?  
+   **Options:**  
+   Option 1: Smaller  
+   Option 2: Larger  
+
+2. To solve the problem, we need to compare the two numbers provided:
+
+   - ১২৩৪৫৬ in English numerals is 123456
+   - ৯৮৭৬৫৪ in English numerals is 987654
+   
+   We compare 123456 and 987654. Clearly, 123456 is smaller than 987654.
+
+3. Hence, the correct answer is **Option 1**.
+
+**Answer: Option 1**"
+81,মহসিন একটি পাথরের ভর এবং একটি নুড়ির ভর তুলনা করছিল। তিনি দেখতে পান যে পাথরের ভর ছিল ১২৯ পাউন্ড এবং নুড়ির ভর ছিল ১২ পাউন্ড। কোনটিতে শক্তিশালী মাধ্যাকর্ষণ আছে?,Option 1,পাথরে,নুড়িতে,"## Translation:
+
+### Question:
+Mohsin was comparing the mass of a rock and a pebble. He found that the mass of the rock was 129 pounds and the mass of the pebble was 12 pounds. Which one has a stronger gravitational pull?
+
+### Options:
+- Option 1: The rock
+- Option 2: The pebble
+
+## Solution:
+
+The gravitational pull of an object is proportional to its mass; therefore, the object with the larger mass will have a stronger gravitational pull.
+
+Given:
+- Mass of the rock = 129 pounds
+- Mass of the pebble = 12 pounds
+
+Since the rock has a larger mass than the pebble, the rock will have a stronger gravitational pull.
+
+**Answer:** Option 1"
+201,বিউটি কুইন ৬ মি/সেকেন্ড গতিতে মার্বেল মেঝে পেরিয়ে গেলেন কিন্তু কাঠের মেঝেতে ৩ মি/সেকেন্ড গতিতে চলে গেলেন কারণ এটি ছিল?,Option 1,বেশী প্রতিরোধী,কম প্রতিরোধী,"## Translation:
+
+### Question:
+Beauty Queen crossed the marble floor at a speed of 6 m/s but moved at a speed of 3 m/s on the wooden floor because it was?
+
+### Options:
+Option 1: More resistant  
+Option 2: Less resistant
+
+When someone moves slower on a surface compared to another, it's typically because the surface they are slower on offers more resistance. In this scenario, the wooden floor, where Beauty Queen moved slower at 3 m/s, provided more resistance compared to the marble floor.
+
+**Answer: Option 1**"
+140,"গাড়ি চালিয়ে, মেরি জানতে পেরেছিলেন যে জঙ্গলের ঘর্ষণ সহগ ০.৭, যেখানে মাঠের সহগ ১.২ এর ১০% রয়েছে তার গাড়িটি কোথায় দ্রুত চলেছে?",Option 2,জঙ্গল,মাঠে,"1. **Question Translation:**
+   Driving her car, Mary figured out that the coefficient of friction in the jungle is 0.7, whereas in the field, it is 10% of 1.2. Where does her car move faster?
+
+2. **Options Translation:**
+   - **Option 1:** Jungle
+   - **Option 2:** Field
+
+To solve the problem, let's determine where the coefficient of friction is lower, as this is indicative of where the car might move faster due to less resistance.
+
+- **Jungle:** Coefficient of friction = 0.7
+- **Field:** Coefficient of friction = 10% of 1.2 = 0.1 * 1.2 = 0.12
+
+Since the coefficient of friction is lower in the field (0.12) compared to the jungle (0.7), the car would likely move faster in the field.
+
+**Answer: Option 2**"
+216,"মহসিন এবং মুসা ঠিক একই সময়ে, অর্থাৎ দুপুর ১২ টায় বারটি ছেড়েছিলেন এবং একই গতিতে গাড়ি চালান। মহসিন কয়েক ঘন্টা গাড়ি চালিয়ে রাত ১২ টায় থামে যেখানে মুসা রাত ১০ টায় থামে। কে সবচেয়ে বেশি দূরত্ব ভ্রমণ করেছে?",Option 2,মুসা,মহসিন,"## Translation of the Question and Options:
+
+**Question:** Mohsin and Musa both started driving at the exact same time, at noon (12 PM), and they both drive at the same speed. Mohsin drove for several hours and stopped at midnight (12 AM) while Musa stopped at 10 PM. Who traveled the greatest distance?
+
+**Option 1:** Musa  
+**Option 2:** Mohsin  
+
+## Solution:
+
+Since Mohsin and Musa are driving at the same speed, the distance traveled by each of them is determined by the time they spend driving.
+
+- **Mohsin:** Started at 12 PM and stopped at 12 AM, hence drove for 12 hours.
+- **Musa:** Started at 12 PM and stopped at 10 PM, hence drove for 10 hours.
+
+Since they both drove at the same speed, the person who drove for the longer time covered a greater distance. 
+
+Mohsin drove for a longer period (12 hours compared to Musa's 10 hours), so Mohsin covered the greatest distance.
+
+**Answer: Option 2**"
+159,বব ইউএসপিএস এর মাধ্যমে একটি প্যাকেজ এবং ইউপিএস এর মাধ্যমে একটি প্যাকেজ পাঠিয়েছে। তিনি যে প্যাকেজটি ইউপিএসের মাধ্যমে পাঠিয়েছিলেন তা ৪ দিনের মধ্যে পৌঁছেছে এবং ইউএসপিএসের মাধ্যমে ২ সপ্তাহের মধ্যে পৌঁছেছে। কোন পার্সেল পরিষেবা ধীর ছিল?,Option 1,ইউএসপিএস ধীর ছিল,ইউপিএস ধীর ছিল,"## Translated Question and Options:
+
+**Question:** Bob sent one package via USPS and another package via UPS. The package he sent via UPS arrived in 4 days, and the one sent via USPS arrived in 2 weeks. Which parcel service was slower?
+
+**Option 1:** USPS was slower  
+**Option 2:** UPS was slower
+
+## Solution:
+
+Let's compare the delivery times. UPS delivered the package in 4 days, and USPS took 2 weeks. We know that:
+
+- 1 week = 7 days
+- Therefore, 2 weeks = 2 * 7 = 14 days
+
+Since USPS took 14 days and UPS took 4 days, USPS was slower than UPS.
+
+**Answer: Option 1**"
+257,একটি চিতা ঘন্টায় ৩৪ মাইল বেগে দৌড়ায় আর কুকুর ঘন্টায় ১২ মাইল বেগে দৌড়ায়। তাই চিতার কেমন সময় লাগবে?,Option 1,কম সময়,বেশী সময়,"## Translation:
+
+**Question:** A cheetah runs at a speed of 34 miles per hour, and a dog runs at a speed of 12 miles per hour. So, how much time will the cheetah take?
+
+**Option 1:** Less time
+
+**Option 2:** More time
+
+## Explanation:
+
+Since the cheetah runs at a higher speed (34 miles per hour) compared to the dog (12 miles per hour), it will take the cheetah less time to cover the same distance compared to the dog.
+
+**Answer:** Option 1"
+374,"মিতা এবং রিতা দৌড়ে যাচ্ছে। রিতা ক্লান্ত হয়ে পড়ে এবং ২৫ মিনিট জগিং করার পরে পার্কের বেঞ্চে বিরতি নেয়। মিতা পার্কে ৩৫ মিনিটের জন্য দৌড়াচ্ছে, কে বেশি দৌড়েছে?",Option 1,মিতা,রিতা,"1. **Translation of the Question:**
+   Mita and Rita are running. Rita gets tired and takes a break on a park bench after jogging for 25 minutes. Mita is running in the park for 35 minutes. Who ran more?
+
+2. **Translation of the Options:**
+   - Option 1: Mita
+   - Option 2: Rita
+
+From the information provided, Mita ran for 35 minutes, while Rita ran for 25 minutes. Therefore, Mita ran more.
+
+**Answer: Option 1**"
+355,ঘোড়াটি ডার্বি ট্র্যাকে ১২০ সেমি/সেকেন্ড গতিতে এবং বনে ৩.৫ মিটার/সেকেন্ড গতিতে চলে কারণ বনে আছে?,Option 2,বেশী বাধা,কম বাধা,"1. **Translation of the Question and Options:**
+
+   **Question:** The horse moves at a speed of 120 cm/second on the derby track and at a speed of 3.5 meters/second in the forest because in the forest there is?
+   
+   **Option 1:** More obstacles
+   
+   **Option 2:** Fewer obstacles
+
+2. **Solution:**
+
+   To solve this problem, we need to compare the speeds given in both situations: 120 cm/second on the derby track and 3.5 meters/second in the forest.
+
+   First, convert both speeds to the same unit for easy comparison. Since 3.5 meters/second is already in meters, let's convert 120 cm/second to meters/second:
+
+   \[
+   120 \text{ cm/second} = \frac{120}{100} \text{ meters/second} = 1.2 \text{ meters/second}
+   \]
+
+   Compared to 1.2 meters/second on the derby track, the horse moves at 3.5 meters/second in the forest, which is faster.
+
+   It implies that in the forest, the speed is greater, so the condition of 'fewer obstacles' is more likely to enable faster movement.
+
+3. **Conclusion:**
+
+   Based on the information and reasoning, the correct choice is **""Option 2: Fewer obstacles,""** because the horse is moving faster in the forest.
+
+   **Answer: Option 2**"
