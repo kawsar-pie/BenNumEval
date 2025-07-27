@@ -71,26 +71,12 @@ Findings show that advanced prompting like XCoT improves reasoning but sometimes
 If you use **BenNumEval** in your work, please cite:
 
 ```bibtex
-@inproceedings{ahmed-etal-2025-bennumeval,
-    title = "{B}en{N}um{E}val: A Benchmark to Assess {LLM}s' Numerical Reasoning Capabilities in {B}engali",
-    author = "Ahmed, Kawsar  and
-      Osama, Md  and
-      Sharif, Omar  and
-      Hossain, Eftekhar  and
-      Hoque, Mohammed Moshiul",
-    editor = "Che, Wanxiang  and
-      Nabende, Joyce  and
-      Shutova, Ekaterina  and
-      Pilehvar, Mohammad Taher",
-    booktitle = "Findings of the Association for Computational Linguistics: ACL 2025",
-    month = jul,
-    year = "2025",
-    address = "Vienna, Austria",
-    publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2025.findings-acl.915/",
-    pages = "17782--17799",
-    ISBN = "979-8-89176-256-5",
-    abstract = "Large Language Models (LLMs) demonstrate exceptional proficiency in general-purpose tasks but struggle with numerical reasoning, particularly in low-resource languages like Bengali. Despite advancements, limited research has explored their numerical reasoning capabilities in these languages. To address this gap, we present BenNumEval (Bengali Numerical Evaluation), a benchmark designed to assess LLMs on numerical reasoning tasks in Bengali. It comprises six diverse tasks and a total of 3.2k samples curated from real-world problem-solving scenarios. Our extensive evaluations reveal that even with advanced prompting techniques such as Cross-Lingual Prompting (XLP) and Cross-Lingual Chain-of-Thought Prompting (XCoT), LLMs fall notably short of human-level performance, particularly when using Bengali Native Prompting (BNaP). These findings underscore the substantial gap between current LLM capabilities and human expertise in numerical reasoning, highlighting the need for more robust and linguistically inclusive AI models to advance Bengali Language Processing and equitable AI development. The source code for the system and evaluation pipeline is publicly available on GitHub."
+@inproceedings{ahmed2025bennumeval,
+  title={BenNumEval: A Benchmark to Assess LLMs’ Numerical Reasoning Capabilities in Bengali},
+  author={Ahmed, Kawsar and Osama, Md and Sharif, Omar and Hossain, Eftekhar and Hoque, Mohammed Moshiul},
+  booktitle={Findings of the Association for Computational Linguistics: ACL 2025},
+  pages={17782--17799},
+  year={2025}
 }
 ```
 
